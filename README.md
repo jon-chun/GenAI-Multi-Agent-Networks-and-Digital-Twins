@@ -1,401 +1,128 @@
-# course-template
-Fork this template to set up a new class landing page, syllabus, etc.
+# IPHS 391: Frontiers in Generative AI
 
-# This is a custom course website theme based on Jekyll-Docs template
+This upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
-Developed by Hasitha Chikkala, Shachi K Shah under the guidance of Jesse Lecy for the DS4PS organization and available as a github pages theme that can be forked and used to build a new course website with ease.
+## Course Details
 
-## Features
+- **Instructor:** Jon Chun
+- **Institution:** Kenyon College
+- **Term:** Fall 2024
+- **Schedule:** Wednesday Evenings 7pm-10pm
+- **Location:** Timberlake #5 (Evans Conference Rm)
+- **Credit:** 0.5/4
+- **Section:** 00
+- **CRN:** 80044
+- **Class Size:** 15
+- **Prerequisites:** Introductory Python programming experience
 
-* Course Info 
-* Syllabus Timeline (Section-wise)
-* Print Overall Syllabus
-* Datasets Info
-* Datasets Catalog
-* Discussions built from Issues 
-* Separate Course Content from website
-* Git access to edit
+## Course Outline
 
+### Week 1-3: OpenAI API Function Calling App
 
-## Setting up a Course Website
+#### Learning Goals
+- Understand the basics of AI and its applications
+- Learn to use Python with the OpenAI API
+- Develop a basic function-calling application
 
-Fork this repository and update the `_config.yaml` file with your github info, baseurl and other details, also set up another repository for the content either by forking our sample repo or creating a similar one. 
+#### Description
+Introduction to AI concepts and OpenAI API. Students will learn about GPT models and create a simple chatbot with distinct persona and memory capabilities.
 
-`_config.yml` - This is the principal data file used to configure the website's skeleton and then markdown files are used to add content to each of the pages in the website.
+#### Detailed Content
+[Module 1: OpenAI API Basics](./modules/openai-api-basics.md)
 
-For each of these pages mentioned, there is a markdown file and a html layout associated, wherein the html decides the generalized layout for each page while the markdown is used to input custom website content. This can be mapped easily as follows:
+#### Reflection Questions
+1. How do API function calls enhance the capabilities of language models?
+2. What are the ethical considerations when designing AI chatbots with personas?
+3. How might this technology impact various industries?
 
-* Course Landing page    <-   index.md     +    index.html
-* Syllabus Overview page <-  syllabus.md   +   syllabus.html
-* Resources Page         <- resources.md   +  resources.html
-* Datasets Page          <-  datasets.md   +   datasets.html   
-* GetHelp Page           <- discussions.md +  discussions.html
-* Posts page             <- year-month-day-title.md + post.html
+### Week 4-6: Embeddings and Explainability
 
-All of these layouts are present in the layouts folder. 
-Also, the config.yml has the information for the websites navigation, the baseurl to launch the website and content properly, the author details, the header and footer details, social media links, github repo names and the url for launching github pages. The following section explains each of these data fields in detail. 
+#### Learning Goals
+- Understand embeddings and their role in language models
+- Learn to apply embeddings in AI applications
+- Explore methods for AI explainability
 
+#### Description
+Deep dive into embeddings, their applications, and techniques for making AI models more interpretable and explainable.
 
-### Config file - basic setup of the website
+#### Detailed Content
+[Module 2: Embeddings and Explainability](./modules/embeddings-explainability.md)
 
-The data fields in this file can be divided into the certain sections: 
-* Setup Info
-```yaml
-# Site subpath, e.g. /blog
-baseurl:            "/course_website"
+#### Reflection Questions
+1. How do embeddings capture semantic meaning in language?
+2. What are the challenges in making complex AI models explainable?
+3. How might improved AI explainability impact fields like healthcare or criminal justice?
 
-permalink:          /:title/
+### Week 7-9: RAG Application using LangChain
 
-# Site base hostname & protocol, e.g. http://example.com
-url :               "https://hasi96.github.io"
-
-# Default author settings
-author:
-    name:       Hasitha
-    github:     hasi96   # Github username for avatar
-
-# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
-authors:
-    peter:
-        name:       Peter Brown
-        github:     PressApps    # Github username for avatar
-
-# Github repository details
-github_info:
-    username:       hasi96 # Github username for avatar
-    branch:       master
-    website-repo:      course_website
-    course-repo:        Data-Science-Class
-
-```
-* Website basic Info
-```yaml
-# Site logo, image or text
-brand:
-    image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           Foundations of Data Science      # if the above "logo:" image variable  is not set, this text logo is displayed instead
-
-# Site title and description
-title:              DS4PS
-description:        Website for the MS in Program Eval and Data Analytics Program, ASU
-
-
-index:
-    title: Data Science
-    subtitle: This course aims at empowering students especially from a non-computerscience background to learn easy tools that can be used for data analysis
-    image: imac.svg
-
-```
-* Website Navigation 
-```yaml
-
-header:
-- title: Course Syllabus
-  url: syllabus/
-
-- title: Textbook
-  url: https://bookdown.org/yihui/bookdown-demo/ 
-
-- title: Datasets
-  url: datasets/
-
-- title: Resources
-  url: resources/
-
-- title: GetHelp
-  url: discussions/
-
-footer:
-- title: Home
-  url: /
-
-- title: Datasets
-  url: /datasets/
-
-- title: Textbook
-  url:  https://bookdown.org/yihui/bookdown-demo/
-
-- title: Course Timeline
-  url: /syllabus/
-
-
-```
-* Home Page Info
-```yaml
-
-info: 
- program_title: Data Science for Public Sector
- program_website: 
- course_title:
- course_number:
- course_level:
- course_website:
- course_start_end_dates:
- course_prerequisites:
- class_meets_when:
- class_meets_where:
-
-instructor:
--  name: Jesse 
-   title: Professor
-   email:
-   phone:
-   website_url:
-   office_hours_times:
-   office_hours_location:
-   office_hours_app_url:
-   github_url: 
-   twitter_url:
-   scholar_url:
-   linked_in_url:
--  name: Hasitha
-   title:
-   email:
-   phone: 
-   website_url:
-   office_hours_times:
-   office_hours_location:
-   office_hours_app_url:
-   github_url:
-   twitter_url:
-   scholar_url:
-   linked_in_url:
-
-
-textbooks:
-- title: Intro to Data Science
-  authors:
-  edition:
-  link: https://www.w3schools.com/tags/att_body_link.asp
-  required (y/n):
-
-```
-* Social Media Links and other settings
-```yaml
+#### Learning Goals
+- Understand Retrieval-Augmented Generation (RAG)
+- Learn to use LangChain for RAG applications
+- Implement a RAG system to enhance language model capabilities
 
-# Social icons displayed in footer
-social:
-    email:
-    website:
-    facebook:       https://www.facebook.com/
-    flickr:
-    dribbble:
-    github:
-    googleplus:
-    instagram:      https://www.instagram.com/
-    linkedin:
-    pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
-    youtube:
+#### Description
+Introduction to RAG and its implementation using LangChain. Students will create applications that combine the power of language models with external knowledge sources.
 
-# Twitter share button
-twitter_username:
+#### Detailed Content
+[Module 3: RAG and LangChain](./modules/rag-langchain.md)
 
-# Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
-google_maps_api_key:
+#### Reflection Questions
+1. How does RAG improve the accuracy and reliability of language models?
+2. What are the potential applications of RAG in research and industry?
+3. How might RAG systems impact the spread of misinformation?
 
-# Number of posts displayed on blog page
-paginate: 10
+### Week 10-12: Autonomous Multi-Agent Simulations and Benchmarking
 
-# Blog path
-paginate_path:      "layouts/datasets/:num/"
+#### Learning Goals
+- Understand the principles of multi-agent systems
+- Learn to design and implement autonomous agent simulations
+- Develop skills in benchmarking and analyzing multi-agent systems
 
-# Path to post content assets directory i.e post images, pdfs etc
-post_assets:        /assets/posts/
+#### Description
+Exploration of autonomous multi-agent systems, their simulation, and benchmarking. Students will create complex simulations to model real-world scenarios.
 
-post_css: /assets/css/posts
+#### Detailed Content
+[Module 4: Multi-Agent Systems](./modules/multi-agent-systems.md)
 
-# Build settings
-markdown:           kramdown
-highlighter:        rouge
+#### Reflection Questions
+1. How do multi-agent systems model complex social interactions?
+2. What are the challenges in designing truly autonomous agents?
+3. How might multi-agent simulations be used to inform policy decisions?
 
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-avatar
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
+### Week 13-15: Final Project Development and Presentation
 
-sass:
-  style:            compressed
+#### Learning Goals
+- Apply learned concepts to a comprehensive AI project
+- Develop project management and presentation skills
+- Synthesize technical knowledge with real-world applications
 
-collections:
-  docs:
-    output: true
+#### Description
+Students will finalize and present their semester-long projects, demonstrating their understanding and application of the course material.
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+#### Detailed Content
+[Module 5: Final Project Guidelines](./modules/final-project.md)
 
-```
+#### Reflection Questions
+1. How can AI technologies be combined to solve complex, real-world problems?
+2. What are the ethical considerations in deploying your AI solution?
+3. How might your project evolve with future advancements in AI?
 
-### Enabling comments (via Disqus)
+## Grading and Projects
 
-Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post. To enable it, add the following lines to your Jekyll site:
+- Class Participation: 20%
+- Weekly Quizzes: 30%
+- 4 Mini-Projects: 30%
+- 1 Final Main Project: 20%
 
-```yaml
-disqus:
-    shortname: my_disqus_shortname
-```
+### Mini-Projects
 
-You can find out more about Disqus' shortnames [here](https://help.disqus.com/customer/portal/articles/466208).
+1. OpenAI API Function Calling Chat App
+2. Embeddings and Explainability with Huggingface
+3. RAG Application using LangChain
+4. Autonomous Multi-Agent Simulations
 
-Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`. If you don't want to display comments for a particular post you can disable them by adding `comments: false` to that post's YAML Front Matter.
+### Final Project
 
-### Google Analytics
+An original interdisciplinary research project applying at least one key technology covered in the 4 mini-projects.
 
-To enable Google Anaytics, add the following lines to your Jekyll site:
-
-```yaml
-  google_analytics: UA-NNNNNNNN-N
-```
-
-Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
-
-
-# Page-wise Customisation
-
-## Home Page (index)
-
-![](/assets/img/Capture.PNG)
-
-![](/assets/img/Capture2.PNG)
-
-As explained in the screenshots below, the config.yml and index.md are to be updated in order to build a course homepage
-
-## Syllabus Overview Page
-
-This is a view of the course syllabus divided into sections giving an overview of each section in terms of Lectures, Labs, Handout, Reading, Exam. This view is built on the syllabus.md file which builds both the icons and also populates the content displayed on clicking each section. 
-
-```
-***  <- this is added to mark the beginning of a new section
-
-# Scope of the Sector  
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.   
-```
-After beginning a section, one can start writing all the course details for that section in simple markdown. In order to switch on the checkbox overview for every section, assets in the following format have to be added inside that section. 
-
-```
-["Tue 02,2018"]{@date}  
-
-["slides"]{@lecture module_2_slides.html}
-["Work by the weekend"]{@lab 02-mini-hw.html} 
-[""]{@handout STA112FS_VisDayOneSlides_Fall2017.pdf}
-["Read this before the class"]{@exam STA112FS_VisDayOneSlides_Fall2017.pdf}
-["Practice"]{@exam STA112FS_VisDayOneSlides_Fall2017.pdf}
-
-```
-These asset formats also serve as links to these assets from the content repository from within respective folders - LECTURES, LABS, HANDOUT, READINGS, EXAMS. So, they can be used as part of the section's markdown formatted content as links.
-
-
-## Post Page
-
-This page shows in detailed information regarding the dataset, a more detailed information regarding the dataset such as source of dataset, owner of dataset, type of data, and other such information regarding the dataset. This pages are stored under `_posts` folder with the naming convention followed as : 
-```
-YEAR-MONTH-DAY-title.md
-```
-Where the date should be in yyyy-mm-dd-title format, it is preffred to enter current date as the post are sorted on the basis of date so by giving it current date it will show that post fist in the datset page. 
-
-In the post.md file there are two types data to be entered:
-
-* Metadata
-* Content
-    
-![](/assets/img/Image.png)
-
-
-## GetHelp Page
-
-This is an auto-generated page with tables built from config's instructor data and a Github Issues view on the repo with a filter. However, content can be added as markdown formatted text in gethelp.md.
-
-### Google Map
-
-To display Google map on contact page, add the following in your page content, replacing latitude, longitude and zoom values:
-
-```yaml
-{% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
-```
-
-## Dataset
-
-To create a new dataset card, you can create a new markdown file inside the `_posts` directory by following the recommended file naming format:
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. For example, the following are examples of valid post filenames:
-
-```
-2011-12-31-new-years-eve-is-awesome.md
-2012-09-12-how-to-write-a-blog.md
-```
-
-Dataset requires front matter, everything in between the first and second --- are part of the YAML Front Matter, and everything after the second --- will be rendered with Markdown and show up as “Content”.
-The following is a post file with different configurations you can add as example:
-
-```yaml
----
-layout: dataset
-title: How To Travel On Low Budget
----
-```
-
-### Adding images
-To add an image to a post or page use the following codes:
-Local image from `/assets/posts/` directory:
-```yaml
-{% include image.html img="girl.jpg" alt="Alt for image" caption="Girl on a rock" %}
-```
-External wide image with lightbox:
-```yaml
-{% include image.html img="https://source.unsplash.com/TT-ROxWj9nA.jpg" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
-```
-
-### Adding table of contents
-Add the following code at the top of the post:
-```
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
-```
-`{:.no_toc}` exludes `#### Sections in this article` title from indexing in table of contents
-
-### Responsive Videos
-Embed local videos:
-```html
-<video controls playsinline uk-video="automute: true">
-    <source src="http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4" type="video/mp4">
-    <source src="http://www.quirksmode.org/html5/videos/big_buck_bunny.ogv" type="video/ogg">
-</video>
-```
-Embed YouTube videos:
-```html
-<iframe src="http://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
-```
-
-To create a draft post, create the post file under the `_drafts` directory, and you can find more information in [Working with Drafts](https://jekyllrb.com/docs/drafts/).
-
-## Customization
-
-To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
-
-```scss
-// Main content
-$color-main: #0F1214;
-```
-
-Further style customisation can be done in the following files:
-```
-/_sass/theme/mixins.scss
-/_sass/theme/variables.scss
-/assets/css/main.scss
-```
-
-## Credits and Sources
-
-- Google analytics https://www.google.com/analytics/
-- Google maps https://www.google.com/maps
-- UIkit front end framework https://getuikit.com/
-- Jekyll CML https://jekyllrb.com/
+For detailed project descriptions and grading rubrics, please refer to the individual module files.
