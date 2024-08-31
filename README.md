@@ -2,6 +2,21 @@
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
 
+# Fees
+
+* No textbooks
+* Approximately $90-$120 in cloud subscriptions ($30/mo = $20/mo OpenAI + $10/mo Google Colab for 3-4 months)
+* IPHS can help with cloud fees if necessary
+
+# Cloud Services
+
+* Github.com (free)
+* Huggingface.co (free)
+* Kaggle (free)
+* Google Colab ($10/mo)
+* OpenAI API ($20/mo + API fees)
+
+
 # Syllabus
 
 [IPHS 391 Syllabus in PDF](syllabus_iphs391_frontiers_in_genai_2024fall_chunj.pdf)
@@ -30,7 +45,7 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 #### Learning Goals
 
 - Understand the basics of AI and its applications
-- Learn to use Python with the OpenAI API
+- Learn to use Python and Prompt Engineering with the OpenAI API
 - Develop a basic function-calling application
 
 #### Description
@@ -40,7 +55,7 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 #### Detailed Content
 
 - [**Week 1:** Course Introduction and AI Overview](./modules/ai_overview.md)
-- [**Week 2:** Python and OpenAI API Basics](./modules/openai_api.md)
+- [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/prompting_openai_api.md)
 - [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/function_calling_app.md)
 
 #### Reflection Questions
