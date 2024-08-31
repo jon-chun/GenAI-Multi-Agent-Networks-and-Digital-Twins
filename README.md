@@ -28,92 +28,156 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 ### Week 1-3: OpenAI API Function Calling App
 
 #### Learning Goals
+
 - Understand the basics of AI and its applications
 - Learn to use Python with the OpenAI API
 - Develop a basic function-calling application
 
 #### Description
+
 Introduction to AI concepts and OpenAI API. Students will learn about GPT models and create a simple chatbot with distinct persona and memory capabilities.
 
 #### Detailed Content
-[Module 1: OpenAI API Basics](./modules/openai-api-basics.md)
+
+- [**Week 1:** Course Introduction and AI Overview](./modules/ai_overview.md)
+- [**Week 2:** Python and OpenAI API Basics](./modules/openai_api.md)
+- [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/function_calling_app.md)
 
 #### Reflection Questions
+
 1. How do API function calls enhance the capabilities of language models?
 2. What are the ethical considerations when designing AI chatbots with personas?
 3. How might this technology impact various industries?
+4. What are the potential risks of relying too heavily on AI-generated content?
+5. How does the concept of "prompt engineering" relate to working with language models?
+6. In what ways could function calling be used to make AI systems more controllable?
+7. How might the widespread use of AI chatbots affect human communication skills?
+8. What are the implications of AI systems having short-term and long-term memory?
+9. How could this technology be misused, and what safeguards might be necessary?
+10. How does the development of AI chatbots relate to the Turing test?
 
 ### Week 4-6: Embeddings and Explainability
 
 #### Learning Goals
+
 - Understand embeddings and their role in language models
 - Learn to apply embeddings in AI applications
 - Explore methods for AI explainability
 
 #### Description
+
 Deep dive into embeddings, their applications, and techniques for making AI models more interpretable and explainable.
 
 #### Detailed Content
-[Module 2: Embeddings and Explainability](./modules/embeddings-explainability.md)
+
+- [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/gpt_embeddings.md)
+- [**Week 5:** Application of Embeddings in AI](./modules/embedding_applications.md)
+- [**Week 6:** Subproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/embedding_explainability_project.md)
 
 #### Reflection Questions
+
 1. How do embeddings capture semantic meaning in language?
 2. What are the challenges in making complex AI models explainable?
 3. How might improved AI explainability impact fields like healthcare or criminal justice?
+4. What are the ethical implications of using AI systems that can't be fully explained?
+5. How do embeddings differ across languages, and what are the implications for multilingual AI?
+6. In what ways could explainable AI help build trust between humans and AI systems?
+7. How might embeddings be used in fields outside of natural language processing?
+8. What are the limitations of current explainability techniques in AI?
+9. How could explainable AI impact the development of AI regulations and policies?
+10. What role does bias play in embeddings, and how can it be mitigated?
 
 ### Week 7-9: RAG Application using LangChain
 
 #### Learning Goals
+
 - Understand Retrieval-Augmented Generation (RAG)
 - Learn to use LangChain for RAG applications
 - Implement a RAG system to enhance language model capabilities
 
 #### Description
+
 Introduction to RAG and its implementation using LangChain. Students will create applications that combine the power of language models with external knowledge sources.
 
 #### Detailed Content
-[Module 3: RAG and LangChain](./modules/rag-langchain.md)
+
+- [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/rag_intro.md)
+- [**Week 8:** Working with LangChain for RAG Applications](./modules/langchain_rag.md)
+- [**Week 9:** Subproject 3: Implementing a RAG application using LangChain](./modules/rag_project.md)
 
 #### Reflection Questions
+
 1. How does RAG improve the accuracy and reliability of language models?
 2. What are the potential applications of RAG in research and industry?
 3. How might RAG systems impact the spread of misinformation?
+4. What are the privacy concerns associated with RAG systems that access external data?
+5. How does RAG compare to fine-tuning as a method for improving language model performance?
+6. In what ways could RAG be used to make AI systems more up-to-date and relevant?
+7. What are the computational challenges of implementing RAG at scale?
+8. How might RAG systems change the way we interact with and consume information?
+9. What ethical considerations should be taken into account when designing RAG systems?
+10. How could RAG technology be used to create more personalized AI experiences?
 
 ### Week 10-12: Autonomous Multi-Agent Simulations and Benchmarking
 
 #### Learning Goals
+
 - Understand the principles of multi-agent systems
 - Learn to design and implement autonomous agent simulations
 - Develop skills in benchmarking and analyzing multi-agent systems
 
 #### Description
+
 Exploration of autonomous multi-agent systems, their simulation, and benchmarking. Students will create complex simulations to model real-world scenarios.
 
 #### Detailed Content
-[Module 4: Multi-Agent Systems](./modules/multi-agent-systems.md)
+
+- [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/multi_agent_intro.md)
+- [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/multi_agent_simulation.md)
+- [**Week 12:** Subproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/multi_agent_project.md)
 
 #### Reflection Questions
+
 1. How do multi-agent systems model complex social interactions?
 2. What are the challenges in designing truly autonomous agents?
 3. How might multi-agent simulations be used to inform policy decisions?
+4. What are the ethical implications of using AI agents to simulate human behavior?
+5. How could multi-agent systems be used to solve real-world coordination problems?
+6. What are the limitations of current multi-agent simulation technologies?
+7. How might the principles of multi-agent systems apply to fields like economics or ecology?
+8. What role could multi-agent simulations play in future AI safety research?
+9. How do the concepts of cooperation and competition manifest in multi-agent systems?
+10. What are the potential risks of relying on multi-agent simulations for decision-making?
 
 ### Week 13-15: Final Project Development and Presentation
 
 #### Learning Goals
+
 - Apply learned concepts to a comprehensive AI project
 - Develop project management and presentation skills
 - Synthesize technical knowledge with real-world applications
 
 #### Description
+
 Students will finalize and present their semester-long projects, demonstrating their understanding and application of the course material.
 
 #### Detailed Content
-[Module 5: Final Project Guidelines](./modules/final-project.md)
+
+- [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/final_project_development.md)
+- [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/final_presentations.md)
 
 #### Reflection Questions
+
 1. How can AI technologies be combined to solve complex, real-world problems?
 2. What are the ethical considerations in deploying your AI solution?
 3. How might your project evolve with future advancements in AI?
+4. What were the most significant challenges you faced in your project, and how did you overcome them?
+5. How does your project contribute to the broader field of AI or its applications?
+6. What potential societal impacts could your project have if implemented at scale?
+7. How did the interdisciplinary nature of the course influence your project design?
+8. What aspects of AI development did you find most surprising or counterintuitive?
+9. How has this project changed your perspective on the future of AI?
+10. What further research or development would you propose as a next step for your project?
 
 ## Grading and Projects
 
