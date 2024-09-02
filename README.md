@@ -4,9 +4,9 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 
 # Requirements, Philosophy, and Project-Based Learning
 
-Although helpful, no maths beyond HS and introductory Python are required. Unlike traditional CS/AI courses, we do not build from the bottom-up starting with comprehensive theory. Instead, we follow a top-down approach starting with real-world problems at a high-level of abstraction.
+Although helpful, no maths beyond HS and introductory Python are essential. Unlike traditional CS/AI courses, we do not build from the bottom-up starting with comprehensive theory. Instead, we follow a top-down approach starting with real-world problems at a high-level of abstraction. We present an intellectual framework for each student to understand the underlying theory according to their individual preparation and perspectives.
 
-Rapid AI progress paradoxically makes AI research both more complex and accessible. Traditional narrow AI research is rapidly advancing, papers have been exponentially growing, and expertise is becoming more specialized and/or deep. Conversely, human-centered AI applications have become more performant, easy to develop, and focused on domain expertise rather than specialized technical knowledge. Our goal is to train emerging experts from all fields to systematically, creatively and iteratively think in precise, comprehensive, and quantifiable terms that can translate ideas into well-designed and high-impact AI applications.  
+Rapid AI progress paradoxically makes AI research both more complex and accessible. Traditional narrow AI research is rapidly advancing, papers have been exponentially growing in number, and expertise is becoming more specialized and/or deep. Conversely, human-centered AI applications have become more performant, easy to develop, and focused on domain expertise rather than specialized technical knowledge. Our goal is to train emerging experts from all fields to systematically, creatively and iteratively think in precise, comprehensive, and quantifiable terms that can translate ideas into well-designed and high-impact AI applications.  
 
 Learning and projects are customized to each student’s individual background, domain expertise, as well as current and future interests. Students from diverse fields fills in knowledge gaps and fosters cross-pollination of ideas and insights. By the end of the course, every student should have an online digital portfolio of 4 industry standard AI projects and one original research project for future work or grad school reference.
 
@@ -21,29 +21,6 @@ https://github.com/jon-chun
   * $10/mo Google Colab 
   * API usage fees
 (IPHS can provide assistance if necessary)
-
-# Cloud Services
-
-* Github.com (free)
-* Huggingface.co (free)
-* Kaggle (free)
-* Google Colab ($10/mo)
-* OpenAI API ($20/mo + API fees)
-
-# Local Install
-
-* Laptop: Win11, MacOS or Linux
-* Virtual Machines for Win 11: [WSL2 for Win11](https://learn.microsoft.com/en-us/windows/wsl/install)
-* Terminal 
-  * [Win11 Term](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=us&ocid=bingwebsearch)
-  * [MacOS](https://iterm2.com/)
-* [Python 3.10.14](https://www.python.org/downloads/release/python-31014/)
-* Python Libraries (Common, ML, and AI)
-* Virtual Env: venv > conda
-* Github: [git](https://git-scm.com/downloads) > gh
-* [Microsoft VSCode](https://code.visualstudio.com/Download)
-* VSCode Extensions: best from [Farshid](https://marketplace.visualstudio.com/items?itemName=vscode-extensions-farshid.vscode-extensions-farshid)
-* [Ollama.ai](https://ollama.com/)
 
 # Syllabus
 
