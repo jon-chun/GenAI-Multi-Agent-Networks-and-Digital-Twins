@@ -35,15 +35,15 @@ https://github.com/jon-chun
 * Laptop: Win11, MacOS or Linux
 * Virtual Machines for Win 11: [WSL2 for Win11](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Terminal 
-  * (Win11 Term)[https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=us&ocid=bingwebsearch]
-  * (MacOS)[https://iterm2.com/]
-* (Python 3.10.14)[https://www.python.org/downloads/release/python-31014/]
+  * [Win11 Term](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=us&ocid=bingwebsearch)
+  * [MacOS](https://iterm2.com/)
+* [Python 3.10.14](https://www.python.org/downloads/release/python-31014/)
 * Python Libraries (Common, ML, and AI)
 * Virtual Env: venv > conda
-* Github: (git)[https://git-scm.com/downloads] > gh
+* Github: [git](https://git-scm.com/downloads) > gh
 * [Microsoft VSCode](https://code.visualstudio.com/Download)
 * VSCode Extensions: best from [Farshid](https://marketplace.visualstudio.com/items?itemName=vscode-extensions-farshid.vscode-extensions-farshid)
-* (Ollama.ai)[https://ollama.com/]
+* [Ollama.ai](https://ollama.com/)
 
 # Syllabus
 
@@ -84,9 +84,9 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 
 NOTE: Content will be added each week for Fall 2024
 
-- [**Week 1:** Course Introduction and AI Overview](./modules/ai_overview.md)
-- [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/prompting_openai_api.md)
-- [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/function_calling_app.md)
+- [**Week 1:** Course Introduction and AI Overview](./modules/intro_ai_overview.md)
+- [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/oh_noes_404.md)
+- [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -115,9 +115,9 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-- [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/gpt_embeddings.md)
-- [**Week 5:** Application of Embeddings in AI](./modules/embedding_applications.md)
-- [**Week 6:** Subproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/embedding_explainability_project.md)
+- [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/oh_noes_404.md)
+- [**Week 5:** Application of Embeddings in AI](./modules/oh_noes_404.md)
+- [**Week 6:** Subproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -146,9 +146,9 @@ Introduction to RAG and its implementation using LangChain. Students will create
 
 #### Detailed Content
 
-- [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/rag_intro.md)
-- [**Week 8:** Working with LangChain for RAG Applications](./modules/langchain_rag.md)
-- [**Week 9:** Subproject 3: Implementing a RAG application using LangChain](./modules/rag_project.md)
+- [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
+- [**Week 8:** Working with LangChain for RAG Applications](./modules/oh_noes_404.md)
+- [**Week 9:** Subproject 3: Implementing a RAG application using LangChain](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -177,9 +177,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-- [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/multi_agent_intro.md)
-- [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/multi_agent_simulation.md)
-- [**Week 12:** Subproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/multi_agent_project.md)
+- [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/oh_noes_404.md)
+- [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/oh_noes_404.md)
+- [**Week 12:** Subproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -208,8 +208,8 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-- [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/final_project_development.md)
-- [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/final_presentations.md)
+- [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
+- [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
