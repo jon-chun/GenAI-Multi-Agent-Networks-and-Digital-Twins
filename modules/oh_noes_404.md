@@ -1,4 +1,4 @@
-# 404: Artificial Intelligence Not Found
+# 404: Artificial General Intelligence Not Found (yet)
 
 ![A confused robot](../images/error404_agi_not_found.png)
 
@@ -16,7 +16,7 @@ Oops! It seems our AGI has wandered off to contemplate the meaning of life, the 
 1. **Reboot your neural networks**: Clear your cache and try again
 2. **Implement a search algorithm**: Use the search bar above to find what you're looking for
 3. **Update your training data**: Check the URL and try again
-4. **Initiate human-AI collaboration**: [Contact our support team](mailto:support@ai-course.com)
+4. **Initiate human-AI collaboration**: [Contact our support team](mailto:jonchun2000@gmail.com)
 
 Remember, even the most advanced AI sometimes needs a little human help!
 
