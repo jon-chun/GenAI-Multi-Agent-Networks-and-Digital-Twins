@@ -2,11 +2,25 @@
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
 
-# Fees
+# Requirements, Philosophy, and Project-Based Learning
 
-* No textbooks
-* Approximately $90-$120 in cloud subscriptions ($30/mo = $20/mo OpenAI + $10/mo Google Colab for 3-4 months)
-* IPHS can help with cloud fees if necessary
+Although helpful, no maths beyond HS and introductory Python are required. Unlike traditional CS/AI courses, we do not build from the bottom-up starting with comprehensive theory. Instead, we follow a top-down approach starting with real-world problems at a high-level of abstraction.
+
+Rapid AI progress paradoxically makes AI research both more complex and accessible. Traditional narrow AI research is rapidly advancing, papers have been exponentially growing, and expertise is becoming more specialized and/or deep. Conversely, human-centered AI applications have become more performant, easy to develop, and focused on domain expertise rather than specialized technical knowledge. Our goal is to train emerging experts from all fields to systematically, creatively and iteratively think in precise, comprehensive, and quantifiable terms that can translate ideas into well-designed and high-impact AI applications.  
+
+Learning and projects are customized to each student’s individual background, domain expertise, as well as current and future interests. Students from diverse fields fills in knowledge gaps and fosters cross-pollination of ideas and insights. By the end of the course, every student should have an online digital portfolio of 4 industry standard AI projects and one original research project for future work or grad school reference.
+
+More details on our human-centered AI curriculum, research and previous student research projects are at:
+
+https://github.com/jon-chun
+
+# Fee
+
+* No textbooks, instead, ~$100-$150 in cloud subscriptions
+- $20/mo OpenAI ChatGPT
+- $10/mo Google Colab 
+- API usage fees
+(IPHS can provide assistance if necessary)
 
 # Cloud Services
 
@@ -16,6 +30,18 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 * Google Colab ($10/mo)
 * OpenAI API ($20/mo + API fees)
 
+# Local Install
+
+* Laptop (Win11/MacOS/Linux)
+* Virtual Machines [(WSL2 for Win11)](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Terminal (Win11 Term)[https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=us&ocid=bingwebsearch] or (MacOS)[https://iterm2.com/]
+* Python (Python 3.10.14)[https://www.python.org/downloads/release/python-31014/]
+* Python Libraries (Common, ML, and AI)
+* Virtual Env (venv > conda)
+* Github ((git)[https://git-scm.com/downloads] > gh)
+* [Microsoft VSCode](https://code.visualstudio.com/Download)
+* VSCode Extensions, best from [Farshid](https://marketplace.visualstudio.com/items?itemName=vscode-extensions-farshid.vscode-extensions-farshid)
+* (Ollama.ai)[https://ollama.com/]
 
 # Syllabus
 
@@ -23,7 +49,7 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 
 # IPHS 391: Frontiers in Generative AI
 
-This upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
+This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
 ## Course Details
 
@@ -53,6 +79,8 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 Introduction to AI concepts and OpenAI API. Students will learn about GPT models and create a simple chatbot with distinct persona and memory capabilities.
 
 #### Detailed Content
+
+NOTE: Content will be added each week for Fall 2024
 
 - [**Week 1:** Course Introduction and AI Overview](./modules/ai_overview.md)
 - [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/prompting_openai_api.md)
