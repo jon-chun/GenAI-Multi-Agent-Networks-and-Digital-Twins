@@ -17,9 +17,9 @@ https://github.com/jon-chun
 # Fee
 
 * No textbooks, instead, ~$100-$150 in cloud subscriptions
-- $20/mo OpenAI ChatGPT
-- $10/mo Google Colab 
-- API usage fees
+  * $20/mo OpenAI ChatGPT
+  * $10/mo Google Colab 
+  * API usage fees
 (IPHS can provide assistance if necessary)
 
 # Cloud Services
@@ -32,15 +32,17 @@ https://github.com/jon-chun
 
 # Local Install
 
-* Laptop (Win11/MacOS/Linux)
-* Virtual Machines [(WSL2 for Win11)](https://learn.microsoft.com/en-us/windows/wsl/install)
-* Terminal (Win11 Term)[https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=us&ocid=bingwebsearch] or (MacOS)[https://iterm2.com/]
-* Python (Python 3.10.14)[https://www.python.org/downloads/release/python-31014/]
+* Laptop: Win11, MacOS or Linux
+* Virtual Machines for Win 11: [WSL2 for Win11](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Terminal 
+  * (Win11 Term)[https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=us&ocid=bingwebsearch]
+  * (MacOS)[https://iterm2.com/]
+* (Python 3.10.14)[https://www.python.org/downloads/release/python-31014/]
 * Python Libraries (Common, ML, and AI)
-* Virtual Env (venv > conda)
-* Github ((git)[https://git-scm.com/downloads] > gh)
+* Virtual Env: venv > conda
+* Github: (git)[https://git-scm.com/downloads] > gh
 * [Microsoft VSCode](https://code.visualstudio.com/Download)
-* VSCode Extensions, best from [Farshid](https://marketplace.visualstudio.com/items?itemName=vscode-extensions-farshid.vscode-extensions-farshid)
+* VSCode Extensions: best from [Farshid](https://marketplace.visualstudio.com/items?itemName=vscode-extensions-farshid.vscode-extensions-farshid)
 * (Ollama.ai)[https://ollama.com/]
 
 # Syllabus
