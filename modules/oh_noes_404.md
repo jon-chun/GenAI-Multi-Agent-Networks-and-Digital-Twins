@@ -1,6 +1,6 @@
 # 404: Artificial Intelligence Not Found
 
-![A confused robot](https://via.placeholder.com/300x200.png?text=Confused+Robot)
+![A confused robot](../images/error404_agi_not_found.png)
 
 Oops! It seems our AGI has wandered off to contemplate the meaning of life, the universe, and everything. Don't worry, it's probably just stuck in a philosophical loop.
 
