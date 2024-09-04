@@ -36,8 +36,8 @@ As AI models like GPT have become more powerful, they've also become more access
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 - [OpenAI Playground](https://platform.openai.com/playground/chat)
 - [Interactive Chat Arena](https://lmarena.ai/?leaderboard)
-- [OpenAI API Jupyter Notebook]()
-- [Ollama Fine-Tune]()
+- [OpenAI API Jupyter Notebook](../images/oh_noes_404.md)
+- [Ollama Fine-Tune](../images/oh_noes_404.md)
 
 
 ## References:
@@ -109,3 +109,6 @@ Submit your code and a brief report discussing your experience, challenges faced
 - [AI Ethics Guidelines for API Usage](https://www.example.com/ai-ethics-guidelines) (fictional resource)
 
 Remember to review the API usage guidelines and rate limits to ensure responsible use of the OpenAI API. If you have any questions or encounter issues, please post them in the course forum or contact the instructor.
+
+
+* [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
