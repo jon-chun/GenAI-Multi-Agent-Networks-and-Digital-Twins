@@ -32,7 +32,7 @@ This is an upper-division course offers an in-depth exploration of advanced AI c
 
 ## Course Details
 
-- **Instructor:** Jon Chun
+- **Instructor:** [Jon Chun](https://github.com/jon-chun)
 - **Institution:** Kenyon College
 - **Term:** Fall 2024
 - **Schedule:** Wednesday Evenings 7pm-10pm
