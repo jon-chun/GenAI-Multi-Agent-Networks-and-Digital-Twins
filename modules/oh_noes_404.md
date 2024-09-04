@@ -1,5 +1,3 @@
-# 404: Artificial General Intelligence Not Found (yet)
-
 ![A confused robot](../images/error404_agi_not_found.png)
 
 Oops! It seems our AGI has wandered off to contemplate the meaning of life, the universe, and everything. Don't worry, it's probably just stuck in a philosophical loop.
