@@ -46,7 +46,7 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
         * [Google Prompts](https://aistudio.google.com/app/prompts/new_chat)
         * [Google GEMs](https://gemini.google.com/u/0/gems/view)
     * Colab
-        * Setup
+        * Setup and Test with [Ollama](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
     * Prompt Engineering
         * [DAIR.ai Prompt Engineering Guide](https://www.promptingguide.ai/)
     * LLM Benchmarks:
