@@ -23,78 +23,92 @@ As AI models like GPT have become more powerful, they've also become more access
 
 ### Prompt Engineering
 
-- [Prompt Engineering Guide Video](https://www.youtube.com/watch?v=iwYtzPJELkk&t=10s) 
-- [Prompt Engineering Guide Manual](https://www.promptingguide.ai/applications/finetuning-gpt4o)
+* [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
+* [Getting Started with the OpenAI Playground (7:03) May 2024](https://www.youtube.com/watch?v=iwYtzPJELkk&t=10s) 
+* [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques"](https://www.promptingguide.ai/applications/finetuning-gpt4o)
 
 ### API
 
-- [Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
-- (Optional) [Prompt Engineering with Llama2/3](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/)
-
-## In-Class Exercises
-
-- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-- [OpenAI Playground](https://platform.openai.com/playground/chat)
-- [Interactive Chat Arena](https://lmarena.ai/?leaderboard)
-- [OpenAI API Jupyter Notebook](../images/oh_noes_404.md)
-- [Ollama Fine-Tune](../images/oh_noes_404.md)
+* [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
+* [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
 
 
-## References:
-
-- [LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-
-
-### Required Reading/Viewing:
-- OpenAI API Documentation: [Getting Started](https://platform.openai.com/docs/quickstart)
-- Video: "Introduction to the OpenAI API" (20:00) by OpenAI, 2023
-- Article: "The Ethics of AI APIs: Responsible Development and Usage" by AI Ethics Institute, 2024
 
 ### Focus on These Concepts:
-- Understanding API basics and RESTful architecture
-- OpenAI API authentication and rate limits
-- Basic prompt engineering techniques
-- Ethical considerations in AI API usage
+* Understanding API basics and RESTful architecture
+* OpenAI API authentication and rate limits
+* Basic prompt engineering techniques
+* Ethical considerations in AI API usage
+* Handling API responses and error handling
+* Best practices for integrating AI APIs into applications
+* The role of AI APIs in modern software development
+* Advanced prompt engineering techniques
+* prompt engineering and API integration
+* Group activity: Designing prompts for specific use cases
+* Understanding the broader impact of AI APIs on the tech industry
+* Future developments in AI API technology and accessibility
 
-### In Class:
-- Quiz on API basics and OpenAI documentation
-- Hands-on exercise: Setting up OpenAI API access and making your first API call
 
-## Wednesday:
+# WARNING:
 
-### Required Reading/Viewing:
-- OpenAI Cookbook: [How to format inputs to ChatGPT models](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_format_inputs_to_ChatGPT_models.ipynb)
-- Video: "Advanced Prompt Engineering for GPT Models" (30:00) by AI Explained, 2024
-- Paper: "The Impact of AI APIs on Software Development Practices" by Smith et al., 2023
+BE VERY CAREFUL WITH PAID API SERVICE like OpenAI - costs can run up quickly with excessive use and coding errors. Set-up safe maximum usage limits $5-10 that you can bump up over the course of the semester.
 
-### Focus on These Concepts:
-- Advanced prompt engineering techniques
-- Handling API responses and error handling
-- Best practices for integrating AI APIs into applications
-- The role of AI APIs in modern software development
+Remember to review the API usage guidelines and rate limits to ensure responsible use of the OpenAI API. If you have any questions or encounter issues, please ask in class or contact the instructor via email.
 
-### In Class:
-- Quiz on advanced prompt engineering and API integration
-- Group activity: Designing prompts for specific use cases
+# In Class:
 
-## Friday:
+* Motivation
+    * [Xiaomi EV Factory](https://www.youtube.com/watch?v=yezR-mH12xs)
+    * [STORM: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES (Perplexity Pages Alternative)](https://www.youtube.com/watch?v=rg4Xcul2Kh0&t=190s)
+    * [The State of Generative AI in the Enterprise
+Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
 
-### Required Reading/Viewing:
-- OpenAI API Examples: [Classification](https://platform.openai.com/examples/default-classification)
-- Article: "The Future of AI APIs: Trends and Predictions" by TechCrunch, 2024
-- Chapter 2: "AI-Powered Applications" from "The API Economy" by O'Reilly Media, 2023
+* Bookeeeping
+    * Sign-ups:
+        * OpenAI
+        * Google Colab
+        * Daily.dev
+    * Quizes and Grading
+    * Moodle and Course Management
+    * Miniproject #1 Project Demo
 
-### Focus on These Concepts:
-- Using AI APIs for common tasks like classification and summarization
-- Understanding the broader impact of AI APIs on the tech industry
-- Future developments in AI API technology and accessibility
+* Concepts
+    * API and RESTful Services
+    * [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs/models)
+    * LLM Life cycle
+    * Training Datasets
+    * Metrics and Benchmarks
+    * Virtual Environments vs Virtual Machines vs the Cloud
 
-### In Class:
-- Quiz on AI API applications and industry trends
-- Mini-project presentation: Students demonstrate a simple application using the OpenAI API
+* Hands-On
+    * Transformer Architecture
+        * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+    * Prompt Engineering
+        * [OpenAI Playground](https://platform.openai.com/playground/chat)
+        * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+        * [Claude System Prompt](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024)
+        * [Google Gemini](https://ai.google.dev/gemini-api/prompts)
+        * [Google Prompts](https://aistudio.google.com/app/prompts/new_chat)
+        * [Google GEMs](https://gemini.google.com/u/0/gems/view)
+    * Laptop Setup
+        * Python
+        * Github
+        * VSCode
+        * VSCode Extensions (AI code assistants)
+    * Colab
+        * Setup and Test with [Ollama](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
+    * Prompt Engineering
+        * [DAIR.ai Prompt Engineering Guide](https://www.promptingguide.ai/)
+    * LLM Benchmarks:
+        * [Stanford HELM](https://crfm.stanford.edu/helm/)
+        * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
+    * LLM Leaderboards
+        * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+        * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
 ## Programming Assignment:
 Create a Python script that uses the OpenAI API to generate a short story based on user input. The script should:
+
 1. Prompt the user for a genre, setting, and main character
 2. Use these inputs to craft an appropriate prompt for the OpenAI API
 3. Make an API call to generate a short story
@@ -102,13 +116,3 @@ Create a Python script that uses the OpenAI API to generate a short story based 
 5. Implement error handling for API failures or rate limit issues
 
 Submit your code and a brief report discussing your experience, challenges faced, and potential ethical considerations of your application.
-
-## Additional Resources:
-- [OpenAI API Python Library Documentation](https://platform.openai.com/docs/libraries/python-library)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [AI Ethics Guidelines for API Usage](https://www.example.com/ai-ethics-guidelines) (fictional resource)
-
-Remember to review the API usage guidelines and rate limits to ensure responsible use of the OpenAI API. If you have any questions or encounter issues, please post them in the course forum or contact the instructor.
-
-
-* [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
