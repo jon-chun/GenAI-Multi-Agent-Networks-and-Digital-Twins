@@ -42,13 +42,13 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 
 ### Focus on These Concepts:
-* Understanding API basics and RESTful architecture
-* OpenAI API authentication and rate limits
+* Understanding API basics and RESTful architecture (covered in class)
+* OpenAI API authentication and rate limits (rate limits in class)
 * Basic prompt engineering techniques
 * Ethical considerations in AI API usage
-* Handling API responses and error handling
+* Handling API responses and error handling (in class)
 * Best practices for integrating AI APIs into applications
-* The role of AI APIs in modern software development
+* The role of AI APIs in modern software development (in class)
 * Advanced prompt engineering techniques
 * prompt engineering and API integration
 * Group activity: Designing prompts for specific use cases
