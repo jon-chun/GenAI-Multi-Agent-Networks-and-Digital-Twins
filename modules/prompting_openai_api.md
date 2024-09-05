@@ -21,7 +21,7 @@ As AI models like GPT have become more powerful, they've also become more access
 
 Follow-the instructions as best you can to setup remote AI cloud services and configure your local laptop. DO NOT generate an API key yet - we'll do this in class with safeguards to prevent excess billings. Bring any questions/problems to class and we'll fix it during our break.
 
-[Setup Instructions](../modules/signups_setup_ai.md)
+[Setup Instructions](../modules/signups_setup.md)
 
 ### AI News/Current Events
 
@@ -103,7 +103,7 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
         * VSCode
         * VSCode Extensions (AI code assistants)
     * Colab
-        * Setup and Test with [Ollama](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
+        * Setup and Test with [Ollama with Llama 3.1](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
     * Prompt Engineering
         * [DAIR.ai Prompt Engineering Guide](https://www.promptingguide.ai/)
     * LLM Benchmarks:
