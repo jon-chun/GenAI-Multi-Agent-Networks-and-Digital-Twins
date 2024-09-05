@@ -35,7 +35,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 ### API
 
-* [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)
+* [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)  and [Github repo](https://github.com/debeshm/Python-ChatGPT/blob/main/chatbot.py)
 * [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
 * [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
 
