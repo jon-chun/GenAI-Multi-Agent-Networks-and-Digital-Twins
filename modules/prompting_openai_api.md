@@ -113,7 +113,7 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
         * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
         * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
-## Programming Assignment:
+## In-Class Programming Task:
 Create a Python script that uses the OpenAI API to generate a short story based on user input. The script should:
 
 1. Prompt the user for a genre, setting, and main character
