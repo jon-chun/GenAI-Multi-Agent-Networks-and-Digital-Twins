@@ -10,9 +10,7 @@ Rapid AI progress paradoxically makes AI research both more complex and accessib
 
 Learning and projects are customized to each student’s individual background, domain expertise, as well as current and future interests. Students from diverse fields fills in knowledge gaps and fosters cross-pollination of ideas and insights. By the end of the course, every student should have an online digital portfolio of 4 industry standard AI projects and one original research project for future work or grad school reference.
 
-More details on our human-centered AI curriculum, research and previous student research projects are at:
-
-https://github.com/jon-chun
+More details on our human-centered AI curriculum, research and previous student research projects [here](https://github.com/jon-chun#mentored-research) and at [digital.kenyon.edu/dh](https://digital.kenyon.edu/dh/).
 
 # Fee
 
@@ -32,16 +30,19 @@ This is an upper-division course offers an in-depth exploration of advanced AI c
 
 ## Course Details
 
-- **Instructor:** [Jon Chun](https://github.com/jon-chun)
-- **Institution:** Kenyon College
-- **Term:** Fall 2024
-- **Schedule:** Wednesday Evenings 7pm-10pm
-- **Location:** Timberlake #5 (Evans Conference Rm)
-- **Credit:** 0.5/4
-- **Section:** 00
-- **CRN:** 80044
-- **Class Size:** 15
-- **Prerequisites:** Introductory Python programming experience
+* Instructor:** Jon Chun
+  * Office Hours: Thur 11-1pm or by appt.
+  * [chunj@kenyon.edu](mailto:chunj@kenyon.edu)
+  * [Personal Webpage](https://github.com/jon-chun)
+* Institution:** Kenyon College
+* Term:** Fall 2024
+* Schedule:** Wednesday Evenings 7pm-10pm
+* Location:** Timberlake #5 (Evans Conference Rm)
+* Credit:** 0.5/4
+* Section:** 00
+* CRN:** 80044
+* Class Size:** 15
+* Prerequisites:** Introductory Python programming experience
 
 ## Course Outline
 
@@ -61,9 +62,10 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 
 NOTE: Content will be added each week for Fall 2024
 
-* [**Week 1:** Course Introduction and AI Overview](./modules/intro_ai_overview.md)
-* [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/prompting_openai_api.md)
-* [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/oh_noes_404.md)
+* [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (OPEN)
+* [**Week 1:** Course Introduction and AI Overview](./modules/intro_ai_overview.md) (OPEN)
+* [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/prompting_openai_api.md) (OPEN)
+* [**Week 3:** Miniproject 1: Develop a basic function-calling application using OpenAI API](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -94,7 +96,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 * [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/oh_noes_404.md)
 * [**Week 5:** Application of Embeddings in AI](./modules/oh_noes_404.md)
-* [**Week 6:** Subproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/oh_noes_404.md)
+* [**Week 6:** Miniproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -125,7 +127,7 @@ Introduction to RAG and its implementation using LangChain. Students will create
 
 * [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
 * [**Week 8:** Working with LangChain for RAG Applications](./modules/oh_noes_404.md)
-* [**Week 9:** Subproject 3: Implementing a RAG application using LangChain](./modules/oh_noes_404.md)
+* [**Week 9:** Miniproject 3: Implementing a RAG application using LangChain](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -156,7 +158,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 * [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/oh_noes_404.md)
 * [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/oh_noes_404.md)
-* [**Week 12:** Subproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/oh_noes_404.md)
+* [**Week 12:** Miniproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
