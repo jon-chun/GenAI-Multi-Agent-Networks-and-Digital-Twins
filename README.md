@@ -61,9 +61,9 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 
 NOTE: Content will be added each week for Fall 2024
 
-- [**Week 1:** Course Introduction and AI Overview](./modules/intro_ai_overview.md)
-- [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/oh_noes_404.md)
-- [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/oh_noes_404.md)
+* [**Week 1:** Course Introduction and AI Overview](./modules/intro_ai_overview.md)
+* [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/prompting_openai_api.md)
+* [**Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -82,9 +82,9 @@ NOTE: Content will be added each week for Fall 2024
 
 #### Learning Goals
 
-- Understand embeddings and their role in language models
-- Learn to apply embeddings in AI applications
-- Explore methods for AI explainability
+* Understand embeddings and their role in language models
+* Learn to apply embeddings in AI applications
+* Explore methods for AI explainability
 
 #### Description
 
@@ -92,9 +92,9 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-- [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/oh_noes_404.md)
-- [**Week 5:** Application of Embeddings in AI](./modules/oh_noes_404.md)
-- [**Week 6:** Subproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/oh_noes_404.md)
+* [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/oh_noes_404.md)
+* [**Week 5:** Application of Embeddings in AI](./modules/oh_noes_404.md)
+* [**Week 6:** Subproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -113,9 +113,9 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Learning Goals
 
-- Understand Retrieval-Augmented Generation (RAG)
-- Learn to use LangChain for RAG applications
-- Implement a RAG system to enhance language model capabilities
+* Understand Retrieval-Augmented Generation (RAG)
+* Learn to use LangChain for RAG applications
+* Implement a RAG system to enhance language model capabilities
 
 #### Description
 
@@ -123,9 +123,9 @@ Introduction to RAG and its implementation using LangChain. Students will create
 
 #### Detailed Content
 
-- [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
-- [**Week 8:** Working with LangChain for RAG Applications](./modules/oh_noes_404.md)
-- [**Week 9:** Subproject 3: Implementing a RAG application using LangChain](./modules/oh_noes_404.md)
+* [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
+* [**Week 8:** Working with LangChain for RAG Applications](./modules/oh_noes_404.md)
+* [**Week 9:** Subproject 3: Implementing a RAG application using LangChain](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -144,9 +144,9 @@ Introduction to RAG and its implementation using LangChain. Students will create
 
 #### Learning Goals
 
-- Understand the principles of multi-agent systems
-- Learn to design and implement autonomous agent simulations
-- Develop skills in benchmarking and analyzing multi-agent systems
+* Understand the principles of multi-agent systems
+* Learn to design and implement autonomous agent simulations
+* Develop skills in benchmarking and analyzing multi-agent systems
 
 #### Description
 
@@ -154,9 +154,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-- [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/oh_noes_404.md)
-- [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/oh_noes_404.md)
-- [**Week 12:** Subproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/oh_noes_404.md)
+* [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/oh_noes_404.md)
+* [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/oh_noes_404.md)
+* [**Week 12:** Subproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -175,9 +175,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Learning Goals
 
-- Apply learned concepts to a comprehensive AI project
-- Develop project management and presentation skills
-- Synthesize technical knowledge with real-world applications
+* Apply learned concepts to a comprehensive AI project
+* Develop project management and presentation skills
+* Synthesize technical knowledge with real-world applications
 
 #### Description
 
@@ -185,8 +185,8 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-- [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
-- [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
+* [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
+* [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -203,10 +203,10 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 ## Grading and Projects
 
-- Class Participation: 20%
-- Weekly Quizzes: 30%
-- 4 Mini-Projects: 30%
-- 1 Final Main Project: 20%
+* Class Participation: 20%
+* Weekly Quizzes: 30%
+* 4 Mini-Projects: 30%
+* 1 Final Main Project: 20%
 
 ### Mini-Projects
 
