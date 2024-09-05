@@ -15,11 +15,17 @@ As AI models like GPT have become more powerful, they've also become more access
 9. How can we balance the benefits of AI APIs with the need for transparency and explainability?
 10. What are the long-term implications of integrating AI APIs into critical systems and decision-making processes?
 
-## Readings:
+## Reading Assignments:
 
-### Large Language Models
+### Required Cloud Sign-Ups and Laptop Setups
 
-- (Optional) [But What is a Transformer?](https://www.youtube.com/watch?v=wjZofJX0v4M) 
+Follow-the instructions as best you can to setup remote AI cloud services and configure your local laptop. DO NOT generate an API key yet - we'll do this in class with safeguards to prevent excess billings. Bring any questions/problems to class and we'll fix it during our break.
+
+[Setup Instructions](../modules/signups_setup_ai.md)
+
+### AI News/Current Events
+
+* [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
 
 ### Prompt Engineering
 
@@ -29,6 +35,7 @@ As AI models like GPT have become more powerful, they've also become more access
 
 ### API
 
+* [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)
 * [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
 * [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
 

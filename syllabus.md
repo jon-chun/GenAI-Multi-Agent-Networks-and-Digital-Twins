@@ -29,7 +29,7 @@ The course includes four substantive subprojects and one final project, enabling
 ## Schedule
 
 ### Week 1-3: OpenAI API Function Calling App
-- **Week 1:** Course Introduction and AI Overview
+- **Week 1:** Course Introduction and AI Overview 
 - **Week 2:** Python and OpenAI API Basics
 - **Week 3:** Subproject 1: Develop a basic function-calling application using OpenAI API
 - **Semester Project Kickoff:** Identifying a problem for AI application

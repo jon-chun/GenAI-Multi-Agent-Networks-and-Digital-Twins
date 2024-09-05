@@ -36,4 +36,5 @@
         * [Udio.com](https://www.udio.com/)
         * [ElevenLabs.com](https://elevenlabs.io/)
         * [OpenAI Sora](https://openai.com/index/sora/)
+            * [Open Source text-to-video GenAI alteratives](https://www.youtube.com/watch?v=WZVjlYVOYAI)
 
