@@ -31,10 +31,12 @@
     * Demo of SOTA AI Apps
         * [OpenAI](chat.openai.com)
         * [Anthropic Claude.ai](https://claude.ai/new)
+        * [Phind.com](https://www.phind.com/)
         * [pi.ai](https://pi.ai/)
+        * [hume.ai](https://demo.hume.ai/)
         * [Midjourney.com](https://www.midjourney.com/home)
         * [Udio.com](https://www.udio.com/)
         * [ElevenLabs.com](https://elevenlabs.io/)
         * [OpenAI Sora](https://openai.com/index/sora/)
-            * [Open Source text-to-video GenAI alteratives](https://www.youtube.com/watch?v=WZVjlYVOYAI)
+        * [Variety text-to-video GenAI](https://www.youtube.com/watch?v=WZVjlYVOYAI)
 
