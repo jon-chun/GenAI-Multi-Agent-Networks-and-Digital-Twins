@@ -27,11 +27,26 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 * [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
 
-### Prompt Engineering
+### LLM vs LMM
 
-* [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
-* [Getting Started with the OpenAI Playground (7:03) May 2024](https://www.youtube.com/watch?v=iwYtzPJELkk&t=10s) 
-* [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques"](https://www.promptingguide.ai/applications/finetuning-gpt4o)
+* Architecture
+* Multimodal LLMs / LMM
+* Metrics and Benchmarks
+* Leaderboards
+
+### Prompts and API
+
+* Hyperparamters
+* Function Calling
+* Security: Jailbreaking and Pentesting
+
+### Fine-Tuning
+
+* Pipeline
+* Training Datasets
+* Synthesizing
+* Monitoring and Evaluation
+* Metrics and Benchmarks
 
 ### API
 
@@ -94,11 +109,6 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
       * [Years to AGI](https://www.reddit.com/r/OpenAI/comments/191qk1d/ark_invest_predicts_agi_will_be_achieved_until/)
     * Transformer Architecture
         * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-    * Models
-      * ChatGPT vs GPT4-o API
-      * Model Selection
-      * Tokenizations and Pricing
-      * Performance
     * Prompt Engineering
         * [OpenAI Playground](https://platform.openai.com/playground/chat)
         * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
