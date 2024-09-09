@@ -39,4 +39,5 @@
         * [ElevenLabs.com](https://elevenlabs.io/)
         * [OpenAI Sora](https://openai.com/index/sora/)
         * [Variety text-to-video GenAI](https://www.youtube.com/watch?v=WZVjlYVOYAI)
+        * [Research: Streaming T2V](https://streamingt2v.github.io/)
 

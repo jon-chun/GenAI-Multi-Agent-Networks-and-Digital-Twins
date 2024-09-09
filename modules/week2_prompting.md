@@ -42,6 +42,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 
 ### Focus on These Concepts:
+
 * Understanding API basics and RESTful architecture (covered in class)
 * OpenAI API authentication and rate limits (rate limits in class)
 * Basic prompt engineering techniques
@@ -50,7 +51,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 * Best practices for integrating AI APIs into applications
 * The role of AI APIs in modern software development (in class)
 * Advanced prompt engineering techniques
-* prompt engineering and API integration
+* prompt engineering and API integrationq
 * Group activity: Designing prompts for specific use cases
 * Understanding the broader impact of AI APIs on the tech industry
 * Future developments in AI API technology and accessibility
@@ -64,13 +65,14 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 
 # In Class:
 
-* Motivation
+## Motivation
+
     * [Xiaomi EV Factory](https://www.youtube.com/watch?v=yezR-mH12xs)
     * [STORM: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES (Perplexity Pages Alternative)](https://www.youtube.com/watch?v=rg4Xcul2Kh0&t=190s)
-    * [The State of Generative AI in the Enterprise
-Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
+    * [The State of Generative AI in the Enterprise Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
 
-* Bookeeeping
+## Bookeeeping
+
     * Sign-ups:
         * OpenAI
         * Google Colab
@@ -79,26 +81,67 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
     * Moodle and Course Management
     * Miniproject #1 Project Demo
 
-* Concepts
-    * API and RESTful Services
-    * [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs/models)
-    * LLM Life cycle
-    * Training Datasets
-    * Metrics and Benchmarks
-    * Virtual Environments vs Virtual Machines vs the Cloud
+## Concepts
 
-* Hands-On
+    * Background Concepts:
+      * Virtual Environments vs Virtual Machines vs the Cloud
+      * Google Colab Jupyter notebooks
+      * ChatGPT vs OpenAI API
+      * Delimiters: ###, """,```,---,<tag></tag>, etc.
+      * Formats: JSON, JSONL, XML/HTML, CSV, etc.
+      * API and RESTful Services: Authentication
+      * Python f-strings, \quote, \EOL continuation, etc.
+      * Prompt Injections, Jailbreaking, Security
+      * Structured Output
+      * Synchophancy: Provide Null/SC
+      * OpenAI "response" object: methods and attributes
+    * OpenAI
+      * [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs/models)
+      * [OpenAI Forum Help](https://community.openai.com/c/prompting/8)
+      * [OpenAI Playground]()
+
+    
+    * Prompt Engineering
+      * Problems with LLMs:
+        * Hallucination
+        * Factual inaccuracies
+        * Sycophancy/excessive agreeableness
+        * Bias and unfairness
+        * Lack of causal reasoning
+        * Inconsistency across responses
+        * Struggle with complex logical reasoning
+        * Limited context window
+        * Overconfidence in incorrect answers
+        * Difficulty with mathematical calculations
+      * Prompt techniques that can aggrevate these issues:
+        * Vague or ambiguous prompts
+        * Prompts that encourage speculation
+        * Leading questions that introduce bias
+        * Requests for definitive answers on uncertain topics
+        * Prompts that anthropomorphize the AI
+        * Encouraging the model to go beyond its training
+        * Asking for responses in areas where the model lacks expertise
+      * Prompt techniques that can mitigate these issues:
+        * Specific, clear prompts
+        * Requesting sources or reasoning
+        * Asking the model to consider multiple perspectives
+        * Prompting for uncertainty when appropriate
+        * Breaking complex tasks into smaller steps
+        * Requesting the model to "think step-by-step"
+        * Fact-checking important claims
+        * Using few-shot prompting with accurate examples
+        * Explicitly asking the model to avoid speculation
+        * Reminding the model of its limitations
+
+## Hands-On
+
     * AI Analyst
       * [Gardner AI Hype Cycle 2024](https://www.gartner.com/doc/reprints?id=1-2HV4V5W2&ct=240617&st=sb)
       * [Process Trends](https://www.researchgate.net/publication/270218416_Business_Process_Trends/figures?lo=1)
       * [Years to AGI](https://www.reddit.com/r/OpenAI/comments/191qk1d/ark_invest_predicts_agi_will_be_achieved_until/)
     * Transformer Architecture
         * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-    * Models
-      * ChatGPT vs GPT4-o API
-      * Model Selection
-      * Tokenizations and Pricing
-      * Performance
+
     * Prompt Engineering
         * [OpenAI Playground](https://platform.openai.com/playground/chat)
         * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
@@ -116,13 +159,7 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
     * Prompt Engineering
         * [DAIR.ai Prompt Engineering Guide](https://www.promptingguide.ai/)
         * [Jailbreaks](https://jailbreaks.org/)
-    * LLM Benchmarks:
-        * [Stanford HELM](https://crfm.stanford.edu/helm/)
-        * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
-    * LLM Leaderboards
-        * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
-        * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-        * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
+
 
 ## In-Class Programming Task:
 Create a Python script that uses the OpenAI API to generate a short story based on user input. The script should:
