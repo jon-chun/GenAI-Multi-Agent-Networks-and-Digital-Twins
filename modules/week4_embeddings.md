@@ -48,15 +48,15 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 * Monitoring and Evaluation
 * Metrics and Benchmarks
 
-### API
+### Coding: Embeddings and Training Datasets
 
-* [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)  and [Github repo](https://github.com/debeshm/Python-ChatGPT/blob/main/chatbot.py)
-* [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
-* [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
+* [Deeplearning.ai: Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/courses/google-cloud-vertex-ai/lesson/1/introduction)
+* [Deeplearning.ai: Preprocessing Unstructured Data for LLM Applications](https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications/lesson/1/introduction)
 
 
 
 ### Focus on These Concepts:
+
 * Understanding API basics and RESTful architecture (covered in class)
 * OpenAI API authentication and rate limits (rate limits in class)
 * Basic prompt engineering techniques
