@@ -1,21 +1,21 @@
-# Week 2: Prompt Engineering and OpenAI API Basics
+# Week 4: Embeddings
 
-As AI models like GPT have become more powerful, they've also become more accessible through APIs. This week, we'll explore the basics of using Python to interact with the OpenAI API, enabling us to harness the power of large language models in our own applications.
+Embedding is a mathematical transformation of information from a given modality (text, image, etc) into a semantically vector space. It has multiple advantages including semantic operations like similiarity, distance metrics, smooth continous space for optimzation, jointly embedding multimodal information, etc. We'll explain these advantages this week, which turn out to be fairly intuitive, with multiple illustrations and coding examples.
 
-## Key Questions to Consider:
+## Key Questions to Consider
 
-1. How does API access to AI models democratize AI development?
-2. What are the ethical considerations when using AI models through APIs?
-3. How can we ensure responsible use of AI APIs in application development?
-4. What are the limitations of current AI APIs, and how might they evolve in the future?
-5. How does prompt engineering affect the output of AI models accessed through APIs?
-6. What are the potential risks of relying too heavily on AI-generated content in applications?
-7. How might the widespread use of AI APIs impact job markets and skill requirements in tech?
-8. What role does data privacy play when using AI APIs, and how can we protect user information?
-9. How can we balance the benefits of AI APIs with the need for transparency and explainability?
-10. What are the long-term implications of integrating AI APIs into critical systems and decision-making processes?
+1. How do embeddings transform raw data into a more useful semantic vector space?
+2. What are the key advantages of using embeddings in machine learning and AI applications?
+3. How can embeddings be used to measure semantic similarity between different pieces of information?
+4. What are the ethical considerations when using embeddings to represent and analyze human-generated 1. content?
+5. How do embeddings enable multimodal learning, and what are the potential applications of this capability?
+6. What are the current limitations of embedding techniques, and how might they be improved in the future?
+7. How does the quality of the initial data affect the resulting embeddings, and what steps can be taken to 1. ensure high-quality embeddings?
+8. What role do embeddings play in transfer learning and how might this impact the democratization of AI 1. development?
+9. How can we ensure the interpretability and explainability of AI systems that rely heavily on embeddings?
+10. What are the potential long-term implications of widespread use of embedding techniques in various 1. industries and decision-making processes?
 
-## Reading Assignments:
+## Reading Assignments
 
 ### Required Cloud Sign-Ups and Laptop Setups
 
@@ -27,12 +27,6 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 * [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
 
-### LLM vs LMM
-
-* Architecture
-* Multimodal LLMs / LMM
-* Metrics and Benchmarks
-* Leaderboards
 
 ### Prompts and API
 
@@ -40,13 +34,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 * Function Calling
 * Security: Jailbreaking and Pentesting
 
-### Fine-Tuning
 
-* Pipeline
-* Training Datasets
-* Synthesizing
-* Monitoring and Evaluation
-* Metrics and Benchmarks
 
 ### Coding: Embeddings and Training Datasets
 
