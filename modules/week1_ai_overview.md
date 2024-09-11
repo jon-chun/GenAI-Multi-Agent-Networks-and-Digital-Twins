@@ -1,5 +1,19 @@
 # Week 1: Introduction to AI
 
+This course is the third in a sequence of human-centered AI courses that:
+
+1. build an intellectual framework for understanding and integrating human-centered AI abstractions from traditional AI Digital Humanities perspectives including the Humanities, Social Sciences and Arts,
+
+2. explore and survey the intersection of AI, academics and industry
+
+3. authentic assessments using SOTA AI research, models and methods to explore automating or agumenting knowledge workflows using automated agent networks.
+
+We begin with standard course bookkeeping followed by laying both a foundation and giving framework of guiding concepts:
+
+1. What is 'Artificial Intelligence' (AGI, ASI, etc.)?
+2. What are current perceptions, beliefs and expectations?
+3. Survey current SOTA multimodal AI models.
+4. What is the trajectory and pace of AI innovation, investments and productization?
 
 ## Motivation
 
@@ -8,15 +22,14 @@
 
 ## Bookkeeping
 
-* Introductions/Interests
-  * Research
+* Introductions/Research Interests
   * Narrative and Stories
-  * Multilingual NLP
+  * Multi-lingual and Cross-cultural AI
   * Multimodal Affective AI
-  * Persuasion, Deception, and Manipulation
   * AI Safety, Security, and Regulation
-  * Ethical Reasoning, Decision-Making, and Auditing
-  * Agentic Simulations
+  * Ethical Reasoning, Decision-Making, and Ethical Audits
+  * Automation of knowledge workflows
+  * Agentic Simulations (e.g. Persuasion, Deception, and Manipulation)
 * Syllabus: Schedule (Sept 18th: Prof Elkins), Topics, and Grading
 * Textbook -> Cloud Subscriptions $100-150
 * Laptop Setup/Survey
@@ -25,11 +38,10 @@
 
 * Data, Information and Representation
 * Large Language Models (LMM) vs Large Multimodal Models (LMM)
-* AGI vs ASI
+* GOFAI, statistical ML, narrow AI vs AGI vs ASI
 * Features of AGI
 * Metrics and Benchmarks
 * Hacking eIQ of AI
-
 
 ## Hands-on
 
@@ -45,4 +57,3 @@
   * [OpenAI Sora](https://openai.com/index/sora/)
   * [Variety text-to-video GenAI](https://www.youtube.com/watch?v=WZVjlYVOYAI)
   * [Research: Streaming T2V](https://streamingt2v.github.io/)
-

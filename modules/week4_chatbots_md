@@ -6,4 +6,28 @@
   * ["Position: Levels of AGI for Operationalizing Progress on the Path to AGI." by Morris et al. (5 Jun 2024)](https://arxiv.org/pdf/2311.02462)
 
 
-## 
+## Readings
+
+* Advanced Prompts
+  * ECHO
+    * [Video](https://www.youtube.com/watch?v=uVnYle95T0c)
+    * [Github](https://github.com/Xalp/ECHO)
+    * [ArXiv](https://arxiv.org/pdf/2409.04057)
+  * LongWriter
+    * [Github](https://github.com/THUDM/LongWriter)
+  * LongCite
+    * [Github](https://github.com/THUDM/LongCite/blob/main/README.md)
+    * [ArXiv Paper](https://arxiv.org/abs/2409.02897)
+
+* Functions
+  * Structured Output
+    [Reliable ways to get structured output from llms 2023](https://www.reddit.com/r/LocalLLaMA/comments/17a4zlf/reliable_ways_to_get_structured_output_from_llms/)
+    * Instructor
+      * [Instructor, Generating Structured Outputs with LLMs](https://python.useinstructor.com/)
+      * [Instructor is All You Need: My Review of the Instructor LLM Library by Jason Liu](https://www.felixvemmer.com/en/blog/instructor-llm-framework-reviewed)
+    * Outlines
+      * [Github](https://github.com/dottxt-ai/outlines)
+
+# In-Class
+
+* [Financial News Analyst (Kaggle)](https://www.kaggle.com/code/maverickss26/react-financial-agent-using-llamaindex)
