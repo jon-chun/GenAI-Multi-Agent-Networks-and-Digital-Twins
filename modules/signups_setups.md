@@ -12,6 +12,13 @@
 * [Google.com Colab ($10/mo plan)](https://colab.research.google.com/signup)
 * [OpenAI.com API ($20/mo + API fees)](https://chatgpt.com/)
 
+* OpenAI API Setup
+  * Use non-Kenyon gmail account
+  * Signup for $20/mo ChatGPT
+  * Allocate $10 NON-AUTORENEW API budget limit
+  * Create OpenAI API Key ["iphs391fall2024"](https://platform.openai.com/api-keys)
+  * Problems recognizing models like 'gpt4-o', may have to delete/recreate API Key
+  
 # Local Laptop Installations/Setups
 
 * Laptop: Win11, MacOS or Linux

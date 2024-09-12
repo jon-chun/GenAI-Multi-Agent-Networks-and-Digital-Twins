@@ -89,7 +89,6 @@ As AI models like GPT have become more powerful, they've also become more access
 * [STORM: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES (Perplexity Pages Alternative)](https://www.youtube.com/watch?v=rg4Xcul2Kh0&t=190s)
 * [The State of Generative AI in the Enterprise Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
 
-
 ### SOTA Research
 
 * ArXiv.org [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications (5 Feb 2024)](https://www.semanticscholar.org/paper/A-Systematic-Survey-of-Prompt-Engineering-in-Large-Sahoo-Singh/31d2ccff82e313eb5c1620c44bb8322da4a38513)
@@ -173,6 +172,13 @@ As AI models like GPT have become more powerful, they've also become more access
   * [Google Gemini](https://ai.google.dev/gemini-api/prompts)
   * [Google Prompts](https://aistudio.google.com/app/prompts/new_chat)
   * [Google GEMs](https://gemini.google.com/u/0/gems/view)
+
+* OpenAI API Setup
+  * Use non-Kenyon gmail account
+  * Signup for $20/mo ChatGPT
+  * Allocate $10 NON-AUTORENEW API budget limit
+  * Create OpenAI API Key ["iphs391fall2024"](https://platform.openai.com/api-keys)
+  * Problems recognizing models like 'gpt4-o', may have to delete/recreate API Key
 
 * Colab
   * Setup and Test with [Ollama with Llama 3.1](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
