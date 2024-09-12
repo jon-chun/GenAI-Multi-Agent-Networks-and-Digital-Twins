@@ -27,7 +27,14 @@
       * [Instructor is All You Need: My Review of the Instructor LLM Library by Jason Liu](https://www.felixvemmer.com/en/blog/instructor-llm-framework-reviewed)
     * Outlines
       * [Github](https://github.com/dottxt-ai/outlines)
+  * [How-to: Return structured output from LLMs | Langchain | Strategies & Code Implementation (22:43) (17 Aug 2024)](https://www.youtube.com/watch?v=eLL5Akg-UL8) (We'll run/critique the Colab in class)
 
 # In-Class
 
-* [Financial News Analyst (Kaggle)](https://www.kaggle.com/code/maverickss26/react-financial-agent-using-llamaindex)
+* Models and Benchmarks
+  * Deepseek 2.5
+    * [Demo Website](https://chat.deepseek.com/)
+    * [DeepSeek v2.5 (Full Test): Can This Open-Source LLM Beat GPT-4 in Coding? (15:54) (11 Sep 2024)](https://www.youtube.com/watch?v=dT8thuqHN2g)
+
+* Structured Output
+  * [Colab to Reading above](../code/week4_llm_functions_How_to_return_structured_data_from_LLMs_20240912.ipynb)
