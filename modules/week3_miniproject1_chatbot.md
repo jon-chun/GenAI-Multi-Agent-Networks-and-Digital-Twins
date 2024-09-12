@@ -46,7 +46,13 @@ As AI models like GPT have become more powerful, they've also become more access
 * Llama
   * [Llama Recipies](https://github.com/Meta-Llama/llama-recipes)
 
-## Possible Enhancements to Voice Chatbot for Miniproject #1
+## Miniproject #1: Build a Chatbot
+
+Build a chatbot using code and examples you've seen in DeepLearning.ai, class or RECENT modified code you can find on kaggle.com or github. You must use the OpenAI API and maintain conversation history. NOTE: The OpenAI API has undergone a major change in the last year, so make sure you use recent code example (less than 1-3 months old).
+
+Save your code in a Jupyter Colab or a Kaggle notebook for easily sharing and test verification. Try to add some enhancement like the suggestions below.
+
+### Possible Enhancements to Voice Chatbot for Miniproject #1
 
 * Use system prompt personas
 * Use prompt injections
