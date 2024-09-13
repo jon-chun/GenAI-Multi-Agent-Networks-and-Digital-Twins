@@ -22,7 +22,7 @@ As AI models like GPT have become more powerful, they've also become more access
   * [Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values by Chun and Elkins (9 Jan 2024)](https://www.semanticscholar.org/paper/Informed-AI-Regulation%3A-Comparing-the-Ethical-of-an-Chun-Elkins/f55294c223752a7159c438951dbf6e6b66cd2e31)
 
 * Chatbots:
-  * [Prompt Engineering with Llama 2&3 (DeepLearning.ai) NOTE: Skip over ERRORS, esp wrt 70B](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
+  * [Prompt Engineering with Llama 2&3 (DeepLearning.ai) NOTE: Skip over ERRORS due to 70B model no longer available](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
   * [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)  and [Github repo](https://github.com/debeshm/Python-ChatGPT/blob/main/chatbot.py)
 
 * Benchmarks (Only spend 15 min on each paper by selectiving focusing on mainpoints in Abstract, Introduction, Tables/Figures of Findings, Conclusions)
