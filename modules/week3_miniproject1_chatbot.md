@@ -48,9 +48,17 @@ As AI models like GPT have become more powerful, they've also become more access
 
 ## Miniproject #1: Build a Chatbot
 
-Build a chatbot using code and examples you've seen in DeepLearning.ai, class or RECENT modified code you can find on kaggle.com or github. You must use the OpenAI API and maintain conversation history. NOTE: The OpenAI API has undergone a major change in the last year, so make sure you use recent code example (less than 1-3 months old).
+Build a chatbot using code and examples you've seen in DeepLearning.ai, reading YouTubes, class or RECENT modified code you can find on kaggle.com or github. Tips:
 
-Save your code in a Jupyter Colab or a Kaggle notebook for easily sharing and test verification. Try to add some enhancement like the suggestions below.
+* Use the OpenAI API and accumulate the conversation history
+* Use the 'system' prompt to give your chatbot a descriptive and specialized 'persona'
+* Use n-shot Incontext Learning (ICL) prompts to provide examples to shape/pattern chatbot responses
+* Explore other Prompt Engineering strategies
+* (Optional) Extend your chatbot with features like multimodal input (e.g. voice, images)
+* In your personal github.com repo, create a folder 'iphs391-miniproject1-chatbot' and upload your code there as either a Colab notebook or *.py code files for testing, verification and grading. 
+
+NOTE: The OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
+
 
 ### Possible Enhancements to Voice Chatbot for Miniproject #1
 
