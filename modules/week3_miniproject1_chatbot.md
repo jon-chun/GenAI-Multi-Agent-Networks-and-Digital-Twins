@@ -53,18 +53,9 @@ Build a chatbot using code and examples you've seen in DeepLearning.ai, reading 
 * Use the OpenAI API and accumulate the conversation history
 * Use the 'system' prompt to give your chatbot a descriptive and specialized 'persona'
 * Use n-shot Incontext Learning (ICL) prompts to provide examples to shape/pattern chatbot responses
-* Explore other Prompt Engineering strategies
+* Explore other Prompt Engineering strategies (e.g. Chain of Thoughts)
+* (Optional) Use gradio for the UI/UX
 * (Optional) Extend your chatbot with features like multimodal input (e.g. voice, images)
 * In your personal github.com repo, create a folder 'iphs391-miniproject1-chatbot' and upload your code there as either a Colab notebook or *.py code files for testing, verification and grading. 
 
 NOTE: The OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
-
-
-### Possible Enhancements to Voice Chatbot for Miniproject #1
-
-* Use system prompt personas
-* Use prompt injections
-* Use n-shot prompts
-* Use chain of thought prompts
-* Connect to tools (e.g. web search)
-* Make a better UI vis Gradio
