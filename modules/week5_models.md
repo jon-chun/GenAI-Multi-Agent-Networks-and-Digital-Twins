@@ -58,9 +58,12 @@ We started the course with prompt engineering and embeddings to hit the ground r
 
 * Prompt Engineering
   * [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications by Sahoo et al. (5 Feb 2024)](https://www.semanticscholar.org/paper/A-Systematic-Survey-of-Prompt-Engineering-in-Large-Sahoo-Singh/31d2ccff82e313eb5c1620c44bb8322da4a38513)
+
 * Benchmarks
   * [Perplexity.ai search](https://www.perplexity.ai/search/recent-survey-of-benchmarks-RNQOwDocRMKydokO9XGg7w)
   * [Holistic Evaluation of Text-to-Image Models by Lee et al. (7 Nov 2023)](https://arxiv.org/pdf/2311.04287)
+  * [BeHonest: Benchmarking Honesty in Large Language Models by Chern et al. (19 Jun 2024)](https://www.semanticscholar.org/paper/BeHonest%3A-Benchmarking-Honesty-in-Large-Language-Chern-Hu/5c1e031b21bb8ea1bd652c5a4a1b2cf32149e521)
+
 * Transformers
   * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
