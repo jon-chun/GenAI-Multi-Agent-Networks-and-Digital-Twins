@@ -83,6 +83,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 ### Coding: Fine-tune and Evaluate LLMs
 
 * [Deeplearning.ai: Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
+* [ASIEST Way to Fine-Tune a LLM and Use It With Ollama (5:17) (12 Sep 2024)](https://www.youtube.com/watch?v=pxhkDaKzBaY)
 * [Evaluating and Debugging Generative AI (W&B)](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/1/introduction)
 
 ### Multimodal LLMs
@@ -100,6 +101,9 @@ BE VERY CAREFUL WITH PAID API SERVICE like OpenAI - costs can run up quickly wit
 Remember to review the API usage guidelines and rate limits to ensure responsible use of the OpenAI API. If you have any questions or encounter issues, please ask in class or contact the instructor via email.
 
 # In Class
+
+* Fine-Tuning
+  * [Unsloth Colab](https://github.com/unslothai/unsloth)
 
 ## Motivation
 

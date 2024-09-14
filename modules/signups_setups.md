@@ -1,8 +1,37 @@
 # Remote Cloud Sign-ups and Local Laptop Setups
+
 ## IPHS 391: Frontiers of AI - Autonomous Agents
+
 ### Jon Chun, Fall 2024
 
-# Cloud Service Sign-ups
+# NOTE
+
+* Gmail account
+  * Use your personal gmail.com account
+  * Your Kenyon.edu Google account (it has restrictions)
+* API Keys
+  * We will use a number of API Keys that you need to securely save somehwere (contacts, textfile, etc)
+  * NEVER hardcode your API keys into a notebook/python program file
+    * Either set it as an unseen environment variable or read it dynamically, e.g.
+      * import getpass
+      * OPENAI_API_KEY = getpass.getpass("Enter your OpenAI API Key:)
+* OpenAI.com subscription
+  * First sign-up for $20/mo ChatGPT subscription
+  * Then setup API Access: https://platform.openai.com/settings/organization/billing/overview
+    * Enter billing credit card infomation under "Payment Methods" (top horizontal menu)
+    * Select "Auto recharge is off" to limit maximum spend
+    * Add $10 credit to the "Pay as you go" amount
+  * Get an secret OpenAI API Key at https://platform.openai.com/api-keys
+    * click top right green button labeled "+ Create new secret key"
+    * name your key "iphs391" (with default settings)
+    * under "Save your key", click green "Copy" button and IMMEDIATELY save it somewhere for future reference (once this popup dialog box closes, you can never view this API Key again)
+* Debugging Steps
+  * Sometimes the OpenAI API Calls will return ERRORS with invalid model names even with valid model names
+    * check the API credit limit is not $0: add $10 non-auto recharge if so and recreate key
+    * delete and recreate 'iphs391' API key
+    * restart program
+
+# Cloud Service
 
 * NOTE: You cannot use your @kenyon.edu Google gmail account due to enterprise restrictions.  Please use a personal Google account (create one if necessary).
 
@@ -16,7 +45,7 @@
   * Use non-Kenyon gmail account
   * Signup for $20/mo ChatGPT
   * Allocate $10 NON-AUTORENEW API budget limit
-  * Create OpenAI API Key ["iphs391fall2024"](https://platform.openai.com/api-keys)
+  * Create OpenAI API Key ["iphs391"](https://platform.openai.com/api-keys)
   * Problems recognizing models like 'gpt4-o', may have to delete/recreate API Key
   
 # Local Laptop Installations/Setups
