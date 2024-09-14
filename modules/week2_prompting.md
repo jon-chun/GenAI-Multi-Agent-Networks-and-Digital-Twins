@@ -189,7 +189,8 @@ As AI models like GPT have become more powerful, they've also become more access
     * [Kaggle Notebook](https://www.kaggle.com/code/jchun2000/react-financial-agent-using-llamaindex)
   * Multimodal LLM
     * [Kaggle Notebook](https://www.kaggle.com/code/jchun2000/openai-api-text-chat-audio-and-moderation)
-* Github
+
+ Github
   * [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## In-Class Programming Task:
