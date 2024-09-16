@@ -5,4 +5,8 @@
   * [A Survey on Large Language Models for Code Generation by Jiang et al. (1 June 2024)](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Code-Jiang-Wang/c8b18682965ff9dccc0130dab3d679f78cefa617)
 
 * Applications
+  * [Awesome-LLM-in-Social-Science](https://github.com/Value4AI/Awesome-LLM-in-Social-Science/)
+  * SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series (ICLR 2024)
+    * [Slides](https://iclr.cc/media/iclr-2024/Slides/17662.pdf)
+    * [Github](https://github.com/chengjunyan1/SocioDojo)
   * [AgentWrite with LangGraph (19:21) (6 Sep 2024)](https://www.youtube.com/watch?v=nK9K8UPraXk&t=569s)

@@ -2,6 +2,9 @@
 
 ## Readings:
 
+* RAG
+  * [Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
+  
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
 
@@ -26,3 +29,6 @@
 
 * RAG
   * [Ollama Rag Colab](https://colab.research.google.com/drive/1cqLm7bxVAvh5HA5X38KG-gmofdGrEAwN?usp=sharing)
+
+* Multimodal RAG Pipeline
+  * [Sparrow](https://github.com/katanaml/sparrow)

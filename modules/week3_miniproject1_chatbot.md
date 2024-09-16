@@ -46,7 +46,10 @@ As AI models like GPT have become more powerful, they've also become more access
 * Llama
   * [Llama Recipies](https://github.com/Meta-Llama/llama-recipes)
 
-## Miniproject #1: Build a Chatbot
+* Prompts for Chat Personas
+  * [awesome-voice-prompts](https://github.com/langgptai/awesome-voice-prompts)
+
+## Miniproject #1: Build a Chatbot (Due Sun midnight, September 22nd)
 
 Build a chatbot using code and examples you've seen in DeepLearning.ai, reading YouTubes, class or RECENT modified code you can find on kaggle.com or github. Tips:
 

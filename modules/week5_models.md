@@ -67,6 +67,21 @@ We started the course with prompt engineering and embeddings to hit the ground r
 * Transformers
   * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
+* Fine-Tuned
+  * Code
+    * []
+  * Image
+    * PuLID for FLUX
+      * [Video](https://www.youtube.com/watch?v=jyGz-vGrp88)
+      * [Github](https://github.com/ToTheBeginning/PuLID)
+      * [Huggingface](https://huggingface.co/spaces/yanze/PuLID-FLUX)
+* Multimodal
+  * Image
+  * Voice
+    * [WhisperX](https://github.com/m-bain/whisperX)
+  * Audio
+    * [Awesome Audio Plaza](https://github.com/metame-ai/awesome-audio-plaza?tab=readme-ov-file)
+
 **<END>**
 
 
@@ -112,6 +127,10 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 ## Concepts
 
 ## Hands-On
+
+* [NotebookLM](https://notebooklm.google.com/)
+* [V0]()
+* [Cursor Prompts]()
 
 ## In-Class Programming Task
 

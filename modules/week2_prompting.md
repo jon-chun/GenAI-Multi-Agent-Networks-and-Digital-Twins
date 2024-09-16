@@ -86,7 +86,10 @@ As AI models like GPT have become more powerful, they've also become more access
 ### Motivation
 
 * [Xiaomi EV Factory](https://www.youtube.com/watch?v=yezR-mH12xs)
-* [STORM: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES (Perplexity Pages Alternative)](https://www.youtube.com/watch?v=rg4Xcul2Kh0&t=190s)
+* AI Writings
+  * [STORM: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES (Perplexity Pages Alternative)](https://www.youtube.com/watch?v=rg4Xcul2Kh0&t=190s)
+  * [SciAgents Graph Reasoning: Stanford vs MIT (42:38) (11 Sep 2024)](https://www.youtube.com/watch?v=G-LjfQALmxI&t=199s)
+  * [The Ultimate Writing Challenge: Longwriter Tackles 10,000 Words In One Sitting (12:33) (1 Sep 2024)](https://www.youtube.com/watch?v=6cubCIupyik)
 * [The State of Generative AI in the Enterprise Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
 
 ### SOTA Research
