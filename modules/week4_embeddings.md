@@ -27,21 +27,17 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 * [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
 
-
 ### Prompts and API
 
 * Hyperparamters
 * Function Calling
+* Context Caching
 * Security: Jailbreaking and Pentesting
-
-
 
 ### Coding: Embeddings and Training Datasets
 
 * [Deeplearning.ai: Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/courses/google-cloud-vertex-ai/lesson/1/introduction)
 * [Deeplearning.ai: Preprocessing Unstructured Data for LLM Applications](https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications/lesson/1/introduction)
-
-
 
 ### Focus on These Concepts:
 
@@ -57,7 +53,6 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 * Group activity: Designing prompts for specific use cases
 * Understanding the broader impact of AI APIs on the tech industry
 * Future developments in AI API technology and accessibility
-
 
 # WARNING:
 

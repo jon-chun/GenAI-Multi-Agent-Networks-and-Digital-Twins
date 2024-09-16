@@ -9,6 +9,10 @@
 ## Readings
 
 * Advanced Prompts
+  * Context Caching
+    * [CONTEXT CACHING for Faster and Cheaper Inference (35:25) (3 Sep 2024)](https://www.youtube.com/watch?v=YeAAUghx_Xs)
+  * DSPy
+    * [Automated Prompt Engineering with DSPy (45:51) (10 Sep 2024)](https://www.youtube.com/watch?v=0gYMqFYRtDI&t=403s)
   * ECHO
     * [Video](https://www.youtube.com/watch?v=uVnYle95T0c)
     * [Github](https://github.com/Xalp/ECHO)
