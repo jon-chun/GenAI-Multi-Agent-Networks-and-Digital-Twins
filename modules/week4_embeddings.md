@@ -25,7 +25,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 ### AI News/Current Events
 
-* [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=b7GJ45oKQww)
+* [GPT-o1: The Best Model I've Ever Tested 🍓 I Need New Tests! (10:57) (13 Sep 2024)](https://www.youtube.com/watch?v=SbrfjBV8EzM)
 
 ### Prompts 
 
