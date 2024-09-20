@@ -73,3 +73,103 @@
     * Prettier (Color Code Formatter)
     * Code Spell Checker (Spell Checker)
 * [Ollama.ai](https://ollama.com/download)
+
+
+# Github SSH Setup
+
+To generate a Personal Access Token (PAT) for GitHub via the terminal, the process is mostly the same for both Windows and macOS. The difference lies in navigating the terminal environment to open the web browser and set up your SSH keys, if necessary.
+
+Here’s a detailed guide for each operating system.
+
+### For both Windows and macOS:
+#### Step 1: Set up SSH keys (if not already set)
+You might want to set up SSH keys for more secure authentication. You can skip this step if you've already set up SSH keys.
+
+1. **Generate a new SSH key**:
+   Open your terminal (Command Prompt, PowerShell, or Git Bash on Windows, and Terminal on macOS):
+
+   ```bash
+   ssh-keygen -t ed25519 -C "your_email@example.com"
+   ```
+
+   If you're using an older system that doesn’t support `ed25519`, you can use RSA instead:
+
+   ```bash
+   ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+   ```
+
+2. **Add the SSH key to the SSH agent**:
+   Run the following commands to ensure the SSH agent is running and to add your key:
+
+   ```bash
+   # For macOS
+   eval "$(ssh-agent -s)"
+
+   # For Windows (Git Bash)
+   eval $(ssh-agent -s)
+
+   ssh-add ~/.ssh/id_ed25519  # Adjust the file path if you're using a different key name
+   ```
+
+3. **Copy the SSH key to your clipboard**:
+   - For **macOS**:
+     ```bash
+     pbcopy < ~/.ssh/id_ed25519.pub
+     ```
+   - For **Windows (Git Bash)**:
+     ```bash
+     clip < ~/.ssh/id_ed25519.pub
+     ```
+
+4. **Add the SSH key to your GitHub account**:
+   - Go to [GitHub SSH Settings](https://github.com/settings/keys).
+   - Click "New SSH Key", paste your key in the box, and give it a recognizable title.
+   
+#### Step 2: Generate GitHub Personal Access Token (PAT)
+Since the process is web-based, it's the same across platforms:
+
+1. **Go to your GitHub account**:
+   - Open [https://github.com/settings/tokens](https://github.com/settings/tokens).
+
+2. **Generate a new token**:
+   - Click **Generate new token** or **Generate new token (classic)** if you are looking for legacy PATs.
+   - Add a **note** (e.g., "For terminal access") to remember the purpose of the token.
+   - Select **scopes** that define what the token can do. If you're using this for repository access, check `repo`. If you also need access to other features like Gists, select the appropriate scopes.
+
+3. **Generate and copy the token**:
+   - Once generated, GitHub will display the token **only once**. Make sure to copy and store it securely (e.g., in a password manager).
+
+#### Step 3: Use the Personal Access Token (PAT) for Git Authentication
+Once you have the token, you can replace your password with this token for Git operations that require authentication (like cloning a repo, pushing, or pulling).
+
+1. **Clone a GitHub repository**:
+   Replace `YOUR_PAT` with the token you generated:
+
+   ```bash
+   git clone https://<YOUR_GITHUB_USERNAME>:YOUR_PAT@github.com/<YOUR_GITHUB_USERNAME>/<REPO>.git
+   ```
+
+   Alternatively, Git should prompt for your username and password when you try to `git clone` or `git push`. Instead of using your password, paste the PAT.
+
+#### Step 4: Store your credentials securely (Optional)
+You can configure Git to store your credentials securely so that you don’t have to enter your PAT each time:
+
+- On **macOS**, Git supports the macOS Keychain:
+  ```bash
+  git config --global credential.helper osxkeychain
+  ```
+
+- On **Windows**, Git supports the Windows Credential Manager:
+  ```bash
+  git config --global credential.helper wincred
+  ```
+
+---
+
+### Summary:
+
+1. **Windows** and **macOS** both involve generating SSH keys and using the GitHub web interface to create a Personal Access Token (PAT).
+2. SSH keys are for key-based authentication, while PATs can replace passwords in Git operations.
+3. Always ensure the PAT is stored securely, as it grants access to your GitHub account based on the scopes you select.
+
+Let me know if you'd like further help with any part of the setup process!
