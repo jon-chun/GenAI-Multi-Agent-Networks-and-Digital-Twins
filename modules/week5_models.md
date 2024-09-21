@@ -128,12 +128,20 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 
 ## Hands-On
 
-* [NotebookLM](https://notebooklm.google.com/)
-* [V0]()
-* [Cursor Prompts]()
+
+* LLM Benchmarks:
+    * [Stanford HELM](https://crfm.stanford.edu/helm/)
+    * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
+* LLM Leaderboards
+    * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
+    * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+    * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
 ## In-Class Programming Task
 
+* Tokenization
+  * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
+  * [Tiktoken Colab](https://colab.research.google.com/github/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
 * Fine-Tune
   * [Ollama  + Unsloth + Llama-3 + Alpaca.ipynb](https://colab.research.google.com/drive/1WZDi7APtQ9VsvOrQSSC5DDtxq159j8iZ?usp=sharing)
   * [FLUX + LORA and Kling AI (Consistent Characters & AI Videos with Your Face) (25:55) (8 Sep 2024)](https://www.youtube.com/watch?v=mUR8CUmDbo0)

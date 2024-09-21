@@ -42,3 +42,9 @@
 
 * Structured Output
   * [Colab to Reading above](../code/week4_llm_functions_How_to_return_structured_data_from_LLMs_20240912.ipynb)
+
+* Laptop Setup
+    * Python
+    * Github
+    * VSCode
+    * VSCode Extensions (AI code assistants)
