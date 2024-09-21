@@ -26,7 +26,8 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 ### AI News/Current Events
 
 * [GPT-o1: The Best Model I've Ever Tested 🍓 I Need New Tests! (10:57) (13 Sep 2024)](https://www.youtube.com/watch?v=SbrfjBV8EzM)
-
+* [Learning to Reason with LLMs (12 Sep 2024)](https://openai.com/index/learning-to-reason-with-llms/)
+  
 ### Prompts 
 
 * [Google's New AI Feature is UNREAL... (14:51) (17 Sep 2024)](https://www.youtube.com/watch?v=VY0sdh3p-g0&t=843s)
@@ -115,7 +116,13 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
   * [Google Gemini](https://ai.google.dev/gemini-api/prompts)
   * [Google Prompts](https://aistudio.google.com/app/prompts/new_chat)
   * [Google GEMs](https://gemini.google.com/u/0/gems/view)
+* Prompt Engineering API
+  * [Learning to Reason with LLMs (12 Sep 2024)](https://openai.com/index/learning-to-reason-with-llms/)
+  * [OpenAI Reasoning Models](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting?reasoning-prompt-examples=coding-planning)
+  * [OpenAI o1: Prompting Tips, Limitations, and Capabilities (13 Sep 2024)](https://www.vellum.ai/blog/how-to-prompt-the-openai-o1-model)
+  * [OpenAI o1 EXPOSED: Tokenomics Breakdown by Elite Mathematician Terrence Tao (17 Sep 2024)](https://www.youtube.com/watch?v=hMbLq-TKlNA&t=435s)
 * Embeddings
+  * [Viz Colorful Embeddings](https://huggingface.co/spaces/jphwang/colorful_vectors)
   * [NEW LLama Embedding for Fast NLP💥 Llama-based Lightweight NLP Toolkit 💥 (10:23) (15 Sep 2024)](https://www.youtube.com/watch?v=GF7wnswJF74)
 * Colab
   * Setup and Test with [Ollama with Llama 3.1](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
