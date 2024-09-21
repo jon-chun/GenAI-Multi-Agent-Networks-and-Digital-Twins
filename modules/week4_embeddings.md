@@ -25,14 +25,17 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 ### AI News/Current Events
 
-* [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
+* [GPT-o1: The Best Model I've Ever Tested 🍓 I Need New Tests! (10:57) (13 Sep 2024)](https://www.youtube.com/watch?v=SbrfjBV8EzM)
 
-### Prompts and API
+### Prompts 
 
-* Hyperparamters
-* Function Calling
-* Context Caching
-* Security: Jailbreaking and Pentesting
+* [Google's New AI Feature is UNREAL... (14:51) (17 Sep 2024)](https://www.youtube.com/watch?v=VY0sdh3p-g0&t=843s)
+
+### Embeddings and Vector Databases
+
+* [Word Embedding and Word2Vec, Clearly Explained!!! (16:11) (2023)](https://www.youtube.com/watch?v=viZrOnJclY0)
+* [A Beginner's Guide to Vector Embeddings (8:28) (8 Jun 2023)](https://www.youtube.com/watch?v=NEreO2zlXDk)
+* [What is a Vector Database & How Does it Work? Use Cases + Examples by Roie Schwaber-Cohen (3 May 2023)](https://www.pinecone.io/learn/vector-database/)
 
 ### Coding: Embeddings and Training Datasets
 
