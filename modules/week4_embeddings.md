@@ -63,59 +63,63 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 # In Class:
 
 * Motivation
-    * [Xiaomi EV Factory](https://www.youtube.com/watch?v=yezR-mH12xs)
-    * [STORM: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES (Perplexity Pages Alternative)](https://www.youtube.com/watch?v=rg4Xcul2Kh0&t=190s)
-    * [The State of Generative AI in the Enterprise
+  * []()
+  * [The State of Generative AI in the Enterprise
 Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
 
 * Bookeeeping
-    * Sign-ups:
-        * OpenAI
-        * Google Colab
-        * Daily.dev
-    * Quizes and Grading
-    * Moodle and Course Management
-    * Miniproject #1 Project Demo
+  * Sign-ups:
+    * OpenAI
+    * Google Colab
+    * Daily.dev
+  * Quizes and Grading
+  * Moodle and Course Management
+  * Miniproject #1 Project Demo
 
 * Concepts
-    * API and RESTful Services
-    * [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs/models)
-    * LLM Life cycle
-    * Training Datasets
-    * Metrics and Benchmarks
-    * Virtual Environments vs Virtual Machines vs the Cloud
+  * API and RESTful Services
+  * [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs  models)
+  * LLM Life cycle
+  * Training Datasets
+  * Metrics and Benchmarks
+  * Virtual Environments vs Virtual Machines vs the Cloud
 
 * Hands-On
-    * AI Analyst
-      * [Gardner AI Hype Cycle 2024](https://www.gartner.com/doc/reprints?id=1-2HV4V5W2&ct=240617&st=sb)
-      * [Process Trends](https://www.researchgate.net/publication/270218416_Business_Process_Trends/figures?lo=1)
-      * [Years to AGI](https://www.reddit.com/r/OpenAI/comments/191qk1d/ark_invest_predicts_agi_will_be_achieved_until/)
-    * Transformer Architecture
-        * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-    * Prompt Engineering
-        * [OpenAI Playground](https://platform.openai.com/playground/chat)
-        * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-        * [Claude System Prompt](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024)
-        * [Google Gemini](https://ai.google.dev/gemini-api/prompts)
-        * [Google Prompts](https://aistudio.google.com/app/prompts/new_chat)
-        * [Google GEMs](https://gemini.google.com/u/0/gems/view)
-    * Laptop Setup
-        * Python
-        * Github
-        * VSCode
-        * VSCode Extensions (AI code assistants)
-    * Colab
-        * Setup and Test with [Ollama with Llama 3.1](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
-    * Prompt Engineering
-        * [DAIR.ai Prompt Engineering Guide](https://www.promptingguide.ai/)
-        * [Jailbreaks](https://jailbreaks.org/)
-    * LLM Benchmarks:
-        * [Stanford HELM](https://crfm.stanford.edu/helm/)
-        * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
-    * LLM Leaderboards
-        * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
-        * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-        * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
+  * Google NotebookLM Paper-to-Podcast
+    * [NotebookLM](https://notebooklm.google.com/)
+    * [V0](https://digitaldemocracy.calmatters.org/bills/ca_202320240sb1047)
+    * [Cursor Prompts](https://www.cursordirectory.com/)
+
+* AI Analyst
+  * [Gardner AI Hype Cycle 2024](https://www.gartner.com/doc/reprints?id=1-2HV4V5W2  ct=240617&st=sb)
+  * [Process Trends](https://www.researchgate.net/publication  270218416_Business_Process_Trends/figures?lo=1)
+  * [Years to AGI](https://www.reddit.com/r/OpenAI/comments/191qk1d/ark_invest_predicts_agi_will_be_achieved_until/)
+* Research
+  * [Phind.com](https://www.phind.com/)
+* API
+  * Popular APIs
+    * CNN
+  * [HackerNews API JSON](https://github.com/darrenpaine/HackerNews-Pipeline/blob/main/Hacker%20News%20Pipeline.ipynb)
+  * GopherSignal
+  * [Gopher Signal](https://gophersignal.com/)
+  * [Swagger API](https://gophersignal.com/swagger/index.html#/)
+* Transformer Architecture
+  * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+* Prompt Engineering
+  * [OpenAI Playground](https://platform.openai.com/playground/chat)
+  * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+  * [Claude System Prompt](https://docs.anthropic.com/en/release-notes  system-prompts#july-12th-2024)
+  * [Google Gemini](https://ai.google.dev/gemini-api/prompts)
+  * [Google Prompts](https://aistudio.google.com/app/prompts/new_chat)
+  * [Google GEMs](https://gemini.google.com/u/0/gems/view)
+* Embeddings
+  * [NEW LLama Embedding for Fast NLP💥 Llama-based Lightweight NLP Toolkit 💥 (10:23) (15 Sep 2024)](https://www.youtube.com/watch?v=GF7wnswJF74)
+* Colab
+  * Setup and Test with [Ollama with Llama 3.1](https://colab.research.google.com/drive/1WCsHuRedSztAFDa-3bRpnPuSX9KiLdto?usp=sharing)
+* Prompt Engineering
+  * [DAIR.ai Prompt Engineering Guide](https://www.promptingguide.ai/)
+  * [Jailbreaks](https://jailbreaks.org/)
+
 
 ## In-Class Programming Task:
 Create a Python script that uses the OpenAI API to generate a short story based on user input. The script should:

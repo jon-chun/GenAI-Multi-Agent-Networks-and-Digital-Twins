@@ -1,5 +1,10 @@
 # Week 6: Mini-Project Embeddings
 
+## Readings
+
+* Big Picture
+  * [SELECTIONS from Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:43) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
+
 * Human-AI programming
 
   * [Aider (Upgraded) : This Coding Agent just got AMAZING with DeepSeek-V2.5 Support, Caching & More! (8:50) (11 Aug 2024)](https://www.youtube.com/watch?v=s0nzjuJeibQ)

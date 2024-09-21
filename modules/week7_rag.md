@@ -29,6 +29,7 @@
 
 * RAG
   * [Ollama Rag Colab](https://colab.research.google.com/drive/1cqLm7bxVAvh5HA5X38KG-gmofdGrEAwN?usp=sharing)
-
 * Multimodal RAG Pipeline
   * [Sparrow](https://github.com/katanaml/sparrow)
+* Memory Rag
+  * [MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery (18 Sep 2024)](https://github.com/qhjqhj00/MemoRAG)
