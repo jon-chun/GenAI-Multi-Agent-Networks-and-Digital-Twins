@@ -36,6 +36,8 @@ We started the course with prompt engineering and embeddings to hit the ground r
 
 * Training Datasets
   * Scraping
+    * [This Open Source Scraper CHANGES the Game!!! (20:35) (Sep 2024)](https://www.youtube.com/watch?v=45hMI2QH1c8)
+    * [Github](https://www.automation-campus.com/downloads/scrapemaster)
   * Cleaning Pipelines
   * Synthesizing
 
@@ -125,6 +127,13 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 ## Bookeeeping
 
 ## Concepts
+
+* [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs  models)
+* LLM Life cycle
+* Training Datasets
+* Metrics and Benchmarks
+* Virtual Environments vs Virtual Machines vs the Cloud
+
 
 ## Hands-On
 
