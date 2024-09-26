@@ -73,10 +73,10 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 
 * Motivation
   * Udio.com
-    * [So All Alone](https://www.udio.com/search)
-    * [Tango del Lobo](https://www.udio.com/search)
+    * [So All Alone](https://www.udio.com/songs/5Ez3kNfY3F89Y7nnxrxssv)
+    * [Tango del Lobo](hhttps://www.udio.com/songs/m4hSMdNzkY5cGvQFk9W4Dm)
   * DeepFakes, IP, Fair Use, and Free Speech
-    * [They played my banned A.I. mashup in Congress (Johnny Cash x Barbie Girl) (2:52) (Jul 2024)](https://www.youtube.com/watch?v=-vh4ErO-i5o)
+    * [They played my banned  A.I. mashup in Congress (Johnny Cash x Barbie Girl) (2:52) (Jul 2024)](https://www.youtube.com/watch?v=-vh4ErO-i5o)
     * [Johnny Cash - Barbie Girl (Cover by There I Ruined it) Restoration (1:56) (2023)](https://www.youtube.com/watch?v=MAFdzBTe2lg)
     * [Pulp Fiction: The Musical (EXTENDED) (0:58) (2023)](https://www.youtube.com/watch?v=6uLYs5tB0Is)
   * Meta GenAI and Future of Work
