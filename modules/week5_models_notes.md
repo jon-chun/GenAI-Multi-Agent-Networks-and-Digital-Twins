@@ -109,21 +109,8 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 ## Concepts
 
 * [OpenAI Developer Platform, API and Models](https://platform.openai.com/docs)
-* LLM Life cycle
-* Training Datasets
-* Metrics and Benchmarks
-* Virtual Environments vs Virtual Machines vs the Cloud
-
 
 ## Hands-On
-
-* LLM Benchmarks:
-  * [Stanford HELM](https://crfm.stanford.edu/helm/)
-  * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
-* LLM Leaderboards
-  * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
-  * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-  * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
 ## In-Class Programming Task
 

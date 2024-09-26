@@ -63,9 +63,9 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 NOTE: Content will be added each week for Fall 2024
 
 * [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (OPEN)
-* [**Week 1:** Course Introduction and AI Overview](./modules/week1_ai_overview.md) (OPEN)
-* [**Week 2:** Prompt Engineering and OpenAI API Basics](./modules/week2_prompting.md) (OPEN)
-* [**Week 3:** Miniproject 1: Develop a basic function-calling application using OpenAI API](./modules/week3_miniproject1_chatbot.md) (Open)
+* [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (OPEN)
+* [**Week 2:** Prompt Engineering and OpenAI API](./modules/week2_prompting.md) (OPEN)
+* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md) (Open)
 
 #### Reflection Questions
 
@@ -125,9 +125,9 @@ Introduction to RAG and its implementation using LangChain. Students will create
 
 #### Detailed Content
 
-* [**Week 7:** Introduction to Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
-* [**Week 8:** Working with LangChain for RAG Applications](./modules/oh_noes_404.md)
-* [**Week 9:** Miniproject 3: Implementing a RAG application using LangChain](./modules/oh_noes_404.md)
+* [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
+* [**Week 8:** LangChain and LlamaIndex](./modules/oh_noes_404.md)
+* [**Week 9:** Miniproject 3: A Smart RAG Application](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -156,9 +156,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* [**Week 10:** Introduction to Autonomous Multi-Agent Systems](./modules/oh_noes_404.md)
-* [**Week 11:** Simulation and Modelling of Multi-Agent Systems](./modules/oh_noes_404.md)
-* [**Week 12:** Miniproject 4: Creating and Benchmarking Autonomous Multi-Agent Simulations](./modules/oh_noes_404.md)
+* [**Week 10:** Autonomous Agents](./modules/oh_noes_404.md)
+* [**Week 11:** Multi-Agent Systems](./modules/oh_noes_404.md)
+* [**Week 12:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
