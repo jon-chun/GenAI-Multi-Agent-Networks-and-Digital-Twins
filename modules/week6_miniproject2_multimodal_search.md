@@ -2,6 +2,12 @@
 
 ## Readings
 
+
+### Coding
+
+* [Function-Calling and Data Extraction with LLMs (1hr)](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)
+* [Improving Accuracy of LLM Applications (1hr)](https://www.deeplearning.ai/short-courses/improving-accuracy-of-llm-applications/)
+
 * Big Picture
   * [SELECTIONS from Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:43) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
 
