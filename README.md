@@ -65,7 +65,7 @@ NOTE: Content will be added each week for Fall 2024
 * [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (OPEN)
 * [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (OPEN)
 * [**Week 2:** Prompt Engineering and OpenAI API](./modules/week2_prompting.md) (OPEN)
-* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md) (Open)
+* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md) (OPEN)
 
 #### Reflection Questions
 
@@ -94,7 +94,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-* [**Week 4:** Embeddings](./modules/week4_embeddings.md)
+* [**Week 4:** Embeddings](./modules/week4_embeddings.md) (OPEN)
 * [**Week 5:** Models](./modules/oh_noes_404.md)
 * [**Week 6:** Miniproject 2: MLOps](./modules/oh_noes_404.md)
 
