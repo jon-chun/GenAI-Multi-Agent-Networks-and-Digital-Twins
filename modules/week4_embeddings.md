@@ -41,7 +41,7 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 ### Coding: Embeddings and Training Datasets
 
 * [Deeplearning.ai: Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/courses/google-cloud-vertex-ai/lesson/1/introduction)
-* [Deeplearning.ai: Preprocessing Unstructured Data for LLM Applications](https://learn.deeplearning.ai/courses/preprocessing-unstructured-da ta-for-llm-applications/lesson/1/introduction)
+* [Deeplearning.ai: Preprocessing Unstructured Data for LLM Applications](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)
 
 ### Focus on These Concepts:
 

@@ -41,8 +41,8 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Coding
 
-* [Embedding Models: From Architecture to Implementation (1hr)](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
-* [Pretraining LLMs (1hr)](https://www.deeplearning.ai/short-courses/pretraining-llms/)
+* [deeplearning.ai: Embedding Models: From Architecture to Implementation (1hr)](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
+* [deeplearning.ai: Pretraining LLMs (1hr)](https://www.deeplearning.ai/short-courses/pretraining-llms/)
 
 ## In-Class
 
