@@ -58,11 +58,24 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 * Dillon
 * Sammy
 
+### New
+
+* [Self-Aware IA](https://x.com/omooretweets/status/1840251853327741138)
+* [NVIDIA and LlamaIndex Developer Contest](https://developer.nvidia.com/llamaindex-developer-contest)
+
+### Research
+
+* [OpenReview CoNLL](https://openreview.net/group?id=EMNLP/2024/Workshop/CoNLL#tab-accept-poster)
+* [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444549/abstract)
+
 ### Tools
 
 * [summarize-hn](https://github.com/jon-chun/summarize-hnews) to quickly digest hundreds of comments and threads
+* [NotebookLM in Hacker News](https://news.ycombinator.com/item?id=41693087)
 
-## Concepts
+* [How to Create a History Channel with ChatGPT & AI Video Generator (19:14) (25 Sep 2024)](https://www.youtube.com/watch?v=ez3EaqW1JyI)
+
+### Concepts
 
 * LLM Benchmarks
 * LLM Life cycle
@@ -70,12 +83,16 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 * Metrics and Benchmarks
 * Virtual Environments vs Virtual Machines vs the Cloud
 
-## Review Coding Assignments
+### Review Coding Assignments
 
 * [Embedding Models: From Architecture to Implementation (1hr)](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
 * [Pretraining LLMs (1hr)](https://www.deeplearning.ai/short-courses/pretraining-llms/)
 
 ## Resources
+
+* Prompt Engineering
+  * [Contextual Retrieval with Any LLM: A Step-by-Step Guide (15:36) (30 Sep 2024)](https://www.youtube.com/watch?v=6efwN_US-zk&t=126s)
+  * [Github](https://github.com/Coding-Crashkurse/LangGraph-Tutorial)
 
 * Tokenization
   * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)

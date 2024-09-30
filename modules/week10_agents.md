@@ -11,3 +11,6 @@
     * [Slides](https://iclr.cc/media/iclr-2024/Slides/17662.pdf)
     * [Github](https://github.com/chengjunyan1/SocioDojo)
   * [AgentWrite with LangGraph (19:21) (6 Sep 2024)](https://www.youtube.com/watch?v=nK9K8UPraXk&t=569s)
+
+
+* [LangGraph: Hierarchical Agents - How to build Boss & Subordinate Agents (13:34) (17 Jun 2024)](https://www.youtube.com/watch?v=9HhcFiSgLok)
