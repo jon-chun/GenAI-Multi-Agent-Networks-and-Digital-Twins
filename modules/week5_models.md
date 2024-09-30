@@ -33,8 +33,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 * Overview
   * [What is Large Multimodal Models (LMMs)? LMMs vs LLMs in '24 by Cem Dilmegani (6 Sep 2024)](https://research.aimultiple.com/large-multimodal-models/)
 * Tokenizer
-  * [Byte Pair Encoding Tokenization (5:32) (2012)](https://www.youtube.com/watch?v=HEikzVL-lZU)
-  * [OpenAI Tokenizer tiktoken](https://platform.openai.com/tokenizer)
+  * [Byte Pair Encoding (7:37) (2021)](https://www.youtube.com/watch?v=tOMjTCO0htA)
 * Hyperparameters
   * [Optimize Your AI Models (11:42) (28 Sep 2024)](https://www.youtube.com/watch?v=QfFRNF5AhME)
 * Size
@@ -71,6 +70,8 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Tools
 
+* [OpenAI Tokenizer tiktoken](https://platform.openai.com/tokenizer)
+  
 * [summarize-hn](https://github.com/jon-chun/summarize-hnews) to quickly digest hundreds of comments and threads
 * [NotebookLM in Hacker News](https://news.ycombinator.com/item?id=41693087)
 
