@@ -30,6 +30,22 @@
 
 * [Awesome Hallucination Detection (570)](https://github.com/EdinburghNLP/awesome-hallucination-detection)
 
+## Embeddings
+
+* [Awesome Sentence Embedding (299) (2023)](https://github.com/Doragd/Awesome-Sentence-Embedding)
+* [Awesome Vector Embeddings (4) (2023)](https://github.com/AI-Northstar-Tech/awesome-vector-embeddings)
+* [Awesome Multi-Modal Embeddings (3) (2023)](https://github.com/shanyu-sys/Awesome-multi-modal-embeddings)
+* [Awesome Sentence Embedding (2.2k) (2021)](https://github.com/Separius/awesome-sentence-embedding)
+* [Awesome Network Embedding (2.6k) (2020)](https://github.com/chihming/awesome-network-embedding)
+* [Awesome Embedding Models (1.8k) (2019)](https://github.com/Hironsan/awesome-embedding-models)
+  
+## Embedding Library
+
+* [BMRetriever Biomed Retriever (14) (Sep 2024)](https://github.com/ritaranx/BMRetriever) [ArXiv](https://arxiv.org/abs/2404.18443)
+* [SelfSNE Multimodal Dim Red Embeddings (156) (Jun 2024)](https://github.com/jgraving/selfsne)
+* [GISTEmbed In-Sample Neg Selection of Embeddings (30) (Mar 2024)](https://github.com/worldbank/GISTEmbed)
+* [OpenL3 Audio/Image Embeddings (456) (2023)](https://github.com/marl/openl3)
+
 ## LLM NLP
 
 * [Awesome Transformer NLP (1.1k)](https://github.com/cedrickchee/awesome-transformer-nlp)
@@ -64,8 +80,9 @@
 
 * [Awesome LangChain (7.5k)](https://github.com/kyrolabs/awesome-langchain)
 
-## LLM Graphs
+## LLM Graphs and KG
 
+* [Awesome LLM KG](https://github.com/RManLuo/Awesome-LLM-KG)
 * [Awesome Graph LLM (1.7k)](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ## LLM Video

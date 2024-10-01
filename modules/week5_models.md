@@ -112,6 +112,10 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
   * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
   * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
+* Embeddings
+  * [Awesome Sentence Embeddings (299)](https://github.com/Doragd/Awesome-Sentence-Embedding)
+  * [Google Vertex API Embeddings](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/embeddings/README.md)
+  * 
 * Memory Calculator
   * [Huggingface Training Calculator](https://huggingface.co/docs/accelerate/main/en/usage_guides/model_size_estimator)
 
