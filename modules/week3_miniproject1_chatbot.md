@@ -37,6 +37,10 @@ As AI models like GPT have become more powerful, they've also become more access
 
 ## In-Class
 
+* Prompt Engineering
+  * [Learning to Reason with LLMs (12 Sep 2024)](https://openai.com/index/learning-to-reason-with-llms/)
+  * [OpenAI Reasoning Models](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting?reasoning-prompt-examples=coding-planning)
+
 * Leaderboards
   * Huggingface
     * [Huggingface Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)

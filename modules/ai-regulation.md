@@ -2,13 +2,20 @@
 
 * EU AI Act
   * [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024PC0210)
+  * [Implementation Timeline](https://artificialintelligenceact.eu/implementation-timeline/)
+  * [EU AI Act Summary](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+  * [High-level summary of the AI Act (27 Feb 2024)](https://artificialintelligenceact.eu/high-level-summary/)
+  * [The European Union's AI Act: What You Need to Know (15 Mar 2024)](https://www.hklaw.com/en/insights/publications/2024/03/the-european-unions-ai-act-what-you-need-to-know)
 * California SB-1047
   * [Bills](https://legiscan.com/CA/text/SB1047/id/3019694)
   * [CA Senate SUBJECT: Safe and Secure Innovation for Frontier Artificial Intelligence Models Act (18 Jun 2024)](https://apcp.assembly.ca.gov/system/files/2024-06/sb-1047-wiener-apcp-analysis_0.pdf)
   * Supporters:
+    * [Pro vs Con](https://www.perplexity.ai/search/give-a-list-of-prominent-ai-re-caDdphl2TKmfUyMRdI5tdQ)
     * [My Takes on SB 1047 by Leogao (9 Sep 2024)](https://www.lesswrong.com/posts/kBg5eoXvLxQYyxD6R/my-takes-on-sb-1047)
     * [Scott Aaronson (4 Sep 2024)](https://scottaaronson.blog/?p=8269)
+    * [Elon Musk](https://x.com/elonmusk/status/1828205685386936567?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1828205685386936567%7Ctwgr%5Eff08f8749ba18f71fe46fa1e01175f65248df901%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.theverge.com%2F2024%2F9%2F11%2F24226251%2Fcalifornia-sb-1047-ai-industry-regulation-backlash)
     * [Anthropic Offers Cautious Support for New California AI Regulation Legislation (26 Aug 2024)](https://thejournal.com/articles/2024/08/26/anthropic-offers-cautious-support-for-new-california-ai-regulation-legislation.aspx)
+    * [Anthropic Letter](https://www.reddit.com/r/LocalLLaMA/comments/1ezw5cd/anthropic_said_this_in_a_letter_to_governor_gavin/)
   * Opponents:
     * [Pelosi Statement](https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047)
     * [Intl Center for Law and Economics](https://laweconcenter.org/resources/coalition-letter-opposing-california-sb-1047/)
@@ -35,6 +42,7 @@
   * [California’s SB 1047 Would Impose New Safety Requirements for Developers of Large-Scale AI Models (29 Aug 2024)](https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models)
   * [Proposed California AI Law SB 1047 – An Overview For Developers (12 Sep 2024)](https://ktslaw.com/en/insights/alert/2024/9/%7B468C5A1A-3410-4E0F-892F-83EA3602EF61%7D?pdf=1)
   * [California’s SB-1047: Understanding the Safe and Secure Innovation for Frontier Artificial Intelligence Act (20 Feb 2024)](https://www.dlapiper.com/en/insights/publications/2024/02/californias-sb-1047)
+  * [EU AI Act: How It Will Affect Your Product Software Development (14 Aug 2024)](https://lembergsolutions.com/blog/eu-ai-act-how-it-will-affect-your-product-software-development)
 
 * Global
   * [Perplexity](https://www.perplexity.ai/search/list-recent-research-or-survey-A13uzM59SQWm2UCMf00E5A)
@@ -89,10 +97,14 @@
 * PDF
   * [PikePDF](https://github.com/pikepdf/pikepdf)
 * Preprocessing
-  * [SpaCy](https://spacy.io/usage)
+  * [SpaCy](https://spacy.io/usage)\
+  * [Unstructured](https://github.com/Unstructured-IO/unstructured)
   * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
 
 
 # Programming
+
+* Libraries
+  * [Top Python libraries of 2023 (20 Dec 2023)](https://tryolabs.com/blog/top-python-libraries-2023)
 * Coding
   * [The Pragmatic Programmer for Machine Learning (22 Mar 2023)](https://ppml.dev/)
