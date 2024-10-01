@@ -70,6 +70,8 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Tools
 
+* [OpenAI API Doc: Embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models?lang=python)
+
 * [OpenAI Tokenizer tiktoken](https://platform.openai.com/tokenizer)
   
 * [summarize-hn](https://github.com/jon-chun/summarize-hnews) to quickly digest hundreds of comments and threads
