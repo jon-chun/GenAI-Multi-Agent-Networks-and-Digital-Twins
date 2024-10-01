@@ -8,6 +8,11 @@
 
 ## Readings
 
+* Hyperparamters
+* Function Calling
+* Context Caching
+* Security: Jailbreaking and Pentesting
+* 
 * Advanced Prompts
   * Context Caching
     * [CONTEXT CACHING for Faster and Cheaper Inference (35:25) (3 Sep 2024)](https://www.youtube.com/watch?v=YeAAUghx_Xs)
@@ -43,8 +48,7 @@
 * Structured Output
   * [Colab to Reading above](../code/week4_llm_functions_How_to_return_structured_data_from_LLMs_20240912.ipynb)
 
-* Laptop Setup
-    * Python
-    * Github
-    * VSCode
-    * VSCode Extensions (AI code assistants)
+* Embeddings
+  * [Embeddings in Depth - Part of the Ollama Course (10:26) (4 Sep 2024)](https://www.youtube.com/watch?v=aGwb1KLmtog&t=8s)
+  * [Github Repo](https://github.com/technovangelist/videoprojects/tree/main/2024-02-22%20embeddings)
+  * [A Beginner's Guide to Vector Embeddings (8:28) (8 Jun 2024)](https://www.youtube.com/watch?v=NEreO2zlXDk)

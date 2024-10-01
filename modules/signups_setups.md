@@ -40,6 +40,8 @@
 * [Kaggle.com (free)](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2F)
 * [Google.com Colab ($10/mo plan)](https://colab.research.google.com/signup)
 * [OpenAI.com API ($20/mo + API fees)](https://chatgpt.com/)
+* [Groq.com](https://console.groq.com/)
+* [Google Gemini Free Tier](https://ai.google.dev/pricing)
 
 * OpenAI API Setup
   * Use non-Kenyon gmail account
