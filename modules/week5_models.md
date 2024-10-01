@@ -103,13 +103,30 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 * LLM Benchmarks:
   * [Stanford HELM](https://crfm.stanford.edu/helm/)
   * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
+  * [Evalverse](https://github.com/UpstageAI/evalverse)
 
 * LLM Leaderboards
   * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
   * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
   * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
+* Memory Calculator
+  * [Huggingface Training Calculator](https://huggingface.co/docs/accelerate/main/en/usage_guides/model_size_estimator)
+
+* Data Cleaning
+  * [Unstructured](https://github.com/Unstructured-IO/unstructured)
+  * [Dataverse](https://github.com/UpstageAI/dataverse)
+  * [Databricks Cleanlab Studio](https://www.databricks.com/blog/better-llms-better-data-using-cleanlab-studio)
+
 * Fine-Tune
   * [Ollama  + Unsloth + Llama-3 + Alpaca.ipynb](https://colab.research.google.com/drive/1WZDi7APtQ9VsvOrQSSC5DDtxq159j8iZ?usp=sharing)
   * [FLUX + LORA and Kling AI (Consistent Characters & AI Videos with Your Face) (25:55) (8 Sep 2024)](https://www.youtube.com/watch?v=mUR8CUmDbo0)
   * [Unsloth Colab](https://github.com/unslothai/unsloth)
+  * [Train BERT on Academic Budget (2023)](https://github.com/IntelLabs/academic-budget-bert)
+  * [Stanford SOPHIA](https://arxiv.org/pdf/2305.14342)
+
+* MLOps
+  * [Substratus.ai](https://substratus.ai/blog)
+  
+* Awesome Lists
+  * []Best of ML Python(https://github.com/ml-tooling/best-of-ml-python)
