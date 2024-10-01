@@ -94,15 +94,9 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-<<<<<<< HEAD
-* [**Week 4:** Introduction to GPT, Embeddings, and Language Models](./modules/week4_embeddings.md)
-* [**Week 5:** Application of Embeddings in AI](./modules/models.md)
-* [**Week 6:** Miniproject 2: Exploring Embeddings and Explainability on a familiar dataset/task](./modules/oh_noes_404.md)
-=======
 * [**Week 4:** Embeddings](./modules/week4_embeddings.md) (OPEN)
 * [**Week 5:** Models](./modules/oh_noes_404.md) (OPEN)
-* [**Week 6:** Miniproject 2: MLOps](./modules/oh_noes_404.md)
->>>>>>> 4c7a4b7d8be0898d7d589d23f6901f51c0a6ec3b
+* [**Week 6:** Miniproject 2: MLOps](./modules/week5_models.md)
 
 #### Reflection Questions
 
