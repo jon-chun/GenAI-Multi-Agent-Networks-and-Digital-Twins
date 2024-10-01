@@ -4,6 +4,18 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 
 ## Newsletters
 
+* [tldr.tech](https://tldr.tech/)
+* [DeepLearning.ai Newsletter](https://www.deeplearning.ai/the-batch/)
+* [OpenTools.ai](https://newsletter.opentools.ai/)
+* [AlphaSignal.ai](https://alphasignal.ai/?idref=email_ref)
+
+## Daily News Summaries and Searches
+
+* [Feedly.com AI Blogs](https://feedly.com/i/top/ai-blogs)
+* [Knowentry.com](https://knowentry.com/)
+* [Harmonious.ai](https://www.harmonious.ai/)
+* [Buttondown AI News](https://buttondown.com/ainews/archive/)
+
 * [Superhuman AI](https://superhuman.ai)
   - Subscribers: 700,000+
   - Focus: Practical AI advice for productivity and career advancement
@@ -48,6 +60,15 @@ Here is a sample for some of the sources for AI news, technology, and research. 
   - Subscribers: 100,000+
   - Focus: Generative AI and data science discussions
   - Frequency: Weekly
+
+## Blogs
+
+* [The Gradient](https://thegradient.pub/)
+* [Less Wrong](https://www.lesswrong.com/)
+* [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/)
+* [Huggingface Blog](https://huggingface.co/blog)
+* [LangChain Blog](https://blog.langchain.dev/)
+
 
 ## Social Media
 
@@ -183,6 +204,12 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 * [ManuAGI](https://www.youtube.com/@ManuAGI)
 * [IndyDevDan](https://www.youtube.com/@indydevdan)
 
-## Research
+## Research Papers
+
+* [SemanticScholar.org Dashboard](https://www.semanticscholar.org/me/research)
+* [Arxiv.org]()
+* [Paper Digest](https://www.paperdigest.org/)
+
+## Research Methods
 
 * [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton)
