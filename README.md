@@ -95,7 +95,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 #### Detailed Content
 
 * [**Week 4:** Embeddings](./modules/week4_embeddings.md) (OPEN)
-* [**Week 5:** Models](./modules/oh_noes_404.md) (OPEN)
+* [**Week 5:** Models](./modules/week5_models.md) (OPEN)
 * [**Week 6:** Miniproject 2: MLOps](./modules/oh_noes_404.md)
 
 #### Reflection Questions
