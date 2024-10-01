@@ -16,6 +16,8 @@
 * RAG Multimodal
   * [Building a Multimodal RAG App for Medical Applications (48:54) (Feb 2024)](https://www.youtube.com/watch?v=fbbFrCfaF0w)
 
+* Contextual RAG
+  * [Contextual RAG is stupidly brilliant! (15:02) (23 Sep 2024)](https://www.youtube.com/watch?v=42Da0O9zkhc)
 
 ## In-Class
 
