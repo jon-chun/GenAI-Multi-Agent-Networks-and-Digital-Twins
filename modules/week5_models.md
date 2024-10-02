@@ -48,10 +48,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Overhead
 
-* Quiz
-* AI News
-* AI Releases
-* AI Research
+* [Quiz]()
 
 ### Presentations
 
@@ -67,9 +64,17 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
   * [PDFtoPodcast](https://github.com/knowsuchagency/pdf-to-podcast)
 * [Generative AI, Labor & Upskilling Workshop](https://generativeailaborupskillingwor.splashthat.com/)
 
-### New
+* [AI News](ai_news.md)
+* [Awesome LLM Repos](ai_awesome.md)
+* [AI Regulation](ai_regulation.md)
 
+### Special Announcements
+
+* [Prof Elkins Sabbatical Talk]()
 * [NVIDIA and LlamaIndex Developer Contest](https://developer.nvidia.com/llamaindex-developer-contest)
+
+### News
+
 * Meta Connect 2024
   * [Meta Connect 2024 Homepage](https://www.meta.com/connect/)
   * [Meta Connect 2024: Everything Revealed in 12 Minutes (11:48) (26 Sep 2024)](https://www.youtube.com/watch?v=l_QruJ0Kv9U)
@@ -79,7 +84,6 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
   * [OpenAI DevDay in 5 Minutes: 4 Major API Updates (5:06) (1 Oct 2024)](https://www.youtube.com/watch?v=wzRYBfntk6M)
   * [OpenAI DevDay | Realtime Speech to Speech API + Image Fine-tuning TESTED (21:54) (2 Oct 2024)](https://youtu.be/K5pbPZse0oI?t=401)
   * [Playground.livekit.io](https://playground.livekit.io/)
-
 
 ### Research
 
@@ -96,6 +100,14 @@ considerations respectively are either combined into one section or more meaning
 distinguished (i.e., the ethical considerations are just challenges framed at a higher level of
 abstraction). Section 6 does not provide any new information and should be revised or cut.
 
+### Concepts
+
+* LLM Benchmarks
+* LLM Life cycle
+* Training Datasets
+* Metrics and Benchmarks
+* Virtual Environments vs Virtual Machines vs the Cloud
+
 ### Tools
 
 * [OpenAI API Doc: Embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models?lang=python)
@@ -110,18 +122,14 @@ abstraction). Section 6 does not provide any new information and should be revis
   * [InstructOR Embedder](https://instructor-embedding.github.io/)
   * [ArXiv](https://arxiv.org/abs/2212.09741)
 
-### Concepts
-
-* LLM Benchmarks
-* LLM Life cycle
-* Training Datasets
-* Metrics and Benchmarks
-* Virtual Environments vs Virtual Machines vs the Cloud
-
 ### Review Coding Assignments
 
 * [Embedding Models: From Architecture to Implementation (1hr)](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
 * [Pretraining LLMs (1hr)](https://www.deeplearning.ai/short-courses/pretraining-llms/)
+
+### STT Model
+
+* [OpenAI Whisper Colab](https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb#scrollTo=ZsJUxc0aRsAf)
 
 ## Resources
 
@@ -170,4 +178,4 @@ abstraction). Section 6 does not provide any new information and should be revis
   * [H2o GPT](https://github.com/h2oai/h2ogpt) [Colab](https://drive.google.com/file/d/1ekNk0JLCw-phFd-0YL7TDCdl_07Rfny9/view?usp=sharing)
   
 * Awesome Lists
-  * []Best of ML Python(https://github.com/ml-tooling/best-of-ml-python)
+  * [Awesome Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
