@@ -75,6 +75,11 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### News
 
+* Dockworkers Strike
+  * [What's behind the dockworkers strike and what it means for U.S. consumers (6:07)) (1 Oct 2024)](https://www.youtube.com/watch?v=AzzMKa3TTi4)
+  * [The World’s Smartest Port: How China Won the Shipping Race (7:10) (2023)](https://www.youtube.com/watch?v=P5kO_BnXAwc)
+  * [BRICS: China is completing a global ports network for the BRICS economic bloc and nobody noticed (11:02) (Sep 2024)](https://www.youtube.com/watch?v=3aZ01L4E3-c)
+
 * Meta Connect 2024
   * [Meta Connect 2024 Homepage](https://www.meta.com/connect/)
   * [Meta Connect 2024: Everything Revealed in 12 Minutes (11:48) (26 Sep 2024)](https://www.youtube.com/watch?v=l_QruJ0Kv9U)
