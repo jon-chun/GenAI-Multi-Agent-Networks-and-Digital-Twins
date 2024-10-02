@@ -8,6 +8,10 @@
   * [(CrewAI) AI Agent Framework Battle: CrewAI vs. AutoGen vs. LangGraph vs Agent Zero | Underdog Triumphs? [1/5] (24:58) (2 Sep 2024)](https://www.youtube.com/watch?v=bBl0JyK4K4E)
   * [Github](https://github.com/Florenz23/ai-agent-videos/tree/master/benchmark_stock_analysis)
 
+### Coding
+
+* [DeepLearning.ai: AI Agentic Design Patterns with AutoGen (1hr)](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+* [DeepLearning.ai: Multi-AI Agent Systems with CrewAI (1hr)](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
 ## In-Class
 
