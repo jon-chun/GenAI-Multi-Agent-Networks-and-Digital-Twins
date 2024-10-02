@@ -187,6 +187,7 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 
 ### Projects
 
+* [PromptEngineer48](https://www.youtube.com/@PromptEngineer48/videos)
 * [Matt Williams](https://www.youtube.com/@technovangelist)
 * [Sam Witteveen AI](https://www.youtube.com/@samwitteveenai)
 * [Mervin Praison](https://www.youtube.com/@MervinPraison)

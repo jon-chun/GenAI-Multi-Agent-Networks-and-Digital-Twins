@@ -4,7 +4,29 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 
 ## Readings
 
+### Quiz
+
+[Week5 Quiz]()
+
+### Presentations
+
+* Student A
+* Student B
+
+### Announcements
+
+* [Sample Gradio AI Apps](https://github.com/mgultekin/Building-Generative-AI-Applications-with-Gradio)
+* [Midjourney Prompt Generator (broken)](https://colab.research.google.com/github/AnthusAI/openai-midjourney-prompt-generator/blob/main/midjourney-prompt-generator.ipynb)
+* [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
+* [OpenAI Cookbook](https://cookbook.openai.com/)
+
 ### News
+
+### Research
+
+* [SemanticScholar.org Research Dashboard](https://www.semanticscholar.org/me/research)
+* [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)
+* [ECCV 2024 Papers](https://huggingface.co/spaces/ECCV/ECCV2024-papers)
 
 ### Datasets
 
@@ -79,9 +101,20 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [LLM Datasets (Sep 2024)](https://github.com/mlabonne/llm-datasets)
 * [LLM DataHub (2023)](https://github.com/Zjh-819/LLMDataHub)
 
+### Synthetic Data
+
+* [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
+
 ### Fine-Tuning
 
-* [Unsloth Github](https://github.com/unslothai/unsloth)
+* Unsloth
+  * [Github](https://github.com/unslothai/unsloth)
+  * [Colab](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
+  * [Video (17:35) (29 Sep 2024)](https://www.youtube.com/watch?v=YZW3pkIR-YE)
+* Videos
+  * [Fine-Tune Llama3 using Synthetic Data (37:02) (6 May 2024)](https://www.youtube.com/watch?v=jAnVvLRPvJo&list=PLD7HrIBE_yqLv07dzDYmgmuRJRIdl0uQg&index=15) [Colab](https://colab.research.google.com/drive/1WzHVa1b6Zg862XloxY7KlvKb1gCBiMVT?usp=sharing)
+  * [How to Fine-Tune Qwen-2 for Free | Open-Source LLM Guide (13:19) (30 Sep 2024)](https://www.youtube.com/watch?v=f9Fi9IKa-0M) [Colab](https://colab.research.google.com/drive/1evx24o1tN33HAb5eI-hFsQtez1VivdDo)
+* [How-To Fine-Tune Llama 3.2 11B Vision Model on Custom Dataset Locally (17:07) (1 Oct 2024)](https://www.youtube.com/watch?v=zGqQGtmXFQ8) [Colab](https://colab.research.google.com/github/philschmid/deep-learning-pytorch-huggingface/blob/main/training/fine-tune-multimodal-llms-with-trl.ipynb)
 
 ### AI Applications
 * [Build Streamlit Apps with AI and Deploy in Two Clicks on Replit (34:59) (7 Sep 2024)](https://www.youtube.com/watch?v=UFyXVC_nzZE)
