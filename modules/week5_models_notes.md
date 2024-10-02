@@ -18,8 +18,6 @@
   * Cleaning Pipelines
   * Synthesizing
 
-
-
 * Fine-Tuning
   * Pipeline
   * Monitoring and Evaluation
