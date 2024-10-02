@@ -17,3 +17,12 @@
 
 * LangGraph
   * []()
+
+### Coding
+
+* [DeepLearning.ai: Functions Tools and Agents with LangChain (1hr)](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+* [DeepLearning.ai: LangChain for LLM Application Development (1hr)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+* [DeepLearning.ai: AI Agents in LangGraph (1hr)](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+
+
+* [DeepLearning.ai: Building Agentic RAG with LlamaIndex (1hr)](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)

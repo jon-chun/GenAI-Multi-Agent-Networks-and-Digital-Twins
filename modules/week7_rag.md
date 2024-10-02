@@ -19,6 +19,10 @@
 * Contextual RAG
   * [Contextual RAG is stupidly brilliant! (15:02) (23 Sep 2024)](https://www.youtube.com/watch?v=42Da0O9zkhc)
 
+### Code
+
+* [Multimodal RAG Chat with Video (1hr)](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
+
 ## In-Class
 
 * [NVIDIA RAG Contest](https://developer.nvidia.com/llamaindex-developer-contest?ncid=em-anno-190320&nvweb_e=n2j3n8SXfBKSp_LcvHb5_A5Lwybv_QzDKSDLHwuv5ihIRX1Sgrzu5OzD6pzbiQnq5vC9P0cK72ZIVhIp25LTGQ&mkt_tok=MTU2LU9GTi03NDIAAAGVvpjnETBxk6YNpyjsbZZaN7nxJIDe88MjeTHnMLm_jNWlJsvYuq2V9UCeZoK70_R7Fvy3Zcv5aWzbx47Bv-NJUmQbPwYGXaeqP17tThfHVm48AyCni44)
