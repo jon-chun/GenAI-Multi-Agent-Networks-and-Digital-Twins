@@ -58,15 +58,43 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 * Dillon
 * Sammy
 
-### New
+### Follow-ups
 
 * [Self-Aware IA](https://x.com/omooretweets/status/1840251853327741138)
+* Open NotebookLM
+  * [Open NotebookLM](https://github.com/gabrielchua/open-notebooklm)
+  * [Open NotebookLM Huggingface](https://huggingface.co/spaces/gabrielchua/open-notebooklm)
+  * [PDFtoPodcast](https://github.com/knowsuchagency/pdf-to-podcast)
+* [Generative AI, Labor & Upskilling Workshop](https://generativeailaborupskillingwor.splashthat.com/)
+
+### New
+
 * [NVIDIA and LlamaIndex Developer Contest](https://developer.nvidia.com/llamaindex-developer-contest)
+* Meta Connect 2024
+  * [Meta Connect 2024 Homepage](https://www.meta.com/connect/)
+  * [Meta Connect 2024: Everything Revealed in 12 Minutes (11:48) (26 Sep 2024)](https://www.youtube.com/watch?v=l_QruJ0Kv9U)
+  * [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more (26 Sep 2024)](https://techcrunch.com/2024/09/26/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
+* OpenAI Dev Day
+  * [OpenAI Dev Day Homepage](https://openai.com/devday/)
+  * [OpenAI DevDay in 5 Minutes: 4 Major API Updates (5:06) (1 Oct 2024)](https://www.youtube.com/watch?v=wzRYBfntk6M)
+  * [OpenAI DevDay | Realtime Speech to Speech API + Image Fine-tuning TESTED (21:54) (2 Oct 2024)](https://youtu.be/K5pbPZse0oI?t=401)
+  * [Playground.livekit.io](https://playground.livekit.io/)
+
 
 ### Research
 
 * [OpenReview CoNLL](https://openreview.net/group?id=EMNLP/2024/Workshop/CoNLL#tab-accept-poster)
 * [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444549/abstract)
+* Nature:
+  Structure/ flow: the structure of the paper is currently confused in several places leading to
+an inconsistent narrative and/ repetitive discussions. E.g., Section 3.1.2 focuses on “attitudes
+towards AI” as a challenge posed by pandemic response AI applications. However, this isn’t a
+challenge per se, this is a response by the public to a challenge (e.g., the risk of unequal
+healthcare outcomes). Inconsistencies like this undermine the flow of the narrative. Similarly
+the paper could be more concise is sections 3 and 4 discussing challenges and ethical
+considerations respectively are either combined into one section or more meaningfully
+distinguished (i.e., the ethical considerations are just challenges framed at a higher level of
+abstraction). Section 6 does not provide any new information and should be revised or cut.
 
 ### Tools
 
@@ -75,7 +103,10 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 * [summarize-hn](https://github.com/jon-chun/summarize-hnews) to quickly digest hundreds of comments and threads
 * [NotebookLM in Hacker News](https://news.ycombinator.com/item?id=41693087)
 
-* [How to Create a History Channel with ChatGPT & AI Video Generator (19:14) (25 Sep 2024)](https://www.youtube.com/watch?v=ez3EaqW1JyI)
+* InstructOR Embeddings
+  * [Github](https://github.com/xlang-ai/instructor-embedding)
+  * [InstructOR Embedder](https://instructor-embedding.github.io/)
+  * [ArXiv](https://arxiv.org/abs/2212.09741)
 
 ### Concepts
 
@@ -127,6 +158,10 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 * MLOps
   * [Substratus.ai](https://substratus.ai/blog)
+
+* Sample Applications
+  * [How to Create a History Channel with ChatGPT & AI Video Generator (19:14) (25 Sep 2024)](https://www.youtube.com/watch?v=ez3EaqW1JyI)
+  * [H2o GPT](https://github.com/h2oai/h2ogpt) [Colab](https://drive.google.com/file/d/1ekNk0JLCw-phFd-0YL7TDCdl_07Rfny9/view?usp=sharing)
   
 * Awesome Lists
   * []Best of ML Python(https://github.com/ml-tooling/best-of-ml-python)

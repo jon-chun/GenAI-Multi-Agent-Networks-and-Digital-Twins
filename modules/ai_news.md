@@ -4,6 +4,7 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 
 ## Newsletters
 
+* [VentureBeat](https://venturebeat.com/newsletters/#:~:text=The%20best%20of%20GamesBeat%20delivered%20to)
 * [tldr.tech](https://tldr.tech/)
 * [DeepLearning.ai Newsletter](https://www.deeplearning.ai/the-batch/)
 * [OpenTools.ai](https://newsletter.opentools.ai/)

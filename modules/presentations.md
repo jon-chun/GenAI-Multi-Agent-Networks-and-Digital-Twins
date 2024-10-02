@@ -37,4 +37,7 @@ For example, ask questions on particular points like:
 ### Create Presentation Slides/Visuals
 
 - [Napkin.ai](https://www.napkin.ai/) creates a wide variety of typical diagrams/figures
-- [ChatGPT](https://chat.openai.com] can create images/diagrams/etc from text prompts (using Dalle3 on the backend)
+- [ChatGPT](https://chat.openai.com] can create images/diagrams/etc from text prompts (using Dalle3 on the backend or export mermaid code to [draw.io](https://draw.io/))
+- [Excalidraw](https://excalidraw.com/)
+- [Figma](https://www.figma.com/)
+- [Others](https://www.tutorialspoint.com/excalidraw-alternatives)
