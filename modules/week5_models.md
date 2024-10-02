@@ -98,6 +98,8 @@ abstraction). Section 6 does not provide any new information and should be revis
 
 ### Tools
 
+* [OpenAI API Doc: Embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models?lang=python)
+
 * [OpenAI Tokenizer tiktoken](https://platform.openai.com/tokenizer)
   
 * [summarize-hn](https://github.com/jon-chun/summarize-hnews) to quickly digest hundreds of comments and threads
@@ -141,6 +143,10 @@ abstraction). Section 6 does not provide any new information and should be revis
   * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
   * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
+* Embeddings
+  * [Awesome Sentence Embeddings (299)](https://github.com/Doragd/Awesome-Sentence-Embedding)
+  * [Google Vertex API Embeddings](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/embeddings/README.md)
+  * 
 * Memory Calculator
   * [Huggingface Training Calculator](https://huggingface.co/docs/accelerate/main/en/usage_guides/model_size_estimator)
 
