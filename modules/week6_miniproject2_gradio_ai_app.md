@@ -4,29 +4,72 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 
 ## Readings
 
+### News & Culture
+
+* [Terminator 3 Skynet Takes Over (4:21) (Terminator 2)](https://www.youtube.com/watch?v=_Wlsd9mljiU)
+* [How ARK Is Thinking About Humanoid Robotics (9m) (10 Sep 2024)](https://www.ark-invest.com/articles/analyst-research/how-ark-is-thinking-about-humanoid-robotics)
+* [OpenAI Is A Bad Business (32m) (2 Oct 2024)](https://www.wheresyoured.at/oai-business/) (The writing is so prolix please use AI to summarize and extract arguments with supporting facts ~5mins)
+
+### Programming Documentation
+
+* Huggingface.co
+  * [Huggingface Intro](https://huggingface.co/docs/transformers/index)
+  * [Huggingface Quick Tour](https://huggingface.co/docs/transformers/quicktour)
+* [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
+* OpenAI Whisper
+  * [Blog](https://openai.com/index/whisper/)
+  * [Paper](https://arxiv.org/abs/2212.04356) (Only read Introduction)
+  * [Github](https://github.com/openai/whisper) (See Performance Chart across Languages)
+
+### Coding
+
+* [DeepLearning.ai: Building Generative AI Applications with Gradio (1hr)](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+* [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+* [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
+
+## In-Class
+
 ### Quiz
 
-[Week5 Quiz]()
+* [Week 6 Quiz](oh_noes_404.md)
 
 ### Presentations
 
-* Student A
-* Student B
+* Presentation #1
+* Presentation #2
 
 ### Announcements
 
-* [Sample Gradio AI Apps](https://github.com/mgultekin/Building-Generative-AI-Applications-with-Gradio)
-* [Midjourney Prompt Generator (broken)](https://colab.research.google.com/github/AnthusAI/openai-midjourney-prompt-generator/blob/main/midjourney-prompt-generator.ipynb)
-* [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
-* [OpenAI Cookbook](https://cookbook.openai.com/)
+* [AI for Good](https://aiforgood.itu.int/)
 
-### News
+### Follow-Ups
+
+* [Coming](oh_noes_404.md)
 
 ### Research
 
 * [SemanticScholar.org Research Dashboard](https://www.semanticscholar.org/me/research)
 * [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)
 * [ECCV 2024 Papers](https://huggingface.co/spaces/ECCV/ECCV2024-papers)
+
+### Concepts
+ 
+* Colab
+* UI/UX - Gradio, Streamlit, etc.
+* Vector Datagbases
+* Dataset Creation
+* LLMs as Fuzzy Databases
+  * pre-training
+  * fine-tuning
+  * alignment
+  * prompt injection (ICL)
+
+### Tools
+
+* [Sample Gradio AI Apps](https://github.com/mgultekin/Building-Generative-AI-Applications-with-Gradio)
+* [Midjourney Prompt Generator (broken)](https://colab.research.google.com/github/AnthusAI/openai-midjourney-prompt-generator/blob/main/midjourney-prompt-generator.ipynb)
+* [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
+* [OpenAI Cookbook](https://cookbook.openai.com/)
 
 ### Datasets
 
@@ -40,9 +83,9 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [Fine-tuning large language models (LLMs) in 2024 (23 Jul 2024)](https://www.superannotate.com/blog/llm-fine-tuning)
 * [Fine Tune Llama 3.2 (3b) - On Custom Dataset 2X Faster | With Google Colab and 0$ (17:23) (2 Oct 2024)](https://www.youtube.com/watch?v=inT-m5Y9Pdo)
 
-### Programming Documentation
+### Programming Documentation in Detail
 
-* [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
+* [Gradio](https://www.gradio.app/guides/)
 * OpenAI Whisper
   * [Paper](https://arxiv.org/abs/2212.04356)
   * [Github](https://github.com/openai/whisper)
@@ -50,49 +93,6 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 ### Sample Code
 
 * [Gradio Whisper STT Colab](https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb#scrollTo=ZsJUxc0aRsAf)
-
-### Coding
-
-* [DeepLearning.ai: Building Generative AI Applications with Gradio (1hr)](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
-* [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
-
-* [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
-
-
-
-* [Deeplearning.ai: Google Cloud Vertex AI (1hr)](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
-* [DeepLearning.ai: Retrieval Optimization from Tokenization to Vector Quantization (1hr)](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/)
-* [DeepLearning.ai: Advanced Retrieval for AI (1hr)](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
-
-
-* [Function-Calling and Data Extraction with LLMs (1hr)](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)
-* [Improving Accuracy of LLM Applications (1hr)](https://www.deeplearning.ai/short-courses/improving-accuracy-of-llm-applications/)
-
-* Big Picture
-  * [SELECTIONS from Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:43) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
-
-* Human-AI programming
-
-  * [Aider (Upgraded) : This Coding Agent just got AMAZING with DeepSeek-V2.5 Support, Caching & More! (8:50) (11 Aug 2024)](https://www.youtube.com/watch?v=s0nzjuJeibQ)
-
-* Prompt Optimization
-  * [DSPy](https://pyimagesearch.com/2024/09/09/llmops-with-dspy-build-rag-systems-using-declarative-programming/?ref=dailydev)
-
-* Security
-  * [Jailbreaks](https://jailbreaks.org/)
-  * [LlamaGuard](../modules/oh_noes_404.md)
-
-* Image
-  * [FLUX + LORA Full Course (Uncensored Super Photorealistic Images With Your Own Face) (19:48) (20 Aug 2024)](https://www.youtube.com/watch?v=1m7ZVCy3728)
-
-* Regulation
-
-* API Services
-  * Overview
-    * [I found the perfect no-code automations platform (20:05) (31 Jul 2024)](https://www.youtube.com/watch?v=CexNGoRNvv4)
-  * Zapier
-  * Make
-  * n8n
 
 ## References
 
@@ -105,7 +105,7 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 
 * [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
 
-### Fine-Tuning
+### Fine-Tuning in Detail
 
 * Unsloth
   * [Github](https://github.com/unslothai/unsloth)
@@ -117,5 +117,6 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [How-To Fine-Tune Llama 3.2 11B Vision Model on Custom Dataset Locally (17:07) (1 Oct 2024)](https://www.youtube.com/watch?v=zGqQGtmXFQ8) [Colab](https://colab.research.google.com/github/philschmid/deep-learning-pytorch-huggingface/blob/main/training/fine-tune-multimodal-llms-with-trl.ipynb)
 
 ### AI Applications
+
 * [Build Streamlit Apps with AI and Deploy in Two Clicks on Replit (34:59) (7 Sep 2024)](https://www.youtube.com/watch?v=UFyXVC_nzZE)
 * [StockLlama for Stock and Crypto Price Prediction with AI - Install Locally (8:14) (6 Sep 2024)](https://www.youtube.com/watch?v=zss8d793DDg) with [Repo](https://github.com/LegallyCoder/StockLlama)
