@@ -8,7 +8,7 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 
 * [Terminator 3 Skynet Takes Over (4:21) (Terminator 2)](https://www.youtube.com/watch?v=_Wlsd9mljiU)
 * [How ARK Is Thinking About Humanoid Robotics (9m) (10 Sep 2024)](https://www.ark-invest.com/articles/analyst-research/how-ark-is-thinking-about-humanoid-robotics)
-* [OpenAI Is A Bad Business (32m) (2 Oct 2024)](https://www.wheresyoured.at/oai-business/) (The writing is so prolix please use AI to summarize and extract arguments with supporting facts ~5mins like [this summary](https://chatgpt.com/share/66fea450-d0a8-800d-8887-caab6723231d))
+* [OpenAI Is A Bad Business (32m) (2 Oct 2024)](https://www.wheresyoured.at/oai-business/) (The writing is so prolix please use AI to summarize and extract arguments with supporting facts ~5mins like [this o1-preview summary](https://chatgpt.com/share/66fea450-d0a8-800d-8887-caab6723231d) or [this Claude Sonnet 3.5 summary](https://claude.site/artifacts/ac4b129a-643c-42a5-b0f3-043bcdc96110))
 
 ### Programming Documentation
 
