@@ -96,7 +96,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 * [**Week 4:** Embeddings](./modules/week4_embeddings.md) (OPEN)
 * [**Week 5:** Models](./modules/week5_models.md) (OPEN)
-* [**Week 6:** Miniproject 2: MLOps](./modules/oh_noes_404.md)
+* [**Week 6:** Miniproject 2: Gradio AI App](./modules/week6_miniproject2_gradio_ai_app.md) (OPEN)
 
 #### Reflection Questions
 
