@@ -45,7 +45,7 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 ### Follow-Ups
 
 * [I made two AIs go on a date and the result was breathtaking (8:25) (28 Sep 2024)](https://www.youtube.com/watch?v=im3jo_Ulmlk)
-* [How You Will Lose Your Job To AI (7:25) (Sep 2024)](https://www.youtube.com/watch?v=iNKFOCki42I)
+* [How You Will Lose Your Job To AI (7:25) (Sep 2024)](https://www.youtube.com/watch?v=iNKFOCki42I) 
 
 ### Research
 
