@@ -48,7 +48,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Overhead
 
-* [Quiz]()
+* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeweot7OAtUQZj10S3w68ZFpdniPrf4YJbFbHBaruSztuWLeQ/viewform?usp=sf_link)
 
 ### Presentations
 
@@ -70,12 +70,12 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Special Announcements
 
-* [Prof Elkins Sabbatical Talk]()
+* [Prof Elkins Sabbatical Talk](https://en.wikipedia.org/wiki/Katherine_Elkins)
 * [NVIDIA and LlamaIndex Developer Contest](https://developer.nvidia.com/llamaindex-developer-contest)
 
 ### News
 
-* Dockworkers Strike
+* Dockworkers Strike vs Automation
   * [What's behind the dockworkers strike and what it means for U.S. consumers (6:07)) (1 Oct 2024)](https://www.youtube.com/watch?v=AzzMKa3TTi4)
   * [The World’s Smartest Port: How China Won the Shipping Race (7:10) (2023)](https://www.youtube.com/watch?v=P5kO_BnXAwc)
   * [BRICS: China is completing a global ports network for the BRICS economic bloc and nobody noticed (11:02) (Sep 2024)](https://www.youtube.com/watch?v=3aZ01L4E3-c)
@@ -153,7 +153,7 @@ abstraction). Section 6 does not provide any new information and should be revis
 
 * LLM Leaderboards
   * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
-  * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+  * [Huggingface LMsys Leaderboard LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
   * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 
 * Embeddings
