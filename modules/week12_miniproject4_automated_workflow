@@ -58,3 +58,83 @@
   * Harbor
     * [Video]](https://www.youtube.com/watch?v=pZXLF1HnKTI)
     * [Github](https://github.com/av/harbor)
+
+
+  * [Github Popular]()
+  * [ProductHunt.com](https://www.producthunt.com/)
+
+
+  ### Quiz
+
+* [Week 6 Quiz](oh_noes_404.md)
+
+### Presentations
+
+* Presentation #1
+* Presentation #2
+
+### Announcements
+
+* [AI for Good](https://aiforgood.itu.int/)
+* [Encode Justice](https://encodejustice.org/)
+
+## News
+ 
+* [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
+* [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
+
+### Follow-Ups
+
+* [I made two AIs go on a date and the result was breathtaking (8:25) (28 Sep 2024)](https://www.youtube.com/watch?v=im3jo_Ulmlk)
+* [ChatGPT Canvas : OpenAI JUST Dropped CANVAS which can CREATE Full-Stack Apps! (Artifacts Feature!) (3:14) (3 Oct 2024)](https://www.youtube.com/watch?v=YbaUscQOyPI)
+* [How You Will Lose Your Job To AI (7:25) (Sep 2024)](https://www.youtube.com/watch?v=iNKFOCki42I) 
+
+### Research
+
+* [Open LLM Mixture of Experts by Allen.ai](https://allenai.org/blog/olmoe)
+  * [OLMoE Github](https://github.com/allenai/OLMoE)
+  * [Multimodal Molmo](https://molmo.allenai.org/)
+* [SemanticScholar.org Research Dashboard](https://www.semanticscholar.org/me/research)
+* [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)
+* [ECCV 2024 Papers](https://huggingface.co/spaces/ECCV/ECCV2024-papers)
+
+### Concepts
+ 
+* Colab
+* UI/UX - Gradio, Streamlit, etc.
+* Vector Datagbases
+* Dataset Creation
+* LLMs as Fuzzy Databases
+  * pre-training
+  * fine-tuning
+  * alignment
+  * prompt injection (ICL)
+
+### Tools
+
+* [MS Edge Copilot](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
+* [Sample Gradio AI Apps](https://github.com/mgultekin/Building-Generative-AI-Applications-with-Gradio)
+* [Midjourney Prompt Generator (broken)](https://colab.research.google.com/github/AnthusAI/openai-midjourney-prompt-generator/blob/main/midjourney-prompt-generator.ipynb)
+* [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
+* [OpenAI Cookbook](https://cookbook.openai.com/)
+
+### Datasets
+
+* [How to Prepare Quality Dataset for LLM Training (14 Aug 2024)](https://raga.ai/blogs/llm-training-data-preparation)
+* [RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models (30 Oct 2023)](https://www.together.ai/blog/redpajama-data-v2)
+* [How to Fine-Tune an LLM Part 1: Preparing a Dataset for Instruction Tuning (15 Jan 2024)](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2)
+* [How to Create High Quality Synthetic Data for Fine-Tuning LLMs (12 Jul 2024)](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms)
+
+### Fine-Tuning
+
+* [Fine-tuning large language models (LLMs) in 2024 (23 Jul 2024)](https://www.superannotate.com/blog/llm-fine-tuning)
+* [Fine Tune Llama 3.2 (3b) - On Custom Dataset 2X Faster | With Google Colab and 0$ (17:23) (2 Oct 2024)](https://www.youtube.com/watch?v=inT-m5Y9Pdo)
+
+### Programming Documentation in Detail
+
+* [Gradio](https://www.gradio.app/guides/)
+* OpenAI Whisper
+  * [Paper](https://arxiv.org/abs/2212.04356)
+  * [Github](https://github.com/openai/whisper)
+
+### Sample Code
