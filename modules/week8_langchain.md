@@ -26,3 +26,27 @@
 
 
 * [DeepLearning.ai: Building Agentic RAG with LlamaIndex (1hr)](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
+
+
+## In-Class
+
+### Overhead
+
+* [Quiz]()
+
+### Presentations
+
+* Dillon
+* Sammy
+
+### Follow-ups
+
+### Research
+
+* [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)
+
+### Concepts
+
+### Tools
+
+* [Thoughtwork's TechRadar](https://www.thoughtworks.com/radar)

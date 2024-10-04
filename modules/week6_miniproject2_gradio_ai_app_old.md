@@ -2,75 +2,59 @@
 
 This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledge to create a simple AI Gradio App. In addition to Gradio, we also learn a bit more about embeddings and vector databases to give you the basic framework to build an original Miniproject #2. This will be a Gradio AI application based upon embeddings and similarity metrics like search, recommendation, or Q&A.
 
-## KEY QUESTIONS
+## Readings
 
-1. What are the potential societal and economic impacts of humanoid robotics, as discussed in ARK's analysis?
-2. How does OpenAI's business model compare to other tech companies, and what are the main criticisms of its approach?
-3. What are the key features and capabilities of OpenAI's Whisper model, and how does its performance vary across different languages?
-4. How can Hugging Face's Transformers library be utilized for various NLP tasks, and what are its main advantages?
-5. What are the primary advantages of using Gradio for building AI applications, and how does it simplify the development process?
-6. How do vector databases enhance the functionality of AI applications, and what are some common use cases?
-7. What are the ethical considerations when fine-tuning large language models, and how can we ensure responsible development?
-8. How does the process of fine-tuning differ from pre-training, and what are the key steps involved?
-9. What role do embeddings play in modern AI applications, and how can they be effectively utilized in search and recommendation systems?
-10. How might the integration of tools like Whisper, Hugging Face, and Gradio change the landscape of AI application development, and what new possibilities do they unlock?
-
-## READINGS
-
-### AI NEWS AND CULTURE
+### News & Culture
 
 * [Terminator 3 Skynet Takes Over (4:21) (Terminator 2)](https://www.youtube.com/watch?v=_Wlsd9mljiU)
 * [How ARK Is Thinking About Humanoid Robotics (9m) (10 Sep 2024)](https://www.ark-invest.com/articles/analyst-research/how-ark-is-thinking-about-humanoid-robotics)
 * [OpenAI Is A Bad Business (32m) (2 Oct 2024)](https://www.wheresyoured.at/oai-business/) (The writing is so prolix please use AI to summarize and extract arguments with supporting facts ~5mins like [this o1-preview summary](https://chatgpt.com/share/66fea450-d0a8-800d-8887-caab6723231d) or [this Claude Sonnet 3.5 summary](https://claude.site/artifacts/ac4b129a-643c-42a5-b0f3-043bcdc96110)
 
-### RESEARCH
-
-* OpenAI Whisper (allocate ~15mins)
-  * [Blog](https://openai.com/index/whisper/)
-  * [Paper](https://arxiv.org/abs/2212.04356) (Only read Introduction)
-  * [Github](https://github.com/openai/whisper) (See Performance Chart across Languages)
-
-### DOCUMENTATION
+### Programming Documentation
 
 * Huggingface.co
   * [Huggingface Intro](https://huggingface.co/docs/transformers/index)
   * [Huggingface Quick Tour](https://huggingface.co/docs/transformers/quicktour)
 * [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
+* OpenAI Whisper
+  * [Blog](https://openai.com/index/whisper/)
+  * [Paper](https://arxiv.org/abs/2212.04356) (Only read Introduction)
+  * [Github](https://github.com/openai/whisper) (See Performance Chart across Languages)
 
-### CODING
+### Coding
 
 * [DeepLearning.ai: Building Generative AI Applications with Gradio (1hr)](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 * [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 * [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 
-## IN-CLASS EXERCISES
+## In-Class
 
-### OVERHEAD
+### Quiz
 
-* [Quiz](oh_noes_404.md)
+* [Week 6 Quiz](oh_noes_404.md)
 
-### PRESENTATIONS
+### Presentations
 
 * Presentation #1
 * Presentation #2
 
-### ANNOUNCEMENTS
+### Announcements
 
 * [AI for Good](https://aiforgood.itu.int/)
 * [Encode Justice](https://encodejustice.org/)
 
-### NEWS
-
+## News
+ 
 * [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
 * [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
 
-### FOLLOW-UPS
+### Follow-Ups
 
 * [I made two AIs go on a date and the result was breathtaking (8:25) (28 Sep 2024)](https://www.youtube.com/watch?v=im3jo_Ulmlk)
 * [ChatGPT Canvas : OpenAI JUST Dropped CANVAS which can CREATE Full-Stack Apps! (Artifacts Feature!) (3:14) (3 Oct 2024)](https://www.youtube.com/watch?v=YbaUscQOyPI)
 * [How You Will Lose Your Job To AI (7:25) (Sep 2024)](https://www.youtube.com/watch?v=iNKFOCki42I) 
 
-### RESEARCH
+### Research
 
 * [Open LLM Mixture of Experts by Allen.ai](https://allenai.org/blog/olmoe)
   * [OLMoE Github](https://github.com/allenai/OLMoE)
@@ -79,8 +63,8 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)
 * [ECCV 2024 Papers](https://huggingface.co/spaces/ECCV/ECCV2024-papers)
 
-### CONCEPTS
-
+### Concepts
+ 
 * Colab
 * UI/UX - Gradio, Streamlit, etc.
 * Vector Datagbases
@@ -91,7 +75,7 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
   * alignment
   * prompt injection (ICL)
 
-### TOOLS
+### Tools
 
 * [MS Edge Copilot](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
 * [Sample Gradio AI Apps](https://github.com/mgultekin/Building-Generative-AI-Applications-with-Gradio)
@@ -99,35 +83,30 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
 * [OpenAI Cookbook](https://cookbook.openai.com/)
 
-### CODE DOCUMENTATION
-
-* [Gradio](https://www.gradio.app/guides/)
-* OpenAI Whisper
-  * [Paper](https://arxiv.org/abs/2212.04356)
-  * [Github](https://github.com/openai/whisper)
-
-### CODE SAMPLE
-
-* [Gradio Whisper STT Colab](https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb#scrollTo=ZsJUxc0aRsAf)
-
-### CODE REVIEW
-
-* [Coming](oh_noes_404.md)
-
-### DATASETS
+### Datasets
 
 * [How to Prepare Quality Dataset for LLM Training (14 Aug 2024)](https://raga.ai/blogs/llm-training-data-preparation)
 * [RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models (30 Oct 2023)](https://www.together.ai/blog/redpajama-data-v2)
 * [How to Fine-Tune an LLM Part 1: Preparing a Dataset for Instruction Tuning (15 Jan 2024)](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2)
 * [How to Create High Quality Synthetic Data for Fine-Tuning LLMs (12 Jul 2024)](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms)
 
-### FINE-TUNING
+### Fine-Tuning
 
 * [Fine-tuning large language models (LLMs) in 2024 (23 Jul 2024)](https://www.superannotate.com/blog/llm-fine-tuning)
 * [Fine Tune Llama 3.2 (3b) - On Custom Dataset 2X Faster | With Google Colab and 0$ (17:23) (2 Oct 2024)](https://www.youtube.com/watch?v=inT-m5Y9Pdo)
 
+### Programming Documentation in Detail
 
-## RESOURCES
+* [Gradio](https://www.gradio.app/guides/)
+* OpenAI Whisper
+  * [Paper](https://arxiv.org/abs/2212.04356)
+  * [Github](https://github.com/openai/whisper)
+
+### Sample Code
+
+* [Gradio Whisper STT Colab](https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb#scrollTo=ZsJUxc0aRsAf)
+
+## References
 
 ### Data
 

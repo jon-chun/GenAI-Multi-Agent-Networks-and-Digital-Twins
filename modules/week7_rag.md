@@ -54,6 +54,24 @@
 
 ### Tools
 
+* MLOps VMs
+  * venv
+  * Docker
+  * [Huggingface Spaces](https://huggingface.co/spaces)
+  * Colab
+  * Kaggle
+  * Github
+  * Replt
+* MLOps Local/Cloud Private LLMs
+  * [ollama](https://ollama.ai)
+  * [groq Cloud](https://groq.com/)
+  * [cerebras.ai](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+  * [runpod.io](runpod.io)
+
+* Multimodal Models
+  * [Molmo](https://molmo.allenai.org/)
+
+
 ### Review Coding Assignments
 
 ## Resources
