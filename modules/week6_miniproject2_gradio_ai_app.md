@@ -1,6 +1,8 @@
 # Week 6: Mini-Project Embeddings
 
-This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledge to create a simple AI Gradio App. In addition to Gradio, we also learn a bit more about embeddings and vector databases to give you the basic framework to build an original Miniproject #2. This will be a Gradio AI application based upon embeddings and similarity metrics like search, recommendation, or Q&A.
+This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledge to create a simple AI Gradio App. In addition to Gradio, we also learn a bit more about embeddings and vector databases to give you the basic framework to build an original Miniproject #2. This will be a Gradio AI application based upon embeddings and similarity metrics like search, recommendation, or Q&A. 
+
+This week has a peak in programming (3 units at 1hr each) plus an optional advanced Chroma VectorDB 1hr unit. Many of related core concepts are introduced in IPHS200 Programming Humanity and IPHS300 AI for Humanity except for this week. This is why there is an unusually large amount of new concepts and code, but this will not persist through the rest of the semester.
 
 ## KEY QUESTIONS
 
@@ -50,6 +52,8 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 * [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 
+* (OPTIONAL)[Advanced Retrieval for AI with Chroma (1hr)](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/1/introduction)
+
 ## IN-CLASS EXERCISES
 
 ### OVERHEAD
@@ -90,7 +94,13 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 
 * Colab
 * UI/UX - Gradio, Streamlit, etc.
-* Vector Datagbases
+* Vector Databases
+  * Embeddings (e.g. word vs image with VAEs)
+  * Distance Metrics
+  * Approximate algorithms (HNSW)
+  * Dense, Sparse (TF/IDF, BoW, BM25) and Hybrid Search (alpha)
+  * Multilingual Embeddings and Search
+  * RAG (knowlege injection, hallucinations, citations, etc.)
 * Dataset Creation
 * LLMs as Fuzzy Databases
   * pre-training
@@ -105,6 +115,14 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 * [Midjourney Prompt Generator (broken)](https://colab.research.google.com/github/AnthusAI/openai-midjourney-prompt-generator/blob/main/midjourney-prompt-generator.ipynb)
 * [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
 * [OpenAI Cookbook](https://cookbook.openai.com/)
+
+### Product Bakeoffs
+
+* [Reddit: Vector database : pgvector vs milvus vs weaviate (Jun 2024)](https://www.reddit.com/r/LocalLLaMA/comments/1e63m16/vector_database_pgvector_vs_milvus_vs_weaviate/)
+* [Reddit: Choosing a vector db for 100 million pages of text. Leaning towards Milvus, Qdrant or Weaviate. Am I missing anything, what would you choose? (May 2024)](https://www.reddit.com/r/vectordatabase/comments/1dcvyrm/choosing_a_vector_db_for_100_million_pages_of/)
+* [HNews: Choosing a Vector Database (4 Oct 2023)](https://news.ycombinator.com/item?id=37764489)
+* [Picking a vector database: a comparison and guide for 2023](https://benchmark.vectorview.ai/vectordbs.html)
+* [Quadrant VectDB Performance Table](https://qdrant.tech/benchmarks/)
 
 ### CODE DOCUMENTATION
 
