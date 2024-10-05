@@ -23,3 +23,10 @@ https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdfhttps:
 * [Top 10 NEW Humanoid Robots of 2024 (Updated) (16:43) (30 Sep 2024)](https://www.youtube.com/watch?v=gTSFBFmRJVs)
 * [US sanctions against China are putting global firms to a decision: abandon China, or leave the US (7:03) (Sep 2024)](https://www.youtube.com/watch?v=ZNzixbMiZMQ)
 * [7:01 / 1:02:18 Keynote - Ten Key Questions that a Company Should Ask to have Responsible AI (1:02:00) (2 Oct 2024)](Keynote - Ten Key Questions that a Company Should Ask to have Responsible AI)
+
+## Extract Structured Information
+
+* [Long Document Content Extraction by Jarvis (19 Feb 2023) (OpenAI Cookbook) ](https://cookbook.openai.com/examples/entity_extraction_for_long_documents)
+  * [Github](https://github.com/lbnlp/NERRE)
+* [Structured information extraction from scientific text with large language models by Dagdelen et al. (Feb 2024) (Nature)](https://www.nature.com/articles/s41467-024-45563-x)
+  * [Colab](https://colab.research.google.com/github/openai/openai-cookbook/blob/main/examples/Entity_extraction_for_long_documents.ipynb)
