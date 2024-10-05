@@ -41,10 +41,12 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 ### CODING
 
 * [DeepLearning.ai: Building Generative AI Applications with Gradio (1hr)](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
-  * NOTE: I've created these modified notebooks that run local LLMs in Colab rather than call remote Huggingface API endpoints (which don't seem to work in Deeplearning.ai)
+  * NOTE: I've created these modified notebooks that run local LLMs in Colab rather than call remote Huggingface API endpoints (which don't seem to work in Deeplearning.ai). I've left the last 1.5 Notebooks for you to modify as an exercise.
   * [Notebook #1](../code/deeplearningai/deeplearningai_gradio_L1_NLP_tasks_with_a_simple_interface.ipynb)
   * [Notebook #2](../code/deeplearningai/deeplearningai_gradio_L2_Image_captioning_app.ipynb)
   * [Notebook #3](../code/deeplearningai/deeplearningai_gradio_L3_Image_generation_app.ipynb)
+  * [Notebook #4 (partial)](../code/deeplearningai/deeplearningai_gradio_L4_Describe_and_generate_game.ipynb)
+  * [Notebook #5 (unchanged)](../code/deeplearningai/deeplearningai_gradio_L5_Chat_with_any_LLM.ipynb)
 * [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 * [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 
