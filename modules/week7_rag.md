@@ -38,6 +38,10 @@
 * Dillon
 * Sammy
 
+### News
+
+* [YT@lev-selector: Lev Selector AI Updates](https://www.youtube.com/@lev-selector)
+
 ### Follow-ups
 
 * [Future of Work](https://generativeailaborupskillingwor.splashthat.com/)
