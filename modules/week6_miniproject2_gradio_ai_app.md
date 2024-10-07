@@ -50,9 +50,7 @@ This week has a peak in programming (3 units at 1hr each) plus an optional advan
   * [Notebook #4 (partial)](../code/deeplearningai/deeplearningai_gradio_L4_Describe_and_generate_game.ipynb)
   * [Notebook #5 (unchanged)](../code/deeplearningai/deeplearningai_gradio_L5_Chat_with_any_LLM.ipynb)
 * [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
-* [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
-
-* (OPTIONAL)[Advanced Retrieval for AI with Chroma (1hr)](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/1/introduction)
+* [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)-
 
 ## IN-CLASS EXERCISES
 
@@ -72,6 +70,8 @@ This week has a peak in programming (3 units at 1hr each) plus an optional advan
 
 ### NEWS
 
+* [These new AI Video Generators are Crazy! (26:11) (6 Oct 2024)](https://www.youtube.com/watch?v=MIjuP5ur7oA)
+* [MovieGen by Meta](https://ai.meta.com/research/movie-gen/)
 * [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
 * [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
 
@@ -95,12 +95,14 @@ This week has a peak in programming (3 units at 1hr each) plus an optional advan
 * Colab
 * UI/UX - Gradio, Streamlit, etc.
 * Vector Databases
-  * Embeddings (e.g. word vs image with VAEs)
-  * Distance Metrics
+  * Vectorizations (TF/IDF/BoW/BM25, Dense/Sparse, Syntatic/Semantic, etc)
+  * Embedding Models
+  * Multilingual Embeddings
+  * Multimodal Embeddings (e.g. word vs image with VAEs)
+  * Distance Metrics (BM25, FAISS, etc)
   * Approximate algorithms (HNSW)
-  * Dense, Sparse (TF/IDF, BoW, BM25) and Hybrid Search (alpha)
-  * Multilingual Embeddings and Search
-  * RAG (knowlege injection, hallucinations, citations, etc.)
+  * Hybrid Search
+  * Adv Vectors for RAG (filtering, reranking, knowlege injection, hallucinations, citations, etc.)
 * Dataset Creation
 * LLMs as Fuzzy Databases
   * pre-training

@@ -22,6 +22,9 @@
 
 ### Code
 
+* [Advanced Retrieval for AI with Chroma (1hr)](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/1/introduction)
+* [Building and Evaluating Advanced RAG (1hr)](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/1/introduction)
+
 * [Multimodal RAG Chat with Video (1hr)](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
 
 ## In-Class
@@ -49,8 +52,27 @@
 ### Research
 
 * [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)
+* [Searching for Best Practices in Retrieval-Augmented Generation by Wang et al. (1 Jul 2024)](https://www.semanticscholar.org/paper/Searching-for-Best-Practices-in-Retrieval-Augmented-Wang-Wang/9a946c503b6e799b3d57375b6edfaf4e24febcea)
 
 ### Concepts
+
+* RAG 
+  * Injection
+  * Retrieval
+  * Synthesis
+* RAG (Relevance) Triad
+  * Query
+  * Context
+  * Repsonse
+* RAG
+  * Sentence Window Retrieval
+  * Auto-merging Retrieval
+* RAG Advanced
+  * Embedding-based Retrieval
+  * Pitfalls
+  * Query Expansion
+  * Cross-encoding re-ranking
+  * Other Techniques
 
 ### Tools
 
@@ -76,6 +98,10 @@
 
 ## Resources
 
+### Leaderboards
+
+* [](https://artificialanalysis.ai/)
+* [MTEB]()
 
 * [NVIDIA RAG Contest](https://developer.nvidia.com/llamaindex-developer-contest?ncid=em-anno-190320&nvweb_e=n2j3n8SXfBKSp_LcvHb5_A5Lwybv_QzDKSDLHwuv5ihIRX1Sgrzu5OzD6pzbiQnq5vC9P0cK72ZIVhIp25LTGQ&mkt_tok=MTU2LU9GTi03NDIAAAGVvpjnETBxk6YNpyjsbZZaN7nxJIDe88MjeTHnMLm_jNWlJsvYuq2V9UCeZoK70_R7Fvy3Zcv5aWzbx47Bv-NJUmQbPwYGXaeqP17tThfHVm48AyCni44)
 * Ollama in Colab
@@ -88,6 +114,7 @@
 
 * RAG
   * [Ollama Rag Colab](https://colab.research.google.com/drive/1cqLm7bxVAvh5HA5X38KG-gmofdGrEAwN?usp=sharing)
+  * [MemoRAG Colab](https://github.com/qhjqhj00/MemoRAG)
 * Multimodal RAG Pipeline
   * [Sparrow](https://github.com/katanaml/sparrow)
 * Memory Rag
