@@ -1,8 +1,10 @@
 # Agents
 
-
 ## Readings
 
+### Tools
+
+* [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
 
 ### Code
 

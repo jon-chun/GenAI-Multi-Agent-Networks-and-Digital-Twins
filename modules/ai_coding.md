@@ -10,6 +10,10 @@
   * [V0.dev](https://v0.dev/chat)
   * [Cursor Directory of Prompts](https://www.cursordirectory.com/)
 
+## Repos
+
+* [o1-eng](https://github.com/Doriandarko/o1-engineer/blob/main/o1-eng.py)
+* []()
 ## Coding Copilots
 
 * Aider

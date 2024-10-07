@@ -8,6 +8,8 @@
 * Libraries
 * [Goose3](https://github.com/goose3/goose3)
 
+* [Crawl4AI](https://github.com/unclecode/crawl4ai)
+
 ## OCR
 
 * [ChatGPT](https://chatgpt.com/share/66eed096-4110-800d-9d79-d131fab8b221)
