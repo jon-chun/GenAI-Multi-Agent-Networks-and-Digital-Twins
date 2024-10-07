@@ -65,6 +65,11 @@ This week has a peak in programming (3 units at 1hr each) plus an optional advan
 
 ### ANNOUNCEMENTS
 
+* ARC AGI $1M Challenge
+  * [@arcprize on X.com](https://x.com/arcprize)
+  * [HNews (May 2024)](https://news.ycombinator.com/item?id=40648960)
+  * [the ARC Prize 2024 University Tour (1pm Tues, 24 Oct 2024)](https://arcprize.org/blog/2024-university-tour)
+* [GoTechnica UMd Hackathon](https://gotechnica.org/)
 * [AI for Good](https://aiforgood.itu.int/)
 * [Encode Justice](https://encodejustice.org/)
 

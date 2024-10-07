@@ -2,9 +2,17 @@
 
 ## Readings
 
+
+### Programming 
+
+* [Reflection Agent From Scratch | Agentic Patterns Series (19:00) (Sep 2024)](https://www.youtube.com/watch?v=0sAVI8bQdRc)
+
 ### Tools
 
 * [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
+* AutoGen Mem0
+  * [Mem0 with Autogen Tutorial | Long Term Memory for AI Agents (10:57) (6 Oct 2024)](https://www.youtube.com/watch?v=tYsGUvbC_Bs)
+  * [Github: autogen_mem0](https://github.com/tylerprogramming/ai)
 
 ### Code
 
