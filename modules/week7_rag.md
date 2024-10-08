@@ -38,6 +38,10 @@
 * Dillon
 * Sammy
 
+### Announcements:
+
+* [AI Alliance](https://thealliance.ai/focusareas/skills-education)
+
 ### News
 
 * [YT@lev-selector: Lev Selector AI Updates](https://www.youtube.com/@lev-selector)
