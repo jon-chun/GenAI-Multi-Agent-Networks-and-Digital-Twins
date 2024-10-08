@@ -6,6 +6,11 @@ Search for a recent interdisciplinary AI research paper in a area of your study,
 
 Email your research paper and slide presentation to chunj@kenyon.edu a day or two before your scheduled presentation.
 
+## Short Presentation Examples
+
+* [NeurIPS 2022 FrozenBiLM: 5 Min Presentation](https://www.youtube.com/watch?v=dedoSjAiVL4)
+* [2014 Three Minute Thesis winning presentation by Emily Johnston](https://www.youtube.com/watch?v=dh0pJdgY6Lc)
+
 ## Tools/Tips
 
 ### Finding a current research paper
