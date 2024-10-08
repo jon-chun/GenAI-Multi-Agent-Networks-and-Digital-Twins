@@ -6,6 +6,13 @@
 
 ## Readings
 
+### News
+
+
+### Research
+
+* [GenAI is Being Adopted Faster than PCs or the Internet (5:46) (4 Oct 2024)](https://www.youtube.com/watch?v=elzMCT9K8BQ) [Harvard/FedResv Paper](https://research.stlouisfed.org/wp/more/2024-027#:~:text=Generative%20Artificial%20Intelligence%20(AI)%20is%20a%20potentially%20important%20new%20technology,)
+
 ### Code
 
 * [DeepLearning.ai: Function Calling and Data Extraction with LLMs (1hr)](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)
@@ -17,3 +24,12 @@
 * [DeepLearning.ai: Knowledge Graphs RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
 * [DeepLearning.ai: Red Teaming LLM Applications (1hr)](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
+
+
+## In-Class
+
+### Tools
+
+* Multi-Prompt Ollama Vision
+  * [Ollama: How to send Multiple prompts to vision models (3:31) (6 Oct 2024)](https://www.youtube.com/watch?v=aakHDLPGUvA)
+  * [Collab](https://github.com/mneedham/LearnDataWithMark/blob/main/ollama-images-multiprompt/multi-prompt.ipynb)
