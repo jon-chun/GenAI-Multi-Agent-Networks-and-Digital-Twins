@@ -209,7 +209,10 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 ## Research Papers
 
 * [SemanticScholar.org Dashboard](https://www.semanticscholar.org/me/research)
-* [Arxiv.org]()
+* [Arxiv.org](https://arxiv.org)
+* [Perplexity.ai](https://perplexity.ai)
+* [Phind.com](https://phind.com)
+* [SciSpace](https://typeset.io/)
 * [Paper Digest](https://www.paperdigest.org/)
 
 ## Research Methods

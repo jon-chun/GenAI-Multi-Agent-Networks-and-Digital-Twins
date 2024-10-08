@@ -6,6 +6,7 @@
 
 ## Cursor
 
+* [bolt (9:19) (5 Oct 2024)](https://www.youtube.com/watch?v=pw-XCRa-FOI)
 * [Cursor AI tutorial for beginners (40:34) (13 Sep 2024)](https://www.youtube.com/watch?v=gqUQbjsYZLQ&t=19s)
   * [V0.dev](https://v0.dev/chat)
   * [Cursor Directory of Prompts](https://www.cursordirectory.com/)

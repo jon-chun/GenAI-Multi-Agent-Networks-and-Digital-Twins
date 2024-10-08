@@ -83,6 +83,7 @@ This week has a peak in programming (3 units at 1hr each) plus an optional advan
 ### FOLLOW-UPS
 
 * [I made two AIs go on a date and the result was breathtaking (8:25) (28 Sep 2024)](https://www.youtube.com/watch?v=im3jo_Ulmlk)
+* [Two AIs debate consciousness (22:24) (6 Oct 2024)](https://www.youtube.com/watch?v=KZhTdbmm01M)
 * [ChatGPT Canvas : OpenAI JUST Dropped CANVAS which can CREATE Full-Stack Apps! (Artifacts Feature!) (3:14) (3 Oct 2024)](https://www.youtube.com/watch?v=YbaUscQOyPI)
 * [How You Will Lose Your Job To AI (7:25) (Sep 2024)](https://www.youtube.com/watch?v=iNKFOCki42I) 
 
