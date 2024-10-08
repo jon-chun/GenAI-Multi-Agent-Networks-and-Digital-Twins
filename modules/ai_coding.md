@@ -4,6 +4,11 @@
 
 * [VSCode + ClaudeDev + Aider + Supermaven : STOP PAYING for CURSOR with this ULTIMATE Alternative (12:32) (2 Oct 2024)](https://www.youtube.com/watch?v=zLQuBSuzu2w&t=605s)
 
+## Colab
+
+* [Google colab.research.google.com](https://colab.research.google.com)
+* [Medium Colab: Experiment, Iterate, Collaborate](https://medium.com/google-colab)
+  
 ## Cursor
 
 * [bolt (9:19) (5 Oct 2024)](https://www.youtube.com/watch?v=pw-XCRa-FOI)
