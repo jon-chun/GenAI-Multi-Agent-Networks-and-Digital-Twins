@@ -4,6 +4,13 @@ This week we combine your Prompt Engineering, OpenAI API, and Embedding knowledg
 
 This week has a peak in programming (3 units at 1hr each) plus an optional advanced Chroma VectorDB 1hr unit. Many of related core concepts are introduced in IPHS200 Programming Humanity and IPHS300 AI for Humanity except for this week. This is why there is an unusually large amount of new concepts and code, but this will not persist through the rest of the semester.
 
+## Miniproject #2: Gradio AI App
+
+DEADLINE: Email me a copy of your Jupyter notebook by midnight on Sunday, Octboer 13th, 2024.
+
+DESCRIPTION:
+  Create an AI application in Colab using the Gradio UI interface. The applicaction should not just be a copy of the many existing demos. You should combine several elements (e.g. multilingual or mulimodal models, databases, pipelines, etc) from two or more of the many resources I list on this page and at resources like [OpenAI Cookbook](https://cookbook.openai.com/) or [Huggingface.co](https://huggingface.co/learn/cookbook/en/enterprise_cookbook_gradio).
+
 ## KEY QUESTIONS
 
 1. What are the potential societal and economic impacts of humanoid robotics, as discussed in ARK's analysis?

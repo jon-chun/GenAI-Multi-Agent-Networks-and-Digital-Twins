@@ -22,10 +22,30 @@
 * [H2OGPT](https://github.com/h2oai/h2ogpt)
 * [PikePDF](https://github.com/pikepdf/pikepdf)
 
-## Preprocessing
+## Text Processing Libraries
 
 * [SpaCy](https://spacy.io/usage)\
 * [Unstructured](https://github.com/Unstructured-IO/unstructured)
 * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
+
+## Document Processing
+
+* [Amazon Textract Python Library](https://docs.aws.amazon.com/textract/latest/dg/what-is.html) (PAID)
+
+## Feature Engineering
+
+* [Colab Notebooks](https://github.com/rasgointelligence/feature-engineering-tutorials/tree/main)
+* [Awesome](https://github.com/ml-tooling/best-of-ml-python?tab=readme-ov-file#tabular-data)
+* [Awesome](https://github.com/EthicalML/awesome-production-machine-learning)
+* [Overview](https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/data/data-preparation.md)
+* [PyCaret](https://pycaret.gitbook.io/docs/get-started/preprocessing/data-preparation)
+* [feature-engine (Sep 2024) (1.9k)](https://github.com/feature-engine/feature_engine)
+* [FeatureTools](https://github.com/alteryx/featuretools)
+* [Automatic via LLM](https://github.com/automl/CAAFE)
+* [Azure AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features?view=azureml-api-1)
+
+## Production DS/ML/AI Pipeline
+
+* [Production ML Pipelines](https://github.com/EthicalML/awesome-production-machine-learning#data-stream-processing)
 
 ### Synthetic Dataset
