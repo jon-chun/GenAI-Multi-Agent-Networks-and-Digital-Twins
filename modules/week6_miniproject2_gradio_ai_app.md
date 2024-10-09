@@ -67,7 +67,7 @@ DESCRIPTION:
 
 ### PRESENTATIONS
 
-* Presentation #1
+* S. Rida Zaneb
 * Presentation #2
 
 ### ANNOUNCEMENTS
