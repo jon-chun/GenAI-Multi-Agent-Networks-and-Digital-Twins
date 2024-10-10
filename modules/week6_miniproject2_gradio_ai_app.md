@@ -9,7 +9,25 @@ This week has a peak in programming (3 units at 1hr each) plus an optional advan
 DEADLINE: Email me a copy of your Jupyter notebook by midnight on Sunday, Octboer 13th, 2024.
 
 DESCRIPTION:
-  Create an AI application in Colab using the Gradio UI interface. The applicaction should not just be a copy of the many existing demos. You should combine several elements (e.g. multilingual or mulimodal models, databases, pipelines, etc) from two or more of the many resources I list on this page and at resources like [OpenAI Cookbook](https://cookbook.openai.com/) or [Huggingface.co](https://huggingface.co/learn/cookbook/en/enterprise_cookbook_gradio).
+  Create an AI application in Colab using the lightweight Gradio UI interface. The applicaction should not just be a copy of the many existing demos. You should combine several elements (e.g. multilingual or mulimodal models, databases, pipelines, etc) from two or more of the many resources I list on this page and at resources like [OpenAI Cookbook](https://cookbook.openai.com/) or [Huggingface.co](https://huggingface.co/learn/cookbook/en/enterprise_cookbook_gradio). Don't forget to incorporate more sophisticated [prompt engineering techniques](./ai_prompt_engineering.md) into your pipelines that structure and guide each task.
+
+  One goal of this project is to introduce you to an easy to use UI interface customized for quickly deploying AI applications. Another goal is for you to become comfortable and begin thinking creatively about remixing AI-related code and multi-stage model pipelines to develop creative new solutions to real-world problems. This includes using your personal experiences, training and interests to converge upon something unique and truely your own. For example, think about some pain points in your own experience, decompose the workflow, and automate as many subtasks as possible with strategic human-in-the-loop (HIL) supervision and quality control.
+
+  For a detailed example (beyond what you have to do for this project but perhaps suitable for a class final project):
+
+    * Automating Audio Lecture to Illustrated Summary Note:
+      * input data: *.wav or *.mp3 audio files of lecture
+      * audio preprocess: segment audio files into digestable 5min chunks at pauses
+      * transcribe to text with a speech-to-text (STT) model like OpenAI's Whisper
+      * audio postprocess: compile 5min transcription into a one text and proof with spelling/grammar checks
+      * text preprocess: segment unified text into semantic segments (e.g. by topics, speakers, etc)
+      * section summarize: use a remote OpenAI API (best) or a local performant Huggingface transformer(summarize) pipeline for abstractive or extractive summarization section by section
+      * global summarize: synthesize a meta-summarization across section summaries using a cheaper state-of-the-art (SOTA) OpenAI API model (e.g. gpt4 mini)
+      * visual prompts: use specialized fine-tuned text-to-image_prompt models to generate custom genai prompts for each section
+      * generate images: feed the image prompts to a text-to-image model (e.g. OpenAI's DALL-E2) to generate 5 images for each section and use human-in-the-loop (HIL) (e.g. you) to select and insert the best image into each section
+      * Create *.mp3 audio file using a text-to-speech (TTS) to read your summary aloud while you workout at the KAC
+    
+    For this project just combine at least 2 or more models/pipeline steps in a Google Colab notebook behind a servicable Gradio UI for now. As you learn more through this semester (or next semester's AI for the Humanities), you should be able to extend, create, and demonstrate a personalized project for your github.com repository to show grad school, future employers, and future life partners. 
 
 ## KEY QUESTIONS
 
@@ -68,14 +86,10 @@ DESCRIPTION:
 ### PRESENTATIONS
 
 * S. Rida Zaneb
-* Presentation #2
+* Dennis Frimpong
 
 ### ANNOUNCEMENTS
 
-* ARC AGI $1M Challenge
-  * [@arcprize on X.com](https://x.com/arcprize)
-  * [HNews (May 2024)](https://news.ycombinator.com/item?id=40648960)
-  * [the ARC Prize 2024 University Tour (1pm Tues, 24 Oct 2024)](https://arcprize.org/blog/2024-university-tour)
 * [GoTechnica UMd Hackathon](https://gotechnica.org/)
 * [AI for Good](https://aiforgood.itu.int/)
 * [Encode Justice](https://encodejustice.org/)
@@ -84,8 +98,6 @@ DESCRIPTION:
 
 * [These new AI Video Generators are Crazy! (26:11) (6 Oct 2024)](https://www.youtube.com/watch?v=MIjuP5ur7oA)
 * [MovieGen by Meta](https://ai.meta.com/research/movie-gen/)
-* [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
-* [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
 
 ### FOLLOW-UPS
 
@@ -93,15 +105,6 @@ DESCRIPTION:
 * [Two AIs debate consciousness (22:24) (6 Oct 2024)](https://www.youtube.com/watch?v=KZhTdbmm01M)
 * [ChatGPT Canvas : OpenAI JUST Dropped CANVAS which can CREATE Full-Stack Apps! (Artifacts Feature!) (3:14) (3 Oct 2024)](https://www.youtube.com/watch?v=YbaUscQOyPI)
 * [How You Will Lose Your Job To AI (7:25) (Sep 2024)](https://www.youtube.com/watch?v=iNKFOCki42I) 
-
-### RESEARCH
-
-* [Open LLM Mixture of Experts by Allen.ai](https://allenai.org/blog/olmoe)
-  * [OLMoE Github](https://github.com/allenai/OLMoE)
-  * [Multimodal Molmo](https://molmo.allenai.org/)
-* [SemanticScholar.org Research Dashboard](https://www.semanticscholar.org/me/research)
-* [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)
-* [ECCV 2024 Papers](https://huggingface.co/spaces/ECCV/ECCV2024-papers)
 
 ### CONCEPTS
 
@@ -131,14 +134,6 @@ DESCRIPTION:
 * [Mini-Project #2 Baseline](https://drive.google.com/file/d/1fAcGTwx40CCObbvUfkyxQUj8I58WgBdQ/view?usp=sharing)
 * [OpenAI Cookbook](https://cookbook.openai.com/)
 
-### Product Bakeoffs
-
-* [Reddit: Vector database : pgvector vs milvus vs weaviate (Jun 2024)](https://www.reddit.com/r/LocalLLaMA/comments/1e63m16/vector_database_pgvector_vs_milvus_vs_weaviate/)
-* [Reddit: Choosing a vector db for 100 million pages of text. Leaning towards Milvus, Qdrant or Weaviate. Am I missing anything, what would you choose? (May 2024)](https://www.reddit.com/r/vectordatabase/comments/1dcvyrm/choosing_a_vector_db_for_100_million_pages_of/)
-* [HNews: Choosing a Vector Database (4 Oct 2023)](https://news.ycombinator.com/item?id=37764489)
-* [Picking a vector database: a comparison and guide for 2023](https://benchmark.vectorview.ai/vectordbs.html)
-* [Quadrant VectDB Performance Table](https://qdrant.tech/benchmarks/)
-
 ### CODE DOCUMENTATION
 
 * [Gradio](https://www.gradio.app/guides/)
@@ -152,44 +147,20 @@ DESCRIPTION:
 
 ### CODE REVIEW
 
-* [Coming](oh_noes_404.md)
-
-### DATASETS
-
-* [How to Prepare Quality Dataset for LLM Training (14 Aug 2024)](https://raga.ai/blogs/llm-training-data-preparation)
-* [RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models (30 Oct 2023)](https://www.together.ai/blog/redpajama-data-v2)
-* [How to Fine-Tune an LLM Part 1: Preparing a Dataset for Instruction Tuning (15 Jan 2024)](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2)
-* [How to Create High Quality Synthetic Data for Fine-Tuning LLMs (12 Jul 2024)](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms)
-
-### FINE-TUNING
-
-* [Fine-tuning large language models (LLMs) in 2024 (23 Jul 2024)](https://www.superannotate.com/blog/llm-fine-tuning)
-* [Fine Tune Llama 3.2 (3b) - On Custom Dataset 2X Faster | With Google Colab and 0$ (17:23) (2 Oct 2024)](https://www.youtube.com/watch?v=inT-m5Y9Pdo)
-
+* In class walk-thrus
 
 ## RESOURCES
-
-### Data
-
-* [LLM Datasets (Sep 2024)](https://github.com/mlabonne/llm-datasets)
-* [LLM DataHub (2023)](https://github.com/Zjh-819/LLMDataHub)
-
-### Synthetic Data
-
-* [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
-
-### Fine-Tuning in Detail
-
-* Unsloth
-  * [Github](https://github.com/unslothai/unsloth)
-  * [Colab](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
-  * [Video (17:35) (29 Sep 2024)](https://www.youtube.com/watch?v=YZW3pkIR-YE)
-* Videos
-  * [Fine-Tune Llama3 using Synthetic Data (37:02) (6 May 2024)](https://www.youtube.com/watch?v=jAnVvLRPvJo&list=PLD7HrIBE_yqLv07dzDYmgmuRJRIdl0uQg&index=15) [Colab](https://colab.research.google.com/drive/1WzHVa1b6Zg862XloxY7KlvKb1gCBiMVT?usp=sharing)
-  * [How to Fine-Tune Qwen-2 for Free | Open-Source LLM Guide (13:19) (30 Sep 2024)](https://www.youtube.com/watch?v=f9Fi9IKa-0M) [Colab](https://colab.research.google.com/drive/1evx24o1tN33HAb5eI-hFsQtez1VivdDo)
-* [How-To Fine-Tune Llama 3.2 11B Vision Model on Custom Dataset Locally (17:07) (1 Oct 2024)](https://www.youtube.com/watch?v=zGqQGtmXFQ8) [Colab](https://colab.research.google.com/github/philschmid/deep-learning-pytorch-huggingface/blob/main/training/fine-tune-multimodal-llms-with-trl.ipynb)
 
 ### AI Applications
 
 * [Build Streamlit Apps with AI and Deploy in Two Clicks on Replit (34:59) (7 Sep 2024)](https://www.youtube.com/watch?v=UFyXVC_nzZE)
 * [StockLlama for Stock and Crypto Price Prediction with AI - Install Locally (8:14) (6 Sep 2024)](https://www.youtube.com/watch?v=zss8d793DDg) with [Repo](https://github.com/LegallyCoder/StockLlama)
+
+### RESEARCH
+
+* [Open LLM Mixture of Experts by Allen.ai](https://allenai.org/blog/olmoe)
+  * [OLMoE Github](https://github.com/allenai/OLMoE)
+  * [Multimodal Molmo](https://molmo.allenai.org/)
+* [SemanticScholar.org Research Dashboard](https://www.semanticscholar.org/me/research)
+* [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)
+* [ECCV 2024 Papers](https://huggingface.co/spaces/ECCV/ECCV2024-papers)

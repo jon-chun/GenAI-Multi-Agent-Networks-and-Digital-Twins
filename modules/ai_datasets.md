@@ -1,5 +1,10 @@
 # Dataset Creation
 
+## REPOS
+
+* [LLM Datasets (Sep 2024)](https://github.com/mlabonne/llm-datasets)
+* [LLM DataHub (2023)](https://github.com/Zjh-819/LLMDataHub)
+
 ## Scraping
 
 * [Anthropic](https://claude.ai/chat/6ad53704-7a65-4cfa-9d30-e892b1bc1862)
@@ -49,3 +54,15 @@
 * [Production ML Pipelines](https://github.com/EthicalML/awesome-production-machine-learning#data-stream-processing)
 
 ### Synthetic Dataset
+
+
+### Synthetic Data
+
+* [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
+
+### DATASETS
+
+* [How to Prepare Quality Dataset for LLM Training (14 Aug 2024)](https://raga.ai/blogs/llm-training-data-preparation)
+* [RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models (30 Oct 2023)](https://www.together.ai/blog/redpajama-data-v2)
+* [How to Fine-Tune an LLM Part 1: Preparing a Dataset for Instruction Tuning (15 Jan 2024)](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2)
+* [How to Create High Quality Synthetic Data for Fine-Tuning LLMs (12 Jul 2024)](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms)

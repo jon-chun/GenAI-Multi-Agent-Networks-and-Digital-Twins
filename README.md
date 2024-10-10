@@ -62,10 +62,10 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 
 NOTE: Content will be added each week for Fall 2024
 
-* [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (OPEN)
-* [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (OPEN)
-* [**Week 2:** Prompt Engineering and OpenAI API](./modules/week2_prompting.md) (OPEN)
-* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md) (OPEN)
+* [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (Open)
+* [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (Abierta)
+* [**Week 2:** Prompt Engineering and OpenAI API](./modules/week2_prompting.md) (Ouvrir)
+* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md) (Offen)
 
 #### Reflection Questions
 
@@ -94,9 +94,9 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-* [**Week 4:** Embeddings](./modules/week4_embeddings.md) (OPEN)
-* [**Week 5:** Models](./modules/week5_models.md) (OPEN)
-* [**Week 6:** Miniproject 2: Gradio AI App](./modules/week6_miniproject2_gradio_ai_app.md) (OPEN)
+* [**Week 4:** Embeddings](./modules/week4_embeddings.md) (открыть)
+* [**Week 5:** Models](./modules/week5_models.md) (開ける)
+* [**Week 6:** Miniproject 2: Gradio AI App](./modules/week6_miniproject2_gradio_ai_app.md) (باز کردن)
 
 #### Reflection Questions
 
@@ -125,7 +125,7 @@ Introduction to RAG and its implementation using LangChain. Students will create
 
 #### Detailed Content
 
-* [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/oh_noes_404.md)
+* [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md) (membuka)
 * [**Week 8:** LangChain and LlamaIndex](./modules/oh_noes_404.md)
 * [**Week 9:** Miniproject 3: A Smart RAG Application](./modules/oh_noes_404.md)
 

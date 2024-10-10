@@ -6,10 +6,15 @@
 
 ## Readings
 
-### News
+### NEWS
 
 
-### Research
+### RESEARCH
+
+* [ARC challenge is a hard test for machines, easy for humans | François Chollet and Lex Fridman (23:33) (2021)](https://www.youtube.com/watch?v=jkBCyingDbk)
+* [The Abstraction and Reasoning Challenge (ARC)](https://pgpbpadilla.github.io/chollet-arc-challenge)
+
+
 
 * [GenAI is Being Adopted Faster than PCs or the Internet (5:46) (4 Oct 2024)](https://www.youtube.com/watch?v=elzMCT9K8BQ) [Harvard/FedResv Paper](https://research.stlouisfed.org/wp/more/2024-027#:~:text=Generative%20Artificial%20Intelligence%20(AI)%20is%20a%20potentially%20important%20new%20technology,)
 
@@ -27,6 +32,10 @@
 
 
 ## In-Class
+
+### ANNOUNCEMENTS
+
+* [AI Alliance](https://thealliance.ai/focusareas/skills-education)
 
 ### Tools
 
