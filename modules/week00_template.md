@@ -25,7 +25,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 * [Coming](oh_noes_404.md)
 
-### DOCUMENTATION
+### DESIGN
 
 * [Coming](oh_noes_404.md)
 
@@ -69,7 +69,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 * [Coming](oh_noes_404.md)
 
-### CODE DOCUMENTATION
+### SOFTWARE ENGINEERING
 
 * [Coming](oh_noes_404.md)
 

@@ -6,7 +6,13 @@
   * [Years to AGI](https://www.reddit.com/r/OpenAI/comments/191qk1d/ark_invest_predicts_agi_will_be_achieved_until/)
 
 
-## Readings
+## READINGS
+
+### RESEARCH
+
+* [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)
+
+### SOFTWARE ENGINEERING
 
 * Langchain
   * [Langchain Github](https://github.com/langchain-ai/langchain)

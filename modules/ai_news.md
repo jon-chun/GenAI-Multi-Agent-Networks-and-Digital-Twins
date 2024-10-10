@@ -167,6 +167,7 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 
 ### News
 
+* [YT@lev-selector: Lev Selector AI Updates](https://www.youtube.com/@lev-selector)
 * [Matt Wolfe](https://www.youtube.com/@mreflow)
 * [The AI Daily Brief](https://www.youtube.com/@AIDailyBrief)
 * [AI Copium](https://www.youtube.com/@AICopium)
