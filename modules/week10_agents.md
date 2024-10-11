@@ -1,6 +1,88 @@
-# Agents
+# Week 10: Agents
 
-## Readings
+Overview Here...
+
+## KEY QUESTIONS
+
+1. Q1
+2. Q2
+3. Q3...
+
+## READINGS
+
+### AI NEWS AND CULTURE
+
+* [Coming](oh_noes_404.md)
+
+### RESEARCH
+
+* [Coming](oh_noes_404.md)
+
+### SOFTWARE ENGINEERING
+
+* [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
+
+### CODING
+
+* [Coming](oh_noes_404.md)
+
+
+
+
+## IN-CLASS EXERCISES
+
+### OVERHEAD
+
+* [Quiz](oh_noes_404.md)
+
+### PRESENTATIONS
+
+* Presentation #1
+* Presentation #2
+
+### ANNOUNCEMENTS
+
+* [Coming](oh_noes_404.md)
+
+### NEWS
+
+* [Coming](oh_noes_404.md)
+
+### FOLLOW-UPS
+
+* [Coming](oh_noes_404.md)
+
+### RESEARCH
+
+* [Coming](oh_noes_404.md)
+
+### CONCEPTS
+
+Bulletpoint Outline
+
+### TOOLS
+
+* [Coming](oh_noes_404.md)
+
+### SOFTWARE ENGINEERING
+
+* [Coming](oh_noes_404.md)
+
+### CODE SAMPLE
+
+* [Coming](oh_noes_404.md)
+
+### CODE REVIEW
+
+Walk-thru in class
+
+### EXTRAS
+
+* [Coming](oh_noes_404.md)
+
+## RESOURCES
+
+* [Coming](oh_noes_404.md)
 
 
 ### Programming 

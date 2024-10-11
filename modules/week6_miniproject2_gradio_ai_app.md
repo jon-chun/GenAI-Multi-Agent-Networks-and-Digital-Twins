@@ -81,12 +81,12 @@ DESCRIPTION:
 
 ### OVERHEAD
 
-* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScyppY8X-RxeowjZv6YgPxppKccMFmOy_tOu4Udq5CFHevmqw/viewform?usp=sf_link)
+* Quiz
 
 ### PRESENTATIONS
 
-* S. Rida Zaneb
-* Dennis Frimpong
+* Rida
+* Dennis
 
 ### ANNOUNCEMENTS
 
