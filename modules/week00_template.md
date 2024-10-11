@@ -1,19 +1,12 @@
-# Week 5: Models and Fine-Tuning
+# Week N: Week Title
 
-Starting the course from the outside the black box inward (e.g. Prompt Engineering, Embeddings, etc), we spend this week getting to know a bit more about the details of large language models (LLMs) and large multimodal models (LMMs) from competitive ranking tables to life-cycles to tokenizations. Unlike our course, "AI for the Humanities", we don't go into details of the architecture or other finer points like MLOps. However, we will cover the most important and practical aspects of working with LLMs from a higher level systems architect's perspective.
+Overview Here...
 
 ## KEY QUESTIONS
 
-1. How do the architectures of LLMs and LMMs differ, and what implications do these differences have for their respective capabilities?
-2. What are the key considerations when selecting datasets for pre-training and fine-tuning LLMs and LMMs?
-3. How does fine-tuning LLMs and LMMs differ from their initial pre-training, and what are the advantages and limitations of each approach?
-4. What ethical considerations should be taken into account when fine-tuning LLMs and LMMs on 1. domain-specific or potentially sensitive datasets?
-5. How do benchmarks specifically designed for LLMs and LMMs contribute to their advancement, and what are 1. the limitations of these benchmarks in assessing real-world performance?
-6. What strategies can be employed to prevent catastrophic forgetting during the fine-tuning process of LLMs 1. and LMMs?
-7. How does the choice of fine-tuning technique (e.g., full fine-tuning vs. parameter-efficient methods like 1. LoRA or prefix tuning) impact the performance and efficiency of LLMs and LMMs?
-8. What are the challenges and potential solutions for fine-tuning LLMs on low-resource languages or LMMs on 1. specialized visual domains?
-9. How can we ensure the reproducibility and interpretability of fine-tuned LLMs and LMMs, particularly in 1. scientific and critical applications?
-10. What are the long-term implications of widespread fine-tuning of pre-trained LLMs and LMMs, both for AI development and for the broader socioeconomic landscape?
+1. Q1
+2. Q2
+3. Q3...
 
 ## READINGS
 
@@ -25,13 +18,15 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 * [Coming](oh_noes_404.md)
 
-### DESIGN
+### SOFTWARE ENGINEERING
 
 * [Coming](oh_noes_404.md)
 
 ### CODING
 
 * [Coming](oh_noes_404.md)
+
+
 
 
 ## IN-CLASS EXERCISES
@@ -42,8 +37,8 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### PRESENTATIONS
 
-* [Student #1](oh_noes_404.md)
-* [Student #2](oh_noes_404.md)
+* Presentation #1
+* Presentation #2
 
 ### ANNOUNCEMENTS
 
@@ -63,7 +58,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### CONCEPTS
 
-* [Coming](oh_noes_404.md)
+Bulletpoint Outline
 
 ### TOOLS
 
@@ -79,7 +74,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### CODE REVIEW
 
-* [Coming](oh_noes_404.md)
+Walk-thru in class
 
 ### EXTRAS
 

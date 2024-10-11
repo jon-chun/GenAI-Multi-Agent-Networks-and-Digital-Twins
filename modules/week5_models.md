@@ -48,7 +48,7 @@ Starting the course from the outside the black box inward (e.g. Prompt Engineeri
 
 ### Overhead
 
-* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeweot7OAtUQZj10S3w68ZFpdniPrf4YJbFbHBaruSztuWLeQ/viewform?usp=sf_link)
+* Quiz
 
 ### Presentations
 

@@ -67,7 +67,7 @@ Remember to review the API usage guidelines and rate limits to ensure responsibl
 # In Class:
 
 * Housekeeping
-  * [Quiz: Embeddings](https://forms.gle/X613PqaDYDDUrSSw6)
+  * Quiz
   * Grades
   * Miniproject #1 Review
 

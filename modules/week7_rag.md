@@ -32,12 +32,12 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### OVERHEAD
 
-* [Quiz](../images/error404_agi_not_found.png)
+* Quiz
 
 ### PRESENTATIONS
 
-* Braeden Singleton
-* Parker Gibbons
+* Beshoy
+* Parker?
 
 ### ANNOUNCEMENTS
 
@@ -45,11 +45,13 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### NEWS
 
-* [Upcoming](oh_noes_404.md)
+* [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
+* [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
 
 ### FOLLOW-UPS
 
 * [Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
+* [GPT Canvas](https://www.youtube.com/watch?v=MfReXI4jsyI)
 * [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
 * [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
 

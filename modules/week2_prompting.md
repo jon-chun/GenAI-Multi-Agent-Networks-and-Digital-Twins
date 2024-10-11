@@ -64,7 +64,8 @@ As AI models like GPT have become more powerful, they've also become more access
 
 ### Overview
 
-* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfgc9eGYIgnsNAHqWUEi8miLvySX9-FeomuoItMwU2CoosdhA/viewform?usp=sharing)
+* Quiz
+
 * Motivations
 * AI News and Research
 * Local Laptop Setup

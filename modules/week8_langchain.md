@@ -1,3 +1,89 @@
+# Week N: Week Title
+
+Overview Here...
+
+## KEY QUESTIONS
+
+1. Q1
+2. Q2
+3. Q3...
+
+## READINGS
+
+### AI NEWS AND CULTURE
+
+* [Coming](oh_noes_404.md)
+
+### RESEARCH
+
+* [Coming](oh_noes_404.md)
+
+### DESIGN
+
+* [Coming](oh_noes_404.md)
+
+### CODING
+
+* [Coming](oh_noes_404.md)
+
+
+## IN-CLASS EXERCISES
+
+### OVERHEAD
+
+* [Quiz](oh_noes_404.md)
+
+### PRESENTATIONS
+
+* [Student #1](oh_noes_404.md)
+* [Student #2](oh_noes_404.md)
+
+### ANNOUNCEMENTS
+
+* [Coming](oh_noes_404.md)
+
+### NEWS
+
+* [Coming](oh_noes_404.md)
+
+### FOLLOW-UPS
+
+* [Coming](oh_noes_404.md)
+
+### RESEARCH
+
+* [Coming](oh_noes_404.md)
+
+### CONCEPTS
+
+* [Coming](oh_noes_404.md)
+
+### TOOLS
+
+* [Coming](oh_noes_404.md)
+
+### SOFTWARE ENGINEERING
+
+* [Coming](oh_noes_404.md)
+
+### CODE SAMPLE
+
+* [Coming](oh_noes_404.md)
+
+### CODE REVIEW
+
+* [Coming](oh_noes_404.md)
+
+### EXTRAS
+
+* [Coming](oh_noes_404.md)
+
+## RESOURCES
+
+* [Coming](oh_noes_404.md)
+
+
+
 # WEEK 8: Langchain
 
 * AI Analyst
