@@ -43,6 +43,20 @@
 * Industry Analyst
   * [Unleashing a new era of productivity in investment banking through the power of generative AI by Deloitte (27 Jul 2023)](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions/2023/generative-ai-in-investment-banking.html)
   
+## Frameworks
+
+* LangChain
+  * [LangChain](https://www.youtube.com/@LangChain)
+  * [LangGraph]()
+  * [Lang]
+* LlamaIndex
+* [unstract](https://github.com/Zipstack/unstract)
+* [MS AutoGen]()
+* [OpenAI Swarms](https://github.com/openai/swarm)
+
+## No/Low Code
+
+* [n8n](https://www.youtube.com/watch?v=JbGhMZ_nKD8)
 
 ## Extracting Structured Info
 

@@ -100,7 +100,9 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
-* Langchain
+* [trustcall: Reliable and efficient structure data extraction using JSON patch operations (7:49) (12 oct 2024)](https://www.youtube.com/watch?v=-H4s0jQi-QY)
+
+* LangChain
   * [Langchain Github](https://github.com/langchain-ai/langchain)
 
 * LangSmith

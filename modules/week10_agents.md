@@ -10,6 +10,8 @@ Overview Here...
 
 ## READINGS
 
+* (Summary Version of) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
+
 ### AI NEWS AND CULTURE
 
 * [Coming](oh_noes_404.md)
@@ -46,9 +48,9 @@ Overview Here...
 
 ### NEWS
 
+* [OpenAI Swarm](https://www.youtube.com/watch?v=82FSnDcw72k)
 * [Palmyra-x-004 Tool Calling](https://writer.com/engineering/actions-with-palmyra-x-004/)
 * [Berkeley Tool Benchmark](https://gorilla.cs.berkeley.edu/leaderboard.html)
-* [Coming](oh_noes_404.md)
 
 ### FOLLOW-UPS
 
@@ -87,9 +89,10 @@ Walk-thru in class
 * [Coming](oh_noes_404.md)
 
 
-### Programming 
+### Programming
 
 * [Reflection Agent From Scratch | Agentic Patterns Series (19:00) (Sep 2024)](https://www.youtube.com/watch?v=0sAVI8bQdRc)
+* [How to use LLMs for Fact Checking (40:39) (Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
 
 ### Tools
 
