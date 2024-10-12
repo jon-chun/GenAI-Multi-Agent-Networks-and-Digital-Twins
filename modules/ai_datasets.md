@@ -65,7 +65,20 @@
 * [Automatic via LLM](https://github.com/automl/CAAFE)
 * [Azure AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features?view=azureml-api-1)
 
+### Data Imputation Statistics and Best Practices:
+
+* [Handling Missing Values: Imputation Techniques Explored (Jan 2024)](https://dataheadhunters.com/academy/handling-missing-values-imputation-techniques-explored/)
+* [A comparison of 6 data imputation methods with AI-powered synthetic data imputation (13 Mar 2023)](https://mostly.ai/blog/smart-imputation-with-synthetic-data)
+* [How to Handle Missing Data with Python (28 Nov 2023)](https://machinelearningmastery.com/handle-missing-data-python/)
+
+* [missingno](https://github.com/ResidentMario/missingno)
+* [fancyimpute](https://github.com/iskandr/fancyimpute)
+* [autoimpute](https://github.com/kearnz/autoimpute)
+
 ### Data Imputation
+
+* [How to Handle Missing Data in Python? [Explained in 5 Easy Steps] (19 Sep 2024)](https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/)
+* [A Complete Guide to Dealing with Missing values in Python (23 Feb 2023)](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/)
 
 * [A Guide to Handling Missing values in Python (2020) (Kaggle)](https://www.kaggle.com/code/parulpandey/a-guide-to-handling-missing-values-in-python)
 * [scikit.impute.IterativeImputer](https://scikit-learn.org/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html#sphx-glr-auto-examples-impute-plot-iterative-imputer-variants-comparison-py)

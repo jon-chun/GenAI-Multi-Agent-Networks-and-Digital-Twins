@@ -133,6 +133,10 @@ Overview Here...
 
 ### Follow-ups
 
+### News
+
+* [This n8n AI Agent will AUTOMATE your Social Media (40:30) (12 Oct 2024)](https://www.youtube.com/watch?v=gEL0fFCdAJQ)
+
 ### Research
 
 * [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)

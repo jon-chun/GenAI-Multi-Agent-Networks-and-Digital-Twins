@@ -24,6 +24,7 @@
   * [Notebook Appendix](../code/deeplearningai/deeplearningai_prompt_compression_query_opt_Appendix-Tips_and_Help.ipynb)
 
 ## Job Applications
+
   Auto_Jobs_Applier_AIHawk is a tool that automates the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 
 * [AIHawk Github](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)
@@ -42,7 +43,13 @@
 * Industry Analyst
   * [Unleashing a new era of productivity in investment banking through the power of generative AI by Deloitte (27 Jul 2023)](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions/2023/generative-ai-in-investment-banking.html)
   
-* Research
+
+## Extracting Structured Info
+
+* [Prompt Link (202401)](https://github.com/constantjxyz/PromptLink)
+
+## Research
+
   * [A Survey of Large Language Models for Financial Applications -- Progress, Prospects and Challenges by Nie (16 Jun 2024)](https://arxiv.org/pdf/2406.11903v1)
   * [Large Language Models in Finance -- A Survey by Li (7 Jul 2024)](https://arxiv.org/pdf/2311.10723v2)
   * [Artificial Intelligence and Machine Learning in Financial Services by CRS (3 Apr 2024)](https://crsreports.congress.gov/product/pdf/R/R47997)
