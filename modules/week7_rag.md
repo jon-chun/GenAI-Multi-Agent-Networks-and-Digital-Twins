@@ -37,7 +37,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 ### PRESENTATIONS
 
 * Beshoy
-* Parker?
+* Mystery Guest?
 
 ### ANNOUNCEMENTS
 
@@ -45,6 +45,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### NEWS
 
+* [New technique makes RAG systems much better at retrieving the right documents (9 Oct 2024)](https://venturebeat.com/ai/new-technique-makes-rag-systems-much-better-at-retrieving-the-right-documents/)
 * [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
 * [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
 
@@ -59,6 +60,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 * [YT@lev-selector: Lev Selector AI Updates](https://www.youtube.com/@lev-selector)
 * [Searching for Best Practices in Retrieval-Augmented Generation by Wang et al. (1 Jul 2024)](https://www.semanticscholar.org/paper/Searching-for-Best-Practices-in-Retrieval-Augmented-Wang-Wang/9a946c503b6e799b3d57375b6edfaf4e24febcea)
+* [Development and Testing of Retrieval Augmented Generation in Large Language Models - A Case Study Report by Ke et al. (29 Jan 2024)](https://www.semanticscholar.org/paper/Development-and-Testing-of-Retrieval-Augmented-in-A-Ke-Jin/7423e5c903fb2befaf471cae64e2530f7c1d0404)
 
 ### CONCEPTS
 

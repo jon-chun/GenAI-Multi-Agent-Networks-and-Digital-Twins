@@ -16,7 +16,7 @@ Overview Here...
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* [Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator by Liao et al. (13 Mar 2024)](https://www.semanticscholar.org/paper/Automatic-Interactive-Evaluation-for-Large-Language-Liao-Meng/29bd27dce473f1a4735aa04f0f6682794d11d28c))
 
 ### SOFTWARE ENGINEERING
 
@@ -46,6 +46,8 @@ Overview Here...
 
 ### NEWS
 
+* [Palmyra-x-004 Tool Calling](https://writer.com/engineering/actions-with-palmyra-x-004/)
+* [Berkeley Tool Benchmark](https://gorilla.cs.berkeley.edu/leaderboard.html)
 * [Coming](oh_noes_404.md)
 
 ### FOLLOW-UPS
