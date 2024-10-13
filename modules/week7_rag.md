@@ -49,7 +49,9 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### NEWS: TECH
 
-* [Pyramid-Flow ](https://github.com/jy0205/Pyramid-Flow)
+* [Meeting Mind](https://github.com/misbahsy/meetingmind)
+  MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
+* [Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow)
   Multi-GPU inference: for users with multiple GPUs, they can leverage sequence parallel to reduce the memory burden on each GPU. We provide an inference script here and hope to get feedback on how much GPU memory it saves. Inference with multiple gpus can also greatly reduce the inference time. For example, It only needs 2.5 min to generate a 5s, 768p, 24fps video when using 4 A100 for inference (versus 5.5 min in one A100).
 * [New technique makes RAG systems much better at retrieving the right documents (9 Oct 2024)](https://venturebeat.com/ai/new-technique-makes-rag-systems-much-better-at-retrieving-the-right-documents/)
 * [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)

@@ -12,3 +12,5 @@
 
 * [Red Teaming LLM Applications (1hr)](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
 
+* [LangTrace Observability](https://github.com/Scale3-Labs/langtrace?utm_source=youtube&utm_medium=youtube&utm_campaign=youtube)
+  Langtrace 🔍 is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
