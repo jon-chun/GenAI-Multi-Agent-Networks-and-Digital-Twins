@@ -48,7 +48,9 @@ Overview Here...
 
 ### NEWS
 
+* [Livekit agents](https://github.com/livekit/agents)
 * [OpenAI Swarm](https://www.youtube.com/watch?v=82FSnDcw72k)
+  About Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * [Palmyra-x-004 Tool Calling](https://writer.com/engineering/actions-with-palmyra-x-004/)
 * [Berkeley Tool Benchmark](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
