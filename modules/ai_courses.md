@@ -19,6 +19,13 @@
   * [Is UNSLOTH the Secret to Making Llama 3.2 the Best AI Model? (Video 3 of 4) Fine-Tuning your LLMs (17:31) (29 Sep 2024)](https://www.youtube.com/watch?v=VePkG2EQKIM)
   * [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw&t=22s)
 
+* NLP
+  * [CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning (1:16:15) (20241008)](https://www.youtube.com/@neubig)
+
+* LlamaIndex
+  * [Make Autogen AI Agents with Long-Term Memory (12:56) (8 oCT 2024)](https://www.youtube.com/watch?v=s4-N-gefMA8)
+  * [tylerprogramming/llamaindex-beginner-course](https://github.com/tylerprogramming/llamaindex-beginner-course)
+
 ## Paid
 
 * [EchoHive](https://www.youtube.com/watch?v=w7_28FOK0Vw)
