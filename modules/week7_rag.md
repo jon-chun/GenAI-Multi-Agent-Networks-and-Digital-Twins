@@ -37,11 +37,13 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 ### PRESENTATIONS
 
 * Beshoy
-* Mystery Guest?
+* Parker
 
 ### ANNOUNCEMENTS
 
-* [NVIDIA RAG Contest](https://developer.nvidia.com/llamaindex-developer-contest?ncid=em-anno-190320&nvweb_e=n2j3n8SXfBKSp_LcvHb5_A5Lwybv_QzDKSDLHwuv5ihIRX1Sgrzu5OzD6pzbiQnq5vC9P0cK72ZIVhIp25LTGQ&mkt_tok=MTU2LU9GTi03NDIAAAGVvpjnETBxk6YNpyjsbZZaN7nxJIDe88MjeTHnMLm_jNWlJsvYuq2V9UCeZoK70_R7Fvy3Zcv5aWzbx47Bv-NJUmQbPwYGXaeqP17tThfHVm48AyCni44)
+* [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
+* [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
+* * [NVIDIA RAG Contest](https://developer.nvidia.com/llamaindex-developer-contest)
 
 ### NEWS: AUTOMATION
 
@@ -49,22 +51,36 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### NEWS: TECH
 
-* [Meeting Mind](https://github.com/misbahsy/meetingmind)
-  MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
-* [Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow)
-  Multi-GPU inference: for users with multiple GPUs, they can leverage sequence parallel to reduce the memory burden on each GPU. We provide an inference script here and hope to get feedback on how much GPU memory it saves. Inference with multiple gpus can also greatly reduce the inference time. For example, It only needs 2.5 min to generate a 5s, 768p, 24fps video when using 4 A100 for inference (versus 5.5 min in one A100).
+* LightRAG:
+  * [LightRAG: A More Efficient Solution than GraphRAG for RAG Systems? (19:48) (15 Oct 2024)](https://www.youtube.com/watch?v=oageL-1I0GE)
+  * [Github Webpage](https://lightrag.github.io/)
+* MS GraphRAG
+  * [Github Webpage](https://microsoft.github.io/graphrag/)
 * [Goodbye Text-Based RAG, Hello Vision AI: Introducing LocalGPT Vision! (17:57) (8 Oct 2024)](https://www.youtube.com/watch?v=YPs4eGDpIY4)
 * [localGPT-Vision](https://github.com/PromtEngineer/localGPT-Vision)
   Chat with your documents using Vision Language Models. This repo implements an End to End RAG pipeline with both local and proprietary VLMs
 * [New technique makes RAG systems much better at retrieving the right documents (9 Oct 2024)](https://venturebeat.com/ai/new-technique-makes-rag-systems-much-better-at-retrieving-the-right-documents/)
-* [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
-* [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
 
 ### FOLLOW-UPS
 
-* [Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
-* [GPT Canvas](https://www.youtube.com/watch?v=MfReXI4jsyI)
-* [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
+* [A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://swivid.github.io/F5-TTS/) 
+  * [Colab Gradio App](https://colab.research.google.com/github/NeuralFalconYT/F5-TTS-Demo/blob/main/Official_F5_TTS_Demo.ipynb#scrollTo=RUNBiTLLYN49)
+  * [Voice Samples](https://drive.google.com/drive/folders/18k-IMiwdkjbOLoruDk0xLvXm52m6pegI?usp=sharing)
+  * [Legally Blonde Admissions Transcript](https://www.youtube.com/watch?v=ZbZndWCq6Gs&t=37s)
+  My name is Elle Woods, and for my admissions essay, I’m gonna tell all of you at Harvard why I’m gonna make an amazing lawyer.
+  As president of my sorority, I’m skilled at commanding the attention of a room, and discussing very important issues.
+  It has come to my attention that the maintenance staff is switching our toilet paper from Charmin to generic.
+  All those opposed to chafing, say “aye Aye'
+  I'm able to recall hundreds of important details at the drop of a hat.
+  Hey, Elle, do you know what happened on Days of Our Lives yesterday?
+  Why yes, Margot, I do.
+  Once again, we joined Hope in the search for her identity.
+  She's been brainwashed by the evil Stefano.
+  Three... Get set, and go!
+  I feel comfortable using legal jargon in everyday life.
+  * [Movie Trailer Voiceover](https://youtu.be/ZB_hAVZLKE8?t=18)
+  * [Redd Pepper](https://www.youtube.com/watch?v=5K-6vL0LqMw)
+  * [Voiceover Examples Loop](https://www.youtube.com/watch?v=qGBdwOsvl3E)
 * [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
 
 ### RESEARCH
@@ -82,7 +98,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 * RAG (Relevance) Triad
   * Query
   * Context
-  * Repsonse
+  * Response
 * RAG
   * Sentence Window Retrieval
   * Auto-merging Retrieval
@@ -103,7 +119,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### SOFTWARE ENGINEERING
 
-* Product Selection and Bakeoffs
+* Product Selection and Bake-offs
   * [Reddit: Vector database : pgvector vs milvus vs weaviate (Jun 2024)](https://www.reddit.com/r/LocalLLaMA/comments/1e63m16/vector_database_pgvector_vs_milvus_vs_weaviate/)
   * [Reddit: Choosing a vector db for 100 million pages of text. Leaning towards Milvus, Qdrant or Weaviate. Am I missing anything, what would you choose? (May 2024)](https://www.reddit.com/r/vectordatabase/comments/1dcvyrm/choosing_a_vector_db_for_100_million_pages_of/)
   * [HNews: Choosing a Vector Database (4 Oct 2023)](https://news.ycombinator.com/item?id=37764489)
