@@ -3,6 +3,10 @@
 
 Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent applications that highlight the unique value LLM models bring to traditional software engineering. A deeper understanding of RAG is not only a practical skill, but it operationalizes and illustrates multiple real-world tradeoffs between (a) performance vs cost, safety, bias, etc., (b) model/tool selection, and (c) various software architectures. We incorporate and extend last weeks' study of embeddings and vector databases by introducing RAG and exploring some more advanced concepts like hybrid search and reranking.  
 
+## KEY QUESTIONS
+
+
+
 ## READINGS
 
 ### AI NEWS AND CULTURE
@@ -20,10 +24,11 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 ### SOFTWARE ENGINEERING
 
 * [RagFlow: Ultimate RAG Engine - Semantic Search, Embeddings, Vector Search, & More! (12:19) (Apr 2024)](https://www.youtube.com/watch?v=awTJmsSj2tA)
+  RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.
 * [Python RAG Tutorial (with Local LLMs): AI For Your PDFs (21:32) (May 2024)](https://www.youtube.com/watch?v=2TJxpyO3ei4&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e)
 * [RAG ipynb: CRAG, LlamaIndex, Ollama, ReAct Agent (19:19) (Apr 2024)](https://www.youtube.com/watch?v=qPsmRk14BNM&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e&index=5)
 
-### CODE
+### CODING
 
 * [Advanced Retrieval for AI with Chroma (1hr)](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/1/introduction)
 * [Building and Evaluating Advanced RAG (1hr)](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/1/introduction)
@@ -43,7 +48,6 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 * [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
 * [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
-* * [NVIDIA RAG Contest](https://developer.nvidia.com/llamaindex-developer-contest)
 
 ### NEWS: AUTOMATION
 
@@ -63,7 +67,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### FOLLOW-UPS
 
-* [A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://swivid.github.io/F5-TTS/) 
+* (voice+text-to-voice)[A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://swivid.github.io/F5-TTS/) 
   * [Colab Gradio App](https://colab.research.google.com/github/NeuralFalconYT/F5-TTS-Demo/blob/main/Official_F5_TTS_Demo.ipynb#scrollTo=RUNBiTLLYN49)
   * [Voice Samples](https://drive.google.com/drive/folders/18k-IMiwdkjbOLoruDk0xLvXm52m6pegI?usp=sharing)
   * [Legally Blonde Admissions Transcript](https://www.youtube.com/watch?v=ZbZndWCq6Gs&t=37s)
@@ -82,6 +86,9 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
   * [Redd Pepper](https://www.youtube.com/watch?v=5K-6vL0LqMw)
   * [Voiceover Examples Loop](https://www.youtube.com/watch?v=qGBdwOsvl3E)
 * [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
+* LlamaFactory
+  * [How to Get your LLMs to OBEY | Easiest Fine-tuning Interface for Total Control over your LLMs (7:03) (13 Oct 2024)](https://www.youtube.com/watch?v=nMFzUeOUzyo)
+  * [Colab](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing#scrollTo=wFyKaGC1dcEx)
 
 ### RESEARCH
 

@@ -22,6 +22,8 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
+* [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
 * [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
 
 ### CODING

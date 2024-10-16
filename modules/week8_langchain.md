@@ -12,7 +12,8 @@ Overview Here...
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* [Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
+* [The Techno-Optimist Manifesto by Marc Andreessen (16 Oct 2023)](https://a16z.com/the-techno-optimist-manifesto/)
 
 ### RESEARCH
 
