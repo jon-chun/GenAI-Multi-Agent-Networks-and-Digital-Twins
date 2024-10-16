@@ -37,7 +37,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### OVERHEAD
 
-* Quiz
+* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScBiBwYf2h6hvpVjCAsf1J6EF7PU1IgSswJSJ1D4DoNteGciQ/viewform?usp=sf_link)
 
 ### PRESENTATIONS
 
