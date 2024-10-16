@@ -35,20 +35,29 @@ Overview Here...
 
 ### PRESENTATIONS
 
-* [Student #1](oh_noes_404.md)
-* [Student #2](oh_noes_404.md)
+* Presentation #1
+* Presentation #2
 
 ### ANNOUNCEMENTS
 
 * [Coming](oh_noes_404.md)
 
-### NEWS
+### NEWS: TECH
+
+* [Meeting Mind](https://github.com/misbahsy/meetingmind)
+  MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
+* [Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow)
+  Multi-GPU inference: for users with multiple GPUs, they can leverage sequence parallel to reduce the memory burden on each GPU. We provide an inference script here and hope to get feedback on how much GPU memory it saves. Inference with multiple gpus can also greatly reduce the inference time. For example, It only needs 2.5 min to generate a 5s, 768p, 24fps video when using 4 A100 for inference (versus 5.5 min in one A100).
+
+### NEWS: AUTOMATION
 
 * [Coming](oh_noes_404.md)
 
 ### FOLLOW-UPS
 
-* [Coming](oh_noes_404.md)
+* [Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
+* [GPT Canvas](https://www.youtube.com/watch?v=MfReXI4jsyI)
+* [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
 
 ### RESEARCH
 
