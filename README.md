@@ -111,22 +111,22 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 9. How could explainable AI impact the development of AI regulations and policies?
 10. What role does bias play in embeddings, and how can it be mitigated?
 
-### Week 7-9: RAG Application using LangChain
+### Week 7-9: RAG Application using Langchain
 
 #### Learning Goals
 
 * Understand Retrieval-Augmented Generation (RAG)
-* Learn to use LangChain for RAG applications
+* Learn to use Langchain for RAG applications
 * Implement a RAG system to enhance language model capabilities
 
 #### Description
 
-Introduction to RAG and its implementation using LangChain. Students will create applications that combine the power of language models with external knowledge sources.
+Introduction to RAG and its implementation using Langchain. Students will create applications that combine the power of language models with external knowledge sources.
 
 #### Detailed Content
 
 * [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md) (membuka)
-* [**Week 8:** LangChain and LlamaIndex](./modules/week8_langchain.md) (wazi)
+* [**Week 8:** Langchain and LlamaIndex](./modules/week8_Langchain.md) (wazi)
 * [**Week 9:** Miniproject 3: A Smart RAG Application](./modules/oh_noes_404.md)
 
 #### Reflection Questions
@@ -214,7 +214,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 1. OpenAI API Function Calling Chat App
 2. Embeddings and Explainability with Huggingface
-3. RAG Application using LangChain
+3. RAG Application using Langchain
 4. Autonomous Multi-Agent Simulations
 
 ### Final Project
