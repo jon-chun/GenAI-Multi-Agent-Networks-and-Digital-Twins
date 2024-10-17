@@ -150,4 +150,5 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 
 ### EXTRA CODE
 
+* [(text+voice) to voice clone Gradio app Colab](../code/notebooks/tts_sts_Official_F5_TTS_Demo_20241015.ipynb)
 * [Multimodal RAG Chat with Video (1hr)](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
