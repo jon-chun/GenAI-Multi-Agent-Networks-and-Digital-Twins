@@ -14,7 +14,8 @@ Overview Here...
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* [Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
+
 
 ### RESEARCH
 
@@ -22,6 +23,7 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [Introducing Swarm with Code Examples: OpenAI's Groundbreaking Agent Framework (27:53) (14 Oct 2024)](https://www.youtube.com/watch?v=npAljHBeKPc)
 * [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
 * [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
 * [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
