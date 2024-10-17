@@ -10,6 +10,7 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### AI NEWS AND CULTURE
 
+* [The most dystopian app ever made… (4:53) (7 Oct 2024)](https://www.youtube.com/watch?v=zvbTDUSz8Cc)
 * [The Techno-Optimist Manifesto by Marc Andreessen (16 Oct 2023)](https://a16z.com/the-techno-optimist-manifesto/)
 
 ### RESEARCH
@@ -56,11 +57,11 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* [Coming...](oh_noes_404.md)
 
 ### CONCEPTS
 
-* [Coming](oh_noes_404.md)
+* [Coming...](oh_noes_404.md)
 
 ### TOOLS
 
@@ -82,8 +83,8 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### EXTRAS
 
-* [Coming](oh_noes_404.md)
+* [Coming...?](oh_noes_404.md)
 
 ## RESOURCES
 
-* [Coming](oh_noes_404.md)
+* [Coming...?](oh_noes_404.md)
