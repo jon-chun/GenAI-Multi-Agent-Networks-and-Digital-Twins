@@ -1,6 +1,6 @@
-# Week N: Week Title
+# Week 8: Langchain
 
-After digging into the details of embeddings, vector databases, and various RAG optimization techniques this week we step back an look at the most popular high-level opinionated LLM development framework: LangChain. You will see how you can implement your RAG concepts from last week in a Chatbot and more broadly LLM applications using agents. Finally, you'll get a peek into the theory of recent agentic AI research that takes us a step closer to AGI.
+After digging into the seamy details of embeddings, vector databases, and various RAG optimization techniques, this week we step back a high-level look at the most popular (and opinionated) LLM development framework: Langchain. You will see how you can implement your RAG concepts from last week in a Chatbot and more broadly use Langchain to create standalone LLM applications to networks of agents. Finally, you'll get a peek into the theory of recent agentic AI research that takes us a step closer to AGI.
 
 ## KEY QUESTIONS
 
@@ -64,15 +64,17 @@ After digging into the details of embeddings, vector databases, and various RAG 
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* [LangSmith](https://www.langchain.com/langsmith)
+* [LangGraph](https://www.langchain.com/langgraph)
+* [LangGraph Studio: The first agent IDE (1 Aug 2024)](https://blog.langchain.dev/langgraph-studio-the-first-agent-ide/)
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [Conceptual Guide: Multi Agent Architectures (8:57) (16 Oct 2024)](https://www.youtube.com/watch?v=4nZl32FwU-o)
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* [Re-implementing LangChain in 100 lines of code (4 May 2023)](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
 
 ### CODE REVIEW
 
