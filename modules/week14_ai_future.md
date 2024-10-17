@@ -18,9 +18,6 @@ Overview Here...
 
 ### RESEARCH
 
-* Technology
-  * [AASPI’s Critical Technology Tracker by Gaida et al. (evergreen)](https://www.aspi.org.au/report/critical-technology-tracker)
-
 * Ethics
   * [Oxford Institute for Ethics in AI (6 Research Themes)](https://www.oxford-aiethics.ox.ac.uk/)
 
@@ -32,7 +29,6 @@ Overview Here...
   * [US universities losing hundreds of billions as top Chinese scientists and researchers go home (10:43) (Oct 2024)](https://www.youtube.com/watch?v=gKQXnzNxb4g)
 
 * US AI Policies
-  * [Artificial Intelligence 2024 Legislation by NCSL (Sept 2024)](https://www.ncsl.org/technology-and-communication/artificial-intelligence-2024-legislation)
   * [Vision for Competitiveness: Mid-Decade Opportunities for Strategic Victory by SCSP (May 2024)](https://www.scsp.ai/reports/vision/)
   * [No Substitute for Victory America’s Competition With China Must Be Won, Not Managed by Pottinger and Gallagher (May/June 2024)](https://www.foreignaffairs.com/united-states/no-substitute-victory-pottinger-gallagher)
 

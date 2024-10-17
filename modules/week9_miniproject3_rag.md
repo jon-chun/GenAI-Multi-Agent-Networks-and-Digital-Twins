@@ -10,17 +10,20 @@ Overview Here...
 
 ## READINGS
 
+Coming...
+  
 ### AI NEWS AND CULTURE
 
 * [Coming](oh_noes_404.md)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* [Stanford & OpenAI Code an Intelligent Shield (52:27) (13 Apr 2024)](https://www.youtube.com/watch?v=3xmn5JWBjiw)
+* [OpenAI is after Kaggle Agents! 💥 OpenAI's Agentic AGI Route (15:49) (10 Oct 2024)](https://www.youtube.com/watch?v=Guz3bVUXR4Q)
 
-### DESIGN
+### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [This n8n AI Agent converts ANY YouTube video into amazing workflows (NO CODE!!) (22:33) (16 Oct 2024)](https://www.youtube.com/watch?v=zl5tDaFxrNo)
 
 ### CODING
 
@@ -48,7 +51,8 @@ Overview Here...
 
 ### FOLLOW-UPS
 
-* [Coming](oh_noes_404.md)
+* [Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
+* [GPT Canvas](https://www.youtube.com/watch?v=MfReXI4jsyI)
 
 ### RESEARCH
 

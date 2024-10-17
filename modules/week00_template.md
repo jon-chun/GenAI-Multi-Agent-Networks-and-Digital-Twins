@@ -31,7 +31,7 @@ Overview Here...
 
 ## IN-CLASS EXERCISES
 
-### OVERHEAD
+### ADMINISTRATIVE
 
 * [Quiz](oh_noes_404.md)
 
@@ -43,8 +43,12 @@ Overview Here...
 ### ANNOUNCEMENTS
 
 * [Coming](oh_noes_404.md)
+  
+### NEWS: AUTOMATION
 
-### NEWS
+* [Coming](oh_noes_404.md)
+* 
+### NEWS: TECH
 
 * [Coming](oh_noes_404.md)
 
