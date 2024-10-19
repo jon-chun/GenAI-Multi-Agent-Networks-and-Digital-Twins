@@ -24,3 +24,11 @@
   * [Ollama in Colab](https://colab.research.google.com/github/jellyterra/ollama-colab/blob/master/OllamaColab.ipynb)
   * [ngrok API](https://dashboard.ngrok.com/)
   * [Ollama in Github Code Space](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
+
+## Docker
+
+* [How I deploy serverless containers for free (6:32) (Feb 2024)](https://www.youtube.com/watch?v=cw34KMPSt4k)
+
+## Infrastructure as Code
+
+* [Ansible in 100 Second (2:33) (2023)](https://www.youtube.com/watch?v=xRMPKQweySE)

@@ -14,7 +14,7 @@ Coming...
   
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* [Game of Thrones - A Song of Rednecks (Official Music Video) (2:24) (17 Oct 2024)](https://www.youtube.com/watch?v=tzE7TYwAYq4)
 
 ### RESEARCH
 
@@ -43,11 +43,13 @@ Coming...
 
 ### ANNOUNCEMENTS
 
-* [Coming](oh_noes_404.md)
+* Miniproject #3: Deets
 
 ### NEWS
 
-* [Coming](oh_noes_404.md)
+* [MeetingMind Github](https://github.com/misbahsy/meetingmind)
+  MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights
+* [HeyGen Interactive Zoom Avatar (17 Oct 2024)](https://www.maginative.com/article/heygens-new-interactive-avatar-joins-zoom-calls-so-you-dont-have-to/)
 
 ### FOLLOW-UPS
 
@@ -68,7 +70,10 @@ Coming...
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [Langchain Dev Blog](https://blog.langchain.dev/)
+* [Langchain Discord](https://www.restack.io/docs/langchain-knowledge-langchain-discord-community)
+* [Subreddits on Langchain](https://www.reddit.com/search/?q=langchain&cId=7f337738-bb4a-4762-b3a9-ee8784bacfc0&iId=261bb49b-c7a7-44c2-9a3c-389bc51c300d)
+* 
 
 ### CODE SAMPLE
 
