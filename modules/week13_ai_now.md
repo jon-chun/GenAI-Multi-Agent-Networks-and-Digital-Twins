@@ -57,7 +57,9 @@ Overview Here...
 * 
 ### NEWS: TECH
 
-* [Coming](oh_noes_404.md)
+* [Report reveals Solar and battery storage is now cheaper than fossil fuels (10:57) (18 Oct 2024)](https://www.youtube.com/watch?v=Noam3sn0tgw)
+* [Solar panel factories in the United States are going broke, except the ones China is building (8:38) (Sep 2024)](https://www.youtube.com/watch?v=BbO3ovIGQnc&t=3s)
+* [Amazon Joins Google and Microsoft in AI Nuclear Buildout (6:21) (18 Oct 2024)](https://www.youtube.com/watch?v=ke_b5gMqFzg)
 
 ### FOLLOW-UPS
 

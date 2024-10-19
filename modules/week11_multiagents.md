@@ -1,6 +1,8 @@
 
 # Week 11: Multi-Agent Frameworks
 
+* [The rise of the chief AI officer by Jones (14 Apr 2024) (Financial Times)](https://archive.ph/anHEk#selection-2365.0-2365.275)
+* [Future of Work Report AI at Work by LinkedIn (Nov 2023)](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/future-of-work-report-ai-november-2023.pdf)
 
 ## Readings
 

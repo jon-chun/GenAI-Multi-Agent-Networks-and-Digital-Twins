@@ -15,6 +15,7 @@
 
 ## Local RAG
 
+* [PyMuPDF RAG](https://github.com/pymupdf/RAG)
 * Ollama
   * [Python RAG Tutorial (with Local LLMs): AI For Your PDFs (21:32) (17 Apr 2024)](https://www.youtube.com/watch?v=2TJxpyO3ei4&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e)
   * [Ollama Rag Colab](https://colab.research.google.com/drive/1cqLm7bxVAvh5HA5X38KG-gmofdGrEAwN?usp=sharing)
@@ -29,6 +30,9 @@
 
 ## Graph Networks
 
+* [LightRAG](https://github.com/HKUDS/LightRAG)
+* [MS GraphRAG](https://github.com/microsoft/graphrag)
+* [FastRAG](https://github.com/IntelLabs/fastRAG)
 * [Harvard Presents NEW Knowledge-Graph AGENT (MedAI) (38:35) (7 Oct 2024)](https://www.youtube.com/watch?v=Fm68I-phaiY)
 
 

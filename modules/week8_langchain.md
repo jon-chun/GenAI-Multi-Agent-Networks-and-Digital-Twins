@@ -40,7 +40,7 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### ANNOUNCEMENTS
 
-* Miniproject #3 Deets
+* Miniproject #2: Structure Colab, Comments, Credits (esp AI), Follow Specs (2+ Models)
 
 ### NEWS: TECH
 
@@ -53,7 +53,12 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### FOLLOW-UPS
 
+* US Healthcare, Research, and Pharma: Creative Destruction vs End Stage Capitalism
 * [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
+* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3 (24:10) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8) 
+  * [LlamaParse](https://github.com/run-llama/llama_parse)
+  * [FireCrawl](https://www.firecrawl.dev/)
+  * [Unstructured](https://pypi.org/project/unstructured/)
 
 ### RESEARCH
 

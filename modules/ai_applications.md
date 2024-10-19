@@ -50,9 +50,8 @@
   * [LangGraph]()
   * [Lang]
 * LlamaIndex
-* [unstract](https://github.com/Zipstack/unstract)
-* [MS AutoGen]()
-* [OpenAI Swarms](https://github.com/openai/swarm)
+* [Haystack](https://github.com/deepset-ai/haystack)
+* SEE [ai_agents]
 
 ## No/Low Code
 

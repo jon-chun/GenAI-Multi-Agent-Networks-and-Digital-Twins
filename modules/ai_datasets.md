@@ -9,6 +9,10 @@
 * [LLM Datasets (Sep 2024)](https://github.com/mlabonne/llm-datasets)
 * [LLM DataHub (2023)](https://github.com/Zjh-819/LLMDataHub)
 
+## Websearch
+
+* [SerpAPI](https://serpapi.com/playground)
+
 ## Scraping
 
 * [Anthropic](https://claude.ai/chat/6ad53704-7a65-4cfa-9d30-e892b1bc1862)
@@ -30,13 +34,22 @@
 
 * [ChatGPT](https://chatgpt.com/share/66eed096-4110-800d-9d79-d131fab8b221)
 * [Perplexity](https://www.perplexity.ai/search/open-source-or-python-librarie-Myts_hs4QjaG.pBkUsSNjw)
+* [TesseractOCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 ## PDF
 
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF
+* )
 * [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [MinerU](https://github.com/opendatalab/MinerU)
 * [H2OGPT](https://github.com/h2oai/h2ogpt)
 * [PikePDF](https://github.com/pikepdf/pikepdf)
+
+## Spelling and Grammar
+
+* [LanguageTool](https://github.com/languagetool-org/languagetool)
+* [PyASpeller](https://github.com/oriontvv/pyaspeller)
+* [GrammarFormer](https://github.com/PrithivirajDamodaran/Gramformer)
 
 ## Text Processing Libraries
 
