@@ -46,20 +46,31 @@ After digging into the seamy details of embeddings, vector databases, and variou
 ### NEWS: AI, AUTOMATION, & THE FUTURE OF WORK
 
 * [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)
-
-### NEWS: TECH
-
 * Claude AI Computer
   * [Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
   * [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku (22 Oct 2024)](https://www.anthropic.com/news/3-5-models-and-computer-use)
   * [YC News](https://news.ycombinator.com/item?id=41914989)
   * [COMPUTER USE - Anthropic's GROUNDBREAKING AI Tool | How to Install | Live Testing (20:27) (22 Oct 2024)](https://www.youtube.com/watch?v=xr0FCUNoy_0)
+
+### NEWS: TECH
+
 * Image to Video w/Emotion
   * [History Brought to Life with AI Magic Vol 2 (Abe) (Oct 2024)](https://youtu.be/x6rjEpPamKc?t=12)
   * [The Scary Truth Behind AI's Emotional Power (11:42) (21 Oct 2024)](https://www.youtube.com/watch?app=desktop&v=2Qb_XnEUcY8)
+  * [Minimax Expression Tutorial - Image-to-Video (18 Oct 2024)](https://www.reddit.com/r/aivideo/comments/1g6shqk/minimax_expression_tutorial_imagetovideo/)\
+  Joy – Wide eyes, big smile, raised eyebrows, relaxed facial muscles.
+  Sadness – Downturned mouth, furrowed brows, teary eyes, drooping eyelids.
+  Surprise – Wide eyes, raised eyebrows, open mouth, slight head tilt.
+  Anger – Furrowed brows, clenched jaw, flared nostrils, narrowed eyes.
+  Fear – Wide eyes, slightly open mouth, tense brows, rigid jaw.
+  Disgust – Scrunched nose, raised upper lip, furrowed brows, narrowed eyes.
+  Confusion – One eyebrow raised, slightly open mouth, furrowed brows, head tilt.
+  Contempt – One side of the mouth curled up, narrowed eyes, head slightly turned.
+  Determination – Tightened lips, narrowed eyes, focused eyebrows, set jaw.
+  Shock – Frozen expression with wide-open eyes, slackened jaw, raised eyebrows.
+  Relief – Closed eyes, small smile, relaxed eyebrows, exhale shown with slightly open mouth.
+  Embarrassment – Eyes looking downward, blushing cheeks, sheepish smile, raised shoulders.
   * [Hailuo AI Video](https://hailuoai.video/)
-* [Meeting Mind](https://github.com/misbahsy/meetingmind)
-  MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
 
 ### FOLLOW-UPS
 

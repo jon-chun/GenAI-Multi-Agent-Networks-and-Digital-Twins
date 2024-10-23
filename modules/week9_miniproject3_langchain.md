@@ -1,6 +1,6 @@
-# Week N: Week Title
+# Week 9: More LangChain, LangGraph and Miniproject #3
 
-Overview Here...
+We learn more LangChain API details for robuts AI application development along with it's agentic framework LangGraph. With these additional two skillsets, you have more degrees of freedom to design a more creative Miniproject #3 that utilizes LangChain/LangGraph to automate a non-trivial knowledge work pipeline. Start with 1-3 of the many LangChain/LangGraph sample applications and customize the workflow with LangChain components, architecture, datasets, prompts, and details like algorithms. Pick a workflow that parallels a non-trival task you have special insight and/or interest in from producing a viral music video to writing a specialized inside-the-beltway policy paper to automate AI dataset creation (search, download, normalization, filtering, etc). 
 
 ## KEY QUESTIONS
 
@@ -14,6 +14,7 @@ Overview Here...
   
 ### AI NEWS AND CULTURE
 
+* [Claude has taken control of my computer... (4:36) (23 Oct 2024)](https://www.youtube.com/watch?v=DVRg0daTads)
 * [Game of Thrones - A Song of Rednecks (Official Music Video) (2:24) (17 Oct 2024)](https://www.youtube.com/watch?v=tzE7TYwAYq4)
 
 ### RESEARCH
@@ -30,8 +31,8 @@ Overview Here...
 
 ### CODING
 
-* [Coming](oh_noes_404.md)
-
+* [AI Agentic Design Patterns with AutoGen ~1.75hrs](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+* [AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 
 ## IN-CLASS EXERCISES
 
@@ -53,6 +54,8 @@ Overview Here...
 * [MeetingMind Github](https://github.com/misbahsy/meetingmind)
   MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights
 * [HeyGen Interactive Zoom Avatar (17 Oct 2024)](https://www.maginative.com/article/heygens-new-interactive-avatar-joins-zoom-calls-so-you-dont-have-to/)
+* [Meeting Mind](https://github.com/misbahsy/meetingmind)
+  MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
 
 ### NEWS: TECH
 
@@ -96,7 +99,8 @@ Overview Here...
 
 ## RESOURCES
 
-* [Coming](oh_noes_404.md)
+* [Awesome LangChain (Aug 2024) 7.4k](https://github.com/kyrolabs/awesome-langchain)
+
 
 
 

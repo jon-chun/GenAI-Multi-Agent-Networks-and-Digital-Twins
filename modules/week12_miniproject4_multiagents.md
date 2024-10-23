@@ -24,8 +24,7 @@ Overview Here...
 
 ### CODING
 
-* [Coming](oh_noes_404.md)
-
+* [DeepLearning.ai: Multi-AI Agent Systems with CrewAI 2.75hrs](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
 ## IN-CLASS EXERCISES
 

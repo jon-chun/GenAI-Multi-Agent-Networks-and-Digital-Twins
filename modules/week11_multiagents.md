@@ -14,6 +14,7 @@
 
 * [DeepLearning.ai: AI Agentic Design Patterns with AutoGen (1hr)](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 * [DeepLearning.ai: Multi-AI Agent Systems with CrewAI (1hr)](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+* * [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
 
 ## In-Class
 
