@@ -12,9 +12,10 @@
 
 ### Coding
 
+* [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+
 * [DeepLearning.ai: AI Agentic Design Patterns with AutoGen (1hr)](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-* [DeepLearning.ai: Multi-AI Agent Systems with CrewAI (1hr)](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
-* * [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+
 
 ## In-Class
 
@@ -37,3 +38,7 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
   * Anyscale
   * Replicate
   * Together.ai
+
+## RESEARCH
+
+* [RL Loses Against Multi-Agent Intelligence: CoMAL (24:52) (22 Oct 2024)](https://www.youtube.com/watch?v=8RKk-IhNRZ0)

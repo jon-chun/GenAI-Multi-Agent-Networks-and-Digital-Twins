@@ -31,9 +31,7 @@ Overview Here...
 
 ### CODING
 
-* [Coming](oh_noes_404.md)
-
-
+* [AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 
 
 ## IN-CLASS EXERCISES
