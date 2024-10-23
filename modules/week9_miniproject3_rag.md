@@ -10,7 +10,7 @@ Overview Here...
 
 ## READINGS
 
-Coming...
+* [Announcing our updated Responsible Scaling Policy by Anthropic (15 Oct 2024)](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy)
   
 ### AI NEWS AND CULTURE
 
@@ -18,7 +18,10 @@ Coming...
 
 ### RESEARCH
 
-* [Stanford & OpenAI Code an Intelligent Shield (52:27) (13 Apr 2024)](https://www.youtube.com/watch?v=3xmn5JWBjiw)
+* Agent S by Simular
+  * [Agent S: An Open Agentic Framework that Uses Computers Like a Human by Simular](https://www.youtube.com/watch?v=q8SgHYV2zUk)
+  * [Github](https://github.com/simular-ai/Agent-S)
+  * [Agent-S : Unleash The Power Of GUI Computer Use Agents! (10:59) (21 Oct 2024)](https://www.simular.ai/agent-s)
 * [OpenAI is after Kaggle Agents! 💥 OpenAI's Agentic AGI Route (15:49) (10 Oct 2024)](https://www.youtube.com/watch?v=Guz3bVUXR4Q)
 
 ### SOFTWARE ENGINEERING
@@ -45,11 +48,15 @@ Coming...
 
 * Miniproject #3: Deets
 
-### NEWS
+### NEWS: AI, AUTOMATION, & THE FUTURE OF WORK
 
 * [MeetingMind Github](https://github.com/misbahsy/meetingmind)
   MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights
 * [HeyGen Interactive Zoom Avatar (17 Oct 2024)](https://www.maginative.com/article/heygens-new-interactive-avatar-joins-zoom-calls-so-you-dont-have-to/)
+
+### NEWS: TECH
+
+* [Stanford & OpenAI Code an Intelligent Shield (52:27) (13 Apr 2024)](https://www.youtube.com/watch?v=3xmn5JWBjiw)
 
 ### FOLLOW-UPS
 
