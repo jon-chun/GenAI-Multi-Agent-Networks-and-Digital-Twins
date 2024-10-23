@@ -31,7 +31,7 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### OVERHEAD
 
-* Quiz
+* [Quiz: LangChain](https://docs.google.com/forms/d/e/1FAIpQLSdiVbEmG-6jdwwUr4v2UIvO2frfoNhbE5wplM6pkRRAnjMk6g/viewform?usp=sf_link)
 
 ### PRESENTATIONS
 

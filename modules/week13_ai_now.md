@@ -34,7 +34,8 @@ Overview Here...
 
 ### CODING
 
-* [Coming](oh_noes_404.md]
+* [AI Agentic Design Patterns with AutoGen ~1.5hr ](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+* [Building AI Applications with Haystack ~1.5hrs](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/)
 
 ## IN-CLASS EXERCISES
 
