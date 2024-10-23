@@ -29,6 +29,7 @@ We begin with standard course bookkeeping followed by laying both a foundation a
   * AI Safety, Security, and Regulation
   * Ethical Reasoning, Decision-Making, and Ethical Audits
   * Automation of knowledge workflows
+  * AI, higher-ed, and the future of work
   * Agentic Simulations (e.g. Persuasion, Deception, and Manipulation)
 * Syllabus: Schedule (Sept 18th: Prof Elkins), Topics, and Grading
 * Textbook -> Cloud Subscriptions $100-150

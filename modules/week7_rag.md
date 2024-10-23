@@ -49,7 +49,7 @@ Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent 
 * [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
 * [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
 
-### NEWS: AUTOMATION
+### NEWS: AI, AUTOMATION, & THE FUTURE OF WORK
 
 * (0:50-12:50) [How Domain-Specific AI Agents Will Shape the Industrial World in the Next 10 Years (32:28) (10 Oct 2024)](https://youtu.be/aWEaEgV1pHQ?t=58)
 

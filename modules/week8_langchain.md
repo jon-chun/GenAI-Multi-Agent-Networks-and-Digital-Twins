@@ -41,15 +41,25 @@ After digging into the seamy details of embeddings, vector databases, and variou
 ### ANNOUNCEMENTS
 
 * Miniproject #2: Structure Colab, Comments, Credits (esp AI), Follow Specs (2+ Models)
+* Miniproject #3: Baseline project: Use LangChain to implement an analysis breakdown of a domain know
+
+### NEWS: AI, AUTOMATION, & THE FUTURE OF WORK
+
+* [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)
 
 ### NEWS: TECH
 
+* Claude AI Computer
+  * [Computer use (beta)](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
+  * [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku (22 Oct 2024)](https://www.anthropic.com/news/3-5-models-and-computer-use)
+  * [YC News](https://news.ycombinator.com/item?id=41914989)
+  * [COMPUTER USE - Anthropic's GROUNDBREAKING AI Tool | How to Install | Live Testing (20:27) (22 Oct 2024)](https://www.youtube.com/watch?v=xr0FCUNoy_0)
+* Image to Video w/Emotion
+  * [History Brought to Life with AI Magic Vol 2 (Abe) (Oct 2024)](https://youtu.be/x6rjEpPamKc?t=12)
+  * [The Scary Truth Behind AI's Emotional Power (11:42) (21 Oct 2024)](https://www.youtube.com/watch?app=desktop&v=2Qb_XnEUcY8)
+  * [Hailuo AI Video](https://hailuoai.video/)
 * [Meeting Mind](https://github.com/misbahsy/meetingmind)
   MeetingMind is an AI-powered meeting assistant that helps you capture, analyze, and act on your meeting insights effortlessly. This project is built with Langflow, Next.js and Groq-based fast transcription service to analyze your meetings and generate insights.
-
-### NEWS: AUTOMATION
-
-* [Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs by Columbo et al. (27 Jul 2024)](https://arxiv.org/pdf/2407.19204)
 
 ### FOLLOW-UPS
 
@@ -66,7 +76,7 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### CONCEPTS
 
-* [Coming...](oh_noes_404.md)
+* In-class
 
 ### TOOLS
 
