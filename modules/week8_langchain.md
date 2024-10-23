@@ -74,20 +74,17 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 ### FOLLOW-UPS
 
-* US Healthcare, Research, and Pharma: Creative Destruction vs End Stage Capitalism
-* [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
-* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3 (24:10) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8) 
-  * [LlamaParse](https://github.com/run-llama/llama_parse)
-  * [FireCrawl](https://www.firecrawl.dev/)
-  * [Unstructured](https://pypi.org/project/unstructured/)
+* [Healthcare in Late Stage Capitalism](https://www.reddit.com/r/collapse/comments/17xmffv/healthcare_in_late_stage_capitalism/)
+* [US Healthcare, Research, and Pharma](https://www.perplexity.ai/search/research-with-citations-and-pr-aMszVZBZQvmKa8y8zzkeFA): Creative Destruction vs End Stage Capitalism
 
 ### RESEARCH
 
-* [Coming...](oh_noes_404.md)
+* [Announcing our updated Responsible Scaling Policy (15 Oct 2024)](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy)
+* [Elkins/Chun (MLA) Presentation NIST AI Safety Inst. (23 Oct 2024)](https://arxiv.org/abs/2402.01651)
 
 ### CONCEPTS
 
-* In-class
+* [OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation)
 
 ### TOOLS
 
@@ -111,6 +108,20 @@ After digging into the seamy details of embeddings, vector databases, and variou
 
 * [Coming...?](oh_noes_404.md)
 
-## RESOURCES
+### RESOURCES
 
-* [Coming...?](oh_noes_404.md)
+* Projects
+  * [Building an AI Debate app using LangChain and OpenAI (17 Jun 2024)](https://medium.com/@felipecembranelli/presidential-debate-i-created-two-ai-agents-and-had-them-debate-on-election-topics-69f29656ceb4)
+  * [LangChain ingest portfolio Colab (May 2024))](https://github.com/zackproser/ingest-portfolio/blob/main/ingest_portfolio.ipynb)
+  * [Educational Chatbot (2023)](https://www.youtube.com/watch?v=qhfPlmFHvBI&list=PLrzE9U41BOPBTvztlxLC-8XC5hUY-VWSb)
+
+* Colab Collections/Tutorials
+  * [YT LangChain Projects](https://www.youtube.com/results?search_query=langchain+project)
+  * [LangChain YT Tutorials: samwit (2023-2024)](https://github.com/samwit/langchain-tutorials)
+  * [LangChain YT Tutorials: search (2023-2024)](https://www.youtube.com/watch?v=NYSWn1ipbgg&list=PL-Y17yukoyy3zzoMJNkWQuogKbWGyBL-d)
+  * [LangChain crash course (2023)](https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F)
+
+* LangGraph
+  * [LangGraph Multiagent Collaboration Colab (Oct 2024)](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/multi-agent-collaboration.ipynb)
+
+

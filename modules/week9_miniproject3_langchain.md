@@ -28,6 +28,7 @@ We learn more LangChain API details for robuts AI application development along 
 ### SOFTWARE ENGINEERING
 
 * [This n8n AI Agent converts ANY YouTube video into amazing workflows (NO CODE!!) (22:33) (16 Oct 2024)](https://www.youtube.com/watch?v=zl5tDaFxrNo)
+* [The Ultimate n8n Beginner’s Guide | Part (2/4) (10:00) (22 Oct 2024)](https://www.youtube.com/watch?v=LJnvdBFqfH8)](https://www.youtube.com/watch?v=LJnvdBFqfH8)
 
 ### CODING
 
