@@ -10,6 +10,8 @@
 
 ### Coding
 
+* [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+* 
 * [LLMOps (1hr)](https://www.deeplearning.ai/short-courses/llmops/)
 
 ## In-Class
