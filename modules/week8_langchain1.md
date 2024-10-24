@@ -114,6 +114,7 @@ After digging into the seamy details of embeddings, vector databases, and variou
   * [Building an AI Debate app using LangChain and OpenAI (17 Jun 2024)](https://medium.com/@felipecembranelli/presidential-debate-i-created-two-ai-agents-and-had-them-debate-on-election-topics-69f29656ceb4)
   * [LangChain ingest portfolio Colab (May 2024))](https://github.com/zackproser/ingest-portfolio/blob/main/ingest_portfolio.ipynb)
   * [Educational Chatbot (2023)](https://www.youtube.com/watch?v=qhfPlmFHvBI&list=PLrzE9U41BOPBTvztlxLC-8XC5hUY-VWSb)
+* [LangChain and Ollama: Build Your Personal Coding Assistant in 10 Minutes (20:42) (28 Sep 2024)](https://www.youtube.com/watch?v=fOUng7fMQ1Y) [Repo](https://github.com/aidev9/tuts/tree/main/langchain-ollama)
 
 * Colab Collections/Tutorials
   * [YT LangChain Projects](https://www.youtube.com/results?search_query=langchain+project)

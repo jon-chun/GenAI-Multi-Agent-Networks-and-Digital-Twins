@@ -30,6 +30,9 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [This n8n AI Agent converts ANY YouTube video into amazing workflows (NO CODE!!) (22:33) (16 Oct 2024)](https://www.youtube.com/watch?v=zl5tDaFxrNo)
+* [The Ultimate n8n Beginner’s Guide | Part (2/4) (10:00) (22 Oct 2024)](https://www.youtube.com/watch?v=LJnvdBFqfH8)
+
 * [How to Build Your Career in AI by Andrew Ng](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book)
 
 ### CODING
