@@ -126,8 +126,9 @@ Introduction to RAG and its implementation using Langchain. Students will create
 #### Detailed Content
 
 * [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md) (membuka)
-* [**Week 8:** Langchain](./modules/week8_langchain.md) (wazi)
-* [**Week 9:** Miniproject 3: A Smart RAG Application](./modules/oh_noes_404.md)
+* [**Week 8:** Langchain 1](./modules/week8_langchain1.md) (उद्घाटित)
+* [**Week 9:** Langchain 2](./modules/week9_langchain2.md) (aperta)
+* [**Week 10:** Miniproject 3: Agents](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
