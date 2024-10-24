@@ -38,8 +38,7 @@
 
 ## PDF
 
-* [PyMuPDF](https://github.com/pymupdf/PyMuPDF
-* )
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 * [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [MinerU](https://github.com/opendatalab/MinerU)
 * [H2OGPT](https://github.com/h2oai/h2ogpt)
@@ -53,18 +52,17 @@
 
 ## Text Processing Libraries
 
-* [SpaCy](https://spacy.io/usage)\
+* [SpaCy](https://spacy.io/usage)
 * [Unstructured](https://github.com/Unstructured-IO/unstructured)
 * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
 * [LlamaParse](https://github.com/run-llama/llama_parse)
-* 
-
+  
 * [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
 * ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3 (24:10) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8) 
   
-  * [FireCrawl](https://www.firecrawl.dev/)
-  * [Unstructured](https://pypi.org/project/unstructured/)
-  * 
+* [FireCrawl](https://www.firecrawl.dev/)
+* [Unstructured](https://pypi.org/project/unstructured/)
+
 ## Document Processing
 
 * [Amazon Textract Python Library](https://docs.aws.amazon.com/textract/latest/dg/what-is.html) (PAID)
