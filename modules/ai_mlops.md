@@ -18,6 +18,9 @@
 
 ## OLLAMA
 
+* Ollama
+  * [Ollama Python](https://github.com/ollama/ollama-python)
+
 * Ollama in Colab
   * [Ollama on Google Colab: A Game-Changer! (15:07) (2 Jul 2024)](https://www.youtube.com/watch?v=9sPKTNGaPf8)
   * [Run Ollama Locally Using Google Colab’s Free GPU (28 Feb 2024)](https://medium.com/@neohob/run-ollama-locally-using-google-colabs-free-gpu-49543e0def31)

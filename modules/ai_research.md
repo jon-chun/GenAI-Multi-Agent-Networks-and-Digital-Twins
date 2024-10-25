@@ -16,6 +16,17 @@
 * [SciSpace](https://typeset.io/)
 * [Paper Digest](https://www.paperdigest.org/)
 
+## Research Paper Guidelines
+
+ACM (incl CoNLL, EMPL)
+* [Paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html)
+* [Templates](https://github.com/acl-org/acl-style-files)
+* [LaTeX](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)
+
+ACL
+* [Rolling Reviews](https://aclrollingreview.org/cfp#long-papers)
+* [](https://acl-org.github.io/ACLPUB/formatting.html)
+
 ## Research Methods
 
 * [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton)
