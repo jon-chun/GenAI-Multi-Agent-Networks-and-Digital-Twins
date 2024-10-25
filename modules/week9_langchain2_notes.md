@@ -15,7 +15,7 @@
 
 * [OpenAI is after Kaggle Agents! 💥 OpenAI's Agentic AGI Route (15:49) (10 Oct 2024)](https://www.youtube.com/watch?v=Guz3bVUXR4Q)
 * [Agent S: An Open Agentic Framework that Uses Computers Like a Human by Simular (10:59) (22 Oct 2024)](https://www.youtube.com/watch?v=q8SgHYV2zUk)
-  * 
+  
 ### RESEARCH
 
 * [ARC challenge is a hard test for machines, easy for humans | François Chollet and Lex Fridman (23:33) (2021)](https://www.youtube.com/watch?v=jkBCyingDbk)

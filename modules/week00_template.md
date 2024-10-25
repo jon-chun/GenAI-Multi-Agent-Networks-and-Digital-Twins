@@ -28,7 +28,6 @@ Overview Here...
 
 
 
-
 ## IN-CLASS EXERCISES
 
 ### ADMINISTRATIVE
@@ -47,7 +46,7 @@ Overview Here...
 ### NEWS: AUTOMATION
 
 * [Coming](oh_noes_404.md)
-* 
+
 ### NEWS: TECH
 
 * [Coming](oh_noes_404.md)
