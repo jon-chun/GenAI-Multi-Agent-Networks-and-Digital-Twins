@@ -135,5 +135,3 @@ Moving from potential to performance](https://www2.deloitte.com/us/en/pages/cons
 ## RESEARCH
 
 * [RL Loses Against Multi-Agent Intelligence: CoMAL (24:52) (22 Oct 2024)](https://www.youtube.com/watch?v=8RKk-IhNRZ0)
-
-* [Levels of AI by Industry by Accenture (2024)](https://newsroom.accenture.com/news/2022/more-than-60-percent-of-companies-are-only-experimenting-with-ai-creating-significant-opportunities-for-value-on-their-journey-to-ai-maturity-accenture-research-finds)

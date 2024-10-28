@@ -1,0 +1,10 @@
+granite3-dense:8b-instruct-q4_K_M   
+phi3:14b-medium-128k-instruct-q4_K_M
+mistral:7b-instruct-q4_K_M          
+nemotron:70b-instruct-q4_K_M        
+qwen2.5:7b-instruct-q4_K_M          
+qwen2.5:72b-instruct-q4_K_M         
+gemma2:9b-instruct-q4_K_M           
+gemma2:27b-instruct-q4_K_M          
+llama3.1:8b-instruct-q4_0           
+llama3.1:70b-instruct-q4_K_M 
