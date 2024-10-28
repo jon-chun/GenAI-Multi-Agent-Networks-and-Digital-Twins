@@ -223,3 +223,8 @@ Students will finalize and present their semester-long projects, demonstrating t
 An original interdisciplinary research project applying at least one key technology covered in the 4 mini-projects.
 
 For detailed project descriptions and grading rubrics, please refer to the individual module files.
+
+# IPHS200: Programming Humanity Exercises
+
+* [SentimentArcs Simplified (28 Oct 2024)](./code/notebooks/sentimentarcs_simplified_20241028.ipynb)
+* [Topic Modeling (30 Oct 2024)](./modules/oh_noes_404.md)
