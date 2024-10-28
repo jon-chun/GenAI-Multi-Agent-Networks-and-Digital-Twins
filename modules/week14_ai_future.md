@@ -14,7 +14,7 @@ Overview Here...
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* [Lecture Series in AI: “How Could Machines Reach Human-Level Intelligence?” by Yann LeCun (1:26:00) (23 Oct 2024)](https://www.youtube.com/watch?v=xL6Y0dpXEwc)
 
 ### RESEARCH
 
@@ -40,7 +40,9 @@ Overview Here...
 
 * [Coming](oh_noes_404.md)
 
+### AI AND SOCIETY
 
+* [SITUATIONAL AWARENESS: The Decade Ahead Leopold Aschenbrenner (June 2024)](https://situational-awareness.ai/)
 
 
 ## IN-CLASS EXERCISES
@@ -60,8 +62,8 @@ Overview Here...
   
 ### NEWS: AUTOMATION
 
-* [Coming](oh_noes_404.md)
-* 
+* [Levels of AI by Industry by Accenture (2024)](https://newsroom.accenture.com/news/2022/more-than-60-percent-of-companies-are-only-experimenting-with-ai-creating-significant-opportunities-for-value-on-their-journey-to-ai-maturity-accenture-research-finds)
+ 
 ### NEWS: TECH
 
 * [Coming](oh_noes_404.md)

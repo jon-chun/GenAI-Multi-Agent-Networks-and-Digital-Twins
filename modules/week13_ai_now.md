@@ -12,7 +12,7 @@ Overview Here...
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* [James Cameron: Special Video Message at the SCSP AI+Robotics Summit (17:22) (23 Oct 2024)](https://www.youtube.com/watch?v=e6Uq_5JemrI)
 
 ### RESEARCH
 
@@ -34,6 +34,11 @@ Overview Here...
 * [The Ultimate n8n Beginner’s Guide | Part (2/4) (10:00) (22 Oct 2024)](https://www.youtube.com/watch?v=LJnvdBFqfH8)
 
 * [How to Build Your Career in AI by Andrew Ng](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book)
+
+### AI AND SOCIETY
+
+* [White House Releases SHOCKING AI ORDER (20:51) (25 Oct 2024)](https://www.youtube.com/watch?v=ZacDQRqP_kA)
+* [Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence (24 Oct 2024)](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/)
 
 ### CODING
 
@@ -79,7 +84,10 @@ Bulletpoint Outline
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* [Runpod.io]()
+* [Best GPUs for LLM (19 Aug 2024)](https://medium.com/@kumbhardishant/best-gpus-for-llm-deployment-6a2e8187bfe0)
+* [Ollama LLM benchmarks on different GPUs on runpod.io (Sep 2024)](https://www.reddit.com/r/LocalLLaMA/comments/1fe8g8z/ollama_llm_benchmarks_on_different_gpus_on/)
+* [Benchmarking LLMs: A Deep Dive into Local Deployment and Performance Optimization (4 Jul 2024)](https://blog.runpod.io/benchmarking-llms-a-deep-dive-into-local-deployment-and-performance-optimization/)
 
 ### SOFTWARE ENGINEERING
 
