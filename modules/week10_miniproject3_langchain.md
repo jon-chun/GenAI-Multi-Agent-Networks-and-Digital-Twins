@@ -1,6 +1,6 @@
 # Week 10: Agents
 
-Overview Here...
+We learn more LangChain API details for robust AI application development along with it's agentic framework LangGraph. With these additional two skill sets, you have more degrees of freedom to design a more creative AI applications that utilizes LangChain/LangGraph to automate a non-trivial knowledge work pipeline. Start with 1-3 of the many LangChain/LangGraph sample applications and customize the workflow with LangChain components, architecture, datasets, prompts, and details like algorithms. Pick a workflow that parallels a non-trivial task you have special insight and/or interest in from producing a viral music video to writing a specialized inside-the-beltway policy paper to automate AI dataset creation (search, download, normalization, filtering, etc). Miniproject #3 is moved to week 10 to enable 2 more coding chapters on LangChain.
 
 ## KEY QUESTIONS
 
@@ -32,7 +32,6 @@ Overview Here...
 ### CODING
 
 * [AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
-
 
 ## IN-CLASS EXERCISES
 
