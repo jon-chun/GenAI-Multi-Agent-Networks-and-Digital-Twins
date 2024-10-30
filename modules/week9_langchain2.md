@@ -34,7 +34,7 @@
 
 ### OVERHEAD
 
-* Quiz
+* [Quiz Week 9: LangChain 2](https://docs.google.com/forms/d/e/1FAIpQLSfORQIKHhPsBgkVcwCsn5-94covk_3UFk8KtqzN7RFvguVmtw/viewform?usp=sf_link)]
 
 ### PRESENTATIONS
 
