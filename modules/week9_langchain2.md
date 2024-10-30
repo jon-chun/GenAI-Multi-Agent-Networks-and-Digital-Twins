@@ -69,7 +69,17 @@ We learn more LangChain API details for robuts AI application development along 
 
 ### CONCEPTS
 
-* [Coming](oh_noes_404.md)
+* [LangChain API Overview](https://python.langchain.com/api_reference/reference.html)
+* [LangChain API Function Calling](https://platform.openai.com/docs/guides/function-calling)
+* [LangChain Hub](https://smith.langchain.com/hub)
+* UNIX Pipelines
+* Synch (simplier blocking) vs Asynch (asynch/await syntax for I/O-bound processes)
+* Typed vs untyped
+* Object instantiation (self)
+* Pydantic type checking and nesting
+* Python decorator @tool
+* REST API CRUD Endpoints
+
 
 ### TOOLS
 
@@ -77,9 +87,10 @@ We learn more LangChain API details for robuts AI application development along 
 
 ### SOFTWARE ENGINEERING
 
-* [Langchain Dev Blog](https://blog.langchain.dev/)
-* [Langchain Discord](https://www.restack.io/docs/langchain-knowledge-langchain-discord-community)
-* [Subreddits on Langchain](https://www.reddit.com/search/?q=langchain&cId=7f337738-bb4a-4762-b3a9-ee8784bacfc0&iId=261bb49b-c7a7-44c2-9a3c-389bc51c300d)
+* [LangChain Overview](https://python.langchain.com/docs/introduction/)
+* [LangChain Dev Blog](https://blog.langchain.dev/)
+* [LangChain Discord](https://www.restack.io/docs/langchain-knowledge-langchain-discord-community)
+* [Subreddits on LangChain](https://www.reddit.com/search/?q=langchain&cId=7f337738-bb4a-4762-b3a9-ee8784bacfc0&iId=261bb49b-c7a7-44c2-9a3c-389bc51c300d)
 * 
 
 ### CODE SAMPLE
