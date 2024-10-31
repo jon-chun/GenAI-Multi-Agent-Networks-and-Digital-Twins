@@ -96,17 +96,24 @@ Bulletpoint Outline
 
 ### CODE SAMPLE
 
-* (MacOS only)[LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
+#### Sample Apps
 * [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
 * [LangGraph Chatbot Simluation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
 * [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
 * LangChain Auto Job Application
   * [LangGraph Tutorial - Build an AI Agent That Gets You HIRED! (17:47) (16 Oct 2024)](https://www.youtube.com/watch?v=7KIrBjQTGLA&t=325s)
   * [Let's build a LangGraph app that helps you land your dream job (14 Oct 2024)](https://www.gettingstarted.ai/langgraph-tutorial-with-example/)
-* [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
-* [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
 * [Extract Insights From Interview Transcripts Using LLMs (12:02) (23 Apr 2023)](https://www.youtube.com/watch?v=shkMOHwJ4SM)
   * [Github](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Working%20With%20Call%20or%20Video%20Transcripts.ipynb)
+  * 
+#### Collections of Apps
+* [LangChain and LangGraph videos](https://www.youtube.com/@htmlfivedev/playlists)
+* [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
+* [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
+
+#### LangGraph Studio (MacOS only)
+
+* (MacOS only)[LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
 
 ### CODE REVIEW
 
