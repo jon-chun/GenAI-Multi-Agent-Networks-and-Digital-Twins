@@ -19,7 +19,13 @@ We learn more LangChain API details for robust AI application development along 
 
 ### RESEARCH
 
-* [Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator by Liao et al. (13 Mar 2024)](https://www.semanticscholar.org/paper/Automatic-Interactive-Evaluation-for-Large-Language-Liao-Meng/29bd27dce473f1a4735aa04f0f6682794d11d28c))
+* DocETL
+  * [AI Agents for Smarter Data Input: DocETL (Berkeley) (30:14) (25 Oct 2024)](https://www.youtube.com/watch?v=ImYtIEFWfzg&t=169s)
+  * [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing by Shankar et al. (16 Oct 2024)](https://arxiv.org/pdf/2410.12189v1)
+  * [Github](https://github.com/ucbepic/docetl)
+  * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
+* [GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning](https://github.com/cmavro/GNN-RAG)
+* [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains by Li et al. (24 Oct 2024)](https://arxiv.org/pdf/2410.18415)
 
 ### SOFTWARE ENGINEERING
 
@@ -31,7 +37,9 @@ We learn more LangChain API details for robust AI application development along 
 
 ### CODING
 
-* [AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
+* (from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
+* [Langchain: The BEST Library For Building AI Apps In Python? (11:40) (23 Oct 2024)](https://www.youtube.com/watch?v=R3KgD86VRzc)
+  * [Github](https://github.com/pixegami/basic-langchain-examples)
 
 ## IN-CLASS EXERCISES
 
@@ -76,6 +84,8 @@ Bulletpoint Outline
 
 * AgentZ
 * AgentQ
+* [LangGraph Studio](https://studio.langchain.com/?ref=blog.langchain.dev)
+* [LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
 * [OpenMacro](https://github.com/Openmacro/openmacro)
   
 * [Coming](oh_noes_404.md)
@@ -86,7 +96,17 @@ Bulletpoint Outline
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* (MacOS only)[LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
+* [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
+* [LangGraph Chatbot Simluation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
+* [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
+* LangChain Auto Job Application
+  * [LangGraph Tutorial - Build an AI Agent That Gets You HIRED! (17:47) (16 Oct 2024)](https://www.youtube.com/watch?v=7KIrBjQTGLA&t=325s)
+  * [Let's build a LangGraph app that helps you land your dream job (14 Oct 2024)](https://www.gettingstarted.ai/langgraph-tutorial-with-example/)
+* [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
+* [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
+* [Extract Insights From Interview Transcripts Using LLMs (12:02) (23 Apr 2023)](https://www.youtube.com/watch?v=shkMOHwJ4SM)
+  * [Github](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Working%20With%20Call%20or%20Video%20Transcripts.ipynb)
 
 ### CODE REVIEW
 
