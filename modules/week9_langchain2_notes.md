@@ -20,6 +20,8 @@
 
 * [ARC challenge is a hard test for machines, easy for humans | François Chollet and Lex Fridman (23:33) (2021)](https://www.youtube.com/watch?v=jkBCyingDbk)
 * [The Abstraction and Reasoning Challenge (ARC)](https://pgpbpadilla.github.io/chollet-arc-challenge)
+* [Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator by Liao et al. (13 Mar 2024)](https://www.semanticscholar.org/paper/Automatic-Interactive-Evaluation-for-Large-Language-Liao-Meng/29bd27dce473f1a4735aa04f0f6682794d11d28c))
+
 
 
 * [Github](https://github.com/simular-ai/Agent-S)
