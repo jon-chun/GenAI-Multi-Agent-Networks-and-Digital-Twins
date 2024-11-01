@@ -1,6 +1,24 @@
 # Week 10: Agents
 
-We learn more LangChain API details for robust AI application development along with it's agentic framework LangGraph. With these additional two skill sets, you have more degrees of freedom to design a more creative AI applications that utilizes LangChain/LangGraph to automate a non-trivial knowledge work pipeline. Start with 1-3 of the many LangChain/LangGraph sample applications and customize the workflow with LangChain components, architecture, datasets, prompts, and details like algorithms. Pick a workflow that parallels a non-trivial task you have special insight and/or interest in from producing a viral music video to writing a specialized inside-the-beltway policy paper to automate AI dataset creation (search, download, normalization, filtering, etc). Miniproject #3 is moved to week 10 to enable 2 more coding chapters on LangChain.
+We progressed from prompt engineering, relatively low-level RAG applications, and now to higher-level LangChain and LangGraph abstractions. This week, we take a pause from DeepLearning.ai courses (just a repeat of last week) to focus on Miniproject #3 where you'll create de novo or customize an existing LangChain or LangGraph application. Create a Jupyter notebook that reflects custom data sources, prompt engineering, or LangChain/LangGraph architectures to replicate some knowledge work task pipeline you know well. Examples could include researching (web search, filtering and normalizing disparate data sources), report writing (essay brainstorming, outline, writing, revision, editing, etc), dataset creation (search, collect, filter, combine/normalize, etc into *csv/*xls), etc.
+
+If you are at a loss for ideas or to jump start your own, review the Sample Applications and Collections of Applications below for ideas like automating 100s of job applications or chatbot simulations:
+
+## Sample Apps
+
+* [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
+* [LangGraph Chatbot Simluation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
+* [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
+* LangChain Auto Job Application
+  * [LangGraph Tutorial - Build an AI Agent That Gets You HIRED! (17:47) (16 Oct 2024)](https://www.youtube.com/watch?v=7KIrBjQTGLA&t=325s)
+  * [Let's build a LangGraph app that helps you land your dream job (14 Oct 2024)](https://www.gettingstarted.ai/langgraph-tutorial-with-example/)
+* [Extract Insights From Interview Transcripts Using LLMs (12:02) (23 Apr 2023)](https://www.youtube.com/watch?v=shkMOHwJ4SM)
+  * [Github](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Working%20With%20Call%20or%20Video%20Transcripts.ipynb)
+
+## Collections of Apps
+* [LangChain and LangGraph videos](https://www.youtube.com/@htmlfivedev/playlists)
+* [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
+* [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
 
 ## KEY QUESTIONS
 
@@ -10,42 +28,31 @@ We learn more LangChain API details for robust AI application development along 
 
 ## READINGS
 
-* (Summary Version of) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
-
 ### AI NEWS AND CULTURE
 
 * [Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
-
 
 ### RESEARCH
 
 * DocETL
   * [AI Agents for Smarter Data Input: DocETL (Berkeley) (30:14) (25 Oct 2024)](https://www.youtube.com/watch?v=ImYtIEFWfzg&t=169s)
-  * [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing by Shankar et al. (16 Oct 2024)](https://arxiv.org/pdf/2410.12189v1)
-  * [Github](https://github.com/ucbepic/docetl)
-  * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
-* [GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning](https://github.com/cmavro/GNN-RAG)
-* [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains by Li et al. (24 Oct 2024)](https://arxiv.org/pdf/2410.18415)
 
 ### SOFTWARE ENGINEERING
 
-* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama (24:01) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
-* [Introducing Swarm with Code Examples: OpenAI's Groundbreaking Agent Framework (27:53) (14 Oct 2024)](https://www.youtube.com/watch?v=npAljHBeKPc)
-* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
-* [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
-* [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
+* (Most advanced, watch last and only upto 26:00) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
 
 ### CODING
 
-* (from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 * [Langchain: The BEST Library For Building AI Apps In Python? (11:40) (23 Oct 2024)](https://www.youtube.com/watch?v=R3KgD86VRzc)
   * [Github](https://github.com/pixegami/basic-langchain-examples)
+* (from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
+
 
 ## IN-CLASS EXERCISES
 
 ### OVERHEAD
 
-* [Quiz](oh_noes_404.md)
+* Quiz
 
 ### PRESENTATIONS
 
@@ -74,7 +81,12 @@ We learn more LangChain API details for robust AI application development along 
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* DocETL
+  * [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing by Shankar et al. (16 Oct 2024)](https://arxiv.org/pdf/2410.12189v1)
+  * [Github](https://github.com/ucbepic/docetl)
+  * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
+* [GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning](https://github.com/cmavro/GNN-RAG)
+* [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains by Li et al. (24 Oct 2024)](https://arxiv.org/pdf/2410.18415)
 
 ### CONCEPTS
 
@@ -96,20 +108,7 @@ Bulletpoint Outline
 
 ### CODE SAMPLE
 
-#### Sample Apps
-* [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
-* [LangGraph Chatbot Simluation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
-* [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
-* LangChain Auto Job Application
-  * [LangGraph Tutorial - Build an AI Agent That Gets You HIRED! (17:47) (16 Oct 2024)](https://www.youtube.com/watch?v=7KIrBjQTGLA&t=325s)
-  * [Let's build a LangGraph app that helps you land your dream job (14 Oct 2024)](https://www.gettingstarted.ai/langgraph-tutorial-with-example/)
-* [Extract Insights From Interview Transcripts Using LLMs (12:02) (23 Apr 2023)](https://www.youtube.com/watch?v=shkMOHwJ4SM)
-  * [Github](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Working%20With%20Call%20or%20Video%20Transcripts.ipynb)
-  * 
-#### Collections of Apps
-* [LangChain and LangGraph videos](https://www.youtube.com/@htmlfivedev/playlists)
-* [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
-* [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
+
 
 #### LangGraph Studio (MacOS only)
 
@@ -142,8 +141,6 @@ Walk-thru in class
 
 ### Code
 
-
-
 * Research
   * [LLM Agent Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
   * [Large Language Model-Based Agents for Software Engineering: A Survey by Liu et al. (4 Sep 2024)](https://arxiv.org/pdf/2409.02977)
@@ -156,8 +153,6 @@ Walk-thru in class
     * [Slides](https://iclr.cc/media/iclr-2024/Slides/17662.pdf)
     * [Github](https://github.com/chengjunyan1/SocioDojo)
   * [AgentWrite with LangGraph (19:21) (6 Sep 2024)](https://www.youtube.com/watch?v=nK9K8UPraXk&t=569s)
-
-
 * [LangGraph: Hierarchical Agents - How to build Boss & Subordinate Agents (13:34) (17 Jun 2024)](https://www.youtube.com/watch?v=9HhcFiSgLok)
 
 ### RESEARCH
