@@ -20,6 +20,8 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [You're WASTING TIME Coding Your AI Agents (11:34) (18 Aug 2024)](https://www.youtube.com/watch?v=VxTw9tzzlbc)
+
 * ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama (24:01) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
 * [Introducing Swarm with Code Examples: OpenAI's Groundbreaking Agent Framework (27:53) (14 Oct 2024)](https://www.youtube.com/watch?v=npAljHBeKPc)
 * [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)

@@ -6,6 +6,12 @@ If you are at a loss for ideas or to jump start your own, review the Sample Appl
 
 ## Sample Apps
 
+* LangGraph Web Research Agent
+  * [LangGraph Simplified: Master Custom AI Agent Creation (43:51) (8 Jun 2024)](https://www.youtube.com/watch?v=R-o_a6dvzQM&t=3s)
+  * [Github](https://github.com/john-adeojo/graph_websearch_agent)
+* LangGraph, Pinecone and RAG ArXiv Research Paper Agent
+  * [LangGraph Deep Dive: Build Better Agents (46:12) (7 Aug 2024)](https://www.youtube.com/watch?v=usOmwLZNVuM)
+  * [Colab](https://colab.research.google.com/github/pinecone-io/examples/blob/master/learn/generation/langchain/langgraph/01-gpt-4o-research-agent.ipynb)
 * [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
 * [LangGraph Chatbot Simluation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
 * [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
@@ -14,38 +20,43 @@ If you are at a loss for ideas or to jump start your own, review the Sample Appl
   * [Let's build a LangGraph app that helps you land your dream job (14 Oct 2024)](https://www.gettingstarted.ai/langgraph-tutorial-with-example/)
 * [Extract Insights From Interview Transcripts Using LLMs (12:02) (23 Apr 2023)](https://www.youtube.com/watch?v=shkMOHwJ4SM)
   * [Github](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Working%20With%20Call%20or%20Video%20Transcripts.ipynb)
-
+* (no code)[AI Shopping Assistant - Built using LangGraph (18:06) (10 Jun 2024)](https://www.youtube.com/watch?v=Z_3a0QV6mmQ)
+  
 ## Collections of Apps
+
+* [LangGraph Example Notebooks](https://github.com/langchain-ai/langgraph/tree/main/examples)
 * [LangChain and LangGraph videos](https://www.youtube.com/@htmlfivedev/playlists)
 * [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
 * [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
 
 ## KEY QUESTIONS
 
-1. Q1
-2. Q2
-3. Q3...
+1...
 
 ## READINGS
 
 ### AI NEWS AND CULTURE
 
-* [Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
+* (Use AI to summarize, read original on key points or points of confusion)[Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
 
 ### RESEARCH
 
 * DocETL
-  * [AI Agents for Smarter Data Input: DocETL (Berkeley) (30:14) (25 Oct 2024)](https://www.youtube.com/watch?v=ImYtIEFWfzg&t=169s)
-
+  * (Read p1-3, up to but not incl Section 2)[Arxiv paper](https://arxiv.org/pdf/2410.12189v1)
+  * (OPTIONAL video)[AI Agents for Smarter Data Input: DocETL (Berkeley) (30:14) (25 Oct 2024)](https://www.youtube.com/watch?v=ImYtIEFWfzg&t=169s)
+  
 ### SOFTWARE ENGINEERING
 
-* (Most advanced, watch last and only upto 26:00) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
+* [Building and Testing Reliable Agents (22:16) (Jun 2024)](https://www.youtube.com/watch?v=XiySC-d346E)
+* (OPTIONAL: Full version, intro up to 26:00) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
 
 ### CODING
 
-* [Langchain: The BEST Library For Building AI Apps In Python? (11:40) (23 Oct 2024)](https://www.youtube.com/watch?v=R3KgD86VRzc)
+* (Beginner Overview) [Langchain: The BEST Library For Building AI Apps In Python? (11:40) (23 Oct 2024)](https://www.youtube.com/watch?v=R3KgD86VRzc)
   * [Github](https://github.com/pixegami/basic-langchain-examples)
-* (from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
+* (Intermediate Sample Project)[LangGraph Simplified: Master Custom AI Agent Creation (43:51) (8 Jun 2024)](https://www.youtube.com/watch?v=R-o_a6dvzQM&t=3s)
+  * [Github](https://github.com/john-adeojo/graph_websearch_agent)
+* (Review from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 
 
 ## IN-CLASS EXERCISES
