@@ -30,6 +30,9 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [RouteLLM in ChatLLM: Quickly Optimize AI for Cost, Latency and Quality! (4:48) (1 Nov 2024)](https://www.youtube.com/watch?v=TQYWDCI7XjA)
+
+* [Build Anything with LangGraph Studio, Here’s How (16:37) (Sep 2024)](https://youtube.com/watch?v=oWHTXTIy3J4)
 * [This n8n AI Agent converts ANY YouTube video into amazing workflows (NO CODE!!) (22:33) (16 Oct 2024)](https://www.youtube.com/watch?v=zl5tDaFxrNo)
 * [The Ultimate n8n Beginner’s Guide | Part (2/4) (10:00) (22 Oct 2024)](https://www.youtube.com/watch?v=LJnvdBFqfH8)
 
