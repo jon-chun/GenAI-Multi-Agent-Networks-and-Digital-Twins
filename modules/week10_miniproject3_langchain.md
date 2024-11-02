@@ -44,7 +44,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 ### AI NEWS AND CULTURE
 
-* (Use AI to summarize, read original on key points or points of confusion)[Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
+* (Use AI to summarize, refer to original on key points or points of confusion or if you are a fast reader and benefit from long-form narratives)[Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
 
 ### RESEARCH
 
