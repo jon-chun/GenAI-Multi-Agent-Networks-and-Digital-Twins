@@ -1,17 +1,22 @@
 # Week 10: Agents
 
-We progressed from prompt engineering, relatively low-level RAG applications, and now to higher-level LangChain and LangGraph abstractions. This week, we take a pause from DeepLearning.ai courses (just a repeat of last week) to focus on Miniproject #3 where you'll create de novo or customize an existing LangChain or LangGraph application. Create a Jupyter notebook that reflects custom data sources, prompt engineering, or LangChain/LangGraph architectures to replicate some knowledge work task pipeline you know well. Examples could include researching (web search, filtering and normalizing disparate data sources), report writing (essay brainstorming, outline, writing, revision, editing, etc), dataset creation (search, collect, filter, combine/normalize, etc into *csv/*xls), etc.
+We progressed from prompt engineering, relatively low-level RAG applications, and now to higher-level LangChain and LangGraph abstractions. This week, we take a pause from DeepLearning.ai courses (just a repeat of last week) to focus on Miniproject #3 where you'll create de novo or customize an existing LangChain or LangGraph application. 
 
-If you are at a loss for ideas or to jump start your own, review the Sample Applications and Collections of Applications below for ideas like automating 100s of job applications or chatbot simulations:
+You can customize and/or expand upon the two baseline OPTIONS A or B with data, prompts, or agents to replicate a workflow you know well from class, work, or interests. Alternatively, expand/customize Other Agent Ideas listed or ones you find on your own. Examples could include automated job search/applications, chatbot simulations, researching (web search, filtering and normalizing disparate data sources), report writing (essay brainstorming, outline, writing, revision, editing, etc), dataset creation (search, collect, filter, combine/normalize, etc into *csv/*xls), etc.
 
-## Sample Apps
+## Two Baseline Options
 
-* LangGraph Web Research Agent
+* OPTION A: LangGraph, Pinecone and RAG ArXiv Research Paper Agent (Colab, need more free APIs)
+  * [LangGraph Deep Dive: Build Better Agents (46:12) (7 Aug 2024)](https://www.youtube.com/watch?v=usOmwLZNVuM)
+  * [Colab Fixed](langgraph_01_gpt_4o_research_agent_20241102.ipynb)
+  * [Colab Original](https://colab.research.google.com/github/pinecone-io/examples/blob/master/learn/generation/langchain/langgraph/01-gpt-4o-research-agent.ipynb)
+
+* OPTION B: LangGraph Web Research Agent (Must have working local Conda and VSCode)
   * [LangGraph Simplified: Master Custom AI Agent Creation (43:51) (8 Jun 2024)](https://www.youtube.com/watch?v=R-o_a6dvzQM&t=3s)
   * [Github](https://github.com/john-adeojo/graph_websearch_agent)
-* LangGraph, Pinecone and RAG ArXiv Research Paper Agent
-  * [LangGraph Deep Dive: Build Better Agents (46:12) (7 Aug 2024)](https://www.youtube.com/watch?v=usOmwLZNVuM)
-  * [Colab](https://colab.research.google.com/github/pinecone-io/examples/blob/master/learn/generation/langchain/langgraph/01-gpt-4o-research-agent.ipynb)
+
+## Other Agent Ideas
+
 * [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
 * [LangGraph Chatbot Simluation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
 * [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
