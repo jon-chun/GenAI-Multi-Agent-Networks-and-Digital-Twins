@@ -1,6 +1,6 @@
 # Week 10: Agents
 
-We progressed from prompt engineering, relatively low-level RAG applications, and now to higher-level LangChain and LangGraph abstractions. This week, we take a pause from DeepLearning.ai courses (just a repeat of last week) to focus on Miniproject #3 where you'll create de novo or customize an existing LangChain or LangGraph application. 
+We progressed from prompt engineering, relatively low-level RAG applications, and now to higher-level LangChain and LangGraph abstractions. This week, we take a pause from DeepLearning.ai courses (just a repeat of last week) to focus on Miniproject #3 where you'll create de novo or customize an existing LangChain or LangGraph application. The readings and exercises will present 3-4 different approaches to learn LangChain/LangGraph Agents from beginner to intermediate levels.
 
 You can customize and/or expand upon the two baseline OPTIONS A or B with data, prompts, or agents to replicate a workflow you know well from class, work, or interests. Alternatively, expand/customize Other Agent Ideas listed or ones you find on your own. Examples could include automated job search/applications, chatbot simulations, researching (web search, filtering and normalizing disparate data sources), report writing (essay brainstorming, outline, writing, revision, editing, etc), dataset creation (search, collect, filter, combine/normalize, etc into *csv/*xls), etc.
 
@@ -36,7 +36,9 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 ## KEY QUESTIONS
 
-1...
+1. Understand how agents, tools, state, pipelines and graphs work. 
+2. Gain working familarity with LangChain and LangGraph APIs.
+3. Learn how to integrate other (free tier) APIs to build tools.
 
 ## READINGS
 
@@ -53,7 +55,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 ### SOFTWARE ENGINEERING
 
 * [Building and Testing Reliable Agents (22:16) (Jun 2024)](https://www.youtube.com/watch?v=XiySC-d346E)
-* (OPTIONAL: Full version, intro up to 26:00) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
+* (OPTIONAL: Full version of previous video, intro up to 26:00) [Architecting and Testing Controllable Agents: Lance Martin (2:21:53) (12 Oct 2024)](https://www.youtube.com/watch?v=ib-wTAvCZqg)
 
 ### CODING
 
@@ -61,7 +63,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
   * [Github](https://github.com/pixegami/basic-langchain-examples)
 * (Intermediate Sample Project)[LangGraph Simplified: Master Custom AI Agent Creation (43:51) (8 Jun 2024)](https://www.youtube.com/watch?v=R-o_a6dvzQM&t=3s)
   * [Github](https://github.com/john-adeojo/graph_websearch_agent)
-* (Review from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
+* (Review/Repeat from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 
 
 ## IN-CLASS EXERCISES
