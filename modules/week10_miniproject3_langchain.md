@@ -127,7 +127,7 @@ In Class...
 
 ### CODE REVIEW
 
-Walk-thru in class
+In Class...
 
 ### EXTRAS
 
@@ -136,7 +136,3 @@ Walk-thru in class
 ## RESOURCES
 
 * [Coming](oh_noes_404.md)
-
-### RESEARCH
-
-* [Large Language Model (LLM) as a System of Multiple Expert Agents: An Approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge (8 Oct 2023)](https://www.semanticscholar.org/paper/Large-Language-Model-(LLM)-as-a-System-of-Multiple-Tan-Motani/10828be2eaa52ba7fd78356980afd0669e2f2879)
