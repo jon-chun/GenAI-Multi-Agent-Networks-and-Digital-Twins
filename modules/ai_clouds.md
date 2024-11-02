@@ -7,6 +7,10 @@
 * [Benchmarking LLMs: A Deep Dive into Local Deployment and Performance Optimization (4 Jul 2024)](https://blog.runpod.io/benchmarking-llms-a-deep-dive-into-local-deployment-and-performance-optimization/)
 * 
 
+## TOGETHER AI
+
+* [Together.ai](together.ai)
+
 ## RUNPOD
 
 * [Runpod.io Console](https://www.runpod.io/console/user/billing)
