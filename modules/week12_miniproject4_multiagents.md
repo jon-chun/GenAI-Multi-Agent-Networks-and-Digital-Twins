@@ -2,6 +2,10 @@
 
 Overview Here...
 
+## Specific Examples
+
+* [Large Language Mind: a Cognitive simulation with gpt-4o (28:51) (2 Nov 2024)](https://www.youtube.com/watch?v=ktiEbZlebxU)
+
 ## KEY QUESTIONS
 
 1. Q1

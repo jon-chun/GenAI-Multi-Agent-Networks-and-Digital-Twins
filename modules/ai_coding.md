@@ -9,6 +9,10 @@
 * [Google colab.research.google.com](https://colab.research.google.com)
 * [Medium Colab: Experiment, Iterate, Collaborate](https://medium.com/google-colab)
   
+## Replit
+
+* [Teaching Agents to Code: Bleeding-Edge AI at Replit (55:51) (28 Oct 2024)](https://www.youtube.com/watch?v=vw727qcskUQ)
+
 ## Cursor
 
 * [bolt (9:19) (5 Oct 2024)](https://www.youtube.com/watch?v=pw-XCRa-FOI)
@@ -20,6 +24,7 @@
 
 * [o1-eng](https://github.com/Doriandarko/o1-engineer/blob/main/o1-eng.py)
 * []()
+
 ## Coding Copilots
 
 * Aider
@@ -50,6 +55,15 @@
 ## VM
 
 * [Build Streamlit Apps with AI and Deploy in Two Clicks on Replit (34:59) (8 Sep 2024)](https://www.youtube.com/watch?v=UFyXVC_nzZE)
+
+## Python
+
+* [ArjanCodes](https://www.youtube.com/@ArjanCodes/videos)
+* [NeuralNine](https://www.youtube.com/@NeuralNine/videos)
+
+## Test-Driven Dev (TDD)
+
+* [testtrim: 90% Less Automated Software Testing w/ 100% of the Value (Short Version) (10:52) (16 Oct 2024)](https://www.youtube.com/watch?v=wNPeTxf3xFw)
 
 ## Demo Code
 

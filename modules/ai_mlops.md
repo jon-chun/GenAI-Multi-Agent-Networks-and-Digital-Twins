@@ -1,5 +1,10 @@
 # MLOps
 
+## Jupyter
+
+* [Jupyter](https://jupyter.org/install)
+* [Voila](https://github.com/voila-dashboards/voila)
+
 ## VM and Cloud SaaS for AI
 
 * MLOps VMs
@@ -35,3 +40,7 @@
 ## Infrastructure as Code
 
 * [Ansible in 100 Second (2:33) (2023)](https://www.youtube.com/watch?v=xRMPKQweySE)
+
+## JAVASCRIPT
+
+* [Install Node.js on Windows Subsystem for Linux (WSL2)](https://github.com/MicrosoftDocs/windows-dev-docs/blob/docs/hub/dev-environment/javascript/nodejs-on-wsl.md)
