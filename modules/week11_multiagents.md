@@ -30,7 +30,9 @@ Overview Here...
 
 ### CODING
 
-* [Coming](oh_noes_404.md)
+* [Is OpenAI Swarm AI Agents Worth It? (10:59) (3 Nov 2024)](https://www.youtube.com/watch?v=9jpf9qLUCm0)
+  * [Github](https://github.com/tylerprogramming/ai/tree/main/openai_swarm)
+* [Build Anything with OpenAI Swarm, Here’s How (44:22) (20 Oct 2024)](https://www.youtube.com/watch?v=Cw0ME8OZ0xI)
 
 
 ## IN-CLASS EXERCISES
@@ -50,15 +52,16 @@ Overview Here...
   
 ### NEWS: AUTOMATION
 
-* [Coming](oh_noes_404.md)
+* [Top Trending Open-Source GitHub Projects This Year 2024 (3:51:00) (2 Nov 2024)](https://www.youtube.com/watch?v=wN65RTxCfDo)
   
 ### NEWS: TECH
 
-* [Coming](oh_noes_404.md)
+* [AI makes smells, AI RPGs & Minecraft, New image model beats FLUX, Google & OpenAI updates (28:15) (2 Nov 2024)](https://www.youtube.com/watch?v=0NtUEzBIJf0)
 
 ### FOLLOW-UPS
 
-* [Coming](oh_noes_404.md)
+* [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
+  * [Github](https://github.com/bhancockio) (Terminal CLI)
 
 ### RESEARCH
 
@@ -66,7 +69,9 @@ Overview Here...
 
 ### CONCEPTS
 
-Bulletpoint Outline
+* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
+  * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
 
 ### TOOLS
 

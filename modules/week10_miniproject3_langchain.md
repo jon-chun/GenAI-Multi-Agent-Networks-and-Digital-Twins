@@ -68,7 +68,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 ## IN-CLASS EXERCISES
 
-### OVERHEAD
+### ADMINISTRATIVE
 
 * Quiz
 
@@ -83,10 +83,37 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 ### NEWS: TECH
 
-* [Livekit agents](https://github.com/livekit/agents)
-* [OpenAI Swarm](https://www.youtube.com/watch?v=82FSnDcw72k)
-  About Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-* [Palmyra-x-004 Tool Calling](https://writer.com/engineering/actions-with-palmyra-x-004/)
+* [Sam Altman: What Startups Will be Steamrolled by OpenAI & Where is Opportunity | E1223 by 20VC with Harry Stebbings (39:20) (4 Nov 2024)](https://www.youtube.com/watch?v=peg-aX1oii4&t=395s)
+
+Model Development & Strategy:
+- OpenAI is focused heavily on reasoning capabilities in their models, which they believe will unlock major advances in science and coding
+- They expect rapid improvement in their "O Series" models (like GPT-4, GPT-4V)
+- Sam believes the scaling laws for AI models will continue holding true for a long time, though there have been challenging periods
+
+Business Strategy:
+- OpenAI advises startups not to build businesses around patching current model limitations, as these will likely be solved in future iterations
+- Instead, they encourage building businesses that benefit from models getting better
+- Believes "trillions of dollars" of market value will be created through AI, though specific numbers are less important than the transformative potential
+
+On Agents:
+- Defines an agent as something that can handle long-duration tasks with minimal supervision
+- Believes current discussions miss the potential for agents to do things humans physically couldn't do (like parallel tasks)
+- Sees potential for agents to act like "really smart senior co-workers" on longer projects
+
+Leadership & Company Building:
+- Major challenge has been adapting to unprecedented growth speed - going from research to major company very quickly
+- Emphasizes importance of building culture that can innovate rather than just copy others
+- Believes in hiring both young talent and experienced professionals, rejecting the idea that only hiring under-30s is optimal
+- Currently feeling uncertain about product strategy, considers it a personal area for improvement
+
+Future Outlook:
+- For 5-year horizon: Expects "unbelievably rapid rate of improvement in technology" but society changing surprisingly little
+- Believes AI will be ubiquitous but discussion will shift from "models" to "systems"
+- Top worry is managing the complexity of the entire AI ecosystem at every level
+
+Sam also discussed competition, particularly noting respect for the Cursor team's work, and emphasized OpenAI's focus on long-term model improvement rather than short-term patches for current limitations.
+
+
 
 ### NEWS: AUTOMATION
 
@@ -95,26 +122,24 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 ### FOLLOW-UPS
 
 * [Berkeley Tool Benchmark](https://gorilla.cs.berkeley.edu/leaderboard.html)
+* [MMMU A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI](https://mmmu-benchmark.github.io/)
 * [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://os-world.github.io/)
 
 ### RESEARCH
 
 * DocETL
   * [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing by Shankar et al. (16 Oct 2024)](https://arxiv.org/pdf/2410.12189v1)
-  * [Github](https://github.com/ucbepic/docetl)
-  * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
-* [GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning](https://github.com/cmavro/GNN-RAG)
-* [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains by Li et al. (24 Oct 2024)](https://arxiv.org/pdf/2410.18415)
 
 ### CONCEPTS
 
-Bulletpoint Outline
+* [LangChain Academy: Intro to LangGraph ~4hrs](https://academy.langchain.com/courses/intro-to-langgraph)
+* [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
 
 ### TOOLS
 
-* AgentZ
-* AgentQ
-* [OpenMacro](https://github.com/Openmacro/openmacro)
+* DocETL
+  * [Github](https://github.com/ucbepic/docetl)
+  * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
 
 ### SOFTWARE ENGINEERING
 

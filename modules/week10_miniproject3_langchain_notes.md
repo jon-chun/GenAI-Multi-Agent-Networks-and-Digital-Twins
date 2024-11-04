@@ -29,3 +29,16 @@
 ### RESEARCH
 
 * [Large Language Model (LLM) as a System of Multiple Expert Agents: An Approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge (8 Oct 2023)](https://www.semanticscholar.org/paper/Large-Language-Model-(LLM)-as-a-System-of-Multiple-Tan-Motani/10828be2eaa52ba7fd78356980afd0669e2f2879)
+* AgentZ  
+* AgentQ
+* [OpenMacro](https://github.com/Openmacro/openmacro)
+* [GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning](https://github.com/cmavro/GNN-RAG)
+* [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains by Li et al. (24 Oct 2024)](https://arxiv.org/pdf/2410.18415)
+
+### UPDATES: TECH
+
+* [AI makes smells, AI RPGs & Minecraft, New image model beats FLUX, Google & OpenAI updates (28:15) (2 Nov 2024)](https://www.youtube.com/watch?v=0NtUEzBIJf0)
+* [Livekit agents](https://github.com/livekit/agents)
+* [OpenAI Swarm](https://www.youtube.com/watch?v=82FSnDcw72k)
+  About Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+* [Palmyra-x-004 Tool Calling](https://writer.com/engineering/actions-with-palmyra-x-004/)

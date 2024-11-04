@@ -157,9 +157,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* [**Week 10:** Autonomous Agents](./modules/oh_noes_404.md)
-* [**Week 11:** Multi-Agent Systems](./modules/oh_noes_404.md)
-* [**Week 12:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
+* [**Week 11:** Autonomous Agents](./modules/oh_noes_404.md)
+* [**Week 12:** Multi-Agent Systems](./modules/oh_noes_404.md)
+* [**Week 13:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -188,7 +188,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
+* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
 * [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
