@@ -8,7 +8,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 * OPTION A: LangGraph, Pinecone and RAG ArXiv Research Paper Agent (Colab, need more free APIs)
   * [LangGraph Deep Dive: Build Better Agents (46:12) (7 Aug 2024)](https://www.youtube.com/watch?v=usOmwLZNVuM)
-  * [Colab Fixed](langgraph_01_gpt_4o_research_agent_20241102.ipynb)
+  * [Colab Fixed](../code/notebooks/langgraph_01_gpt_4o_research_agent_20241102.ipynb)
   * [Colab Original](https://colab.research.google.com/github/pinecone-io/examples/blob/master/learn/generation/langchain/langgraph/01-gpt-4o-research-agent.ipynb)
 
 * OPTION B: LangGraph Web Research Agent (Must have working local Conda and VSCode)
@@ -17,7 +17,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 ## Other Agent Ideas
 
-* [LangGraph Corrective RAG (CRAG) ](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
+* [LangGraph Corrective RAG (CRAG)](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
 * [LangGraph Chatbot Simulation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
 * [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
 * LangChain Auto Job Application
@@ -39,17 +39,26 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 1. Understand how agents, tools, state, pipelines and graphs work. 
 2. Gain working familarity with LangChain and LangGraph APIs.
 3. Learn how to integrate other (free tier) APIs to build tools.
+4. (Dario Amodei) What societal tensions might arise between those who embrace AI-driven enhancements and those who "opt-out"? How might this affect social cohesion?
+5. (Dario Amodei) In what ways might AI-enhanced state capacity and service delivery change citizens' relationship with government and democracy?
+6. (Dario Amodei) How might the nature of work and meaning change in a world where AI can perform most tasks better than humans? What new forms of human activity might emerge?
+7. (Dario Amodei) What potential challenges or resistance might arise when attempting to distribute AI benefits globally while promoting democratic values? How might different cultures respond?
+8. (DocETL) How could the ability to automatically decompose complex tasks into simpler ones change the way we approach problem-solving in other domains beyond document processing?
+9. (DocETL) What implications does the need for context-aware processing have for the future development of AI systems? How might this influence the evolution of LLM architectures?
+10. (DocETL) How might the balance between automated optimization and human oversight evolve as these systems become more sophisticated? What role should human judgment continue to play?
+11. (DocETL) What are the implications of using AI agents to evaluate other AI systems' output? How might this create both opportunities and potential blind spots in system validation?
+12. 
 
 ## READINGS
 
 ### AI NEWS AND CULTURE
 
-* (Use AI to summarize, refer to original on key points or points of confusion or if you are a fast reader and benefit from long-form narratives)[Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
+* (Use AI to summarize, refer to original on key points or points of confusion or if you are a fast reader and benefit from long-form narratives) [Machines of Loving Grace1 How AI Could Transform the World for the Better by Dario Amodei (Oct 2024)](https://darioamodei.com/machines-of-loving-grace)
 
 ### RESEARCH
 
 * DocETL
-  * (Read p1-3, up to but not incl Section 2)[Arxiv paper](https://arxiv.org/pdf/2410.12189v1)
+  * (Read p1-3, up to but not incl Section 2) [Arxiv paper](https://arxiv.org/pdf/2410.12189v1)
   * (OPTIONAL video)[AI Agents for Smarter Data Input: DocETL (Berkeley) (30:14) (25 Oct 2024)](https://www.youtube.com/watch?v=ImYtIEFWfzg&t=169s)
   
 ### SOFTWARE ENGINEERING
@@ -61,9 +70,9 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 * (Beginner Overview) [LangChain: The BEST Library For Building AI Apps In Python? (11:40) (23 Oct 2024)](https://www.youtube.com/watch?v=R3KgD86VRzc)
   * [Github](https://github.com/pixegami/basic-langchain-examples)
-* (Intermediate Sample Project)[LangGraph Simplified: Master Custom AI Agent Creation (43:51) (8 Jun 2024)](https://www.youtube.com/watch?v=R-o_a6dvzQM&t=3s)
+* (Intermediate Sample Project) [LangGraph Simplified: Master Custom AI Agent Creation (43:51) (8 Jun 2024)](https://www.youtube.com/watch?v=R-o_a6dvzQM&t=3s)
   * [Github](https://github.com/john-adeojo/graph_websearch_agent)
-* (Review/Repeat from last week)[AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
+* (Review/Repeat from last week) [AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 
 
 ## IN-CLASS EXERCISES
@@ -115,7 +124,7 @@ Sam also discussed competition, particularly noting respect for the Cursor team'
 
 ### NEWS: AUTOMATION
 
-* [AI: Dystopia or Utopia? by Vinod Khosla (20 Sep 2024)](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
+* (Section New Economics in the AI World) [AI: Dystopia or Utopia? by Vinod Khosla (20 Sep 2024)](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
 
 ### FOLLOW-UPS
 
@@ -147,7 +156,7 @@ Sam also discussed competition, particularly noting respect for the Cursor team'
 ### SOFTWARE ENGINEERING
 
 * [LangGraph Studio](https://studio.langchain.com/?ref=blog.langchain.dev)
-* (MacOS only)[LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
+* (MacOS only) [LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
 
 ### CODE SAMPLE
 
