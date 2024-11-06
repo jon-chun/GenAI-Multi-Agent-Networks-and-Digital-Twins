@@ -85,7 +85,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 * [Sam Altman: What Startups Will be Steamrolled by OpenAI & Where is Opportunity | E1223 by 20VC with Harry Stebbings (39:20) (4 Nov 2024)](https://www.youtube.com/watch?v=peg-aX1oii4&t=395s)
 
-Model Development & Strategy:
+[Model Development & Strategy:](https://claude.ai/chat/36b10ab4-08bc-4a63-83d9-0997e657a954)
 - OpenAI is focused heavily on reasoning capabilities in their models, which they believe will unlock major advances in science and coding
 - They expect rapid improvement in their "O Series" models (like GPT-4, GPT-4V)
 - Sam believes the scaling laws for AI models will continue holding true for a long time, though there have been challenging periods
@@ -113,8 +113,6 @@ Future Outlook:
 
 Sam also discussed competition, particularly noting respect for the Cursor team's work, and emphasized OpenAI's focus on long-term model improvement rather than short-term patches for current limitations.
 
-
-
 ### NEWS: AUTOMATION
 
 * [AI: Dystopia or Utopia? by Vinod Khosla (20 Sep 2024)](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
@@ -132,14 +130,19 @@ Sam also discussed competition, particularly noting respect for the Cursor team'
 
 ### CONCEPTS
 
+* [The Evolution of AI: Introducing Autonomous AI Agents (2 Oct 2024)](https://shelf.io/blog/the-evolution-of-ai-introducing-autonomous-ai-agents/)
+  What sets autonomous AI agents apart from generative AI, is that they can perform several tasks in a row, using memory and tools, without direct human input needed.
 * [LangChain Academy: Intro to LangGraph ~4hrs](https://academy.langchain.com/courses/intro-to-langgraph)
 * [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+* [LangChain Slides Online](https://files.cdn.thinkific.com/file_uploads/967498/attachments/ecd/3cc/6d3/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
 
 ### TOOLS
 
 * DocETL
   * [Github](https://github.com/ucbepic/docetl)
   * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
+  * [Analyzing common weaknesses in ICLR 2024 reviews with DocETL (31:11) (29 Oct 2024)](https://www.youtube.com/watch?v=IlgueVqtHGo)
+  * [ChatGPT Setup](https://chatgpt.com/share/672b25a2-2314-800d-8caf-a6b958aefa93)
 
 ### SOFTWARE ENGINEERING
 

@@ -1,13 +1,21 @@
 # Dataset Creation
 
+
+## SURVEY
+
+* [Datasets for Large Language Models: A Comprehensive Survey by Yang Liu et al. (28 Feb 2024)](https://arxiv.org/pdf/2402.18041)
+
 ## RESEARCH
 
 * [API-BLEND -- A Comprehensive Corpora for Training and Benchmarking API LLMs KinjalBasu_IBM (20 May 2024)](https://arxiv.org/pdf/2402.15491)
-* [Datasets for Large Language Models: A Comprehensive Survey by Yang Liu et al. (28 Feb 2024)](https://arxiv.org/pdf/2402.18041)
 * [Data Management For Large Language Models: A Survey (26 Dec 2023)](https://arxiv.org/html/2312.01700v2)
   * [Github](https://github.com/ZigeW/data_management_LLM)
 * [](https://arxiv.org/pdf/2402.18041)
   * [Github](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
+
+## ANALYSIS
+
+* [Llm Dataset Survey Insights (28 Oct 2024)](https://www.restack.io/p/llmsurvey-answer-llm-dataset-survey-cat-ai)
 
 ## META REPOS
 
@@ -57,7 +65,8 @@
     * [ChatGPT4](https://chatgpt.com/share/6728d6bb-06b8-800d-a783-82d592888330)
     * poetry run make run-ui-dev
     * http://localhost:3000/playground
-  * [Arxiv paper](https://arxiv.org/pdf/2410.12189v1)
+    * [](https://github.com/MicrosoftDocs/windows-dev-docs/blob/docs/hub/dev-environment/javascript/nodejs-on-wsl.md)
+  * [A conversation geenerator for docetl](https://github.com/PassionFruits-net/docetl-conversation)  * [Arxiv paper](https://arxiv.org/pdf/2410.12189v1)
   * [AI Agents for Smarter Data Input: DocETL (Berkeley) (30:14) (25 Oct 2024)](https://www.youtube.com/watch?v=ImYtIEFWfzg&t=169s)
   
 ## PDF

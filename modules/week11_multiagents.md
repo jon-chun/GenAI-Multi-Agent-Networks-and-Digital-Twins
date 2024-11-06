@@ -30,10 +30,15 @@ Overview Here...
 
 ### CODING
 
+* [Unleash a SWARM of AI Agents: Reliable Multi-Agent Orchestration (25:07) (4 Nov 2024)](https://www.youtube.com/watch?v=eCoObzaHYC4)
+* [Github Colab](https://github.com/ALucek/swarm-meal-planner/blob/main/swarm_multiagent_framework.ipynb)
 * [Is OpenAI Swarm AI Agents Worth It? (10:59) (3 Nov 2024)](https://www.youtube.com/watch?v=9jpf9qLUCm0)
   * [Github](https://github.com/tylerprogramming/ai/tree/main/openai_swarm)
 * [Build Anything with OpenAI Swarm, Here’s How (44:22) (20 Oct 2024)](https://www.youtube.com/watch?v=Cw0ME8OZ0xI)
-
+* 
+* [LangChain Academy: Intro to LangGraph ~4hrs](https://academy.langchain.com/courses/intro-to-langgraph)
+* [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+* [LangChain Slides Online](https://files.cdn.thinkific.com/file_uploads/967498/attachments/ecd/3cc/6d3/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
 
 ## IN-CLASS EXERCISES
 
