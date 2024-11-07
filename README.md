@@ -157,7 +157,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* [**Week 11:** Autonomous Agents](./modules/oh_noes_404.md)
+* [**Week 11:** Multiagents](./modules/week11_multiagents.md) (irekita)
 * [**Week 12:** Multi-Agent Systems](./modules/oh_noes_404.md)
 * [**Week 13:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
 

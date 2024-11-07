@@ -10,8 +10,10 @@
 
 ### Coding
 
-* [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
-* 
+* [Build Anything with OpenAI Swarm, Here’s How (44:22) (20 Oct 2024)](https://www.youtube.com/watch?v=Cw0ME8OZ0xI)
+* [LangChain Academy: Intro to LangGraph ~4hrs](https://academy.langchain.com/courses/intro-to-langgraph)
+* [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+* [LangChain Slides Online](https://files.cdn.thinkific.com/file_uploads/967498/attachments/ecd/3cc/6d3/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
 * [LLMOps (1hr)](https://www.deeplearning.ai/short-courses/llmops/)
 
 ## In-Class
