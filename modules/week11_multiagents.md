@@ -1,6 +1,8 @@
 # Week 11: Multiagents
 
-Overview Here...
+We continue to build upon our abstraction stack this week by studying two higher level multi-agent frameworks. This includes CrewAI which is a high-level abstraction layer around LangChain and the new OpenAI Swarm multi-agent framework launched last month. Although the latter is still in experimental stage, it's has an unfair, sustained competitive advantage being the brainchild of OpenAI itself and proposes a lighter, perhaps more intuitive framework.
+
+We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who has perhaps one of the most extensive, largely positive, advocacy/prediction pieces. Finally, we'll look at a recent research survey paper that gives a brief overview of Autonomous AI Frameworks.
 
 ## KEY QUESTIONS
 
@@ -12,33 +14,25 @@ Overview Here...
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* (Only Section "New Economics in the AI World") [AI: Dystopia or Utopia? by Vinod Khosla (20 Sep 2024)](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* (Up to and incl p.4) [A survey on LLM-based multi-agent systems: workfow, infrastructure, and challenges (8 Oct 2024)](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf)
 
 ### SOFTWARE ENGINEERING
 
 * [You're WASTING TIME Coding Your AI Agents (11:34) (18 Aug 2024)](https://www.youtube.com/watch?v=VxTw9tzzlbc)
-
-* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama (24:01) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
-* [Introducing Swarm with Code Examples: OpenAI's Groundbreaking Agent Framework (27:53) (14 Oct 2024)](https://www.youtube.com/watch?v=npAljHBeKPc)
-* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
-* [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
-* [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
+* [Is OpenAI Swarm AI Agents Worth It? (10:59) (3 Nov 2024)](https://www.youtube.com/watch?v=9jpf9qLUCm0)
+  * [Github](https://github.com/tylerprogramming/ai/tree/main/openai_swarm)
 
 ### CODING
 
+* [DeepLearning.ai: Multi AI Agent Systems with crewAI (~2h42m)](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 * [Unleash a SWARM of AI Agents: Reliable Multi-Agent Orchestration (25:07) (4 Nov 2024)](https://www.youtube.com/watch?v=eCoObzaHYC4)
 * [Github Colab](https://github.com/ALucek/swarm-meal-planner/blob/main/swarm_multiagent_framework.ipynb)
-* [Is OpenAI Swarm AI Agents Worth It? (10:59) (3 Nov 2024)](https://www.youtube.com/watch?v=9jpf9qLUCm0)
-  * [Github](https://github.com/tylerprogramming/ai/tree/main/openai_swarm)
-* [Build Anything with OpenAI Swarm, Here’s How (44:22) (20 Oct 2024)](https://www.youtube.com/watch?v=Cw0ME8OZ0xI)
-* 
-* [LangChain Academy: Intro to LangGraph ~4hrs](https://academy.langchain.com/courses/intro-to-langgraph)
-* [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
-* [LangChain Slides Online](https://files.cdn.thinkific.com/file_uploads/967498/attachments/ecd/3cc/6d3/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+* [Orchestrating Agents: Routines and Handoffs (10 Oct 2024)](https://cookbook.openai.com/examples/orchestrating_agents)
+
 
 ## IN-CLASS EXERCISES
 
@@ -57,7 +51,7 @@ Overview Here...
   
 ### NEWS: AUTOMATION
 
-* [Top Trending Open-Source GitHub Projects This Year 2024 (3:51:00) (2 Nov 2024)](https://www.youtube.com/watch?v=wN65RTxCfDo)
+* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
   
 ### NEWS: TECH
 
@@ -65,30 +59,38 @@ Overview Here...
 
 ### FOLLOW-UPS
 
+* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
+  * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
 * [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
   * [Github](https://github.com/bhancockio) (Terminal CLI)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* (Up to, not incl Sec 3.4) [Large Language Model based Multi-Agents: A Survey of Progress and Challenges (19 Apr 2024)](https://export.arxiv.org/pdf/2402.01680v2.pdf)
+* (up to and including Section 4) [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey (17 Apr 2024)](https://arxiv.org/pdf/2404.11584)
+
+* [ArXiv.org "Agent Framework"](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=agentic+framework&terms-0-field=title&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+* [AGENT DESIGN PATTERN CATALOGUE: A COLLECTION OF ARCHITECTURAL PATTERNS FOR FOUNDATION MODEL BASED AGENTS (24 Jun 2024)](https://export.arxiv.org/pdf/2405.10467v3.pdf)
+* [AI for Social Science and Social Science of AI: A Survey (22 Jan 2024)](https://arxiv.org/pdf/2401.11839)
+* [Using Large Language Models to Create AI Personas for Replication and Prediction of Media Effects: An Empirical Test of 133 Published Experimental Research Findings (28 Aug 2024)](https://arxiv.org/pdf/2408.16073)
 
 ### CONCEPTS
 
-* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
-  * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
-  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+* [Coming](oh_noes_404.md)
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* (Custom Tools) [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama (24:01) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* [Introducing Swarm with Code Examples: OpenAI's Groundbreaking Agent Framework (27:53) (14 Oct 2024)](https://www.youtube.com/watch?v=npAljHBeKPc)
+  * [Github Colab](https://colab.research.google.com/drive/1gx5zmdIcJwwKIvDmNRoJmqpdeLh6UnCN?usp=sharing)
 
 ### CODE REVIEW
 
