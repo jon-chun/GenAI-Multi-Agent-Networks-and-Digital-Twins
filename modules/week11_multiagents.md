@@ -81,6 +81,8 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### TOOLS
 
+* (Free Grok API until 2025) [Grok-2 FREE API + Cline & Aider : AI Coding with GROK-2 for FULLY FREE IS CRAZY! (8:32) (6 Nov 2024)](https://www.youtube.com/watch?v=nHzJPJtd)
+* (Free Tier Gemini API) [ClaudeDev + Gemini : Generate Applications for FREE with Gemini 1.5 Pro / Flash! (8:49) (Oct 2024)](https://www.youtube.com/watch?v=FAFmP82bhDA&t=67s)
 * (Custom Tools) [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
 
 ### SOFTWARE ENGINEERING
