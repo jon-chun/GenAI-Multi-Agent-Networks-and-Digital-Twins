@@ -17,6 +17,8 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 
 ## Other Agent Ideas
 
+* (Code Generation with LangGraph) [Building a self-corrective coding assistant from scratch (24:27) (27 Feb 2024)](https://www.youtube.com/watch?v=MvNdgmM7uyc)
+  * [Github (Oct 2024)](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/code_assistant/langgraph_code_assistant.ipynb)
 * [LangGraph Corrective RAG (CRAG)](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb)
 * [LangGraph Chatbot Simulation](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb)
 * [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
@@ -30,6 +32,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
 ## Collections of Apps
 
 * [LangGraph Example Notebooks](https://github.com/langchain-ai/langgraph/tree/main/examples)
+* [LangGraph Doc Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 * [LangChain and LangGraph videos](https://www.youtube.com/@htmlfivedev/playlists)
 * [Vasanthengineer4949 LangChain Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV/tree/main/Langchain%20Projects)
 * [RabbitMetrics LangChain](https://www.youtube.com/@rabbitmetrics/videos)
