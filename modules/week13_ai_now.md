@@ -30,6 +30,12 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [Zapier API]()
+* [n8n]()
+* [ActivePieces](https://github.com/activepieces/activepieces)
+  * (video) [FREE ActivePieces AI Automation🤖 Zapier Make.com & n8n Alternative Open Source Coolify Self Hosted (17:38) (9 Nov 2024)](https://www.youtube.com/watch?v=dVsJdyg7yOY)
+
+  
 * [RouteLLM in ChatLLM: Quickly Optimize AI for Cost, Latency and Quality! (4:48) (1 Nov 2024)](https://www.youtube.com/watch?v=TQYWDCI7XjA)
 
 * [Build Anything with LangGraph Studio, Here’s How (16:37) (Sep 2024)](https://youtube.com/watch?v=oWHTXTIy3J4)

@@ -65,13 +65,11 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### FOLLOW-UPS
 
+* [New RAG for Multi-Modal DocVQA: M3DOCRAG (ColPali Qwen2-VL) (9:51) (9 Nov 2024)](https://www.youtube.com/watch?v=E3ELon1uh4A)
+  * [Github](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  * [Colab](https://colab.research.google.com/github/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  * [Paper](https://arxiv.org/pdf/2411.04952)
 * [LangSmith](https://smith.langchain.com/)
-* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
-  * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
-  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
-* [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
-  * [Github](https://github.com/bhancockio) (Terminal CLI)
-
 
 ### RESEARCH
 
@@ -85,7 +83,8 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### CONCEPTS
 
-* [Coming](oh_noes_404.md)
+* [CrewAI Homepage](https://www.crewai.com/)
+* [CrewAI Documentation](https://docs.crewai.com/introduction)
 
 ### TOOLS
 
@@ -115,51 +114,8 @@ Walk-thru in class
 ## RESOURCES
 
 * [LangChang YT](https://www.youtube.com/@LangChain)
-
-
-
-
-
-# Week 11: Multi-Agent Frameworks
-
-* [The rise of the chief AI officer by Jones (14 Apr 2024) (Financial Times)](https://archive.ph/anHEk#selection-2365.0-2365.275)
-* [Future of Work Report AI at Work by LinkedIn (Nov 2023)](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/future-of-work-report-ai-november-2023.pdf)
-
-## Readings
-
-* Benchmark Agent Frameworks
-  * [(CrewAI) AI Agent Framework Battle: CrewAI vs. AutoGen vs. LangGraph vs Agent Zero | Underdog Triumphs? [1/5] (24:58) (2 Sep 2024)](https://www.youtube.com/watch?v=bBl0JyK4K4E)
-  * [Github](https://github.com/Florenz23/ai-agent-videos/tree/master/benchmark_stock_analysis)
-
-### Coding
-
-* [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
-
-* [DeepLearning.ai: AI Agentic Design Patterns with AutoGen (1hr)](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-
-
-## In-Class
-
-* Motivation
-  * [The State of Generative AI in the Enterprise
-Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
-
-## References:
-
-* Frameworks
-  * AutoGen
-  * CrewAI
-
-
-* Cloud Providers
-  * AWS/Amazon Bedrock
-  * Azure
-  * GC
-  * Runpod.io
-  * Anyscale
-  * Replicate
-  * Together.ai
-
-## RESEARCH
-
-* [RL Loses Against Multi-Agent Intelligence: CoMAL (24:52) (22 Oct 2024)](https://www.youtube.com/watch?v=8RKk-IhNRZ0)
+* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
+  * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+* [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
+  * [Github](https://github.com/bhancockio) (Terminal CLI)
