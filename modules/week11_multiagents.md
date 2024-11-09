@@ -52,18 +52,26 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 ### NEWS: AUTOMATION
 
 * [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
+* [Hello Companion](https://www.hello-companion.online/)
   
 ### NEWS: TECH
 
+* [Huge Claude Updates, AI-Generated Minecraft & More AI Use Cases (17:53) (8 Nov 2024)](https://www.youtube.com/watch?v=Q_xzu46FuMk)
+  * [Claude PDF](https://claude.ai/new)
+  * [AI Generated Minecraft](https://youtu.be/Q_xzu46FuMk?t=625) [OASIS](https://oasis.decart.ai/welcome)
+  * [Runway Cinema Control](https://app.runwayml.com/login)
+  * [Learning Google](https://learning.google/)
 * [AI makes smells, AI RPGs & Minecraft, New image model beats FLUX, Google & OpenAI updates (28:15) (2 Nov 2024)](https://www.youtube.com/watch?v=0NtUEzBIJf0)
 
 ### FOLLOW-UPS
 
+* [LangSmith](https://smith.langchain.com/)
 * [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
   * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
   * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
 * [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
   * [Github](https://github.com/bhancockio) (Terminal CLI)
+
 
 ### RESEARCH
 
@@ -81,12 +89,14 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### TOOLS
 
+* [Skyvern](https://github.com/Skyvern-AI/Skyvern)
 * (Free Grok API until 2025) [Grok-2 FREE API + Cline & Aider : AI Coding with GROK-2 for FULLY FREE IS CRAZY! (8:32) (6 Nov 2024)](https://www.youtube.com/watch?v=nHzJPJtd)
 * (Free Tier Gemini API) [ClaudeDev + Gemini : Generate Applications for FREE with Gemini 1.5 Pro / Flash! (8:49) (Oct 2024)](https://www.youtube.com/watch?v=FAFmP82bhDA&t=67s)
 * (Custom Tools) [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
 
 ### SOFTWARE ENGINEERING
 
+* [Metaprompt with OpenAI API](https://github.com/casedone/metaprompt-with-openai)
 * ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama (24:01) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
 
 ### CODE SAMPLE
@@ -104,9 +114,7 @@ Walk-thru in class
 
 ## RESOURCES
 
-* [Coming](oh_noes_404.md)
-
-
+* [LangChang YT](https://www.youtube.com/@LangChain)
 
 
 

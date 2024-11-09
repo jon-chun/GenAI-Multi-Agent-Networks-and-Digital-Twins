@@ -5,6 +5,7 @@ Overview Here...
 ## Specific Examples
 
 * [Large Language Mind: a Cognitive simulation with gpt-4o (28:51) (2 Nov 2024)](https://www.youtube.com/watch?v=ktiEbZlebxU)
+* [Building LLM Agents from Scratch (Part 2) : A Conversational Search Agent with Ollama (25 Sep 2024)](https://blog.gopenai.com/building-llm-agents-from-scratch-part-2-a-conversational-search-agent-with-ollama-a4544b2291cf)
 
 ## KEY QUESTIONS
 
@@ -24,6 +25,7 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* (up to xx:xx) [Master CrewAI: Your Ultimate Beginner's Guide! (1:00:17) (Apr 2024)](https://www.youtube.com/watch?v=s-jYxgKMqRc)
 * [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
   * [Github](https://github.com/joshpocock/Stride-AI-Agents/)
 
@@ -49,9 +51,13 @@ Overview Here...
 
 * [Coming](oh_noes_404.md)
 
-### NEWS
+### NEWS: AUTOMATION
 
-* [Coming](oh_noes_404.md)
+* [Top Trending Open-Source GitHub Projects This Year 2024 (3:51:00) (2 Nov 2024)](https://www.youtube.com/watch?v=wN65RTxCfDo)
+
+### NEWS: TECH
+
+* []()
 
 ### FOLLOW-UPS
 
@@ -71,7 +77,7 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [OpenAI Swarm Repo: Deep Dive into Multi-Agent LLM app (42:12) (5 Nov 2024)](https://www.youtube.com/watch?v=Wj7C8hlwYQs)
 
 ### CODE SAMPLE
 

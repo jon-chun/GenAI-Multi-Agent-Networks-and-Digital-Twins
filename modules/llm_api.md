@@ -189,6 +189,7 @@ Submit your code and a brief report discussing your experience, challenges faced
 
 * [OpenAI Structured Output](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [Instructor](https://python.useinstructor.com/)
+* [Instructor Github](https://github.com/instructor-ai/instructor)
 * [Outlines-dev](https://github.com/outlines-dev/outlines)
 
 # Functions
