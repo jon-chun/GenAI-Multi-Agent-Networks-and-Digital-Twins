@@ -31,6 +31,7 @@ You can customize and/or expand upon the two baseline OPTIONS A or B with data, 
   
 ## Collections of Apps
 
+* [LangChain YT](https://www.youtube.com/@LangChain)
 * [LangGraph Example Notebooks](https://github.com/langchain-ai/langgraph/tree/main/examples)
 * [LangGraph Doc Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 * [LangChain and LangGraph videos](https://www.youtube.com/@htmlfivedev/playlists)
@@ -144,9 +145,6 @@ Sam also discussed competition, particularly noting respect for the Cursor team'
 
 * [The Evolution of AI: Introducing Autonomous AI Agents (2 Oct 2024)](https://shelf.io/blog/the-evolution-of-ai-introducing-autonomous-ai-agents/)
   What sets autonomous AI agents apart from generative AI, is that they can perform several tasks in a row, using memory and tools, without direct human input needed.
-* [LangChain Academy: Intro to LangGraph ~4hrs](https://academy.langchain.com/courses/intro-to-langgraph)
-* [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
-* [LangChain Slides Online](https://files.cdn.thinkific.com/file_uploads/967498/attachments/ecd/3cc/6d3/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
 
 ### TOOLS
 
@@ -158,6 +156,12 @@ Sam also discussed competition, particularly noting respect for the Cursor team'
 
 ### SOFTWARE ENGINEERING
 
+* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
+  * [LangChain Slides](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+  * [LangChain Slides Online](https://files.cdn.thinkific.com/file_uploads/967498/attachments/ecd/3cc/6d3/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+* [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
+  * [Github](https://github.com/bhancockio) (Terminal CLI)
 * [LangGraph Studio](https://studio.langchain.com/?ref=blog.langchain.dev)
 * (MacOS only) [LangGraph Studio Templates](https://blog.langchain.dev/launching-langgraph-templates/)
 

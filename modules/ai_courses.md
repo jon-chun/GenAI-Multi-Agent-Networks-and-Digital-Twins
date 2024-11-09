@@ -26,6 +26,9 @@
   * [Make Autogen AI Agents with Long-Term Memory (12:56) (8 oCT 2024)](https://www.youtube.com/watch?v=s4-N-gefMA8)
   * [tylerprogramming/llamaindex-beginner-course](https://github.com/tylerprogramming/llamaindex-beginner-course)
 
+* LangChain
+  * [LangChang YT](https://www.youtube.com/@LangChain)
+
 ## Paid
 
 * [EchoHive](https://www.youtube.com/watch?v=w7_28FOK0Vw)

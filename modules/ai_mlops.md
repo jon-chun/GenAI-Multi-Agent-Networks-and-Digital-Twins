@@ -3,7 +3,9 @@
 
 ## LEADERBOARDS
 
+* [Huggingface Leaderboards](https://huggingface.co/open-llm-leaderboard)
 * [ArtificialAnalysis.ai](https://artificialanalysis.ai/leaderboards/models)
+* [Vellum Leaderboard](https://www.vellum.ai/llm-leaderboard)
 
 ## ACCELERATOR
 
@@ -41,6 +43,7 @@
   * [Ollama in Colab](https://colab.research.google.com/github/jellyterra/ollama-colab/blob/master/OllamaColab.ipynb)
   * [ngrok API](https://dashboard.ngrok.com/)
   * [Ollama in Github Code Space](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
+* [Ollama with Vision - Enabling Multimodal RAG (13:00) (7 Oct 2024)](https://www.youtube.com/watch?v=45LJT-bt500)
 
 ## LOCAL ALTERATIVES
 
