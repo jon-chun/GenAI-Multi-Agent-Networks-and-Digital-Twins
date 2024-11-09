@@ -28,6 +28,8 @@ Overview Here...
 * (up to xx:xx) [Master CrewAI: Your Ultimate Beginner's Guide! (1:00:17) (Apr 2024)](https://www.youtube.com/watch?v=s-jYxgKMqRc)
 * [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
   * [Github](https://github.com/joshpocock/Stride-AI-Agents/)
+  * (Join Free Tier) [CrewAI Enterprise Templates](https://app.crewai.com/crewai_plus/dashboard)
+  * [CrewAI Discord](https://discord.com/invite/X4JWnZnxPb)
 
 * [Groq Inference Tokenomics: Speed, But At What Cost? (21 Feb 2024)](https://www.semianalysis.com/p/groq-inference-tokenomics-speed-but)
 * [How to Create a RAG Chatbot with n8n AI Agents in MINUTES (18:42) (7 Oct 2020)](https://www.youtube.com/watch?v=iH8gm7Mn5zA)
