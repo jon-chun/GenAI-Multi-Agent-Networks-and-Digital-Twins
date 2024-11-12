@@ -66,6 +66,7 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### FOLLOW-UPS
 
+* [Prompt Canvas: "Cursor for Prompt Engineering (4:13) (12 Nov 2024)](https://www.youtube.com/watch?v=nXrx-_9Yucc)
 * [New RAG for Multi-Modal DocVQA: M3DOCRAG (ColPali Qwen2-VL) (9:51) (9 Nov 2024)](https://www.youtube.com/watch?v=E3ELon1uh4A)
   * [Github](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
   * [Colab](https://colab.research.google.com/github/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
