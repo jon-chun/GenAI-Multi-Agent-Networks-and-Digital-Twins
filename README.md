@@ -226,7 +226,7 @@ For detailed project descriptions and grading rubrics, please refer to the indiv
 
 # IPHS200: Programming Humanity Exercises
 
-* [SentimentArcs Simplified (13 Nov 2024)](./code/notebooks/sentimentarcs_supersimplified_20241113.ipynb)
+* [SentimentArcs Simplified (13 Nov 2024)](./code/notebooks/sentimentarcs_supersimplified_20241114.ipynb)
 * [Topic Modeling (30 Oct 2024)](https://www.kaggle.com/code/jchun2000/topic-modeling-in-nlp-with-abc-news-sample/)
   * [Colab](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241110.ipynb)
   * [Colab with Button](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241111.ipynb)

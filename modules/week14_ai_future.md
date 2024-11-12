@@ -34,7 +34,8 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [AI Agents EXPLAINED: Unbiased Review of Langraph, AutoGen, and Crew AI Frameworks (8:28) (15 May 2024)](https://www.youtube.com/watch?v=NjOj5mkytvw)
+* [AI Agents– Simple Overview of Brain, Tools, Reasoning and Planning (11:39) (29 Oct 2024)](https://www.youtube.com/watch?v=OBg0_nsRXcw)
 
 ### CODING
 

@@ -51,6 +51,7 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
   
 ### NEWS: AUTOMATION
 
+* [PwC AI Job Barometer](https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/executive-summary.pdf)
 * [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
 * [Hello Companion](https://www.hello-companion.online/)
   
