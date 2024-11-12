@@ -16,6 +16,10 @@ Overview Here...
 
 ### RESEARCH
 
+* [AI AGENTS w/ new Q-Learning: Q-SFT (UC Berkeley) (11:57) (12 Nov 2024)](https://www.youtube.com/watch?v=1yAQRHLjlDs)
+  * (Optional) [INTERACTIVE DIALOGUE AGENTS VIA REINFORCEMENT LEARNING ON HINDSIGHT REGENERATIONS by Hong et al. (7 Nov 2024)](https://arxiv.org/pdf/2411.05194)
+  * (Optional) [Q-SFT: Q-LEARNING FOR LANGUAGE MODELS VIA SUPERVISED FINE-TUNING by Hong et al. (7 Nov 2024)](https://arxiv.org/pdf/2411.05193)
+
 * Economics of Strategic Industries
   * [AASPI’s Critical Technology Tracker by Gaida et al. (evergreen)](https://www.aspi.org.au/report/critical-technology-tracker)
 
