@@ -56,6 +56,7 @@ Overview Here...
 ### NEWS: AUTOMATION
 
 * [Top Trending Open-Source GitHub Projects This Year 2024 (3:51:00) (2 Nov 2024)](https://www.youtube.com/watch?v=wN65RTxCfDo)
+* [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents by Lu et al (25 Sep 2024)](https://arxiv.org/pdf/2409.17140)
 
 ### NEWS: TECH
 
