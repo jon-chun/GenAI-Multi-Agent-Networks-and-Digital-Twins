@@ -18,6 +18,8 @@ Overview Here...
 
 ### RESEARCH
 
+* [THOUSANDS OF AI AUTHORS ON THE FUTURE OF AI by Grace et al. (30 Apr 2024)](https://export.arxiv.org/pdf/2401.02843v2.pdf)
+
 * Ethics
   * [Oxford Institute for Ethics in AI (6 Research Themes)](https://www.oxford-aiethics.ox.ac.uk/)
 

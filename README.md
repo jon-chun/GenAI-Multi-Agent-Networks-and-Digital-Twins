@@ -126,8 +126,8 @@ Introduction to RAG and its implementation using Langchain. Students will create
 #### Detailed Content
 
 * [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md) (membuka)
-* [**Week 8:** Langchain 1](./modules/week8_langchain1.md) (उद्घाटित)
-* [**Week 9:** Langchain 2](./modules/week9_langchain2.md) (aperta)
+* [**Week 8:** Agents: Langchain 1](./modules/week8_langchain1.md) (उद्घाटित)
+* [**Week 9:** Agents: Langchain 2](./modules/week9_langchain2.md) (aperta)
 * [**Week 10:** Miniproject 3: Agents](./modules/week10_miniproject3_langchain.md) (wazi)
 
 #### Reflection Questions
@@ -157,8 +157,8 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* [**Week 11:** Multiagents](./modules/week11_multiagents.md) (irekita)
-* [**Week 12:** Multi-Agent Systems](./modules/oh_noes_404.md)
+* [**Week 11:** Multi-Agents: CrewAI #1](./modules/week11_multiagents.md) (irekita)
+* [**Week 12:** Multi-Agents: CrewAI #2](./modules/oh_noes_404.md)
 * [**Week 13:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
@@ -226,7 +226,7 @@ For detailed project descriptions and grading rubrics, please refer to the indiv
 
 # IPHS200: Programming Humanity Exercises
 
-* [SentimentArcs Simplified (14 Nov 2024)](./code/notebooks/sentimentarcs_supersimplified_20241114.ipynb)
+* [SentimentArcs Simplified (15 Nov 2024)](./code/notebooks/sentimentarcs_supersimplified_20241115.ipynb)
 * [Topic Modeling (30 Oct 2024)](https://www.kaggle.com/code/jchun2000/topic-modeling-in-nlp-with-abc-news-sample/)
   * [Colab](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241110.ipynb)
   * [Colab with Button](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241111.ipynb)
