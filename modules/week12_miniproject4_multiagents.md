@@ -1,6 +1,6 @@
 # Week 12: Mini-Project #4 Automated Workflow
 
-Overview Here...
+Our second week with CrewAI and more advanced applications. Also, a peek into AI Biology and another cutting-edge Agentic Framework with superior reasoning based upon Microsoft's AutoGen.
 
 ## Specific Examples
 
@@ -9,30 +9,21 @@ Overview Here...
 
 ## KEY QUESTIONS
 
-1. Q1
-2. Q2
-3. Q3...
+1. In class...
 
 ## READINGS
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* [Research: How Gen AI Is Already Impacting the Labor Market by Demirci et al. (11 Nov 2024)](https://hbr.org/2024/11/research-how-gen-ai-is-already-impacting-the-labor-market)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* ["PROGRAMMABLE LIFE" AI Simulated 500 million years of evolution to create custom proteins | ESM3 (20:40) (14 Nov 2024)](https://www.youtube.com/watch?v=IgqR3M_3kVM)
 
 ### SOFTWARE ENGINEERING
 
-* (up to xx:xx) [Master CrewAI: Your Ultimate Beginner's Guide! (1:00:17) (Apr 2024)](https://www.youtube.com/watch?v=s-jYxgKMqRc)
-* [FREE OpenAI Swarm + Crawl4AI AI Agent Beats CrewAI & AutoGen?🤖🔥 Multi Agent Orchestration Framework (16:59) (15 Oct 2024)](https://www.youtube.com/watch?v=saDDe9J4zXU)
-  * [Github](https://github.com/joshpocock/Stride-AI-Agents/)
-  * (Join Free Tier) [CrewAI Enterprise Templates](https://app.crewai.com/crewai_plus/dashboard)
-  * [CrewAI Discord](https://discord.com/invite/X4JWnZnxPb)
-
-* [Groq Inference Tokenomics: Speed, But At What Cost? (21 Feb 2024)](https://www.semianalysis.com/p/groq-inference-tokenomics-speed-but)
-* [How to Create a RAG Chatbot with n8n AI Agents in MINUTES (18:42) (7 Oct 2020)](https://www.youtube.com/watch?v=iH8gm7Mn5zA)
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (13 Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
 
 ### CODING
 
@@ -60,7 +51,7 @@ Overview Here...
 
 ### NEWS: TECH
 
-* []()
+* [The BEST Way to Build Intelligent Apps with Phidata AI Agents (7:16) (14 Nov 2024)](https://www.youtube.com/watch?v=j2VC5C4TV20)
 
 ### FOLLOW-UPS
 

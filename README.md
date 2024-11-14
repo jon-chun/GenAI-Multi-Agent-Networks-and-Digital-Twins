@@ -158,7 +158,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 #### Detailed Content
 
 * [**Week 11:** Multi-Agents: CrewAI #1](./modules/week11_multiagents.md) (irekita)
-* [**Week 12:** Multi-Agents: CrewAI #2](./modules/oh_noes_404.md)
+* [**Week 12:** Multi-Agents: CrewAI #2](./modules/week12_miniproject4_multiagents.md) (עפענען)
 * [**Week 13:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
 
 #### Reflection Questions
