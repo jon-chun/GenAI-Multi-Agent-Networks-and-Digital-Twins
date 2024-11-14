@@ -1,4 +1,4 @@
-# Week 11: Multiagents
+# Week 11: Multiagents: CrewAI #1
 
 We continue to build upon our abstraction stack this week by studying two higher level multi-agent frameworks. This includes CrewAI which is a high-level abstraction layer around LangChain and the new OpenAI Swarm multi-agent framework launched last month. Although the latter is still in experimental stage, it's has an unfair, sustained competitive advantage being the brainchild of OpenAI itself and proposes a lighter, perhaps more intuitive framework.
 
