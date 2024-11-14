@@ -16,6 +16,8 @@ Overview Here...
 
 ### RESEARCH
 
+* [Parables on the Power of Planning in AI: From Poker to Diplomacy: Noam Brown (OpenAI) (56:53) (17 Sep 2024)](https://www.youtube.com/watch?v=eaAonE58sLU)
+
 * [AI AGENTS w/ new Q-Learning: Q-SFT (UC Berkeley) (11:57) (12 Nov 2024)](https://www.youtube.com/watch?v=1yAQRHLjlDs)
   * (Optional) [INTERACTIVE DIALOGUE AGENTS VIA REINFORCEMENT LEARNING ON HINDSIGHT REGENERATIONS by Hong et al. (7 Nov 2024)](https://arxiv.org/pdf/2411.05194)
   * (Optional) [Q-SFT: Q-LEARNING FOR LANGUAGE MODELS VIA SUPERVISED FINE-TUNING by Hong et al. (7 Nov 2024)](https://arxiv.org/pdf/2411.05193)
