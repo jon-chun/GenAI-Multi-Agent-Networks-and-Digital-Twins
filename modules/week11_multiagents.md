@@ -6,9 +6,7 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ## KEY QUESTIONS
 
-1. Q1
-2. Q2
-3. Q3...
+Reviewed in Class
 
 ## READINGS
 
@@ -38,12 +36,11 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### ADMINISTRATIVE
 
-* [Quiz](oh_noes_404.md)
+* [Quiz 11: CrewAI #1](https://docs.google.com/forms/d/e/1FAIpQLSeEs1grmPhUTxKVNiqEI9AjQORsCmDk3cE8Pa1FqlohSpzvuw/viewform?usp=sf_link)
 
 ### PRESENTATIONS
 
-* Presentation #1
-* Presentation #2
+* 5 Min DisruptHR: AI, the Future of Work, and the Liberal Arts
 
 ### ANNOUNCEMENTS
 
@@ -51,12 +48,13 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
   
 ### NEWS: AUTOMATION
 
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (13 Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
 * [PwC AI Job Barometer](https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/executive-summary.pdf)
-* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
 * [Hello Companion](https://www.hello-companion.online/)
   
 ### NEWS: TECH
 
+* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
 * [Huge Claude Updates, AI-Generated Minecraft & More AI Use Cases (17:53) (8 Nov 2024)](https://www.youtube.com/watch?v=Q_xzu46FuMk)
   * [Claude PDF](https://claude.ai/new)
   * [AI Generated Minecraft](https://youtu.be/Q_xzu46FuMk?t=625) [OASIS](https://oasis.decart.ai/welcome)
@@ -71,10 +69,13 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
   * [Github](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
   * [Colab](https://colab.research.google.com/github/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
   * [Paper](https://arxiv.org/pdf/2411.04952)
-* [LangSmith](https://smith.langchain.com/)
 
 ### RESEARCH
 
+* [OpenAI GPT-4o Scaling Laws @ Training vs Inference](https://www.reddit.com/r/singularity/comments/1fg25sf/nvidias_jim_fan_this_may_be_the_most_important/#lightbox)
+* [Models in Meatspace](https://x.com/DrJimFan/status/1851643431803830551)
+* [Why think step by step? Reasoning emerges from the locality of experience" Hypothesis: the effectiveness of reasoning stems from the local structure of experience and training data](https://x.com/IntuitMachine/status/1855951681214640281)
+* [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning by Akyürek et al. (11 Nov 2024)](https://github.com/ekinakyurek/marc) and [ArXiv Paper](https://arxiv.org/html/2411.07279v1)
 * (Up to, not incl Sec 3.4) [Large Language Model based Multi-Agents: A Survey of Progress and Challenges (19 Apr 2024)](https://export.arxiv.org/pdf/2402.01680v2.pdf)
 * (up to and including Section 4) [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey (17 Apr 2024)](https://arxiv.org/pdf/2404.11584)
 
@@ -90,9 +91,11 @@ We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who ha
 
 ### TOOLS
 
+* [LangSmith](https://smith.langchain.com/)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern)
-* (Free Grok API until 2025) [Grok-2 FREE API + Cline & Aider : AI Coding with GROK-2 for FULLY FREE IS CRAZY! (8:32) (6 Nov 2024)](https://www.youtube.com/watch?v=nHzJPJtd)
+* (Free Tier Groq API) [Groq Console](https://console.groq.com/playground)
 * (Free Tier Gemini API) [ClaudeDev + Gemini : Generate Applications for FREE with Gemini 1.5 Pro / Flash! (8:49) (Oct 2024)](https://www.youtube.com/watch?v=FAFmP82bhDA&t=67s)
+* (Free Grok API until 2025) [Grok-2 FREE API + Cline & Aider : AI Coding with GROK-2 for FULLY FREE IS CRAZY! (8:32) (6 Nov 2024)](https://www.youtube.com/watch?v=nHzJPJtd)
 * (Custom Tools) [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
 
 ### SOFTWARE ENGINEERING
