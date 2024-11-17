@@ -55,11 +55,20 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### FOLLOW-UPS
 
-* [Coming](oh_noes_404.md)
+* [Giving Gemini Google Search Access (13:44) (17 Nov 2024)](https://www.youtube.com/watch?v=1rzUbimPzpE)
+  * [AIStudio.Google.com](https://aistudio.google.com/)
+  * [Colab](../code/notebooks/llm_hallucination_Gemini_Search_Grounding_AIStudio_20241117.ipynb)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* [ACL](https://2024.aclweb.org/)
+* [EMNLP/CoNLL](https://www.conll.org/2024)
+* [Photos](../acl2024/photos/)
+* [Proceedings](https://aclanthology.org/venues/conll/)
+* [Workshops](https://2024.aclweb.org/program/workshops/)
+* [Tutorials](https://2024.aclweb.org/program/tutorials/)
+* [Best Papers](https://2024.aclweb.org/program/best_papers/)
+* [AIStorySimilarity](https://github.com/jon-chun/AIStorySimiliarity)
 
 ### CONCEPTS
 
