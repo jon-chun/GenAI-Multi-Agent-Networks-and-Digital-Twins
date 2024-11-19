@@ -2,6 +2,10 @@
 
 Overview Here...
 
+# Applications
+
+* [Fullstack NextJS & CrewAI Crash Course For Beginners [Source Code Included] (2:49:00) (Apr 2024)](https://www.youtube.com/watch?v=d8juNbo3onk&t=358s)
+
 ## KEY QUESTIONS
 
 1. Q1
@@ -12,10 +16,13 @@ Overview Here...
 
 ### AI NEWS AND CULTURE
 
+* [LangChain State of AI Agents](https://www.langchain.com/stateofaiagents)
+
 * [James Cameron: Special Video Message at the SCSP AI+Robotics Summit (17:22) (23 Oct 2024)](https://www.youtube.com/watch?v=e6Uq_5JemrI)
 
 ### RESEARCH
 
+* [Misguided Attention: Why LLMs Struggle to Think Critically (15:28) (18 Nov 2024)](https://www.youtube.com/watch?v=t9fynSaqE5c)
 * [Parables on the Power of Planning in AI: From Poker to Diplomacy: Noam Brown (OpenAI) (56:53) (17 Sep 2024)](https://www.youtube.com/watch?v=eaAonE58sLU)
 
 * [AI AGENTS w/ new Q-Learning: Q-SFT (UC Berkeley) (11:57) (12 Nov 2024)](https://www.youtube.com/watch?v=1yAQRHLjlDs)
@@ -36,6 +43,7 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [](https://github.com/aurelio-labs/semantic-router)
 * [Zapier API]()
 * [n8n]()
 * [ActivePieces](https://github.com/activepieces/activepieces)

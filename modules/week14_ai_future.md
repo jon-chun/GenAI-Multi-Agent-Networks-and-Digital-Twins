@@ -36,6 +36,11 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
+* [Ollama](ollama.ai)
+* [Open WebUI](https://github.com/open-webui/open-webui)
+* [Ollama UI](https://www.technovangelist.com/notes/annotated%20list%20of%20ollama%20web%20and%20desktop%20integrations/)
+* [LocalAI](https://github.com/mudler/LocalAI)
+
 * [AI Agents EXPLAINED: Unbiased Review of Langraph, AutoGen, and Crew AI Frameworks (8:28) (15 May 2024)](https://www.youtube.com/watch?v=NjOj5mkytvw)
 * [AI Agents– Simple Overview of Brain, Tools, Reasoning and Planning (11:39) (29 Oct 2024)](https://www.youtube.com/watch?v=OBg0_nsRXcw)
 

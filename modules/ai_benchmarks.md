@@ -20,6 +20,7 @@
     * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
 * [LMArena.ai](https://lmarena.ai/
 * [LLMArena.ai](https://llmarena.ai/compare?llms=3094,3092&mode=edit)
+* [Uncensored Leaderboard](https://llm.extractum.io/list/?uncensored)
 
 ## Libraries
 

@@ -20,3 +20,7 @@
 
 * [LlamaFactory Github](https://github.com/hiyouga/LLaMA-Factory)
 * [TransformerLab Github](https://github.com/transformerlab/transformerlab-app)
+
+### Uncensoring
+
+* [Uncensor any LLM with abliteration (13 Jun 2024)](https://huggingface.co/blog/mlabonne/abliteration)
