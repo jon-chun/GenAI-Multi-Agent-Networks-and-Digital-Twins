@@ -4,8 +4,13 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ## Specific Examples
 
+* [CrewAI - Building a Custom Crew (21:33) (Apr 2024)](https://www.youtube.com/watch?v=2Uar1fDKYpQ&t=405s)
+* [CrewAI + LangGraph](https://github.com/crewAIInc/crewAI-examples/blob/main/CrewAI-LangGraph/README.md)
+* [CrewAI Fin Predictions](https://www.google.com/search?q=site%3Agithub.com+crewai+competitive+analysis&sca_esv=77c72257878c30ef&sxsrf=ADLYWILo6UO5rxeOjXRLspvcZhpmxV7sYg%3A1732036690789&source=hp&ei=Usg8Z_7jLeyy0PEP59CN8QY&iflsig=AL9hbdgAAAAAZzzWYppdOBjetb_HBQdWbZCXaL30J4pY&ved=0ahUKEwj-1MK98-iJAxVsGTQIHWdoI24Q4dUDCBg&uact=5&oq=site%3Agithub.com+crewai+competitive+analysis&gs_lp=Egdnd3Mtd2l6IitzaXRlOmdpdGh1Yi5jb20gY3Jld2FpIGNvbXBldGl0aXZlIGFuYWx5c2lzSKJhUABYulhwA3gAkAEAmAGIAaAB2xqqAQQ0MC42uAEDyAEA-AEBmAIHoALuBcICBBAjGCfCAgsQABiABBixAxiDAcICERAuGIAEGLEDGNEDGIMBGMcBwgIFEAAYgATCAg4QLhiABBixAxjRAxjHAcICCBAuGIAEGLEDwgILEC4YgAQYkQIYigXCAg4QLhiABBixAxiDARjUAsICCxAAGIAEGJECGIoFwgIIEAAYgAQYsQPCAg4QABiABBixAxiDARjJA8ICCxAuGIAEGNEDGMcBwgILEC4YgAQYxwEYrwHCAgsQABiABBiSAxiKBZgDAJIHAzMuNKAHknY&sclient=gws-wiz)
 * [Large Language Mind: a Cognitive simulation with gpt-4o (28:51) (2 Nov 2024)](https://www.youtube.com/watch?v=ktiEbZlebxU)
 * [Building LLM Agents from Scratch (Part 2) : A Conversational Search Agent with Ollama (25 Sep 2024)](https://blog.gopenai.com/building-llm-agents-from-scratch-part-2-a-conversational-search-agent-with-ollama-a4544b2291cf)
+* [Creating a team of AI agents to work for me! (Crew AI) (21:06) (22 Apr 2024)](https://www.youtube.com/watch?v=5JoVeYcxgpU)
+  * [Github](https://github.com/fmiguelmmartins/crewaiyoutube)
 
 ## KEY QUESTIONS
 
@@ -42,15 +47,17 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### ANNOUNCEMENTS
 
-* [Coming](oh_noes_404.md)
+* [Final Project](oh_noes_404.md)
 
 ### NEWS: AUTOMATION
 
+* [AI Copyright Claimed My Last Video (24:10) (11 Nov 2024)](https://www.youtube.com/watch?v=LrkAORPiaEA)
 * [Top Trending Open-Source GitHub Projects This Year 2024 (3:51:00) (2 Nov 2024)](https://www.youtube.com/watch?v=wN65RTxCfDo)
 * [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents by Lu et al (25 Sep 2024)](https://arxiv.org/pdf/2409.17140)
 
 ### NEWS: TECH
 
+* [Mistral Releases](https://mistral.ai/news/pixtral-large/)
 * [The BEST Way to Build Intelligent Apps with Phidata AI Agents (7:16) (14 Nov 2024)](https://www.youtube.com/watch?v=j2VC5C4TV20)
 
 ### FOLLOW-UPS
@@ -76,15 +83,18 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* [The Surprising Power of CrewAI in Docker (9:55) (17 Nov 2024)](https://www.youtube.com/watch?v=JGID_du9-So)
 
 ### SOFTWARE ENGINEERING
 
-* [OpenAI Swarm Repo: Deep Dive into Multi-Agent LLM app (42:12) (5 Nov 2024)](https://www.youtube.com/watch?v=Wj7C8hlwYQs)
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (13 Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
+  * [MS Project Website](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
+* [MS LLM2CLIP (Nov 2024)](https://huggingface.co/microsoft/LLM2CLIP-Llama-3-8B-Instruct-CC-Finetuned)
+  * [ArXiv](https://arxiv.org/abs/2411.04997)
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* [OpenAI Swarm Repo: Deep Dive into Multi-Agent LLM app (42:12) (5 Nov 2024)](https://www.youtube.com/watch?v=Wj7C8hlwYQs)
 
 ### CODE REVIEW
 

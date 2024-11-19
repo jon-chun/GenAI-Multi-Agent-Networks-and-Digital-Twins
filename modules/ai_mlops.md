@@ -1,11 +1,15 @@
 # MLOps
 
-
 ## LEADERBOARDS
 
 * [Huggingface Leaderboards](https://huggingface.co/open-llm-leaderboard)
 * [ArtificialAnalysis.ai](https://artificialanalysis.ai/leaderboards/models)
 * [Vellum Leaderboard](https://www.vellum.ai/llm-leaderboard)
+
+## Software Engineering
+
+* [Aurelio.ai's Semantic-Router](https://www.aurelio.ai/learn)
+  * [Github](https://github.com/aurelio-labs/semantic-router)
 
 ## ACCELERATOR
 
@@ -16,7 +20,7 @@
 * [Jupyter](https://jupyter.org/install)
 * [Voila](https://github.com/voila-dashboards/voila)
 
-## VM AND CLOUD SERVICES
+## VMs
 
 * MLOps VMs
   * venv
@@ -26,13 +30,16 @@
   * Kaggle
   * Github
   * Replt
+  
+## Cloud Services
+
 * MLOps Local/Cloud Private LLMs
   * [ollama](https://ollama.ai)
   * [groq Cloud](https://groq.com/)
   * [cerebras.ai](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
   * [runpod.io](runpod.io)
 
-## OLLAMA
+## Ollama
 
 * [ChatGPT Speedup](https://chatgpt.com/share/672b1ca6-57e0-800d-917c-1433383892ce)
 * Ollama
@@ -45,18 +52,18 @@
   * [Ollama in Github Code Space](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
 * [Ollama with Vision - Enabling Multimodal RAG (13:00) (7 Oct 2024)](https://www.youtube.com/watch?v=45LJT-bt500)
 
-## LOCAL ALTERATIVES
+## Local Alternatives
 
 * [Run Any Local LLM Faster Than Ollama—Here's How (12:06) (5 Nov 2024)](https://www.youtube.com/watch?v=i1rvSiSpzSo)
 
-## DOCKER
+## Docker
 
 * [How I deploy serverless containers for free (6:32) (Feb 2024)](https://www.youtube.com/watch?v=cw34KMPSt4k)
 
-## INFRASTRUCTURE AS CODE
+## Infrastructure as Code
 
 * [Ansible in 100 Second (2:33) (2023)](https://www.youtube.com/watch?v=xRMPKQweySE)
 
-## JAVASCRIPT
+## JavaScript
 
 * [Install Node.js on Windows Subsystem for Linux (WSL2)](https://github.com/MicrosoftDocs/windows-dev-docs/blob/docs/hub/dev-environment/javascript/nodejs-on-wsl.md)
