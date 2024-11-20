@@ -91,10 +91,6 @@ Reviewed in Class
 
 ### TOOLS
 
-* [LangGraph Studio]()
-* [AgentOps.ai](https://www.agentops.ai/)
-* [LangSmith](https://smith.langchain.com/)
-* [Skyvern](https://github.com/Skyvern-AI/Skyvern)
 * (Free Tier Groq API) [Groq Console](https://console.groq.com/playground)
 * (Free Tier Gemini API) [ClaudeDev + Gemini : Generate Applications for FREE with Gemini 1.5 Pro / Flash! (8:49) (Oct 2024)](https://www.youtube.com/watch?v=FAFmP82bhDA&t=67s)
 * (Free Grok API until 2025) [Grok-2 FREE API + Cline & Aider : AI Coding with GROK-2 for FULLY FREE IS CRAZY! (8:32) (6 Nov 2024)](https://www.youtube.com/watch?v=nHzJPJtd)
