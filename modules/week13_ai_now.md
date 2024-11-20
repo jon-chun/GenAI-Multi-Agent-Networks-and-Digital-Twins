@@ -5,6 +5,7 @@ Overview Here...
 # Applications
 
 * [Fullstack NextJS & CrewAI Crash Course For Beginners [Source Code Included] (2:49:00) (Apr 2024)](https://www.youtube.com/watch?v=d8juNbo3onk&t=358s)
+  * [Reddit](https://www.reddit.com/r/ArtificialInteligence/comments/1cagrqi/how_i_made_an_entire_team_with_crewai_to_manage/)
 
 ## KEY QUESTIONS
 

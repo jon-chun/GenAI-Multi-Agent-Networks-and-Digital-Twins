@@ -24,6 +24,7 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### RESEARCH
 
+* [Generative Agent Simulations of 1,000 People by Park et al. (15 Nov 2024)](https://arxiv.org/abs/2411.10109)
 * ["PROGRAMMABLE LIFE" AI Simulated 500 million years of evolution to create custom proteins | ESM3 (20:40) (14 Nov 2024)](https://www.youtube.com/watch?v=IgqR3M_3kVM)
 
 ### SOFTWARE ENGINEERING
@@ -48,6 +49,7 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 ### ANNOUNCEMENTS
 
 * [Final Project](oh_noes_404.md)
+* [Cyber Math & Physics Intern (Summer 2025)](https://jobs.battelle.org/us/en/job/75016/Cyber-Math-Physics-Intern-Summer-2025)
 
 ### NEWS: AUTOMATION
 
@@ -83,10 +85,19 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### TOOLS
 
+* [FREE CrewAI Studio GUI EASY AI Agent Creation!🤖 Open Source AI Agent Orchestration Self Hosted (19:14) (8 Nov 2024)](https://www.youtube.com/watch?v=3Uxdggt88pY)
+  * [CrewAI Studio Github](https://github.com/strnad/CrewAI-Studio)
+* [LangGraph Studio](https://studio.langchain.com/?ref=blog.langchain.dev)
+* (MacOS only) [LangGraph Studio Templates](https://blog.langchain.dev.launching-langgraph-templates/)
+* [AutoGen Studio](https://microsoft.github.io/autogen/0.2/blog/2023/12/01/AutoGenStudio/)
+* [AgentOps.ai](https://www.agentops.ai/)
+* [LangSmith](https://smith.langchain.com/)
+* [Skyvern](https://github.com/Skyvern-AI/Skyvern)
 * [The Surprising Power of CrewAI in Docker (9:55) (17 Nov 2024)](https://www.youtube.com/watch?v=JGID_du9-So)
 
 ### SOFTWARE ENGINEERING
 
+* [why we no longer use LangChain for building our AI agents](https://news.ycombinator.com/item?id=40739982)
 * [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (13 Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
   * [MS Project Website](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
 * [MS LLM2CLIP (Nov 2024)](https://huggingface.co/microsoft/LLM2CLIP-Llama-3-8B-Instruct-CC-Finetuned)

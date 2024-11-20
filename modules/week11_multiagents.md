@@ -91,6 +91,8 @@ Reviewed in Class
 
 ### TOOLS
 
+* [LangGraph Studio]()
+* [AgentOps.ai](https://www.agentops.ai/)
 * [LangSmith](https://smith.langchain.com/)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern)
 * (Free Tier Groq API) [Groq Console](https://console.groq.com/playground)
