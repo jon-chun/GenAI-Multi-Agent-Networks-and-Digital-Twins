@@ -12,6 +12,8 @@ Overview Here...
 
 ## READINGS
 
+* [AutoRace LLM Reasoning Benchmark](https://www.llm-reasoners.net/)
+
 ### AI NEWS AND CULTURE
 
 * [Lecture Series in AI: “How Could Machines Reach Human-Level Intelligence?” by Yann LeCun (1:26:00) (23 Oct 2024)](https://www.youtube.com/watch?v=xL6Y0dpXEwc)
