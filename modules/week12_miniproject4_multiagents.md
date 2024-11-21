@@ -43,8 +43,8 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### PRESENTATIONS
 
-* [Student #1](oh_noes_404.md)
-* [Student #2](oh_noes_404.md)
+* Advaitha
+* Clinton
 
 ### ANNOUNCEMENTS
 

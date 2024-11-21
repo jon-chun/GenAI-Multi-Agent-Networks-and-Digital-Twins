@@ -1,17 +1,38 @@
 # Week N: Week Title
 
-This week we introduce our fourth and final Agentic Framework in Microsoft's AutoGen related to the taste of recently released Magentic-One reasoning-focused framework by MS. Although these are both in early releases and AutoGen is currently between stable 0.2 and a entire rewritten 0.4 version it's important to understand the new perspectives they given on automated knowledge workflow given MS's dominance and strategy in unifying AI across operating systems, applications, and developer resources (e.g. compilers, VSCode IDE, Github).
+This week we introduce our fourth and final Agentic Framework in Microsoft's AutoGen related to the taste of recently released Magentic-One reasoning-focused framework by MS. Unlike previous weeks, we will focus on the fundamentals and well as future direction rather than coding Agents. The one coding exercise for AutoGen version 0.2 should feel intuitive at this point.
+
+Although MS AutoGen and Magentic-One are both in early release with AutoGen between stable release version 0.2 and a entire rewritten version 0.4, it's important to understand Microsoft's approach to agentic software engineering. Microsoft has been astounding agile around AI for it's size so we also study their views on automated knowledge workflow given MS's dominance and unique strategy in unifying AI across operating systems, applications, and developer resources (e.g. compilers, VSCode IDE, Github).
+
+## Ideas for Final Projects
+
+Cut down versions of AI products/startups with customized: (a) workflows, (b) datasources, (c) prompts, (d) models, (e) internal logic/processing, (f) un/structured output, (g) visualizations, (h) tools/outputs (e.g. focused search, fact checking, summarization, analysis, emails, etc):
+
+* [Sharbo.io ](https://www.sharbo.io/) (competitive analysis)
+* [ParaFactAI.com](https://parafactai.com/?ref=manuagi) (fact checking)
+* [Spokk.io](https://www.spokk.io) (customer feedback, customize for non-profits or others)
+  
+Many more ideas at:
+* [Product Hunt](https://www.producthunt.com/)
 
 ## KEY QUESTIONS
 
-1. On class
+1. What are the major design principles for AutoGen versions 0.2 vs 0.4? 
+2. What improvements does AutoGen 0.4 bring to necessitate an entire rewrite of version 0.2?
+3. What is an AI-enabled enterprise and how does Microsoft position AI models and agents within this context (esp wrt X-Copilots)?
+4. What are the 'New Scaling Laws' presented by Microsoft CEO Nadella this past week?
+5. What new features/capabilities were demo'ed in the video 'The Most Advanced AI Agent Yet'?
+6. What major trends/observations are visualized in the LangChain 'State of AI Agents' report?
+7. What are the 'Top 5 AI Trends' in IDC's 2024 AI report?
+8. What are fundamentals of the actor model used for event-driven design in AutoGen Core?
+9. What are the top reasons developers are abandoning LangChain in the Hacker News Discussion (or summary provided)?
 
 ## READINGS
 
 ### AI NEWS AND CULTURE
 
 * (only 0-5:00 and 24:40-32:40)[Satya Nadella "THE NEW SCALING LAWS" and the Agentic Future [Microsoft Ignite 2024 SUPERCUT] (34:07) (20 Nov 2024)](https://www.youtube.com/watch?v=jpvbYukNZGM)
-* [Microsoft And OpenAI Just Demoed The Most Advanced AI Agent Yet (8:17) (20 Nov 2024)](https://www.youtube.com/watch?v=iBfjx9R3FP8)
+* [These new computers are getting creepy… Copilot+ PC first look (4:31) (Jun 2024)](https://www.youtube.com/watch?v=hlwcZpEx2IY)
 
 ### RESEARCH
 
@@ -50,11 +71,14 @@ This week we introduce our fourth and final Agentic Framework in Microsoft's Aut
   
 ### NEWS: AUTOMATION
 
-* [Coming](oh_noes_404.md)
+* [](https://www.youtube.com/watch?v=TpzG_aAUTsg)
+* [How to Create NEW Copilot AI Agents in Microsoft Teams in Seconds! (10:24) (19 Nov 2024)](https://www.youtube.com/watch?v=lBroyFLn9s8)
+* [Microsoft And OpenAI Just Demoed The Most Advanced AI Agent Yet (8:17) (20 Nov 2024)](https://www.youtube.com/watch?v=iBfjx9R3FP8) (The coming of real-world hyper personalized AI application interaction)
 
 ### NEWS: TECH
 
-* [Coming](oh_noes_404.md)
+* [What's Happening with AutoGen and AG2? (4:44) (20 Nov 2024)](https://www.youtube.com/watch?v=PjQj2_QFxx0)
+* [16 Ignite 2024 Announcements You Need to Know Now! (13:47) (21 Nov 2024)](https://www.youtube.com/watch?v=5rMglAtGUa8)
 
 ### FOLLOW-UPS
 
