@@ -91,15 +91,18 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### FOLLOW-UPS
 
-* [Coming](oh_noes_404.md)
+* [Deepseek R1 Lite Preview](https://www.deepseek.com/)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
+* [LLM Research Summaries](https://github.com/cognitivetech/llm-research-summaries?tab=readme-ov-file#ai-psychology)
 
 ### CONCEPTS
 
-Bulletpoint Outline
+* [Colby College Davis AI Institute](https://davisinstituteai.colby.edu/)
+* [Smith College: AI and Human Creatitivty at the Kahn Institute](https://www.smith.edu/academics/applied-learning-research/kahn-liberal-arts-institute/ai-human-creativity)
+* [Carleton College: AI at Carleton](https://www.carleton.edu/ai/)
 
 ### TOOLS
 
@@ -111,15 +114,20 @@ Bulletpoint Outline
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* [Create a Multi Agent Software Team with LangGraph and OpenAI LLM Tutorial (Streamlit Chatbot UI) (41:00) (19 Nov 2024)](https://www.youtube.com/watch?v=YCNFyzQ2Z0g)
 
 ### CODE REVIEW
 
-Walk-thru in class
+* [Microsoft Magentic AI Agents with Ollama in 5 Minutes! (100% Local) (3:49) (20 Nov 2024)](https://www.youtube.com/watch?v=JT5basX6JSY&t=12s)
+  * [Magentic One Ollama](https://mer.vin/2024/11/magentic-one-ollama/)
+* [Microsoft Copilot Studio Docs](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
+* [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/)
 
 ### EXTRAS
 
-* [Coming](oh_noes_404.md)
+* [AI-Generated Religions: The Rise of LLMtheism](https://www.innobu.com/ai-generated-religions-the-rise-of-llmtheism/)
+* [When AIs Play God(se): The Emergent Heresies of LLMtheism (20 Apr 2024)](https://pdfupload.io/docs/aae14f87)
+* [We are Building Gods: AI as the Anthropomorphised Authority of the Past by Ohman (25 Apr 2024)](https://www.semanticscholar.org/paper/We-are-Building-Gods%3A-AI-as-the-Anthropomorphised-%C3%96hman/088d305e6426b67cd6351cd3f86855b8c03b9cf8)
 
 ## RESOURCES
 
