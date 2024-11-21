@@ -32,6 +32,9 @@
 
 ## SCRAPING
 
+* [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
+  * [Browser Use Github](https://github.com/gregpr07/browser-use)
+  * [LightRAG Github](https://github.com/HKUDS/LightRAG)
 * [Selenium Web Scraping is too Slow. Try This. (22:10) (3 Nov 2024)](https://www.youtube.com/watch?v=di8V-baNCac)
 
 * [Anthropic](https://claude.ai/chat/6ad53704-7a65-4cfa-9d30-e892b1bc1862)
