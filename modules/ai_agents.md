@@ -1,5 +1,44 @@
 # AI Agent Frameworks
 
+## Awesome Agents
+
+### LLM Agents
+
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
+* [Awesome Agents](https://github.com/kyrolabs/awesome-agents)
+* (Lifecycle) [Awesome LLM Agents](https://github.com/junhua/awesome-llm-agents)
+* [Awesome AI Agents](https://github.com/Jenqyang/Awesome-AI-Agents)
+* [Awesome AI Agents](https://github.com/slavakurilyak/awesome-ai-agents)
+* [Awesome AI Agents](https://github.com/kaushikb11/awesome-llm-agents)
+* [Awesome Large Multimodal Agents](https://github.com/jun0wanan/awesome-large-multimodal-agents)
+* [Awesome AI Agents Guide](https://github.com/algomatic-inc/awesome-ai-agents-guide)
+
+### LangChain Agents
+
+* [Awesome LangChain Agents (2023)](https://github.com/EniasCailliau/awesome-langchain-agents)
+
+### Cognitive Agent Architectures
+
+* [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents)
+
+### Social Agents
+
+* [Awesome Social Agents](https://github.com/sotopia-lab/awesome-social-agents)
+
+### Agent Tools
+
+* [Awesome Autonomous Web](https://github.com/Agent-Tools/awesome-autonomous-web)
+
+### Embodied Agents
+
+* [Awesome Embodied Agents](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)
+
+### Research
+
+* [Awesome LLM-Powered Agents](https://github.com/hyp1231/awesome-llm-powered-agent)
+* [Awesome Autonomous Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
+* [Awesome Multiagent Papers](https://github.com/kyegomez/awesome-multi-agent-papers)
+
 ## AutoGen
 
 * [AutoGen Doc](https://microsoft.github.io/autogen/)
@@ -14,3 +53,32 @@
 
 * [AgentOps.ai](https://www.agentops.ai/)
 * [LangGraph Studio]
+
+## Reasoning
+
+* [System 2 Research](https://github.com/open-thought/system-2-research)
+
+### Awesome LLM Reasoning
+
+* [Awesome LLM Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
+
+### LLM Reasoning Benchmarks
+
+* [](https://github.com/maitrix-org/llm-reasoners)
+
+### Reasoning Models
+
+* [Llama on Groq with O1-like reasoning](https://github.com/bklieger-groq/g1)
+* [Llama O1](https://github.com/SimpleBerry/LLaMA-O1)
+
+### Reasoning Prompts
+
+* [Prompt4Reasoning](https://github.com/zjunlp/Prompt4ReasoningPapers)
+
+### Multiagent Reasoning
+
+* [Multiagent Reasoning](https://github.com/AdieLaine/multi-agent-reasoning)
+
+### Reasoning on Graphs
+
+* [Reasonging on Graphs](https://github.com/RManLuo/reasoning-on-graphs)
