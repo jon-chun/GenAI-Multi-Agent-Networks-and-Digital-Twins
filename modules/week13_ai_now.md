@@ -79,12 +79,13 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
   
 ### NEWS: AUTOMATION
 
-* [](https://www.youtube.com/watch?v=TpzG_aAUTsg)
+* [TERMINAL OF TRUTH - AI Agent Creates Religion and $280,000,000 Market Cap Coin (29:28) (Oct 2024 )](https://www.youtube.com/watch?v=TpzG_aAUTsg)
 * [How to Create NEW Copilot AI Agents in Microsoft Teams in Seconds! (10:24) (19 Nov 2024)](https://www.youtube.com/watch?v=lBroyFLn9s8)
 * [Microsoft And OpenAI Just Demoed The Most Advanced AI Agent Yet (8:17) (20 Nov 2024)](https://www.youtube.com/watch?v=iBfjx9R3FP8) (The coming of real-world hyper personalized AI application interaction)
 
 ### NEWS: TECH
 
+* [Microsoft quietly assembles the largest AI agent ecosystem—and no one else is close (19 Nov 2024)](https://venturebeat.com/ai/microsoft-quietly-assembles-the-largest-ai-agent-ecosystem-and-no-one-else-is-close/)
 * [What's Happening with AutoGen and AG2? (4:44) (20 Nov 2024)](https://www.youtube.com/watch?v=PjQj2_QFxx0)
 * [16 Ignite 2024 Announcements You Need to Know Now! (13:47) (21 Nov 2024)](https://www.youtube.com/watch?v=5rMglAtGUa8)
 

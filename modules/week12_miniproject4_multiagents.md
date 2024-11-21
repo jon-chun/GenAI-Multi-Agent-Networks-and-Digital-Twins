@@ -48,7 +48,7 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### ANNOUNCEMENTS
 
-* [Final Project](oh_noes_404.md)
+* Final Project
 * [Cyber Math & Physics Intern (Summer 2025)](https://jobs.battelle.org/us/en/job/75016/Cyber-Math-Physics-Intern-Summer-2025)
 
 ### NEWS: AUTOMATION
