@@ -1,6 +1,4 @@
-# Future of AI
-
-# Week N: Week Title
+# Week 14: AI and the Future
 
 Overview Here...
 
@@ -12,47 +10,21 @@ Overview Here...
 
 ## READINGS
 
-* [AutoRace LLM Reasoning Benchmark](https://www.llm-reasoners.net/)
-
 ### AI NEWS AND CULTURE
 
-* [Lecture Series in AI: “How Could Machines Reach Human-Level Intelligence?” by Yann LeCun (1:26:00) (23 Oct 2024)](https://www.youtube.com/watch?v=xL6Y0dpXEwc)
+* [TERMINAL OF TRUTH - AI Agent Creates Religion and $280,000,000 Market Cap Coin (29:28) (Oct 2024)](https://www.youtube.com/watch?v=TpzG_aAUTsg)
 
 ### RESEARCH
 
-* [THOUSANDS OF AI AUTHORS ON THE FUTURE OF AI by Grace et al. (30 Apr 2024)](https://export.arxiv.org/pdf/2401.02843v2.pdf)
-
-* Ethics
-  * [Oxford Institute for Ethics in AI (6 Research Themes)](https://www.oxford-aiethics.ox.ac.uk/)
-
-* AI Philosophy
-  * [Coming](https://www.lesswrong.com/)
-
-* China (Coopertition?)
-  * [Urbanization and industrial clustering power China's rise in innovation (9:27) (10 Oct 2024)](https://www.youtube.com/watch?v=D_vUEKZK7V4)
-  * [US universities losing hundreds of billions as top Chinese scientists and researchers go home (10:43) (Oct 2024)](https://www.youtube.com/watch?v=gKQXnzNxb4g)
-
-* US AI Policies
-  * [Vision for Competitiveness: Mid-Decade Opportunities for Strategic Victory by SCSP (May 2024)](https://www.scsp.ai/reports/vision/)
-  * [No Substitute for Victory America’s Competition With China Must Be Won, Not Managed by Pottinger and Gallagher (May/June 2024)](https://www.foreignaffairs.com/united-states/no-substitute-victory-pottinger-gallagher)
+* [Coming](oh_noes_404.md)
 
 ### SOFTWARE ENGINEERING
 
-* [Ollama](ollama.ai)
-* [Open WebUI](https://github.com/open-webui/open-webui)
-* [Ollama UI](https://www.technovangelist.com/notes/annotated%20list%20of%20ollama%20web%20and%20desktop%20integrations/)
-* [LocalAI](https://github.com/mudler/LocalAI)
-
-* [AI Agents EXPLAINED: Unbiased Review of Langraph, AutoGen, and Crew AI Frameworks (8:28) (15 May 2024)](https://www.youtube.com/watch?v=NjOj5mkytvw)
-* [AI Agents– Simple Overview of Brain, Tools, Reasoning and Planning (11:39) (29 Oct 2024)](https://www.youtube.com/watch?v=OBg0_nsRXcw)
+* [Introduction to Semantic Kernel (4:49) (Aug 2024)](https://www.youtube.com/watch?v=D34PyNx71vk)
 
 ### CODING
 
-* [Coming](oh_noes_404.md)
-
-### AI AND SOCIETY
-
-* [SITUATIONAL AWARENESS: The Decade Ahead Leopold Aschenbrenner (June 2024)](https://situational-awareness.ai/)
+* [Develop AI agents with Semantic Kernel - Jakob Ehn - NDC Oslo 2024 (1:01:53) (Nov 2024)](https://www.youtube.com/watch?v=idH0dD7UiqE)
 
 
 ## IN-CLASS EXERCISES
@@ -72,8 +44,8 @@ Overview Here...
   
 ### NEWS: AUTOMATION
 
-* [Levels of AI by Industry by Accenture (2024)](https://newsroom.accenture.com/news/2022/more-than-60-percent-of-companies-are-only-experimenting-with-ai-creating-significant-opportunities-for-value-on-their-journey-to-ai-maturity-accenture-research-finds)
- 
+* [Coming](oh_noes_404.md)
+
 ### NEWS: TECH
 
 * [Coming](oh_noes_404.md)
@@ -92,7 +64,12 @@ Bulletpoint Outline
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* [Azure OpenAI Studio](https://oai.azure.com)
+* [Google]()
+* [AWS]()
+* [Docker]()
+* [Github]()
+* [Runpod.io]()
 
 ### SOFTWARE ENGINEERING
 
