@@ -66,7 +66,6 @@ Overview Here...
 
 ### CODING
 
-
 * [Safe and Reliable AI via Guardrails ~1.5hr](https://www.deeplearning.ai/short-courses/safe-and-reliable-ai-via-guardrails/) [Github](https://github.com/guardrails-ai/guardrails)
 * [AI Agentic Design Patterns with AutoGen ~1.5hr ](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) [Github](https://github.com/microsoft/autogen)
 
