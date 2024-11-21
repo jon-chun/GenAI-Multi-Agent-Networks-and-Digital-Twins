@@ -39,7 +39,7 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 ### OVERHEAD
 
-* [Quiz](oh_noes_404.md)
+* [Quiz Week 12: CrewAI #2](https://docs.google.com/forms/d/e/1FAIpQLSf0MJ4acB1KfEANA5kseuOO0jrWxm1kQpdxvCOt3iA9X3KnzA/viewform?usp=sf_link)
 
 ### PRESENTATIONS
 
