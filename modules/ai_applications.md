@@ -87,6 +87,6 @@
 
 ## Research
 
-  * [A Survey of Large Language Models for Financial Applications -- Progress, Prospects and Challenges by Nie (16 Jun 2024)](https://arxiv.org/pdf/2406.11903v1)
-  * [Large Language Models in Finance -- A Survey by Li (7 Jul 2024)](https://arxiv.org/pdf/2311.10723v2)
-  * [Artificial Intelligence and Machine Learning in Financial Services by CRS (3 Apr 2024)](https://crsreports.congress.gov/product/pdf/R/R47997)
+* [A Survey of Large Language Models for Financial Applications -- Progress, Prospects and Challenges by Nie (16 Jun 2024)](https://arxiv.org/pdf/2406.11903v1)
+* [Large Language Models in Finance -- A Survey by Li (7 Jul 2024)](https://arxiv.org/pdf/2311.10723v2)
+* [Artificial Intelligence and Machine Learning in Financial Services by CRS (3 Apr 2024)](https://crsreports.congress.gov/product/pdf/R/R47997)
