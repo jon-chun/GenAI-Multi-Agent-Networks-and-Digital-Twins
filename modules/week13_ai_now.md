@@ -10,6 +10,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### Specific AI Ideas to Customize MVP
 
+* [NotebookLM API](https://www.youtube.com/watch?v=mO-tVmtakMQ) (programmatically generate podcasts)
+* [FREE LogoCreator Flux Pro 1.1 Open Source AI Image Generator!🤖 Together.AI Self Hosted (NEW)](https://www.youtube.com/watch?v=4CdXujGPO3U) (logo creator)
 * [Sharbo.io ](https://www.sharbo.io/) (competitive analysis)
 * [ParaFactAI.com](https://parafactai.com/?ref=manuagi) (fact checking)
 * [Spokk.io](https://www.spokk.io) (customer feedback, customize for non-profits or others)
@@ -85,6 +87,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### NEWS: TECH
 
+* [Have you heard these exciting AI news? - November 22, 2024 AI Updates Weekly (22:48) (22 Nov 2024)](https://www.youtube.com/watch?v=MM_eOh6zqnc)
 * [Microsoft quietly assembles the largest AI agent ecosystem—and no one else is close (19 Nov 2024)](https://venturebeat.com/ai/microsoft-quietly-assembles-the-largest-ai-agent-ecosystem-and-no-one-else-is-close/)
 * [What's Happening with AutoGen and AG2? (4:44) (20 Nov 2024)](https://www.youtube.com/watch?v=PjQj2_QFxx0)
 * [16 Ignite 2024 Announcements You Need to Know Now! (13:47) (21 Nov 2024)](https://www.youtube.com/watch?v=5rMglAtGUa8)
@@ -110,7 +113,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [With Bolt.new you can code anything… just watch (13:20) (20 Nov 2024)](https://www.youtube.com/watch?v=ht22YzW-Swc)
+* [Microsoft's New Autonomous AI Agents With 1800 Models SHOCKED The World (8:24) (21 Nov 2024)](https://www.youtube.com/watch?v=aGMv-O9JG8w)
 
 ### CODE SAMPLE
 

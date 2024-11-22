@@ -52,6 +52,7 @@
   * [ngrok API](https://dashboard.ngrok.com/)
   * [Ollama in Github Code Space](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
 * [Ollama with Vision - Enabling Multimodal RAG (13:00) (7 Oct 2024)](https://www.youtube.com/watch?v=45LJT-bt500)
+* [Find Your Perfect Ollama Build (13:30) (21 Nov 2024)](https://www.youtube.com/watch?v=RFaMiQ97EoE)
 
 ## Local Alternatives
 
