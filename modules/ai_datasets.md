@@ -33,6 +33,7 @@
 ## SCRAPING
 
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
+* [ScrapeGraph AI Github](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 * [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
   * [Browser Use Github](https://github.com/gregpr07/browser-use)
   * [LightRAG Github](https://github.com/HKUDS/LightRAG)
