@@ -12,6 +12,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 * [NotebookLM API](https://www.youtube.com/watch?v=mO-tVmtakMQ) (programmatically generate podcasts)
 * [FREE LogoCreator Flux Pro 1.1 Open Source AI Image Generator!🤖 Together.AI Self Hosted (NEW)](https://www.youtube.com/watch?v=4CdXujGPO3U) (logo creator)
+* [Berman EdCrew](https://github.com/mberman84/edu-crew/tree/main/src)
 * [Sharbo.io ](https://www.sharbo.io/) (competitive analysis)
 * [ParaFactAI.com](https://parafactai.com/?ref=manuagi) (fact checking)
 * [Spokk.io](https://www.spokk.io) (customer feedback, customize for non-profits or others)
@@ -23,6 +24,15 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 * [OpenTools.ai](https://opentools.ai/)
 * [AIxploria.com](https://www.aixploria.com/en/)
 * [MetaList of AI Tools](https://github.com/best-of-ai/ai-directories)
+
+### Tutorial on Agentic Workflow
+
+* [Building Multi-Agent AI Systems From Scratch: OpenAI vs. Ollama (17 Nov 2024)](https://pub.towardsai.net/building-multi-agent-ai-systems-from-scratch-openai-vs-ollama-8ec0dae98639)
+  * [Github ver from AIAnyTime](https://github.com/isurulkh?tab=repositories)
+* [AI Anytime Github](https://github.com/AIAnytime)
+* [Build your Personal Assistant with Agents and Tools (22 Nov 2024)](https://towardsdatascience.com/build-your-personal-assistant-with-agents-and-tools-048637ac308e)
+* [Evaluating and Monitoring LLM Agents: Tools, Metrics, and Best Practices (17 Nov 2024)](https://pub.towardsai.net/evaluating-and-monitoring-llm-agents-tools-metrics-and-best-practices-a61f508cccb0)
+
 
 ## KEY QUESTIONS
 
@@ -94,6 +104,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### FOLLOW-UPS
 
+* [Podcastify](https://github.com/souzatharsis/podcastfy)
 * [Deepseek R1 Lite Preview](https://www.deepseek.com/)
 
 ### RESEARCH

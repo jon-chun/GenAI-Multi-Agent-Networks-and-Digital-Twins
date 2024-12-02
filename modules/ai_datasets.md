@@ -32,6 +32,7 @@
 
 ## SCRAPING
 
+* [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
   * [Browser Use Github](https://github.com/gregpr07/browser-use)
   * [LightRAG Github](https://github.com/HKUDS/LightRAG)
@@ -44,6 +45,10 @@
 * [Goose3](https://github.com/goose3/goose3)
 
 * [Crawl4AI](https://github.com/unclecode/crawl4ai)
+
+## PREPROCESSING
+
+* [Mastering LLM Techniques: Data Preprocessing (13 Nov 2024)](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/?ref=dailydev)
 
 ## TABLES
 
