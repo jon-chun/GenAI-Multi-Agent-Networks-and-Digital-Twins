@@ -1,10 +1,24 @@
 # MLOps
 
-## LEADERBOARDS
+## Leaderboard
 
 * [Huggingface Leaderboards](https://huggingface.co/open-llm-leaderboard)
 * [ArtificialAnalysis.ai](https://artificialanalysis.ai/leaderboards/models)
 * [Vellum Leaderboard](https://www.vellum.ai/llm-leaderboard)
+
+## AI Libraries
+
+* [9 Open Source Libraries to Supercharge Your Next Project (14 Nov 2024)](https://blog.gopenai.com/the-future-of-rag-will-be-with-vision-end-to-end-example-with-colpali-and-a-vision-language-model-fe133667d2f9)
+Penpot
+OpenAlternative
+Listmonk
+Supabase
+Rallly
+* [Pandas Is Dead. Machine Learning Teams Are Using These Tools Instead. (5 Nov 2024)](https://pub.towardsai.net/pandas-is-dead-machine-learning-teams-are-using-these-tools-instead-bc4124bb767c)
+  * Polars is incredibly fast and well-suited for tasks that benefit from parallel processing.
+  * DuckDB is ideal for SQL users who need a high-performance in-memory database for analytics.
+  * Vaex works well with very large datasets, especially when memory is limited, although it lacks some advanced features.
+  * Modin provides a user-friendly transition for those who need better performance than Pandas without altering much of their code.
 
 ## Software Engineering
 

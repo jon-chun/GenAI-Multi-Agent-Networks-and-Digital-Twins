@@ -1,5 +1,14 @@
 # AI Videos
 
+## AI Video Tutorials
+
+* [The Future of RAG will be with Vision: End to End Example with ColPali and a Vision Language Model (17 Aug 2024)](https://blog.gopenai.com/the-future-of-rag-will-be-with-vision-end-to-end-example-with-colpali-and-a-vision-language-model-fe133667d2f9)
+
+## Video Libraries
+
+* [PsyChip: OpenCV+YOLO+LLAVA powered video surveillance system](https://github.com/PsyChip/machina?ref=dailydev)
+
+
 # Extract Clips
 
 There are several open-source and Python libraries available for extracting engaging clips from long videos, similar to tools like Opus, Klap, and Veed.io. Here are some options you can consider:
