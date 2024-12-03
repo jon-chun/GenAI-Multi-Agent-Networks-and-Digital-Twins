@@ -95,6 +95,12 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 * [How to Create NEW Copilot AI Agents in Microsoft Teams in Seconds! (10:24) (19 Nov 2024)](https://www.youtube.com/watch?v=lBroyFLn9s8)
 * [Microsoft And OpenAI Just Demoed The Most Advanced AI Agent Yet (8:17) (20 Nov 2024)](https://www.youtube.com/watch?v=iBfjx9R3FP8) (The coming of real-world hyper personalized AI application interaction)
 
+* [ActivePieces](https://github.com/activepieces/activepieces)
+* [Apache Airflow](https://airflow.apache.org/)
+* [Kestra](https://github.com/kestra-io/kestra)
+* [Building AI Applications with Haystack ~1.5hrs](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) [Github](https://github.com/deepset-ai/haystack)
+* [n8n](https://n8n.io/)
+
 ### NEWS: TECH
 
 * [Have you heard these exciting AI news? - November 22, 2024 AI Updates Weekly (22:48) (22 Nov 2024)](https://www.youtube.com/watch?v=MM_eOh6zqnc)

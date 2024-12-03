@@ -69,13 +69,6 @@ Overview Here...
 * [Safe and Reliable AI via Guardrails ~1.5hr](https://www.deeplearning.ai/short-courses/safe-and-reliable-ai-via-guardrails/) [Github](https://github.com/guardrails-ai/guardrails)
 * [AI Agentic Design Patterns with AutoGen ~1.5hr ](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) [Github](https://github.com/microsoft/autogen)
 
-* [ActivePieces](https://github.com/activepieces/activepieces)
-* [Apache Airflow](https://airflow.apache.org/)
-* [Kestra](https://github.com/kestra-io/kestra)
-* [Building AI Applications with Haystack ~1.5hrs](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) [Github](https://github.com/deepset-ai/haystack)
-* [n8n](https://n8n.io/)
-
-
 ## IN-CLASS EXERCISES
 
 ### ADMINISTRATIVE
