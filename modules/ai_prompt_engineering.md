@@ -6,6 +6,10 @@
 * ReAct
 * Context
 
+## Templates
+
+* [IBM PDL](https://ibm.github.io/prompt-declaration-language/#interpreter-installation)
+
 ## Advanced Prompt Engineering
 
 * Compression
