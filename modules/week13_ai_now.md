@@ -95,6 +95,9 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 * [How to Create NEW Copilot AI Agents in Microsoft Teams in Seconds! (10:24) (19 Nov 2024)](https://www.youtube.com/watch?v=lBroyFLn9s8)
 * [Microsoft And OpenAI Just Demoed The Most Advanced AI Agent Yet (8:17) (20 Nov 2024)](https://www.youtube.com/watch?v=iBfjx9R3FP8) (The coming of real-world hyper personalized AI application interaction)
 
+* [Boost.space](https://boost.space/) - Centralized Data/Single-Source of Truth
+* [Composio.dev](https://composio.dev/) - LLM Frameworks + Agents
+* [Foundry.ai Ycombinator](https://www.ycombinator.com/companies/foundry)
 * [ActivePieces](https://github.com/activepieces/activepieces)
 * [Apache Airflow](https://airflow.apache.org/)
 * [Kestra](https://github.com/kestra-io/kestra)
