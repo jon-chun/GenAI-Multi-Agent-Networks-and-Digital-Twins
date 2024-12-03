@@ -20,7 +20,7 @@ Overview Here...
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [5 Levels Of AI Agents (Updated) (11 Oct 2024)](https://cobusgreyling.medium.com/5-levels-of-ai-agents-updated-0ddf8931a1c6)
 
 ### CODING
 
