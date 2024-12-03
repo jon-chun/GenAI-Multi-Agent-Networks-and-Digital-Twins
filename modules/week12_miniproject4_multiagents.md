@@ -12,7 +12,7 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 * [Creating a team of AI agents to work for me! (Crew AI) (21:06) (22 Apr 2024)](https://www.youtube.com/watch?v=5JoVeYcxgpU)
   * [Github](https://github.com/fmiguelmmartins/crewaiyoutube)
 * [Tomasonjo Blog](https://bratanic-tomaz.medium.com/)
-  * [Github](https://github.com/tomasonjo/blogs)
+  * [Github Notebooks](https://github.com/tomasonjo/blogs)
 
 ## KEY QUESTIONS
 
