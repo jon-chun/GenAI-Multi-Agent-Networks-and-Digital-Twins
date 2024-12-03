@@ -186,27 +186,6 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 * [Discover AI](https://www.youtube.com/@code4AI)
 * [Ritvik Math](https://www.youtube.com/@ritvikmath)
 
-### Projects
-
-* [PromptEngineer48](https://www.youtube.com/@PromptEngineer48/videos)
-* [Matt Williams](https://www.youtube.com/@technovangelist)
-* [Sam Witteveen AI](https://www.youtube.com/@samwitteveenai)
-* [Mervin Praison](https://www.youtube.com/@MervinPraison)
-* [Fahd Mirza](https://www.youtube.com/@fahdmirza)
-* [All About AI](https://www.youtube.com/@AllAboutAI)
-* [VRSen](https://www.youtube.com/@vrsen)
-* [1little coder](https://www.youtube.com/@1littlecoder)
-* [Tyler Reed AI](https://www.youtube.com/@TylerReedAI)
-* [Coding Crash Course](https://www.youtube.com/@codingcrashcourses8533)
-* [AI Anytime](https://www.youtube.com/@AIAnytime/videos)
-* [RohanPaul AI](https://www.youtube.com/@RohanPaul-AI)
-* [Prompt Engineering](https://www.youtube.com/@engineerprompt)
-* [AI Code King](https://www.youtube.com/@AICodeKing)
-* [Echo Hive](https://www.youtube.com/@echohive) Paid code
-* [Developers Digest](https://www.youtube.com/@DevelopersDigest)
-* [ManuAGI](https://www.youtube.com/@ManuAGI)
-* [IndyDevDan](https://www.youtube.com/@indydevdan)
-
 ## Research Papers
 
 * [SemanticScholar.org Dashboard](https://www.semanticscholar.org/me/research)

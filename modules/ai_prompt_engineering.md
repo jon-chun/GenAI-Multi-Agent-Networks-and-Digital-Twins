@@ -20,3 +20,9 @@
   * DSPy
 * Guardrails
 * Tokens
+
+## Templates
+
+* [Optimize Your Prompt Workflow: Using Jinja Templates with ChatGPT & OpenAI (11:15) (1 Nov 2024)](https://www.youtube.com/watch?v=8K2HbXhwWug)
+
+## Optimization

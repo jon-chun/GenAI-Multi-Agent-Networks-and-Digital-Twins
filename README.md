@@ -126,9 +126,9 @@ Introduction to RAG and its implementation using Langchain. Students will create
 #### Detailed Content
 
 * [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md) (membuka)
-* [**Week 8:** Langchain 1](./modules/week8_langchain1.md) (उद्घाटित)
-* [**Week 9:** Langchain 2](./modules/week9_langchain2.md) (aperta)
-* [**Week 10:** Miniproject 3: Agents](./modules/oh_noes_404.md)
+* [**Week 8:** Agents: Langchain 1](./modules/week8_langchain1.md) (उद्घाटित)
+* [**Week 9:** Agents: Langchain 2](./modules/week9_langchain2.md) (aperta)
+* [**Week 10:** Miniproject 3: Agents](./modules/week10_miniproject3_langchain.md) (wazi)
 
 #### Reflection Questions
 
@@ -157,9 +157,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* [**Week 10:** Autonomous Agents](./modules/oh_noes_404.md)
-* [**Week 11:** Multi-Agent Systems](./modules/oh_noes_404.md)
-* [**Week 12:** Miniproject 4: Multi-Agent Simulations](./modules/oh_noes_404.md)
+* [**Week 11:** Multi-Agents: CrewAI #1](./modules/week11_multiagents.md) (irekita)
+* [**Week 12:** Multi-Agents: CrewAI #2](./modules/week12_miniproject4_multiagents.md) (עפענען)
+* [**Week 13:** Miniproject 4: Multi-Agent Simulations](./modules/week13_ai_now.md) (waach')
 
 #### Reflection Questions
 
@@ -188,7 +188,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* [**Week 13-14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
+* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
 * [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
@@ -226,5 +226,15 @@ For detailed project descriptions and grading rubrics, please refer to the indiv
 
 # IPHS200: Programming Humanity Exercises
 
-* [SentimentArcs Simplified (28 Oct 2024)](./code/notebooks/sentimentarcs_simplified_20241028.ipynb)
-* [Topic Modeling (30 Oct 2024)](./modules/oh_noes_404.md)
+## Diachronic Sentiment Analysis
+
+* [SentimentArcs Simplified (17 Nov 2024)](./code/notebooks/sentimentarcs_supersimplified_20241117.ipynb)
+
+## Topic Modeling
+
+NOTE: Be sure to: (a) create a Kaggle account with your non-Kenyon gmail.com account if you don't have one already, (b) [Copy and Edit] to make you own personal copy.
+
+* [Topic Modeling (30 Oct 2024)](https://www.kaggle.com/code/asadozzaman/topic-modeling-in-nlp-with-abc-news-sample)
+  * (slight edit/fixes) [Colab](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241110.ipynb)
+  * (slight edit/fixes) [Colab with Button](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241111.ipynb)
+  

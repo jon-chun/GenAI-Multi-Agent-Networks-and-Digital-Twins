@@ -1,42 +1,47 @@
-# Week 11: Multiagents
+# Week 11: Multiagents: CrewAI #1
 
-Overview Here...
+We continue to build upon our abstraction stack this week by studying two higher level multi-agent frameworks. This includes CrewAI which is a high-level abstraction layer around LangChain and the new OpenAI Swarm multi-agent framework launched last month. Although the latter is still in experimental stage, it's has an unfair, sustained competitive advantage being the brainchild of OpenAI itself and proposes a lighter, perhaps more intuitive framework.
+
+We'll also explore the "New Economics in the AI World" by VC Vinod Khosla who has perhaps one of the most extensive, largely positive, advocacy/prediction pieces. Finally, we'll look at a recent research survey paper that gives a brief overview of Autonomous AI Frameworks.
 
 ## KEY QUESTIONS
 
-1. Q1
-2. Q2
-3. Q3...
+Reviewed in Class
 
 ## READINGS
 
 ### AI NEWS AND CULTURE
 
-* [Coming](oh_noes_404.md)
+* (Only Section "New Economics in the AI World") [AI: Dystopia or Utopia? by Vinod Khosla (20 Sep 2024)](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* (Up to and incl p.4) [A survey on LLM-based multi-agent systems: workfow, infrastructure, and challenges (8 Oct 2024)](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf)
 
 ### SOFTWARE ENGINEERING
 
 * [5 Levels Of AI Agents (Updated) (11 Oct 2024)](https://cobusgreyling.medium.com/5-levels-of-ai-agents-updated-0ddf8931a1c6)
+* [You're WASTING TIME Coding Your AI Agents (11:34) (18 Aug 2024)](https://www.youtube.com/watch?v=VxTw9tzzlbc)
+* [Is OpenAI Swarm AI Agents Worth It? (10:59) (3 Nov 2024)](https://www.youtube.com/watch?v=9jpf9qLUCm0)
+  * [Github](https://github.com/tylerprogramming/ai/tree/main/openai_swarm)
 
 ### CODING
 
-* [Coming](oh_noes_404.md)
+* [DeepLearning.ai: Multi AI Agent Systems with crewAI (~2h42m)](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+* [Unleash a SWARM of AI Agents: Reliable Multi-Agent Orchestration (25:07) (4 Nov 2024)](https://www.youtube.com/watch?v=eCoObzaHYC4)
+* [Github Colab](https://github.com/ALucek/swarm-meal-planner/blob/main/swarm_multiagent_framework.ipynb)
+* [Orchestrating Agents: Routines and Handoffs (10 Oct 2024)](https://cookbook.openai.com/examples/orchestrating_agents)
 
 
 ## IN-CLASS EXERCISES
 
 ### ADMINISTRATIVE
 
-* [Quiz](oh_noes_404.md)
+* [Quiz 11: CrewAI #1](https://docs.google.com/forms/d/e/1FAIpQLSeEs1grmPhUTxKVNiqEI9AjQORsCmDk3cE8Pa1FqlohSpzvuw/viewform?usp=sf_link)
 
 ### PRESENTATIONS
 
-* Presentation #1
-* Presentation #2
+* 5 Min DisruptHR: AI, the Future of Work, and the Liberal Arts
 
 ### ANNOUNCEMENTS
 
@@ -44,35 +49,63 @@ Overview Here...
   
 ### NEWS: AUTOMATION
 
-* [Coming](oh_noes_404.md)
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (13 Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
+* [PwC AI Job Barometer](https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/executive-summary.pdf)
+* [Hello Companion](https://www.hello-companion.online/)
   
 ### NEWS: TECH
 
-* [Coming](oh_noes_404.md)
+* [Sam Altman Reveals The Future Of AI Agents, Digital Humans And Al Brains (20:23) (15 Oct 2015)](https://www.youtube.com/watch?v=rxWi9-To8Qs&t=608s)
+* [Huge Claude Updates, AI-Generated Minecraft & More AI Use Cases (17:53) (8 Nov 2024)](https://www.youtube.com/watch?v=Q_xzu46FuMk)
+  * [Claude PDF](https://claude.ai/new)
+  * [AI Generated Minecraft](https://youtu.be/Q_xzu46FuMk?t=625) [OASIS](https://oasis.decart.ai/welcome)
+  * [Runway Cinema Control](https://app.runwayml.com/login)
+  * [Learning Google](https://learning.google/)
+* [AI makes smells, AI RPGs & Minecraft, New image model beats FLUX, Google & OpenAI updates (28:15) (2 Nov 2024)](https://www.youtube.com/watch?v=0NtUEzBIJf0)
 
 ### FOLLOW-UPS
 
-* [Coming](oh_noes_404.md)
+* [Prompt Canvas: "Cursor for Prompt Engineering (4:13) (12 Nov 2024)](https://www.youtube.com/watch?v=nXrx-_9Yucc)
+* [New RAG for Multi-Modal DocVQA: M3DOCRAG (ColPali Qwen2-VL) (9:51) (9 Nov 2024)](https://www.youtube.com/watch?v=E3ELon1uh4A)
+  * [Github](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  * [Colab](https://colab.research.google.com/github/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  * [Paper](https://arxiv.org/pdf/2411.04952)
 
 ### RESEARCH
 
-* [Coming](oh_noes_404.md)
+* [OpenAI GPT-4o Scaling Laws @ Training vs Inference](https://www.reddit.com/r/singularity/comments/1fg25sf/nvidias_jim_fan_this_may_be_the_most_important/#lightbox)
+* [Models in Meatspace](https://x.com/DrJimFan/status/1851643431803830551)
+* [Why think step by step? Reasoning emerges from the locality of experience" Hypothesis: the effectiveness of reasoning stems from the local structure of experience and training data](https://x.com/IntuitMachine/status/1855951681214640281)
+* [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning by Akyürek et al. (11 Nov 2024)](https://github.com/ekinakyurek/marc) and [ArXiv Paper](https://arxiv.org/html/2411.07279v1)
+* (Up to, not incl Sec 3.4) [Large Language Model based Multi-Agents: A Survey of Progress and Challenges (19 Apr 2024)](https://export.arxiv.org/pdf/2402.01680v2.pdf)
+* (up to and including Section 4) [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey (17 Apr 2024)](https://arxiv.org/pdf/2404.11584)
+
+* [ArXiv.org "Agent Framework"](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=agentic+framework&terms-0-field=title&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+* [AGENT DESIGN PATTERN CATALOGUE: A COLLECTION OF ARCHITECTURAL PATTERNS FOR FOUNDATION MODEL BASED AGENTS (24 Jun 2024)](https://export.arxiv.org/pdf/2405.10467v3.pdf)
+* [AI for Social Science and Social Science of AI: A Survey (22 Jan 2024)](https://arxiv.org/pdf/2401.11839)
+* [Using Large Language Models to Create AI Personas for Replication and Prediction of Media Effects: An Empirical Test of 133 Published Experimental Research Findings (28 Aug 2024)](https://arxiv.org/pdf/2408.16073)
 
 ### CONCEPTS
 
-Bulletpoint Outline
+* [CrewAI Homepage](https://www.crewai.com/)
+* [CrewAI Documentation](https://docs.crewai.com/introduction)
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* (Free Tier Groq API) [Groq Console](https://console.groq.com/playground)
+* (Free Tier Gemini API) [ClaudeDev + Gemini : Generate Applications for FREE with Gemini 1.5 Pro / Flash! (8:49) (Oct 2024)](https://www.youtube.com/watch?v=FAFmP82bhDA&t=67s)
+* (Free Grok API until 2025) [Grok-2 FREE API + Cline & Aider : AI Coding with GROK-2 for FULLY FREE IS CRAZY! (8:32) (6 Nov 2024)](https://www.youtube.com/watch?v=nHzJPJtd)
+* (Custom Tools) [AI Agents' Secret Sauce (17:07) (7 Oct 2024)](https://www.youtube.com/watch?v=MRYqhbtLTmM)
 
 ### SOFTWARE ENGINEERING
 
-* [Coming](oh_noes_404.md)
+* [Metaprompt with OpenAI API](https://github.com/casedone/metaprompt-with-openai)
+* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama (24:01) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* [Introducing Swarm with Code Examples: OpenAI's Groundbreaking Agent Framework (27:53) (14 Oct 2024)](https://www.youtube.com/watch?v=npAljHBeKPc)
+  * [Github Colab](https://colab.research.google.com/drive/1gx5zmdIcJwwKIvDmNRoJmqpdeLh6UnCN?usp=sharing)
 
 ### CODE REVIEW
 
@@ -84,56 +117,9 @@ Walk-thru in class
 
 ## RESOURCES
 
-* [Coming](oh_noes_404.md)
-
-
-
-
-
-
-
-# Week 11: Multi-Agent Frameworks
-
-* [The rise of the chief AI officer by Jones (14 Apr 2024) (Financial Times)](https://archive.ph/anHEk#selection-2365.0-2365.275)
-* [Future of Work Report AI at Work by LinkedIn (Nov 2023)](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/future-of-work-report-ai-november-2023.pdf)
-
-## Readings
-
-* Benchmark Agent Frameworks
-  * [(CrewAI) AI Agent Framework Battle: CrewAI vs. AutoGen vs. LangGraph vs Agent Zero | Underdog Triumphs? [1/5] (24:58) (2 Sep 2024)](https://www.youtube.com/watch?v=bBl0JyK4K4E)
-  * [Github](https://github.com/Florenz23/ai-agent-videos/tree/master/benchmark_stock_analysis)
-
-### Coding
-
-* [Practical Multi AI Agents and Advanced Use Cases with crewAI ~2.75hrs](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
-
-* [DeepLearning.ai: AI Agentic Design Patterns with AutoGen (1hr)](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-
-
-## In-Class
-
-* Motivation
-  * [The State of Generative AI in the Enterprise
-Moving from potential to performance](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
-
-## References:
-
-* Frameworks
-  * AutoGen
-  * CrewAI
-
-
-* Cloud Providers
-  * AWS/Amazon Bedrock
-  * Azure
-  * GC
-  * Runpod.io
-  * Anyscale
-  * Replicate
-  * Together.ai
-
-## RESEARCH
-
-* [RL Loses Against Multi-Agent Intelligence: CoMAL (24:52) (22 Oct 2024)](https://www.youtube.com/watch?v=8RKk-IhNRZ0)
-
-* [Levels of AI by Industry by Accenture (2024)](https://newsroom.accenture.com/news/2022/more-than-60-percent-of-companies-are-only-experimenting-with-ai-creating-significant-opportunities-for-value-on-their-journey-to-ai-maturity-accenture-research-finds)
+* [LangChang YT](https://www.youtube.com/@LangChain)
+* [LangGraph Academy (~4hrs)](https://academy.langchain.com/courses/intro-to-langgraph)
+  * [Slides Intro](../slides/LangChain_Academy_-_Introduction_to_LangGraph_-_Motivation.pdf)
+  * [Code Notes](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+* [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2] (3:17:50) (22 Jun 2024)](https://brandonhancock.io/langchain-master-class)
+  * [Github](https://github.com/bhancockio) (Terminal CLI)
