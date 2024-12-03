@@ -1,6 +1,6 @@
 # Week 9: More LangChain, LangGraph and Miniproject #3
 
-We learn more LangChain API details for robuts AI application development along with it's agentic framework LangGraph. With these additional two skillsets, you have more degrees of freedom to design a more creative AI applications that utilizes LangChain/LangGraph to automate a non-trivial knowledge work pipeline. Start with 1-3 of the many LangChain/LangGraph sample applications and customize the workflow with LangChain components, architecture, datasets, prompts, and details like algorithms. Pick a workflow that parallels a non-trivial task you have special insight and/or interest in from producing a viral music video to writing a specialized inside-the-beltway policy paper to automate AI dataset creation (search, download, normalization, filtering, etc). Miniproject #3 is moved to week 10 to enable 2 more coding chapters on LangChain.
+
 
 ## KEY QUESTIONS
 
@@ -29,13 +29,12 @@ We learn more LangChain API details for robuts AI application development along 
 ### CODING
 
 * [AI Agentic Design Patterns with AutoGen ~1.75hrs](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
-* [AI Agents in LangGraph ~1.5hrs](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/)
 
 ## IN-CLASS EXERCISES
 
 ### OVERHEAD
 
-* Quiz
+* [Quiz Week 9: LangChain 2](https://docs.google.com/forms/d/e/1FAIpQLSfORQIKHhPsBgkVcwCsn5-94covk_3UFk8KtqzN7RFvguVmtw/viewform?usp=sf_link)]
 
 ### PRESENTATIONS
 
@@ -60,6 +59,8 @@ We learn more LangChain API details for robuts AI application development along 
 
 ### FOLLOW-UPS
 
+* [NotebookLM Prompts](https://notebooklm.google.com/?pli=1)
+* [NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 * [Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
 * [GPT Canvas](https://www.youtube.com/watch?v=MfReXI4jsyI)
 
@@ -69,26 +70,35 @@ We learn more LangChain API details for robuts AI application development along 
 
 ### CONCEPTS
 
-* [Coming](oh_noes_404.md)
+* [LangChain API Overview](https://python.langchain.com/api_reference/reference.html)
+* [LangChain API Function Calling](https://platform.openai.com/docs/guides/function-calling)
+* [LangChain Hub](https://smith.langchain.com/hub)
+* UNIX Pipelines
+* Synch (simplier blocking) vs Asynch (asynch/await syntax for I/O-bound processes)
+* Typed vs untyped
+* Object instantiation (self)
+* Pydantic type checking and nesting
+* Python decorator @tool
+* REST API CRUD Endpoints
 
 ### TOOLS
 
-* [Coming](oh_noes_404.md)
+* [Automatically Research Anybody with ChatGPT and Perplexity (12:12) (30 Oct 2024)](https://www.youtube.com/watch?v=Tur-HRXmSfA)
 
 ### SOFTWARE ENGINEERING
 
-* [Langchain Dev Blog](https://blog.langchain.dev/)
-* [Langchain Discord](https://www.restack.io/docs/langchain-knowledge-langchain-discord-community)
-* [Subreddits on Langchain](https://www.reddit.com/search/?q=langchain&cId=7f337738-bb4a-4762-b3a9-ee8784bacfc0&iId=261bb49b-c7a7-44c2-9a3c-389bc51c300d)
-* 
+* [LangChain Overview](https://python.langchain.com/docs/introduction/)
+* [LangChain Dev Blog](https://blog.langchain.dev/)
+* [LangChain Discord](https://www.restack.io/docs/langchain-knowledge-langchain-discord-community)
+* [Subreddits on LangChain](https://www.reddit.com/search/?q=langchain&cId=7f337738-bb4a-4762-b3a9-ee8784bacfc0&iId=261bb49b-c7a7-44c2-9a3c-389bc51c300d)
 
 ### CODE SAMPLE
 
-* [Coming](oh_noes_404.md)
+* [Two Agents debate](../code/notebooks/llm_debate_Testing_Agents_20241030.ipynb)
 
 ### CODE REVIEW
 
-* [Coming](oh_noes_404.md)
+* In class...
 
 ### EXTRAS
 

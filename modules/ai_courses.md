@@ -22,9 +22,15 @@
 * NLP
   * [CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning (1:16:15) (20241008)](https://www.youtube.com/@neubig)
 
+* LLM
+  * [mlabonne](https://github.com/mlabonne/llm-course)
+
 * LlamaIndex
   * [Make Autogen AI Agents with Long-Term Memory (12:56) (8 oCT 2024)](https://www.youtube.com/watch?v=s4-N-gefMA8)
   * [tylerprogramming/llamaindex-beginner-course](https://github.com/tylerprogramming/llamaindex-beginner-course)
+
+* LangChain
+  * [LangChang YT](https://www.youtube.com/@LangChain)
 
 ## Paid
 

@@ -1,5 +1,22 @@
 # Dataset Creation
 
+
+## SURVEY
+
+* [Datasets for Large Language Models: A Comprehensive Survey by Yang Liu et al. (28 Feb 2024)](https://arxiv.org/pdf/2402.18041)
+
+## RESEARCH
+
+* [API-BLEND -- A Comprehensive Corpora for Training and Benchmarking API LLMs KinjalBasu_IBM (20 May 2024)](https://arxiv.org/pdf/2402.15491)
+* [Data Management For Large Language Models: A Survey (26 Dec 2023)](https://arxiv.org/html/2312.01700v2)
+  * [Github](https://github.com/ZigeW/data_management_LLM)
+* [](https://arxiv.org/pdf/2402.18041)
+  * [Github](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
+
+## ANALYSIS
+
+* [Llm Dataset Survey Insights (28 Oct 2024)](https://www.restack.io/p/llmsurvey-answer-llm-dataset-survey-cat-ai)
+
 ## META REPOS
 
 * [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning?tab=readme-ov-file#data-pipeline)
@@ -9,11 +26,18 @@
 * [LLM Datasets (Sep 2024)](https://github.com/mlabonne/llm-datasets)
 * [LLM DataHub (2023)](https://github.com/Zjh-819/LLMDataHub)
 
-## Websearch
+## SEARCH
 
 * [SerpAPI](https://serpapi.com/playground)
 
-## Scraping
+## SCRAPING
+
+* [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
+* [ScrapeGraph AI Github](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+* [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
+  * [Browser Use Github](https://github.com/gregpr07/browser-use)
+  * [LightRAG Github](https://github.com/HKUDS/LightRAG)
+* [Selenium Web Scraping is too Slow. Try This. (22:10) (3 Nov 2024)](https://www.youtube.com/watch?v=di8V-baNCac)
 
 * [Anthropic](https://claude.ai/chat/6ad53704-7a65-4cfa-9d30-e892b1bc1862)
 * [ChatGPT](https://chatgpt.com/share/66eed6ce-d31c-800d-a027-fced68c29092)
@@ -23,6 +47,10 @@
 
 * [Crawl4AI](https://github.com/unclecode/crawl4ai)
 
+## PREPROCESSING
+
+* [Mastering LLM Techniques: Data Preprocessing (13 Nov 2024)](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/?ref=dailydev)
+
 ## TABLES
 
 * [feature_engine](https://github.com/feature-engine/feature_engine)
@@ -30,44 +58,7 @@
 * [forgekit](https://github.com/0xMarcio/forgekit/tree/main)
 * [ace_tools_open](https://github.com/zinccat/ace_tools_open)
 
-## OCR
-
-* [ChatGPT](https://chatgpt.com/share/66eed096-4110-800d-9d79-d131fab8b221)
-* [Perplexity](https://www.perplexity.ai/search/open-source-or-python-librarie-Myts_hs4QjaG.pBkUsSNjw)
-* [TesseractOCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
-
-## PDF
-
-* [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
-* [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)
-* [MinerU](https://github.com/opendatalab/MinerU)
-* [H2OGPT](https://github.com/h2oai/h2ogpt)
-* [PikePDF](https://github.com/pikepdf/pikepdf)
-
-## Spelling and Grammar
-
-* [LanguageTool](https://github.com/languagetool-org/languagetool)
-* [PyASpeller](https://github.com/oriontvv/pyaspeller)
-* [GrammarFormer](https://github.com/PrithivirajDamodaran/Gramformer)
-
-## Text Processing Libraries
-
-* [SpaCy](https://spacy.io/usage)
-* [Unstructured](https://github.com/Unstructured-IO/unstructured)
-* [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
-* [LlamaParse](https://github.com/run-llama/llama_parse)
-  
-* [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
-* ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3 (24:10) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8) 
-  
-* [FireCrawl](https://www.firecrawl.dev/)
-* [Unstructured](https://pypi.org/project/unstructured/)
-
-## Document Processing
-
-* [Amazon Textract Python Library](https://docs.aws.amazon.com/textract/latest/dg/what-is.html) (PAID)
-
-## Feature Engineering
+## FEATURE ENGINEERING
 
 ### Libraries
 
@@ -115,9 +106,10 @@
 
 * [Upgini](https://github.com/upgini/upgini)
 
-### Synthetic Data
+### LLM TRAINING DATASETS
 
-* [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
+* [ZiegW data management LLM](https://github.com/ZigeW/data_management_LLM)
+* [lmmlzn Awesome LLMs Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
 
 ### DATASETS
 
@@ -129,6 +121,7 @@
 ### SYNTHETIC DATA
 
 * [Mostly.ai (PAID/FREE)](https://mostly.ai/)
+* [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
 
 ## EDA
 

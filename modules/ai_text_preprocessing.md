@@ -56,3 +56,17 @@ Citations:
 [2] https://pypi.org/project/hierarchybuilder/
 [3] https://arxiv.org/html/2407.08330v1
 [4] https://github.com/hdmf-dev/hdmf
+
+
+## Complex Document Processing
+
+* DocETL
+  * [Github](https://github.com/ucbepic/docetl)
+  * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
+  * [Analyzing common weaknesses in ICLR 2024 reviews with DocETL (31:11) (29 Oct 2024)](https://www.youtube.com/watch?v=IlgueVqtHGo)
+  * [ChatGPT Setup](https://chatgpt.com/share/672b25a2-2314-800d-8caf-a6b958aefa93)
+
+* [New RAG for Multi-Modal DocVQA: M3DOCRAG (ColPali Qwen2-VL) (9:51) (9 Nov 2024)](https://www.youtube.com/watch?v=E3ELon1uh4A)
+  * [Github](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  * [Colab](https://colab.research.google.com/github/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  * [Paper](https://arxiv.org/pdf/2411.04952)

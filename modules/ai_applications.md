@@ -1,5 +1,29 @@
 # AI Applications
 
+
+### Projects
+
+* [Matt Williams](https://github.com/technovangelist/videoprojects)
+* [NLP Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV)
+* [PromptEngineer48](https://www.youtube.com/@PromptEngineer48/videos)
+* [Matt Williams](https://www.youtube.com/@technovangelist)
+* [Sam Witteveen AI](https://www.youtube.com/@samwitteveenai)
+* [Mervin Praison](https://www.youtube.com/@MervinPraison)
+* [Fahd Mirza](https://www.youtube.com/@fahdmirza)
+* [All About AI](https://www.youtube.com/@AllAboutAI)
+* [VRSen](https://www.youtube.com/@vrsen)
+* [1little coder](https://www.youtube.com/@1littlecoder)
+* [Tyler Reed AI](https://www.youtube.com/@TylerReedAI)
+* [Coding Crash Course](https://www.youtube.com/@codingcrashcourses8533)
+* [AI Anytime](https://www.youtube.com/@AIAnytime/videos)
+* [RohanPaul AI](https://www.youtube.com/@RohanPaul-AI)
+* [Prompt Engineering](https://www.youtube.com/@engineerprompt)
+* [AI Code King](https://www.youtube.com/@AICodeKing)
+* [Echo Hive](https://www.youtube.com/@echohive) Paid code
+* [Developers Digest](https://www.youtube.com/@DevelopersDigest)
+* [ManuAGI](https://www.youtube.com/@ManuAGI)
+* [IndyDevDan](https://www.youtube.com/@indydevdan)
+
 ## Cookbooks
 
 * [OpenAI Cookbook](https://cookbook.openai.com/)
@@ -30,7 +54,7 @@
 * [AIHawk Github](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)
 * [YT Video (14:46) (7 Oct 2024)](https://www.youtube.com/watch?v=XynrIBBDBR0)
 
-## Film 
+## Film
 
 * AI Film Generation
   * [POOF - AI Video Techniques Breakdown (10:58) (12 Jul 2024)](https://www.youtube.com/watch?v=PA10qHTgs40)
@@ -63,6 +87,6 @@
 
 ## Research
 
-  * [A Survey of Large Language Models for Financial Applications -- Progress, Prospects and Challenges by Nie (16 Jun 2024)](https://arxiv.org/pdf/2406.11903v1)
-  * [Large Language Models in Finance -- A Survey by Li (7 Jul 2024)](https://arxiv.org/pdf/2311.10723v2)
-  * [Artificial Intelligence and Machine Learning in Financial Services by CRS (3 Apr 2024)](https://crsreports.congress.gov/product/pdf/R/R47997)
+* [A Survey of Large Language Models for Financial Applications -- Progress, Prospects and Challenges by Nie (16 Jun 2024)](https://arxiv.org/pdf/2406.11903v1)
+* [Large Language Models in Finance -- A Survey by Li (7 Jul 2024)](https://arxiv.org/pdf/2311.10723v2)
+* [Artificial Intelligence and Machine Learning in Financial Services by CRS (3 Apr 2024)](https://crsreports.congress.gov/product/pdf/R/R47997)
