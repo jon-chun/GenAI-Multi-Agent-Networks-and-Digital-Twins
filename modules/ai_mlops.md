@@ -83,3 +83,15 @@ Rallly
 ## JavaScript
 
 * [Install Node.js on Windows Subsystem for Linux (WSL2)](https://github.com/MicrosoftDocs/windows-dev-docs/blob/docs/hub/dev-environment/javascript/nodejs-on-wsl.md)
+
+## Performance
+
+* [Modded-NanoGPT]()
+
+## Multiple Models
+
+* [AISuite Github](https://github.com/andrewyng/aisuite)
+
+## AI Observability
+
+* [Opik](https://www.comet.com/site/products/opik/)

@@ -91,6 +91,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
   
 ### NEWS: AUTOMATION
 
+* [Gartner Conference](https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us?ef_id=:G:s&utm_source=bing&utm_medium=cpc&utm_campaign=EVT_NA_2024_LSC43_CPC_SEM1_NONBRANDBING&utm_adgroup=1152289919389198&utm_term=it%20automation&ad=&matchtype=p&msclkid=46948bdb95841f1ef5fbec949ef4637b)
+
 * [TERMINAL OF TRUTH - AI Agent Creates Religion and $280,000,000 Market Cap Coin (29:28) (Oct 2024 )](https://www.youtube.com/watch?v=TpzG_aAUTsg)
 * [How to Create NEW Copilot AI Agents in Microsoft Teams in Seconds! (10:24) (19 Nov 2024)](https://www.youtube.com/watch?v=lBroyFLn9s8)
 * [Microsoft And OpenAI Just Demoed The Most Advanced AI Agent Yet (8:17) (20 Nov 2024)](https://www.youtube.com/watch?v=iBfjx9R3FP8) (The coming of real-world hyper personalized AI application interaction)
@@ -103,6 +105,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 * [Kestra](https://github.com/kestra-io/kestra)
 * [Building AI Applications with Haystack ~1.5hrs](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) [Github](https://github.com/deepset-ai/haystack)
 * [n8n](https://n8n.io/)
+* [SparkBase.ai](https://sparkbase.ai/) - Sales automation
 
 ### NEWS: TECH
 
