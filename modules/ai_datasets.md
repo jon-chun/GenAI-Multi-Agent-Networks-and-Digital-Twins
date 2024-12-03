@@ -30,6 +30,18 @@
 
 * [SerpAPI](https://serpapi.com/playground)
 
+## Torrent
+
+* [jq](https://github.com/jqlang/jq)
+* [Reliq](https://github.com/TUVIMEN/reliq)
+* [Torge](https://github.com/TUVIMEN/torge)
+
+## Torrent
+
+* [jq](https://github.com/jqlang/jq)
+* [Reliq](https://github.com/TUVIMEN/reliq)
+* [Torge](https://github.com/TUVIMEN/torge)
+
 ## SCRAPING
 
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
