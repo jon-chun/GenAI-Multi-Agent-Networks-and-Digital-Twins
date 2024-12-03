@@ -11,6 +11,8 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 * [Building LLM Agents from Scratch (Part 2) : A Conversational Search Agent with Ollama (25 Sep 2024)](https://blog.gopenai.com/building-llm-agents-from-scratch-part-2-a-conversational-search-agent-with-ollama-a4544b2291cf)
 * [Creating a team of AI agents to work for me! (Crew AI) (21:06) (22 Apr 2024)](https://www.youtube.com/watch?v=5JoVeYcxgpU)
   * [Github](https://github.com/fmiguelmmartins/crewaiyoutube)
+* [Tomasonjo Blog](https://bratanic-tomaz.medium.com/)
+  * [Github](https://github.com/tomasonjo/blogs)
 
 ## KEY QUESTIONS
 
