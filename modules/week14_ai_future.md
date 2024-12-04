@@ -108,6 +108,7 @@ Overview Here...
 
 ### FOLLOW-UPS
 
+* [RAGLite](https://github.com/superlinear-ai/raglite)
 * (LTX Video) [Not SORA, But Open Source and SUPER FAST!!! (12:54) (22 Nov 2024)](https://www.youtube.com/watch?v=CwvN2Ccddgk)
 * [Create AI Podcasts like NotebookLM with API Tutorial (8:05) (20 Nov 2024)](https://www.youtube.com/watch?v=mO-tVmtakMQ)
 * [Friendly AI will still be our master. Or, why we should not want to be the pets of super-intelligent computers by Sparrow (13 Jun 2024)](https://www.semanticscholar.org/paper/Friendly-AI-will-still-be-our-master.-Or%2C-why-we-to-Sparrow/e47af44721884842addcd41df4cf2fa4c986d07d)
