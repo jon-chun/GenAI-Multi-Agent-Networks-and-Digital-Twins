@@ -1,4 +1,4 @@
-# Week N: Week Title
+# Week 13: AI Now
 
 This week we introduce our fourth and final Agentic Framework in Microsoft's AutoGen related to the taste of recently released Magentic-One reasoning-focused framework by MS. Unlike previous weeks, we will focus on the fundamentals and well as future direction rather than coding Agents. The one coding exercise for AutoGen version 0.2 should feel intuitive at this point.
 
@@ -116,6 +116,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### FOLLOW-UPS
 
+* [This Open Source AI Generates Videos with UNREAL Realism (Tencent HunyuanVideo) (8:43) (3 Dec 2024)](https://www.youtube.com/watch?v=mzzxTOnZM2U)
+* [Anthropic's New Agent Protocol! MPC (15:34) (29 Nov 2024)](https://www.youtube.com/watch?v=8mU2OeOCIrE)
 * [Podcastify](https://github.com/souzatharsis/podcastfy)
 * [Deepseek R1 Lite Preview](https://www.deepseek.com/)
 
@@ -123,6 +125,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 * [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 * [LLM Research Summaries](https://github.com/cognitivetech/llm-research-summaries?tab=readme-ov-file#ai-psychology)
+* [Hoodwinked: Deception and Cooperation in a Text-Based Game for Language Models by O'Gara et al. (4 Aug 2023)](https://arxiv.org/pdf/2308.01404)
+* [AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents by Ma et al. (24 Jan 2024)](https://arxiv.org/pdf/2401.13178) 
 
 ### CONCEPTS
 
