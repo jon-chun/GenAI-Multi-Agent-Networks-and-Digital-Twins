@@ -16,6 +16,13 @@ Overview Here...
 
 ### RESEARCH
 
+* [AI Agent Survey Papers Github](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+* [Agent Design Pattern Catalogue -- A Collection of Architectural Patterns for Foundation Model based Agents YueLiu_Data61-CSIRO-Aus 20241106_arxiv](https://arxiv.org/abs/2405.10467)
+* [Using Large Language Models to Create AI Personas for Replication and Prediction of Media Effects: An Empirical Test of 133 Published Experimental Research Findings Leo Yeyk et al. (28 Aug 2024)](https://arxiv.org/pdf/2401.11839)
+* [Using Large Language Models to Create AI Personas for Replication and Prediction of Media Effects -- An Empirical Test of 133 Published Experimental Research Findings LeoYeykelis_InspirationPointLabs 20240828_arxiv](https://arxiv.org/abs/2408.16073)
+
+* [Towards Cognitive AI Systems -- a Survey and Prospective on Neuro-Symbolic AI ZishenWan_GaTech 20240102_arxiv 2401.01040v1](https://arxiv.org/pdf/2401.01040)
+
 * (0-4:50 only) [OpenAI’s Figure “02” Humanoid Robot Exposes NEW 400% Faster AI Agents (BMW TECH LEAK) (8:18) (22 Nov 2024)](https://www.youtube.com/watch?v=rIkYqI31opc)
 * [ASPI Critical Technologies](https://www.aspi.org.au/report/critical-technology-tracker)
 
