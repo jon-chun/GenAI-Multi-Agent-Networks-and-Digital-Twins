@@ -70,7 +70,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### CODING
 
-* [AI Agentic Design Patterns with AutoGen 0.2 (~1hr)]([oh_noes_404.md](https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/))
+* [AI Agentic Design Patterns with AutoGen 0.2 (~1hr)](https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/)
 * [AutoGen 0.2 Doc](https://microsoft.github.io/autogen/0.2/docs/Getting-Started)
 * [AutoGen 0.4 Doc](https://microsoft.github.io/autogen/dev/user-guide/agentchat-user-guide/quickstart.html)
 
