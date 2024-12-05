@@ -78,7 +78,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### ADMINISTRATIVE
 
-* [Quiz](oh_noes_404.md)
+* [Week 13 Quiz: MS AutoGen](https://docs.google.com/forms/d/e/1FAIpQLSdcsMR0kG-Ppn6RJZRtlsUX3CVrICRrsJa0qHdmQcZSHIUu1Q/viewform?usp=sharing)
 
 ### PRESENTATIONS
 
