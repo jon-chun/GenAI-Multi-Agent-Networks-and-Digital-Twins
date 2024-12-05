@@ -1,12 +1,35 @@
-# Week 14: AI and the Future
+# Week 14: AI and the Future (First Draft of Poster Due)
 
-Overview Here...
+We've been on a long strange trip together as we enter the final stretch of our AI journey. Even within just the span of the past 3 months we've witnessed first-hand the ground shift beneath our feet with rapid and non-stop advancements in AI research, models, and new products/startups. We've shared a front-row seat to witness the AI transformation of everything from work, to the economy, to geopolitics to the way society self-organizes and reasses our sense of self. It's been fun to get to know a bit about each of you and collectively share our anxieties, fears, curiosity, and excitement about how we can best bend the future arc towards human thriving and away from dystopian technology-based nightmares.
 
-## KEY QUESTIONS
+Our final week is entirely focused/graded on producing a first draft of your final semester project. Since the class voted to fold Miniproject #4 into the final project, this will account for 10% + 20% = 30% of your grade in this course. Half of this will be based upon the first draft of your poster due by next week on Wednesday, December 4th by the start of class at 7pm. Unfortunately, there can be no extensions since we're at the end of the semester which is why readings/coding for this week are minimal.
 
-1. Q1
-2. Q2
-3. Q3...
+The goal is to produce a complete rough draft while the final poster should be backed by a project/code that realizes your project and produces results with analysis as appropriate. I have office hours Thursday 11-1pm and will hold some early next week by appointment after noon. Ping me via chunj@kenyon.edu if you have any questions, concerns, or comments. 
+
+## Grading Rubric for all Final Projects:
+
+* Use the [IPHS200 Poster Template](https://docs.google.com/presentation/d/1HRHqfIDVYKhwgh1K1QRyNfQuf7g87q5A/edit#slide=id.p1), customize color, layout and images as you like.
+* For grading, poster should be submitted in ppt form (if working in a different format, please save as a powerpoint and check formatting) 
+* No MacOS *.key or pdf files can be accepted (sorry!)
+
+### Project should be organized into the following sections:
+- Abstract: outline project
+- Background: cite several prior work/related research
+- Methodology: explain tool(s) and methodology
+- Results: explain your findings/visualizations
+
+### Summarize
+
+- Your poster should include visuals, analysis, a conclusion, and suggest avenues for future research. There should also be a list of at least 3-5 references. 
+- Project should not plagiarize by directly copying others’ work or analysis. 
+- You must search for similar projects (e.g. on kaggle, github, google, etc) and directly reference and cite these.
+- Project should be spellchecked and checked for grammatical errors. If you’re unsure, copy and paste text boxes into a word or google document to review.
+
+### FINAL VERSION of Poster
+
+The FINAL VERSION of your project poster is DUE at the end of the exam period for your class. We are not allowed (per college rules) to accept final projects after the end of the semester (i.e. Friday at 4:30). Again, no wiggle room here.
+
+# NO READINGS/QUIZ THIS WEEK (All the following links are OPTIONAL): 
 
 ## READINGS
 
