@@ -188,7 +188,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
+* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/week14_ai_future.md) (obèrt)
 * [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
