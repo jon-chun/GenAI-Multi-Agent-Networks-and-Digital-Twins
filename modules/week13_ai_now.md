@@ -51,6 +51,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 ### AI NEWS AND CULTURE
 
 * (only 0-5:00 and 24:40-32:40)[Satya Nadella "THE NEW SCALING LAWS" and the Agentic Future [Microsoft Ignite 2024 SUPERCUT] (34:07) (20 Nov 2024)](https://www.youtube.com/watch?v=jpvbYukNZGM)
+* [Microsoft Launches 10 NEW AI Agents (13:01) (24 Nov 2024)](https://www.youtube.com/watch?v=pcWKJ_yvf1M&t=8s)
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
 * [These new computers are getting creepy… Copilot+ PC first look (4:31) (Jun 2024)](https://www.youtube.com/watch?v=hlwcZpEx2IY)
 
 ### RESEARCH
