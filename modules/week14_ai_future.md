@@ -34,6 +34,11 @@ The FINAL VERSION of your project poster is DUE at the end of the exam period fo
 
 ## READINGS
 
+### FUTURE TRENDS
+
+* [Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:30) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
+
+
 ### AI NEWS AND CULTURE
 
 * [TERMINAL OF TRUTH - AI Agent Creates Religion and $280,000,000 Market Cap Coin (29:28) (Oct 2024)](https://www.youtube.com/watch?v=TpzG_aAUTsg)
