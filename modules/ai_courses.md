@@ -1,8 +1,9 @@
 # AI Courses
 
-## DeepLearning.ai
+## Formal Courses
 
 * [DeepLearning.ai](https://www.deeplearning.ai/)
+* [MS GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
 
 ## Blog
 

@@ -1,5 +1,23 @@
 # Prompt Engineering
 
+## Awesome Prompt Engineering
+
+* [DAIR-AI/Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [snwfdhmp/Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
+* [NirDiamant/Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering)
+* [mshumer/GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer)
+* [promptslab/Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+* [jihoo-kim/Awesome Production LLM](https://github.com/jihoo-kim/awesome-production-llm)
+* [nasa-impact/LLM Cookbook for Open Science](https://github.com/NASA-IMPACT/LLM-cookbook-for-open-science)
+* [brexhq/Prompt Engineering](https://github.com/brexhq/prompt-engineering)
+
+## Company Specific
+
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)
+* [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook)
+* [MS Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
+* [MS Agentic Cookbook](https://github.com/microsoft/AgenticCookBook)
+
 ## Basic Prompt Engineering
 
 * ICL
