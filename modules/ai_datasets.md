@@ -62,6 +62,18 @@
 
 * [Crawl4AI](https://github.com/unclecode/crawl4ai)
 
+1. use a free open source dataset (sales, tax assessors, building permits/upgrades, etc)
+https://www.perplexity.ai/search/where-can-i-get-public-real-es-gJQZPNGITqmX4AUg4uhZng
+https://catalog.data.gov/dataset/?tags=real-estate
+
+2. try scraping with open source libraries
+https://www.perplexity.ai/search/as-of-dec-2024-what-are-the-mo-7sRIK3s7SmutLjIWlv2ZwA
+https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail for web scraping? (4:34) (Aug 2024)](https://www.youtube.com/watch?v=8GhFmQPZAlo)* [Scrape ANY Website in a Few Seconds!!! AI powered Web Scraping (13:09) (Nov 2024)](https://www.youtube.com/watch?v=wTy0cDqRxeQ)* [Crawl4AI Github Repo](https://github.com/unclecode/crawl4ai)* [Crawl4AI Colab](https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C?usp=sharing#scrollTo=jcsRbhAVxaIg)* [Crawl4AI: The Ultimate AI Website Scraping Guide (7:35) (29 Jun 2024)](https://www.youtube.com/watch?v=KAvuVUh0XU8&t=38s)* [The ultimate AI SCRAPER is Finally COMPLETE!! (14:53) (26 Oct 2024)](https://www.youtube.com/watch?v=YCicort0TrQ)* [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING (45:35) (30 Aug 2024)](https://www.youtube.com/watch?v=Oo8-nEuDBkk&t=595s)* [Easy Web Scraping with Playwright and AI – Tutorial (14:33) (18 Oct 2024)](https://www.youtube.com/watch?v=DqXVfRkY-WA)
+
+3. pay for scraping webservices like Octoparse, APIify, etc for your target websites
+* [Apify Tutorial (The best web crawler platform? (12:18) (7 Dec 2024)](https://www.youtube.com/watch?v=y9IGD9OoRkw) Real Estate scraper in real-time
+
+
 ## PREPROCESSING
 
 * [Mastering LLM Techniques: Data Preprocessing (13 Nov 2024)](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/?ref=dailydev)

@@ -27,6 +27,9 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### Tutorial on Agentic Workflow
 
+* [FinanceRAG - Building a High-Performance, Finance-Specific RAG System (6:05) (7 Dec 2024)](https://www.youtube.com/watch?v=o4k-T9NeJOw)
+  * [Github Repo](https://github.com/cv-lee/FinanceRAG)
+  * [ArXiv Paper](https://arxiv.org/pdf/2411.16732)
 * [Building Multi-Agent AI Systems From Scratch: OpenAI vs. Ollama (17 Nov 2024)](https://pub.towardsai.net/building-multi-agent-ai-systems-from-scratch-openai-vs-ollama-8ec0dae98639)
   * [Github ver from AIAnyTime](https://github.com/isurulkh?tab=repositories)
 * [AI Anytime Github](https://github.com/AIAnytime)
