@@ -14,6 +14,7 @@ The goal is to produce a complete rough draft while the final poster should be b
 * No MacOS *.key or pdf files can be accepted (sorry!)
 
 ### Project should be organized into the following sections:
+
 - Abstract: outline project
 - Background: cite several prior work/related research
 - Methodology: explain tool(s) and methodology
@@ -30,13 +31,37 @@ The goal is to produce a complete rough draft while the final poster should be b
 
 The FINAL VERSION of your project poster is DUE at the end of the exam period for your class. We are not allowed (per college rules) to accept final projects after the end of the semester (i.e. Friday at 4:30). Again, no wiggle room here.
 
+### Project Guidelines: Using External Code and Resources
+
+Here are clear guidance on using external code and resources in your projects.
+
+1. If you build upon existing demos, tutorials, or code, please cite these sources in your references section. This aligns with Kenyon College's academic integrity policies and professional best practices.
+
+2. Your project's value comes from your unique contribution - whether that's an innovative research question, novel datasets, creative prompts, or insightful analysis. Focus on clearly articulating what makes your approach distinctive.
+
+3. If you choose to use no-code or low-code solutions (like the new NotebookLM API), your project will be evaluated on how creatively and effectively you leverage these tools to address meaningful research questions. You can find helpful tutorials for NotebookLM in the Week 13 materials.
+
+As someone who has worked extensively with AI agents since 2019, including projects like the NEH-funded DivaBot collaboration with Denison, I'm here to help you navigate these guidelines and make informed choices about your project approach.
+
+Please don't hesitate to email me if you need any clarification about these guidelines. Your success in this project is important to me.
+
+
+
 # NO READINGS/QUIZ THIS WEEK (All the following links are OPTIONAL): 
 
 ## READINGS
 
 ### FUTURE TRENDS
 
+* ((view)(Model Context Protocol (MCP)) [Anthropic's New Agent Protocol! (15:34) (29 Nov 2024)](https://www.youtube.com/watch?v=8mU2OeOCIrE)
+  * (view)[Anthropic's MCP: First impressions as a developer (27 Nov 2024)](https://www.chriswere.com/p/anthropics-mcp-first-impressions)
+  * [Github: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
+* Low-Code NotebookLM with API: New Features and Customizability to programmatically generate research, scripts or two person conversational podcasts
+  * (view)[NotebookLM tutorial to 10x your productivity (8:05) (3 Dec 2024)](https://www.youtube.com/watch?v=QxbmQs3b_DE)
+  * (view)[10 NotebookLM Podcast Hacks I Wish I Knew Sooner! (14:11) (9 Dec 2024)](https://www.youtube.com/watch?v=aG0ixD3OY80)
+  * [Create AI Podcasts like NotebookLM with API Tutorial (8:05) (Nov 2024)]((https://www.youtube.com/watch?v=mO-tVmtakMQ))
 * [Flowise.ai](https://flowiseai.com/)
+* (PydanticAI)[We've Been Building AI Agents WRONG Until Now (19:51) (8 Dec 2024)](https://www.youtube.com/watch?v=pC17ge_2n0Q)
 * [Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:30) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
 * []()
 
