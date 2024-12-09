@@ -36,8 +36,9 @@ The FINAL VERSION of your project poster is DUE at the end of the exam period fo
 
 ### FUTURE TRENDS
 
+* [Flowise.ai](https://flowiseai.com/)
 * [Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:30) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
-
+* []()
 
 ### AI NEWS AND CULTURE
 
