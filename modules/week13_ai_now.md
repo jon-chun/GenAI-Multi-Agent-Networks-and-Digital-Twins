@@ -10,7 +10,9 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### Specific AI Ideas to Customize MVP
 
-* [NotebookLM API](https://www.youtube.com/watch?v=mO-tVmtakMQ) (programmatically generate podcasts)
+* Low-Code NotebookLM with API: New Features and Customizability to programmatically generate research, scripts or two person conversational podcasts
+  * [NotebookLM tutorial to 10x your productivity (8:05) (3 Dec 2024)](https://www.youtube.com/watch?v=QxbmQs3b_DE)
+  * [Create AI Podcasts like NotebookLM with API Tutorial (8:05) (Nov 2024)]((https://www.youtube.com/watch?v=mO-tVmtakMQ))
 * [FREE LogoCreator Flux Pro 1.1 Open Source AI Image Generator!🤖 Together.AI Self Hosted (NEW)](https://www.youtube.com/watch?v=4CdXujGPO3U) (logo creator)
 * [Berman EdCrew](https://github.com/mberman84/edu-crew/tree/main/src)
 * [Sharbo.io ](https://www.sharbo.io/) (competitive analysis)
