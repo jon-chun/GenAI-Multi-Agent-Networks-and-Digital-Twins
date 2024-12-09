@@ -40,7 +40,7 @@ Here are clear guidance on using external code and resources in your projects.
 2. Your project's value comes from your unique contribution - whether that's an innovative research question, novel datasets, creative prompts, or insightful analysis. Focus on clearly articulating what makes your approach distinctive.
 
 3. If you choose to use no-code or low-code solutions (like the new NotebookLM API), your project will be evaluated on how creatively and effectively you leverage these tools to address meaningful research questions. You can find helpful tutorials for NotebookLM in the Week 13 materials.
-    
+
 As someone who has worked extensively with AI agents since 2019, including projects like the NEH-funded DivaBot collaboration with Denison, I'm here to help you navigate these guidelines and make informed choices about your project approach.
 
 Please don't hesitate to email me if you need any clarification about these guidelines. Your success in this project is important to me.
@@ -53,7 +53,12 @@ Please don't hesitate to email me if you need any clarification about these guid
 
 ### FUTURE TRENDS
 
-* ((view)(Model Context Protocol (MCP)) [Anthropic's New Agent Protocol! (15:34) (29 Nov 2024)](https://www.youtube.com/watch?v=8mU2OeOCIrE)
+* [Don't Pay $200 Yet! (and more AI Models from Last week)!!! (15:56) (9 Dec 2024)](https://www.youtube.com/watch?v=lSvFkB2Kt7U)
+  * [Introducing ChatGPT Pro (5 Dec 2024)](https://openai.com/index/introducing-chatgpt-pro/)
+  * [HunyuanVideo](https://huggingface.co/tencent/HunyuanVideo)
+  * [HF fishaudio/fish-speech-1.5](https://huggingface.co/fishaudio/fish-speech-1.5)
+  * [HF TTS-Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
+* (view)(Model Context Protocol (MCP)) [Anthropic's New Agent Protocol! (15:34) (29 Nov 2024)](https://www.youtube.com/watch?v=8mU2OeOCIrE)
   * (view)[Anthropic's MCP: First impressions as a developer (27 Nov 2024)](https://www.chriswere.com/p/anthropics-mcp-first-impressions)
   * [Github: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
 * Low-Code NotebookLM with API: New Features and Customizability to programmatically generate research, scripts or two person conversational podcasts
