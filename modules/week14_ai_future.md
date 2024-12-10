@@ -53,26 +53,42 @@ Please don't hesitate to email me if you need any clarification about these guid
 
 ### FUTURE TRENDS
 
-* [Bee Agent Framework](https://www.youtube.com/watch?v=AsYQVlBC6Mo)
-* [How AI Job Replacement Will Actually Play Out (11:41) (10 Dec 2024)](https://www.youtube.com/watch?v=xL2HBnX2EIo)
-  * ["50% Of Jobs Will Be Displaced" - Terrifying Future of AI If We're NOT Careful | Emad Mostaque (3:05:41) (Nov 2024)](https://www.youtube.com/watch?v=qWDi9I2Tmmk&t=2212s)
-  * [Wiki Lump of Labor Fallacy](https://en.wikipedia.org/wiki/Lump_of_labour_fallacy)
+#### AI Models
+
+* [OpenAI Sora](https://openai.com/index/sora/)
+* NotebookLM: Low-Code NotebookLM with API: New Features and Customizability to programmatically generate research, scripts or two person conversational podcasts
+  * (view)[NotebookLM tutorial to 10x your productivity (8:05) (3 Dec 2024)](https://www.youtube.com/watch?v=QxbmQs3b_DE)
+  * (view)[10 NotebookLM Podcast Hacks I Wish I Knew Sooner! (14:11) (9 Dec 2024)](https://www.youtube.com/watch?v=aG0ixD3OY80)
+  * [Create AI Podcasts like NotebookLM with API Tutorial (8:05) (Nov 2024)](https://www.youtube.com/watch?v=mO-tVmtakMQ)
 * [Don't Pay $200 Yet! (and more AI Models from Last week)!!! (15:56) (9 Dec 2024)](https://www.youtube.com/watch?v=lSvFkB2Kt7U)
   * [Introducing ChatGPT Pro (5 Dec 2024)](https://openai.com/index/introducing-chatgpt-pro/)
   * [HunyuanVideo](https://huggingface.co/tencent/HunyuanVideo)
   * [HF fishaudio/fish-speech-1.5](https://huggingface.co/fishaudio/fish-speech-1.5)
   * [HF TTS-Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
 * (view)(Model Context Protocol (MCP)) [Anthropic's New Agent Protocol! (15:34) (29 Nov 2024)](https://www.youtube.com/watch?v=8mU2OeOCIrE)
+
+#### AI Agents
+
+* (PydanticAI)[We've Been Building AI Agents WRONG Until Now (19:51) (8 Dec 2024)](https://www.youtube.com/watch?v=pC17ge_2n0Q)
+* [Bee Agent Framework](https://www.youtube.com/watch?v=AsYQVlBC6Mo)
+* [Flowise.ai](https://flowiseai.com/)
   * (view)[Anthropic's MCP: First impressions as a developer (27 Nov 2024)](https://www.chriswere.com/p/anthropics-mcp-first-impressions)
   * [Github: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
-* Low-Code NotebookLM with API: New Features and Customizability to programmatically generate research, scripts or two person conversational podcasts
-  * (view)[NotebookLM tutorial to 10x your productivity (8:05) (3 Dec 2024)](https://www.youtube.com/watch?v=QxbmQs3b_DE)
-  * (view)[10 NotebookLM Podcast Hacks I Wish I Knew Sooner! (14:11) (9 Dec 2024)](https://www.youtube.com/watch?v=aG0ixD3OY80)
-  * [Create AI Podcasts like NotebookLM with API Tutorial (8:05) (Nov 2024)]((https://www.youtube.com/watch?v=mO-tVmtakMQ))
-* [Flowise.ai](https://flowiseai.com/)
-* (PydanticAI)[We've Been Building AI Agents WRONG Until Now (19:51) (8 Dec 2024)](https://www.youtube.com/watch?v=pC17ge_2n0Q)
+
+#### Long-Term Tech
+
 * [Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:30) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
-* []()
+
+#### Work
+
+* [Guide to Essential Competencies for AI by AI Alliance (10 Dec 2012)](https://thealliance.ai/core-projects/guide-to-essential-competencies-for-ai)
+* [How AI Job Replacement Will Actually Play Out (11:41) (10 Dec 2024)](https://www.youtube.com/watch?v=xL2HBnX2EIo)
+  * ["50% Of Jobs Will Be Displaced" - Terrifying Future of AI If We're NOT Careful | Emad Mostaque (3:05:41) (Nov 2024)](https://www.youtube.com/watch?v=qWDi9I2Tmmk&t=2212s)
+  * [Wiki Lump of Labor Fallacy](https://en.wikipedia.org/wiki/Lump_of_labour_fallacy)
+
+
+
+
 
 ### AI NEWS AND CULTURE
 
