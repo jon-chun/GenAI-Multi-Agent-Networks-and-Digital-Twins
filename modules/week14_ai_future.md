@@ -53,6 +53,10 @@ Please don't hesitate to email me if you need any clarification about these guid
 
 ### FUTURE TRENDS
 
+* [Bee Agent Framework](https://www.youtube.com/watch?v=AsYQVlBC6Mo)
+* [How AI Job Replacement Will Actually Play Out (11:41) (10 Dec 2024)](https://www.youtube.com/watch?v=xL2HBnX2EIo)
+  * ["50% Of Jobs Will Be Displaced" - Terrifying Future of AI If We're NOT Careful | Emad Mostaque (3:05:41) (Nov 2024)](https://www.youtube.com/watch?v=qWDi9I2Tmmk&t=2212s)
+  * [Wiki Lump of Labor Fallacy](https://en.wikipedia.org/wiki/Lump_of_labour_fallacy)
 * [Don't Pay $200 Yet! (and more AI Models from Last week)!!! (15:56) (9 Dec 2024)](https://www.youtube.com/watch?v=lSvFkB2Kt7U)
   * [Introducing ChatGPT Pro (5 Dec 2024)](https://openai.com/index/introducing-chatgpt-pro/)
   * [HunyuanVideo](https://huggingface.co/tencent/HunyuanVideo)
