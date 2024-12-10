@@ -29,6 +29,7 @@
 ## LLM Hallucination Detection
 
 * [Awesome Hallucination Detection (570)](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+* [Amazon Sciences RefChecker Model](https://github.com/amazon-science/RefChecker)
 
 ## Embeddings
 

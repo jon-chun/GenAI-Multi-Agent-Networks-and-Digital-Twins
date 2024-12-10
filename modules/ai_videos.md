@@ -1,5 +1,11 @@
 # AI Videos
 
+
+## Text-to-Video
+
+* [Hunyuan Video](https://huggingface.co/tencent/HunyuanVideo)
+
+
 ## AI Video Tutorials
 
 * [The Future of RAG will be with Vision: End to End Example with ColPali and a Vision Language Model (17 Aug 2024)](https://blog.gopenai.com/the-future-of-rag-will-be-with-vision-end-to-end-example-with-colpali-and-a-vision-language-model-fe133667d2f9)

@@ -77,6 +77,8 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 ## PREPROCESSING
 
 * [Mastering LLM Techniques: Data Preprocessing (13 Nov 2024)](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/?ref=dailydev)
+* [Format Data for Chat by LLM Types](https://github.com/jpmanson/llm_templates)
+  * [Colab](https://colab.research.google.com/drive/187sA0rGwVLiP6A3IyvV0ICglsJQmvQa3#scrollTo=sUjN9PDx-dcp)
 
 ## TABLES
 
