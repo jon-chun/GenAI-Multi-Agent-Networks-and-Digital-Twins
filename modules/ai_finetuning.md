@@ -8,7 +8,9 @@
 ### Fine-Tuning in Detail
 
 ### Libraries
+
 * Unsloth
+  * [Llama 3.3 Unsloth (10 Dec 2024)](https://unsloth.ai/blog/llama3-3)
   * [Github](https://github.com/unslothai/unsloth)
   * [Colab](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
   * [Video (17:35) (29 Sep 2024)](https://www.youtube.com/watch?v=YZW3pkIR-YE)
