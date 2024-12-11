@@ -69,18 +69,41 @@ Please don't hesitate to email me if you need any clarification about these guid
 
 #### AI Agents
 
+#### AI Agent Frameworks
+
 * (PydanticAI)[We've Been Building AI Agents WRONG Until Now (19:51) (8 Dec 2024)](https://www.youtube.com/watch?v=pC17ge_2n0Q)
 * [Bee Agent Framework](https://www.youtube.com/watch?v=AsYQVlBC6Mo)
+* [a16z ELIZA](https://www.youtube.com/watch?v=2ZZo3JqSrZI)
+modelcontextprotocol/servers)
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
+* [Microsoft JARVIS](https://github.com/microsoft/JARVIS)
+* [JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization by Liu et al. (3 Dec 2023)](https://arxiv.org/abs/2312.02213)
+
+#### AI Agent Work Automation
+
+* [n8n](https://www.youtube.com/watch?v=KjI2_3SDCds)
+  * [Github](https://github.com/n8n-io/n8n)
 * [Flowise.ai](https://flowiseai.com/)
-  * (view)[Anthropic's MCP: First impressions as a developer (27 Nov 2024)](https://www.chriswere.com/p/anthropics-mcp-first-impressions)
-  * [Github: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
+* [Anthropic's MCP: First impressions as a developer (27 Nov 2024)](https://www.chriswere.com/p/anthropics-mcp-first-impressions)
+  * [Github: Model Context Protocol Servers](https://github.com/)
+* [Ottomator.ai](https://ottomator.ai/)
+
+#### AI Agent Research
+
+* [2 LLMs Talking With Each Other with Ollama Locally - Xplore TerminaLLM (9:00) (11 Dec 2024)](https://www.youtube.com/watch?v=vsjfI9alY-4)
+* [Generative Agent Simulations of 1,000 People by Park et al. (15 Nov 2024)](https://arxiv.org/abs/2411.10109)
+  * [J.S. Park website](https://www.joonsungpark.com/)
+* [LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods by Li et al. (10 Dec 2024)](https://arxiv.org/abs/2412.05579)
 
 #### Long-Term Tech
 
+* [BREAKING NEWS: oTToDev is Now the OFFICIAL Open Source Bolt.new (11:43) (11 Dec 2024)](https://www.youtube.com/watch?v=p8BTuuTr5iU)
+  * [Bolt.diy Github](https://github.com/stackblitz-labs/bolt.diy)
 * [Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:30) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
 
 #### Work
 
+* [Microsoft Launches 10 NEW AI Agents (13:01) (24 Nov 2024)](https://www.youtube.com/watch?v=pcWKJ_yvf1M)
 * [Guide to Essential Competencies for AI by AI Alliance (10 Dec 2012)](https://thealliance.ai/core-projects/guide-to-essential-competencies-for-ai)
 * [How AI Job Replacement Will Actually Play Out (11:41) (10 Dec 2024)](https://www.youtube.com/watch?v=xL2HBnX2EIo)
   * ["50% Of Jobs Will Be Displaced" - Terrifying Future of AI If We're NOT Careful | Emad Mostaque (3:05:41) (Nov 2024)](https://www.youtube.com/watch?v=qWDi9I2Tmmk&t=2212s)
