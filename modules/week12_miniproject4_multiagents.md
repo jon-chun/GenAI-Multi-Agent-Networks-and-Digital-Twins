@@ -28,6 +28,7 @@ Our second week with CrewAI and more advanced applications. Also, a peek into AI
 
 * [Generative Agent Simulations of 1,000 People by Park et al. (15 Nov 2024)](https://arxiv.org/abs/2411.10109)
 * ["PROGRAMMABLE LIFE" AI Simulated 500 million years of evolution to create custom proteins | ESM3 (20:40) (14 Nov 2024)](https://www.youtube.com/watch?v=IgqR3M_3kVM)
+* [Blind Judgement: Agent-Based Supreme Court Modelling With GPT by Hamilton (12 Jan 2023)](https://www.semanticscholar.org/paper/Blind-Judgement%3A-Agent-Based-Supreme-Court-With-GPT-Hamilton/db5423d1d5737aa90c48bc121239160d24dccb36  )
 
 ### SOFTWARE ENGINEERING
 
