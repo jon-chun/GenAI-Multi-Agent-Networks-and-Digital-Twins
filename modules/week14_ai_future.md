@@ -53,6 +53,8 @@ Please don't hesitate to email me if you need any clarification about these guid
 
 ### FUTURE TRENDS
 
+* [Week 14 Future of Work](https://docs.google.com/forms/d/e/1FAIpQLSfOp85EN7N9B93n4gPGcm3X_DzdZIkxrLJZoUjSsQWhP0KdIg/viewform?usp=header)
+
 #### AI Models
 
 * [OpenAI Sora](https://openai.com/index/sora/)
@@ -100,6 +102,13 @@ modelcontextprotocol/servers)
 * [BREAKING NEWS: oTToDev is Now the OFFICIAL Open Source Bolt.new (11:43) (11 Dec 2024)](https://www.youtube.com/watch?v=p8BTuuTr5iU)
   * [Bolt.diy Github](https://github.com/stackblitz-labs/bolt.diy)
 * [Tony Seba: Greatest disruption in history is here, millions of jobs to disappear (40:30) (Aug 2024)](https://www.youtube.com/watch?v=A_-_sjbJwqg)
+
+
+#### AI Geopolitics
+
+* [AI Czar]()
+* [AI Competitiveness]()
+* [US-China Tech Cold War]()
 
 #### Work
 
