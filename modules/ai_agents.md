@@ -12,6 +12,7 @@
 * [Awesome AI Agents](https://github.com/kaushikb11/awesome-llm-agents)
 * [Awesome Large Multimodal Agents](https://github.com/jun0wanan/awesome-large-multimodal-agents)
 * [Awesome AI Agents Guide](https://github.com/algomatic-inc/awesome-ai-agents-guide)
+* [https://github.com/Kunlun-Zhu/Awesome-Agents-Research (2023)](https://github.com/Kunlun-Zhu/Awesome-Agents-Research)
 
 ### LangChain Agents
 
