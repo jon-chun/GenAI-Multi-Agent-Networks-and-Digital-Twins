@@ -18,6 +18,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 * [Sharbo.io ](https://www.sharbo.io/) (competitive analysis)
 * [ParaFactAI.com](https://parafactai.com/?ref=manuagi) (fact checking)
 * [Spokk.io](https://www.spokk.io) (customer feedback, customize for non-profits or others)
+* [Haystack Demos](https://github.com/deepset-ai/haystack-demos)
   
 ### Many more ideas at
 

@@ -33,6 +33,26 @@
 
 * [SerpAPI](https://serpapi.com/playground)
 
+* [Web Search API Summary](https://chatgpt.com/share/675afa9a-1170-800d-9b49-a69f3a27af4f   )
+
+# Web Search APIs for Agentic Frameworks
+
+| API                          | Free Searches          | Use Case                              | Pros                                   | Cons                                 |
+|------------------------------|------------------------|---------------------------------------|----------------------------------------|--------------------------------------|
+| **DuckDuckGo Instant**       | Unlimited (limited features) | Quick facts, structured data         | Privacy-focused, no API key required  | No full web search                  |
+| **Taviloi Scraper**          | Limited free tier      | Scraping search engine results        | Multi-engine support, captcha bypass  | ToS risks when scraping             |
+| **SerpAPI**                  | 100/month             | Aggregated search results             | Rich JSON, customizable               | Expensive paid plans                |
+| **Google Custom Search**     | 100/day               | Google search on specific domains     | Accurate, Google integration          | Strict request limits               |
+| **Bing Search (Azure)**      | 250/month             | Web, image, and entity search         | Multimedia support, robust API        | Requires Azure setup                |
+| **ContextualWeb Search**     | 1000/month            | General web and news searches         | Simple API, fast integration          | Limited results                     |
+| **RapidAPI Hub**             | Varies by API         | Multiple search providers             | Flexible options                      | Steep pricing for some APIs         |
+| **Algolia Search**           | 10,000 operations/month | Site-specific or dataset searches    | Fast, customizable relevance          | Not general web search              |
+| **Whoosh/OpenSearch**        | Unlimited (self-hosted) | Internal search systems               | Privacy, no dependency costs          | Infrastructure setup required       |
+| **News API**                 | 1000/month            | News, headlines, trending articles    | News-focused, source filters          | Limited to news data                |
+| **Meilisearch**              | Unlimited (self-hosted) | Custom dataset search                 | Customizable, open-source             | Requires pre-indexing, self-hosting |
+| **OpenAI Plugins**           | Dependent on host API  | Search-powered agent tools            | Easy integration with frameworks      | Depends on hosting API limits       |
+
+
 ## Torrent
 
 * [jq](https://github.com/jqlang/jq)
