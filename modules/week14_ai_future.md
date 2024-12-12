@@ -45,11 +45,9 @@ As someone who has worked extensively with AI agents since 2019, including proje
 
 Please don't hesitate to email me if you need any clarification about these guidelines. Your success in this project is important to me.
 
-
-
 # NO READINGS/QUIZ THIS WEEK (All the following links are OPTIONAL): 
 
-## READINGS
+## Winter Break Readings on the Big Picture and AI in Wider Context
 
 ### FUTURE TRENDS
 
@@ -110,7 +108,7 @@ modelcontextprotocol/servers)
 * [Whitehouse FACT SHEET: Biden-⁠Harris Administration Outlines Coordinated Approach to Harness Power of AI for U.S. National Security](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/)
 * [The global AI race: Will US innovation lead or lag? (6 Dec 2024)](https://www.brookings.edu/articles/the-global-ai-race-will-us-innovation-lead-or-lag/)
 
-#### Work
+#### AI and The Future of Work
 
 * [Microsoft Launches 10 NEW AI Agents (13:01) (24 Nov 2024)](https://www.youtube.com/watch?v=pcWKJ_yvf1M)
 * [Guide to Essential Competencies for AI by AI Alliance (10 Dec 2012)](https://thealliance.ai/core-projects/guide-to-essential-competencies-for-ai)

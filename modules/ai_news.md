@@ -194,6 +194,8 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 * [Phind.com](https://phind.com)
 * [SciSpace](https://typeset.io/)
 * [Paper Digest](https://www.paperdigest.org/)
+* [Raschka 2024 list](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list)
+* [DAIR-AI Weekly AI Papers](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
 ## Research Methods
 
