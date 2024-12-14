@@ -38,7 +38,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 * [AI Anytime Github](https://github.com/AIAnytime)
 * [Build your Personal Assistant with Agents and Tools (22 Nov 2024)](https://towardsdatascience.com/build-your-personal-assistant-with-agents-and-tools-048637ac308e)
 * [Evaluating and Monitoring LLM Agents: Tools, Metrics, and Best Practices (17 Nov 2024)](https://pub.towardsai.net/evaluating-and-monitoring-llm-agents-tools-metrics-and-best-practices-a61f508cccb0)
-
+* [LLMeme Coins Github](https://github.com/llmemecoin/docs)
 
 ## KEY QUESTIONS
 

@@ -12,7 +12,8 @@
 
 * [huggingface.co](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a)
 * [Scale.com](https://scale.com/leaderboard)
-* []()
+* [Artificial Analysis AI](https://artificialanalysis.ai/leaderboards/models)
+* [Refonte AI](https://www.refonte.ai/leaderboards)
 
 ## LLM Benchmark Leaderboards
 
