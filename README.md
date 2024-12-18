@@ -218,7 +218,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 3. RAG Application using Langchain
 4. Autonomous Multi-Agent Simulations
 
-### Final Project
+### Final Project Submission Requirements
 
 An original interdisciplinary research project applying at least one key technology covered in the 4 mini-projects.
 
