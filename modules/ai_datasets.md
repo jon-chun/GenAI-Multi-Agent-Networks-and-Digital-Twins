@@ -59,11 +59,12 @@
 * [Reliq](https://github.com/TUVIMEN/reliq)
 * [Torge](https://github.com/TUVIMEN/torge)
 
-## Torrent
+## OSINT
 
-* [jq](https://github.com/jqlang/jq)
-* [Reliq](https://github.com/TUVIMEN/reliq)
-* [Torge](https://github.com/TUVIMEN/torge)
+* [jivoi/Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Astrosp/Awesome OSINT for Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+* [ARPSyndicate/Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
+* [Maigret](https://github.com/soxoj/maigret)
 
 ## SCRAPING
 
