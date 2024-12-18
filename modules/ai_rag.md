@@ -1,17 +1,63 @@
 # RAG
 
+## RAG with Fact Checking
 
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
-* RAG Multiformat Input
-  * [Vision-Based RAG System For Complex Documents (15:55) (7 Sep 2024)](https://www.youtube.com/watch?v=DI9Q60T_054)
 
+## RAG with Citations
+
+Several GitHub repositories and code samples demonstrate how to create a RAG (Retrieval Augmented Generation) system with URL citations. Here are some notable examples:
+
+GitHub Repositories
+RAG Citation
+
+Repository: https://github.com/rahulanand1103/rag-citation
+This project enhances RAG pipelines by automatically generating relevant citations for AI-generated content[2].
+Verba: The Golden RAGtriever
+
+Repository: https://github.com/weaviate/Verba
+Verba is an open-source application that offers an end-to-end, streamlined interface for RAG, including citation capabilities[3].
+Kotaemon
+
+Repository: https://github.com/Cinnamon/kotaemon
+Kotaemon is an open-source RAG-based tool for chatting with documents, featuring advanced citations with document preview[8].
+RAG Techniques
+
+Repository: https://github.com/NirDiamant/RAG_Techniques
+This repository showcases various advanced techniques for RAG systems, including methods that could be adapted for URL citations[9].
+Code Samples and Tutorials
+LangChain RAG with Citations
+
+Tutorial: https://python.langchain.com/docs/how_to/qa_citations/
+This guide demonstrates methods to get a model to cite which parts of the source documents it referenced in generating its response[1].
+LlamaIndex RAG with In-line Citations
+
+Tutorial: https://docs.llamaindex.ai/en/stable/examples/workflow/citation_query_engine/
+This notebook walks through the implementation of RAG with in-line citations of source nodes using Workflows[4].
+Zilliz RAG with Citations Tutorial
+
+Blog post: https://zilliz.com/blog/retrieval-augmented-generation-with-citations
+This tutorial explains how to build a RAG system with citations using LlamaIndex and Milvus as the vector store[6].
+Additional Resources
+LangChain RAG Tutorial
+
+Tutorial: https://python.langchain.com/docs/tutorials/rag/
+While not specifically focused on citations, this tutorial provides a comprehensive overview of building a RAG application, which can be extended to include citation functionality[5].
+RAG for GitHub Repos
+
+Project: https://repodox.com
+This project, discussed on Reddit, implements RAG for GitHub repositories and could potentially be adapted to include URL citations[7].
+When implementing a RAG system with URL citations, consider using frameworks like LangChain or LlamaIndex, which provide built-in support for citation generation. Additionally, vector databases such as Milvus can be useful for storing and retrieving document chunks along with their source URLs.
+
+Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https://github.com/rahulanand1103/rag-citation [3] https://github.com/weaviate/Verba [4] https://docs.llamaindex.ai/en/stable/examples/workflow/citation_query_engine/ [5] https://python.langchain.com/docs/tutorials/rag/ [6] https://zilliz.com/blog/retrieval-augmented-generation-with-citations [7] https://www.reddit.com/r/LocalLLaMA/comments/1egjwnp/rag_for_github_repos_miniproject/ [8] https://github.com/Cinnamon/kotaemon [9] https://github.com/NirDiamant/RAG_Techniques [10] https://github.com/Praveen76/RAG-Retrieval-Augmented-Generation-using-Langchain/
 
 ## Multimodal
   * [Building a Multimodal RAG App for Medical Applications (48:54) (Feb 2024)](https://www.youtube.com/watch?v=fbbFrCfaF0w)
 * Contextual RAG
   * [Contextual RAG is stupidly brilliant! (15:02) (23 Sep 2024)](https://www.youtube.com/watch?v=42Da0O9zkhc)
-
+* RAG Multiformat Input
+  * [Vision-Based RAG System For Complex Documents (15:55) (7 Sep 2024)](https://www.youtube.com/watch?v=DI9Q60T_054)
 
 ## Local RAG
 

@@ -188,8 +188,10 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 
 ## Research Papers
 
+* [PaperDigest.org: Most Influential 2024 Papers (1 Oct 2024)](https://www.paperdigest.org/2024/10/most-influential-arxiv-computation-and-language-papers-2024-10/)
 * [SemanticScholar.org Dashboard](https://www.semanticscholar.org/me/research)
 * [Huggingface Papers](https://huggingface.co/papers)
+* [Huggingface Collections](https://huggingface.co/collections)
 * [Arxiv.org](https://arxiv.org)
 * [Papers without Code](https://paperswithcode.com/)
 * [Perplexity.ai](https://perplexity.ai)
@@ -199,6 +201,7 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 * [Most Influential 2024](https://www.paperdigest.org/2024/10/most-influential-arxiv-computation-and-language-papers-2024-10/)
 * [Raschka 2024 list](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list)
 * [DAIR-AI Weekly AI Papers](https://github.com/dair-ai/ML-Papers-of-the-Week)
+* [AI Papers Academy YT](https://www.youtube.com/@aipapersacademy)
 
 ## Research Methods
 

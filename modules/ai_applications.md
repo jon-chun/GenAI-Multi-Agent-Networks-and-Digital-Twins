@@ -37,6 +37,12 @@
   * [Mistral Cookbook](https://github.com/mistralai/cookbook/)
 * [Cohere Cookbook](https://docs.cohere.com/v2/docs/cookbooks)
 
+## Notebooks
+
+* [Kaggle](kaggle.com)
+* [Bohrium](https://bohrium.dp.tech/notebooks?tags=25&notebookTab=recommendations)
+
+
 ## Prompts
 
 * [Prompt Compression and Query Optimization (1hr) (MongoDB)](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/)

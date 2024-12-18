@@ -76,6 +76,12 @@ Rallly
 
 * [How I deploy serverless containers for free (6:32) (Feb 2024)](https://www.youtube.com/watch?v=cw34KMPSt4k)
 
+## Self-Hosted
+
+* [Github: n8n Self-hosted AI starter kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+  * [Run All-in-One Local AI Infrastructure In MINUTES! (LLMs, RAG & More) (15:08) (10 Dec 2024)](https://www.youtube.com/watch?v=TIMOfVhnjQA)
+  * [The ULTIMATE n8n Self-Hosting Guide (25:17) (11 Dec 2024)](https://www.youtube.com/watch?v=mhDeE5N_SWk)
+
 ## Infrastructure as Code
 
 * [Ansible in 100 Second (2:33) (2023)](https://www.youtube.com/watch?v=xRMPKQweySE)

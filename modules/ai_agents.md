@@ -31,6 +31,7 @@
 ### Agent Tools
 
 * [Awesome Autonomous Web](https://github.com/Agent-Tools/awesome-autonomous-web)
+* [LLM Tool Learning](https://github.com/quchangle1/LLM-Tool-Survey)
 
 ### Embodied Agents
 
