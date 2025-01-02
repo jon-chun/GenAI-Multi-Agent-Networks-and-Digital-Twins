@@ -50,6 +50,10 @@
 
 * [EQBench](https://eqbench.com/)
 
+### Voice
+
+* [HF ASR](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
+
 ### Vision
 
 * [OpenCompass](https://rank.opencompass.org.cn/home)
@@ -70,6 +74,11 @@
 * [LLMArena.ai](https://llmarena.ai/compare?llms=3094,3092&mode=edit)
 * [Uncensored Leaderboard](https://llm.extractum.io/list/?uncensored)
 
+## AI AGent Leaderboards
+
+* [AgentLab](https://github.com/ServiceNow/AgentLab/?tab=readme-ov-file)
+* [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard)
+
 ## Libraries
 
 * [TruLens](https://github.com/truera/trulens)
@@ -77,11 +86,6 @@
 ## Research
 
 * [AutoRace (Automated Reasoning Chain Evaluation) by Hao et al. (11 Aug 2024)](https://www.llm-reasoners.net/leaderboard)
-
-
-
-# AI Evaluations
-
 
 ## Dataset Annotation
 

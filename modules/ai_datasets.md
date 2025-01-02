@@ -66,6 +66,13 @@
 * [ARPSyndicate/Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 * [Maigret](https://github.com/soxoj/maigret)
 
+## EXTRACION
+
+* [Dockling]() PowerPoint, PDF, Excel, HTML, etc to Markdown
+* [PyMuPDF]()
+* [MarkItDown]()
+* [Nougat]()
+
 ## SCRAPING
 
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
@@ -93,7 +100,6 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 3. pay for scraping webservices like Octoparse, APIify, etc for your target websites
 * [Apify Tutorial (The best web crawler platform? (12:18) (7 Dec 2024)](https://www.youtube.com/watch?v=y9IGD9OoRkw) Real Estate scraper in real-time
-
 
 ## PREPROCESSING
 

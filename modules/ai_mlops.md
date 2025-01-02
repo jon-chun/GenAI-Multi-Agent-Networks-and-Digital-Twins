@@ -100,6 +100,7 @@ Rallly
 
 ## AI Observability
 
+* [Pydantic   logfire.dev](https://github.com/pydantic/logfire)
 * [Opik](https://www.comet.com/site/products/opik/)
 * [AgentBoard (24 Jan 2024)](https://github.com/hkust-nlp/AgentBoard)
   * [Paper](https://hkust-nlp.github.io/agentboard/)
