@@ -1,4 +1,9 @@
-# AI Workflow Automation Tools
+# AI Workflow Automation Design
+
+## Workflow Architecture
+
+* [Anthropic Revealed Secrets to Building Powerful Agents (19:08) (28 Dec 2024)](https://www.youtube.com/watch?v=0v7TQIh_kes)
+* [Anthropic: Building Effective Agents (19 Dec 2024)](https://www.anthropic.com/research/building-effective-agents)
 
 ## Browser Automation
 
