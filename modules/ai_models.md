@@ -18,3 +18,8 @@
 
 * [Top 10 Uncensored LLM](https://analyticsindiamag.com/ai-insights-analysis/top-10-uncensored-llms-you-can-run-on-a-laptop/)
 * [Llama 3.2 3B Instruct Uncensored](https://huggingface.co/chuanli11/Llama-3.2-3B-Instruct-uncensored)
+
+## Routing
+
+* [Protkey AI Gateway](https://github.com/Portkey-AI/gateway)
+  * [Install AI Gateway with Ollama Locally (12:25) (23 Dec 2024)]()
