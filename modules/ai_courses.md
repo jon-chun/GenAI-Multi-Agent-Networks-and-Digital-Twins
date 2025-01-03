@@ -5,6 +5,10 @@
 * [DeepLearning.ai](https://www.deeplearning.ai/)
 * [MS GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
 
+## Awesome Courses
+
+* [AI-Bites Learn-AI](https://github.com/ai-bites/learn-ai)
+
 ## Blog
 
 * Weights and Biases (WandB)
