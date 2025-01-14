@@ -18,6 +18,11 @@
 * [MS Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
 * [MS Agentic Cookbook](https://github.com/microsoft/AgenticCookBook)
 
+## Prompt Structure
+
+* [Prompt Engineering Master Class for ENGINEERS with Ollama and LLM (Q4 2024 Update) (29:06) (25 Nov 2024)](https://www.youtube.com/watch?v=ujnLJru2LIs&t=582s)
+  * [Gist](https://gist.github.com/disler/308edf5cc5df664e72fe9a490836d62e)
+
 ## Basic Prompt Engineering
 
 * ICL
@@ -44,6 +49,8 @@
 * [Optimize Your Prompt Workflow: Using Jinja Templates with ChatGPT & OpenAI (11:15) (1 Nov 2024)](https://www.youtube.com/watch?v=8K2HbXhwWug)
 
 ## Optimization
+
+* [MS PromptWizard](https://github.com/microsoft/promptwizard)
 
 ## Articles
 

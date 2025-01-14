@@ -55,6 +55,7 @@ Rallly
 
 ## Ollama
 
+* [Ollama FAQ](https://github.com/ollama/ollama/blob/main/docs/faq.md)
 * [Huggingface Models](https://huggingface.co/docs/hub/en/ollama)
 * [ChatGPT Speedup](https://chatgpt.com/share/672b1ca6-57e0-800d-917c-1433383892ce)
 * Ollama
@@ -100,7 +101,11 @@ Rallly
 
 ## AI Observability
 
-* [Pydantic   logfire.dev](https://github.com/pydantic/logfire)
+* [Pydantic logfire.dev](https://github.com/pydantic/logfire)
 * [Opik](https://www.comet.com/site/products/opik/)
 * [AgentBoard (24 Jan 2024)](https://github.com/hkust-nlp/AgentBoard)
   * [Paper](https://hkust-nlp.github.io/agentboard/)
+
+## LLMOps
+
+* [Agenta](https://github.com/Agenta-AI/agenta)

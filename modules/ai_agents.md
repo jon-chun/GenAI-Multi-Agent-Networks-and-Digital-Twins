@@ -61,3 +61,7 @@
 ### Agent API Services
 
 * [Composio.dev](https://composio.dev/)
+
+## Agent Applications Colab
+
+* [Praison Agents](https://github.com/MervinPraison/PraisonAI/tree/main/cookbooks/notebooks)

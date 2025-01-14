@@ -51,6 +51,11 @@
 
 * [Advanced NumPy Course - Vectorization, Masking, Broadcasting & More (49:33) (10 Aug 2024)](https://www.youtube.com/watch?v=pQt8yQuPOGo)
 
+
+## Prompt Engineering
+
+* [https://www.youtube.com/watch?v=XWJGm3y207A&t=360s (24:59) (6 Jan 2025)](https://www.youtube.com/watch?v=XWJGm3y207A&t=360s)
+
 ## API
 
 * [ngrok](https://dashboard.ngrok.com/api-keys)

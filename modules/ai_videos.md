@@ -1,10 +1,9 @@
 # AI Videos
 
-
 ## Text-to-Video
 
+* [FREE & Open-Source AI Video Generator | AI Video Generator FREE (13:34) (2 Jan 2025)](https://www.youtube.com/watch?v=Y4cWwllPcdg)
 * [Hunyuan Video](https://huggingface.co/tencent/HunyuanVideo)
-
 
 ## AI Video Tutorials
 
@@ -13,7 +12,6 @@
 ## Video Libraries
 
 * [PsyChip: OpenCV+YOLO+LLAVA powered video surveillance system](https://github.com/PsyChip/machina?ref=dailydev)
-
 
 # Extract Clips
 
