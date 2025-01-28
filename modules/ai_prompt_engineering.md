@@ -50,8 +50,11 @@
 
 ## Optimization
 
+<<<<<<< HEAD
 * [MS PromptWizard](https://github.com/microsoft/promptwizard)
 
+=======
+>>>>>>> 85ba246f3986e5ffb5e9db6b32e17ec528956b79
 ## Articles
 
 * [The Power of Prompting (28 Nov 2023)](https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/)
