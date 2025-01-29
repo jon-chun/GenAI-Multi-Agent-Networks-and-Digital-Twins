@@ -34,7 +34,6 @@
 
 * [Prompt4Reasoning](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
-<<<<<<< HEAD
 ### Multiagent Reasoning Frameworks
 
 * [Understanding and Effectively Using AI Reasoning Models (5:15) (22 Jan 2025)](https://www.youtube.com/watch?v=f0RbwrBcFmc)
@@ -60,12 +59,12 @@
 * [The Landscape of Emerging AI Agent Architectures for Reasoning Planning and Tool Calling -- A survey (17 Apr 2024)](https://arxiv.org/abs/2404.11584)
 * (Multiagent Discussion Reasoning)[Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key? (28 Feb 2024)](https://arxiv.org/pdf/2402.18272)
   * [Github](https://github.com/SecureAIAutonomyLab/MA-ToT)
-=======
+
 ### Multiagent Reasoning
 
 * [Multiagent Reasoning](https://github.com/AdieLaine/multi-agent-reasoning)
 * [MS Magnetic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
->>>>>>> 85ba246f3986e5ffb5e9db6b32e17ec528956b79
+
 
 ### Reasoning on Graphs
 
