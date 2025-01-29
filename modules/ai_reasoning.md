@@ -3,11 +3,8 @@
 ## Reasoning
 
 * [System 2 Research](https://github.com/open-thought/system-2-research)
-<<<<<<< HEAD
 * [LLM CoT ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)
   * [Colab](https://colab.research.google.com/github/OpenBioLink/ThoughtSource/blob/main/notebooks/tutorial.ipynb/)
-=======
->>>>>>> 85ba246f3986e5ffb5e9db6b32e17ec528956b79
 
 ### Awesome LLM Reasoning
 
