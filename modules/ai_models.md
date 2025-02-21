@@ -16,6 +16,7 @@
 
 ## Uncensored
 
+* [DeepHermes3 Abliterated (Feb 2025)](https://ollama.com/huihui_ai/deephermes3-abliterated)
 * [Top 10 Uncensored LLM](https://analyticsindiamag.com/ai-insights-analysis/top-10-uncensored-llms-you-can-run-on-a-laptop/)
 * [Llama 3.2 3B Instruct Uncensored](https://huggingface.co/chuanli11/Llama-3.2-3B-Instruct-uncensored)
 

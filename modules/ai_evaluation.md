@@ -24,11 +24,13 @@
 
 ## What are some popular open-source LLM evaluation libraries?
 
-1. [lm-eval-harness](https://github.com/EleutherAI/lm-evaluation-harness)
-2. [PromptBench](https://github.com/microsoft/promptbench)
-3. [DeepEval](https://github.com/confident-ai/deepeval)
-4. [MLflow LLM Evaluate](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html)
-5. [OpenAI Evals](https://github.com/openai/evals)
+- [lm-eval-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+- [PromptBench](https://github.com/microsoft/promptbench)
+- [DeepEval](https://github.com/confident-ai/deepeval)
+- [MLflow LLM Evaluate](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html)
+- [OpenAI Evals](https://github.com/openai/evals)
+- [OpenRouter.ai](https://openrouter.ai/rankings)
+- [Llama Benchmarks](https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/MODEL_CARD.md)
 
 ## What features does lm-eval-harness offer?
 

@@ -1,5 +1,11 @@
 # RESEARCH
 
+
+## AI Resserach
+
+* [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
+* [Scira](https://github.com/zaidmukaddam/scira)
+
 ## Academic Research
 
 ### Quick Academic Presentations

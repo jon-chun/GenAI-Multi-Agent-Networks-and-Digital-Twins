@@ -27,6 +27,7 @@
 
 ### Uncensoring
 
+* [Removing refusals with HF Transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
 * [Uncensor any LLM with abliteration (13 Jun 2024)](https://huggingface.co/blog/mlabonne/abliteration)
 
 

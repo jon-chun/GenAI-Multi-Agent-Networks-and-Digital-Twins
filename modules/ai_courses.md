@@ -4,6 +4,7 @@
 
 * [DeepLearning.ai](https://www.deeplearning.ai/)
 * [MS GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
+* [Chinese LLM Cookbook ](https://github.com/datawhalechina/llm-cookbook)
 
 ## Awesome Courses
 

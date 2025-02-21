@@ -77,6 +77,7 @@
 
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
+* [Firecrawl](https://github.com/mendableai/firecrawl)
 * [Crawl4AI and variants](https://github.com/search?q=craw4ai&type=repositories)
 * [ScrapeGraph AI Github](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 * [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
