@@ -5,7 +5,12 @@ https://github.com/segment-any-text/wtpsplit (table)
 https://github.com/wikimedia/sentencex?utm_source=chatgpt.com (table)
 
 
-## Structured   
+## Structured  
+
+* [Pydandic]()
+* [LLM InStructor](https://github.com/instructor-ai/instructor)
+* [Unstruct]()
+* [VLM Run Hub](https://www.youtube.com/watch?v=Vrp5vqdsMHM)
 
 https://github.com/mangiucugna/json_repair/
 

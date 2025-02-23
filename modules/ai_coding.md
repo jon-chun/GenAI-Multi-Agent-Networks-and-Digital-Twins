@@ -32,6 +32,8 @@
 
 ## Coding Copilots
 
+* [Goose](https://github.com/block/goose)
+* [Potpie](https://github.com/potpie-ai/potpie?ref=dailydev)
 * Aider
   * [Aider (Upgraded) : This Coding Agent just got AMAZING with DeepSeek-V2.5 Support, Caching & More! (8:50) (11 Sep 2024)](https://www.youtube.com/watch?v=s0nzjuJeibQ)
   * Free: Google/Remote, Supermaven/Local autocomplete

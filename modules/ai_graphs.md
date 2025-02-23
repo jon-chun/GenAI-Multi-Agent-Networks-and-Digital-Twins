@@ -1,5 +1,13 @@
 # AI GRAPHS
 
+## Graphs Extracted from Texts
+
+* [Neo4j: Exracting Graphs from Historical Docs (25 Feb 2021)](https://neo4j.com/blog/nodes/unearthing-historical-networks-neo4j/)
+* [How to Convert Any Text Into a Graph of Concepts: A method to convert any text corpus into a Knowledge Graph using Mistral 7B (10 Nov 2023)](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a/)
+* [Text to Knowledge Graph Made Easy with Graph Maker: An open-source library for building knowledge graphs from text corpus using open-source LLMs like Llama 3 and Mixtral. (7 May 2024)](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8/)
+* [GraphMaker Github (May 2025)](https://github.com/rahulnyk/graph_maker)
+
+
 Acyclic graphs, particularly Directed Acyclic Graphs (DAGs), are foundational in many CS and AI applications that require a structured, non-repetitive progression of tasks, states, or decisions. Here are several prominent applications and structures where avoiding loops is crucial:
 
 ## OVERVIEW

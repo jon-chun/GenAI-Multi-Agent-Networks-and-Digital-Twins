@@ -44,6 +44,17 @@
 * Guardrails
 * Tokens
 
+## Humanizing:
+
+* [How to humanize the outputs you get from ChatGPT (best humanizer prompt) (12:25) (20 Feb 2025)](https://www.youtube.com/watch?v=Oe1LELBIVMs)
+Dependency Grammar Framework: https://youtube.com/watch?v=F3Jd9GI6XqE
+
+PROMPT:
+Use the dependency grammar linguistic framework rather than phrase structure grammar to craft a [ARTICLE/POST/EMAIL/ETC.]. The idea is that the closer together each pair of words you’re connecting are, the easier the copy will be to comprehend. Here is the topic and additional details: [DETAILS]
+
+PROMPT:
+Use the dependency grammar linguistic framework rather than phrase structure grammar for the output. The idea is that the closer together each pair of words you’re connecting are, the easier the copy will be to comprehend.
+
 ## Templates
 
 * [Optimize Your Prompt Workflow: Using Jinja Templates with ChatGPT & OpenAI (11:15) (1 Nov 2024)](https://www.youtube.com/watch?v=8K2HbXhwWug)

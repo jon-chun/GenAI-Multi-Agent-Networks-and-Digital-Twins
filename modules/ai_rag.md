@@ -74,8 +74,24 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 * Memory Rag
   * [MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery (18 Sep 2024)](https://github.com/qhjqhj00/MemoRAG)
 
-## Graph Networks
+## RAG LLM Agents
 
+* [9 DeepSeek AGENTS Augment Knowledge Graph (KARMA) (18:42) (16 Feb 2025)](https://www.youtube.com/watch?v=wAioL-E5SAQ)
+* [How to Boost RAG Accuracy with SmolAgents & BM25 (54:15) (Feb 2025)](https://www.youtube.com/watch?v=2NQzCbPvUMs)
+
+## Graph RAG
+
+* [Deeplearning.ai KG-RAG](https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction?courseName=knowledge-graphs-rag)
+* [Neo4j LLM Knowledge Graph Builder - Extract Nodes and Relationships from Unstructured Text](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
+* [GraphMaker Repo and Colab](https://github.com/rahulnyk/graph_maker/blob/main/graph_maker_example.ipynb)
+* [How to Convert any Text into a Graph of Concepts (10 Nov 2023)](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a/)
+* [Text to Knowledge Graph made easy with Graph_Maker (7 May 2024)](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8/)
+
+Repo
+https://github.com/rahulnyk/graph_maker
+
+Colab
+https://github.com/rahulnyk/graph_maker/blob/main/graph_maker_example.ipynb
 * [LightRAG](https://github.com/HKUDS/LightRAG)
 * [MS GraphRAG](https://github.com/microsoft/graphrag)
 * [FastRAG](https://github.com/IntelLabs/fastRAG)

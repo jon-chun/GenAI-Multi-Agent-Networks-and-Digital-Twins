@@ -70,6 +70,10 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 * [Huggingface Blog](https://huggingface.co/blog)
 * [LangChain Blog](https://blog.langchain.dev/)
 
+## Repos and Tools
+
+* [Trendshift](https://trendshift.io/)
+
 
 ## Social Media
 

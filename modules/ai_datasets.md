@@ -59,12 +59,23 @@
 * [Reliq](https://github.com/TUVIMEN/reliq)
 * [Torge](https://github.com/TUVIMEN/torge)
 
+
+## Datasets
+
+* [Mendeley](https://data.mendeley.com/)
+* [Kaggle](https://kaggle.com)
+* [Zenodo](https://zenodo.org/)
+
 ## OSINT
 
 * [jivoi/Awesome OSINT](https://github.com/jivoi/awesome-osint)
 * [Astrosp/Awesome OSINT for Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
 * [ARPSyndicate/Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 * [Maigret](https://github.com/soxoj/maigret)
+
+## Affect
+
+* [iSarcasm](https://www.research.ed.ac.uk/files/160693501/iSarcasm_OPREA_DOA03042020_VOR_CC_BY.pdf)
 
 ## EXTRACION
 
@@ -84,6 +95,7 @@
   * [Browser Use Github](https://github.com/gregpr07/browser-use)
   * [LightRAG Github](https://github.com/HKUDS/LightRAG)
 * [Selenium Web Scraping is too Slow. Try This. (22:10) (3 Nov 2024)](https://www.youtube.com/watch?v=di8V-baNCac)
+* [Web-Scrapping-using-Deepseek-API (Feb 2025)](https://github.com/avparadox/Web-Scrapping-using-Deepseek-API)
 
 * [Anthropic](https://claude.ai/chat/6ad53704-7a65-4cfa-9d30-e892b1bc1862)
 * [ChatGPT](https://chatgpt.com/share/66eed6ce-d31c-800d-a027-fced68c29092)
@@ -163,6 +175,9 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 ### Augmented Data
 
+* [Augmentoolkit Github](https://github.com/e-p-armstrong/augmentoolkit)
+  * [Convert Any Raw Text Into LLM Dataset Locally - Augmentoolkit (8:25) (Mar 2024)](https://www.youtube.com/watch?v=cdqIeNCj_eA)
+    * [Create a Custom Dataset in 3 Minutes - Augmentoolkit Demo (2:56) (2 Aug 2024)](https://www.youtube.com/watch?v=m32fM8S_DeY)
 * [Upgini](https://github.com/upgini/upgini)
 
 ### LLM TRAINING DATASETS
@@ -176,9 +191,13 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 * [RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models (30 Oct 2023)](https://www.together.ai/blog/redpajama-data-v2)
 * [How to Fine-Tune an LLM Part 1: Preparing a Dataset for Instruction Tuning (15 Jan 2024)](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2)
 * [How to Create High Quality Synthetic Data for Fine-Tuning LLMs (12 Jul 2024)](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms)
+* [WildChat 1M (May 2024)](https://arxiv.org/pdf/2405.01470)
+  * [Huggingface](https://huggingface.co/datasets/allenai/WildChat-1M)
+* [WildChat 10M (Jan 2025)](https://arxiv.org/pdf/2501.18511)
 
 ### SYNTHETIC DATA
 
+* [Install Synthetic Data Generator with Ollama - Generate High-Quality Datasets Locally (8:56) (7 Jan 2025)](https://www.youtube.com/watch?v=yQy_hSFSyIY)
 * [Mostly.ai (PAID/FREE)](https://mostly.ai/)
 * [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
 
