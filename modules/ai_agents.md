@@ -2,6 +2,8 @@
 
 ## Awesome Agents
 
+* [Awesome AI Agents (Jan 2025)](https://github.com/jim-schwoebel/awesome_ai_agents)
+
 ### Strategies
 
 * [26 Key Takeaways from Building 150+ Agents in 9 months (30:07) (21 Feb 2025)](https://www.youtube.com/watch?v=jmeGqDu4tPU)

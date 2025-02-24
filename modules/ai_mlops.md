@@ -74,6 +74,7 @@ Rallly
 
 ## Docker
 
+* [How to Install Ollama, Docker, and Open WebUI on Linux (Ubuntu) (5:14) (Dec 2025)](https://www.youtube.com/watch?v=TsTJVd9LciY)
 * [How I deploy serverless containers for free (6:32) (Feb 2024)](https://www.youtube.com/watch?v=cw34KMPSt4k)
 
 ## Self-Hosted
