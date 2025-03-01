@@ -2,8 +2,35 @@
 
 ## LLM Benchmarks
 
+### Awesome Benchmarks
+
+* [BradyFU/Awesome-Multimodal-Large-Language-Models (Mar 2025)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+* [bebetterest/AwesomeCode_on_LLMReasoningRL (Mar 2025)](https://github.com/bebetterest/AwesomeCode_on_LLMReasoningRL)
+* [haizelabs/Awesome-LLM-Judges (Feb 2024)](https://github.com/haizelabs/Awesome-LLM-Judges)
+* [underlines/awesome-ml (Feb 2025)](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md#benchmarking)
+* [HqWu-HITCS/Awesome-LLM-Survey (Sep 2024)](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)
+* [horseee/Awesome-Efficient-LLM (Feb 2025)](https://github.com/horseee/Awesome-Efficient-LLM)
+* [samkhur006/awesome-llm-planning-reasoning](https://github.com/samkhur006/awesome-llm-planning-reasoning)
+* [JShollaj/awesome-llm-interpretability (Dec 2024)](https://github.com/JShollaj/awesome-llm-interpretability)
+* [johnnyhwu/Awesome-LLM-Tabular (Dec 2024  )](https://github.com/johnnyhwu/Awesome-LLM-Tabular)
+* [huybery/Awesome-Code-LLM (Dec 2024)](https://github.com/huybery/Awesome-Code-LLM?tab=readme-ov-file#-awesome-code-llms-leaderboard)
+* [Hannibal046/Awesome-LLM?tab=readme-ov-file (2025 )](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file)
+* [wgwang/awesome-LLMs-In-China (Dec 2025)](https://github.com/wgwang/awesome-LLMs-In-China)
+* [SihyeongPark/Awesome-LLM-Benchmark](https://github.com/SihyeongPark/Awesome-LLM-Benchmark)
+* *[onejune2018/Awesome-LLM-Eval (Oct 2024)](https://github.com/onejune2018/Awesome-LLM-Eval)
+* [xatkit-bot-platform/awesome-nlp-chatbot-benchmarks (Oct 2024)](https://github.com/xatkit-bot-platform/awesome-nlp-chatbot-benchmarks)
+* [ndrwmlnk/Awesome-Benchmarks-for-Physical-Reasoning-AI (2024)](https://github.com/ndrwmlnk/Awesome-Benchmarks-for-Physical-Reasoning-AI)
+* *[tjunlp-lab/Awesome-LLMs-Evaluation-Papers (2023)](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
+* [GSL-Benchmark/GSLB (2024)](https://github.com/GSL-Benchmark/GSLB)
+* [Schuture/Benchmarking-Awesome-Diffusion-Models (2022)](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)
+* Misc
+* [SuperBruceJia/Awesome-LLM-Self-Consistency (Oct 2024)](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
+* [Geralt-Targaryen/Awesome-Education-LLM (Sep 2024)](https://github.com/Geralt-Targaryen/Awesome-Education-LLM)
+
 ### Aggregate Benchmarks
 
+* [Humanity's Last Exam](https://lastexam.ai/)
+  * [Github](https://github.com/centerforaisafety/hle)
 * [Stanford HELM](https://crfm.stanford.edu/helm/)
 * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
 * [Evalverse](https://github.com/UpstageAI/evalverse)
@@ -12,7 +39,7 @@
 
 * [huggingface.co](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a)
 * [Scale.com](https://scale.com/leaderboard)
-* []()
+* *[extractum](https://llm.extractum.io/)
 
 ## LLM Benchmark Leaderboards
 
@@ -35,6 +62,8 @@
 
 ### Coding
 
+* [Artificial Analysis Coding Benchmark](https://artificialanalysis.ai/leaderboards/models)
+* [Aider](https://aider.chat/docs/leaderboards/)
 * [CanAICode](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
 
 ### Uncensored
@@ -52,6 +81,18 @@
 ### Vision
 
 * [OpenCompass](https://rank.opencompass.org.cn/home)
+
+### Specialized
+
+* [Prompt to Leaderboard](https://lmarena.ai/?p2l)
+
+### Agent Benchmarks
+
+* [The AgenticBench](https://github.com/TheAgenticAI/TheAgenticBench)
+  * [AgenticBench - Digital Worker Framework - Install and Review (8:51) (22 Feb 2025)](https://www.youtube.com/watch?v=jLh5RwySYrA)
+* [AgentEvals](https://github.com/langchain-ai/agentevals)
+* [AgentBench](https://github.com/THUDM/AgentBench)
+* [GAIA Benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
 
 ## LLM Leaderboards
 

@@ -1,5 +1,9 @@
 # AI Videos
 
+## LMM 
+
+* [Qwen2.5 VL](https://github.com/QwenLM/Qwen2.5-VL) w/Colabs
+  * [Qwen2.5-VL: Can It Really Understand 1 Hour of Video? 🤯 AI Video Analysis Test (9:34) (22 Feb 2025) - REQUIRED A6000 48GB VRAM    ](https://www.youtube.com/watch?v=1m8QXAHj5Sw)
 ## AI Video Tutorials
 
 * [The Future of RAG will be with Vision: End to End Example with ColPali and a Vision Language Model (17 Aug 2024)](https://blog.gopenai.com/the-future-of-rag-will-be-with-vision-end-to-end-example-with-colpali-and-a-vision-language-model-fe133667d2f9)

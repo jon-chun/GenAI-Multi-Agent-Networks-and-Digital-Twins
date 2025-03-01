@@ -1,5 +1,10 @@
 # AI GRAPHS
 
+## LLM Graphs
+
+* [LLM-Graph-Builder](https://github.com/neo4j-labs/llm-graph-builder)
+
+
 Acyclic graphs, particularly Directed Acyclic Graphs (DAGs), are foundational in many CS and AI applications that require a structured, non-repetitive progression of tasks, states, or decisions. Here are several prominent applications and structures where avoiding loops is crucial:
 
 ## OVERVIEW

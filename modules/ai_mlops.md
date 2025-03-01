@@ -20,6 +20,11 @@ Rallly
   * Vaex works well with very large datasets, especially when memory is limited, although it lacks some advanced features.
   * Modin provides a user-friendly transition for those who need better performance than Pandas without altering much of their code.
 
+## Utilities
+
+* [can-it-run-llm](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
+* []()
+
 ## Software Engineering
 
 * [Aurelio.ai's Semantic-Router](https://www.aurelio.ai/learn)

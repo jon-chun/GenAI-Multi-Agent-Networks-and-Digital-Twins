@@ -1,17 +1,21 @@
 # RAG
 
+## Tutorials
+
+* [Datacamp Tutorial](https://www.datacamp.com/tutorial/knowledge-graph-rag)
+* [Deeplearning.ai](https://learn.deeplearning.ai/courses/knowledge-graphs-rag)
+
+## Hallucinations
 
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
 * RAG Multiformat Input
   * [Vision-Based RAG System For Complex Documents (15:55) (7 Sep 2024)](https://www.youtube.com/watch?v=DI9Q60T_054)
 
-
 ## Multimodal
   * [Building a Multimodal RAG App for Medical Applications (48:54) (Feb 2024)](https://www.youtube.com/watch?v=fbbFrCfaF0w)
 * Contextual RAG
   * [Contextual RAG is stupidly brilliant! (15:02) (23 Sep 2024)](https://www.youtube.com/watch?v=42Da0O9zkhc)
-
 
 ## Local RAG
 
@@ -19,6 +23,7 @@
 * Ollama
   * [Python RAG Tutorial (with Local LLMs): AI For Your PDFs (21:32) (17 Apr 2024)](https://www.youtube.com/watch?v=2TJxpyO3ei4&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e)
   * [Ollama Rag Colab](https://colab.research.google.com/drive/1cqLm7bxVAvh5HA5X38KG-gmofdGrEAwN?usp=sharing)
+* [Self-RAG (Mar 2024)](https://github.com/AkariAsai/self-rag)
 
 ## Memory
 
@@ -34,7 +39,6 @@
 * [MS GraphRAG](https://github.com/microsoft/graphrag)
 * [FastRAG](https://github.com/IntelLabs/fastRAG)
 * [Harvard Presents NEW Knowledge-Graph AGENT (MedAI) (38:35) (7 Oct 2024)](https://www.youtube.com/watch?v=Fm68I-phaiY)
-
 
 ## Frameworks
 

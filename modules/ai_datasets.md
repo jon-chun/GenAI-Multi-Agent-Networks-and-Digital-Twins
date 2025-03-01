@@ -19,6 +19,9 @@
 
 ## META REPOS
 
+* [Awesome Public Datasets Index](https://github.com/topics/awesome-public-datasets)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Awesome Data](https://github.com/datasets/awesome-data)
 * [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning?tab=readme-ov-file#data-pipeline)
 
 ## REPOS
@@ -46,6 +49,7 @@
 
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [ScrapeGraph AI Github](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+  * [Scragraph AI Colab](https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?usp=sharing)
 * [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
   * [Browser Use Github](https://github.com/gregpr07/browser-use)
   * [LightRAG Github](https://github.com/HKUDS/LightRAG)
@@ -58,6 +62,11 @@
 * [Goose3](https://github.com/goose3/goose3)
 
 * [Crawl4AI](https://github.com/unclecode/crawl4ai)
+
+
+## Scraping Utility Libraries
+
+* [CamoFox (Feb 2025)]](https://github.com/daijro/camoufox)
 
 ## PREPROCESSING
 

@@ -4,6 +4,12 @@ There are several open-source and third-party options available for creating gat
 
 ## Open-Source Options
 
+* [grok.com]()
+* [DeepSeek Chat]()
+* [MS Copilot](https://copilot.microsoft.com/chats)
+* [Qwen Chat](https://chat.qwen.ai/)
+
+
 ### 1. CharacterAI Unofficial Python API
 
 An unofficial Python library for interacting with Character.AI has been developed by the community[1]. This library provides a synchronous/asynchronous API that allows you to:

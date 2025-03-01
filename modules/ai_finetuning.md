@@ -5,9 +5,13 @@
 * [Open Source and In-House: How Uber Optimizes LLM Training (17 Oct 2024)](https://www.uber.com/blog/open-source-and-in-house-how-uber-optimizes-llm-training/?ref=dailydev)
 * [Fine-tuning large language models (LLMs) in 2024 (23 Jul 2024)](https://www.superannotate.com/blog/llm-fine-tuning)
 * [Fine Tune Llama 3.2 (3b) - On Custom Dataset 2X Faster | With Google Colab and 0$ (17:23) (2 Oct 2024)](https://www.youtube.com/watch?v=inT-m5Y9Pdo)
+  
 ### Fine-Tuning in Detail
 
+* [HF Smol Fine-Tuning Course (Dec 2024)](https://github.com/huggingface/smol-course)
+  
 ### Libraries
+
 * Unsloth
   * [Github](https://github.com/unslothai/unsloth)
   * [Colab](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
@@ -25,3 +29,8 @@
 ### Uncensoring
 
 * [Uncensor any LLM with abliteration (13 Jun 2024)](https://huggingface.co/blog/mlabonne/abliteration)
+
+### Fine-Tuning Reasoning
+
+* [Search-R1](https://github.com/PeterGriffinJin/Search-R1)
+* [Dataset: Meta Natural Reasoning](https://huggingface.co/datasets/facebook/natural_reasoning)

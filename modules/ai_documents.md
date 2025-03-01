@@ -1,12 +1,30 @@
 # AI Document
 
+## OCR Comparisons
+
+* [OCR Comparisons for Rag (23 Sep 2024)](https://nanonets.com/blog/best-pdf-parser-for-rag-apps-a-comprehensive-guide/#summary-of-quality-of-extraction)
+  * PyPDF 1 and 2 - free, but have found them to struggle with large amounts of text data, messy extraction
+  * PDFminer - Generally correct with text-based questions - should be ideal for you
+  * Tika Python, Llama parser - if you want to process stuff other than text like tables / images etc.
 
 ## OCR
 
+* Textract
+* Tika
+* [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/)
+* [LangChain UnstructuredPDFLoader](https://api.python.langchain.com/en/latest/document_loaders/langchain_community.document_loaders.pdf.UnstructuredPDFLoader.html)
+* Tesseract OCR with pdf2image
+* multilingual-pdf2text
+* EasyOCR
+* Spark OCR
 * [ChatGPT](https://chatgpt.com/share/66eed096-4110-800d-9d79-d131fab8b221)
 * [Perplexity](https://www.perplexity.ai/search/open-source-or-python-librarie-Myts_hs4QjaG.pBkUsSNjw)
 * [TesseractOCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 * [Xerox OCR](https://github.com/getomni-ai/zerox)
+
+## OCR Models
+
+* [OlmOCR 7B (Feb 2025)](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
 ## ETL
 

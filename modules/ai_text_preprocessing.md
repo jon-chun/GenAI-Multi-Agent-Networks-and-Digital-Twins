@@ -1,6 +1,11 @@
 # Text Preprocessing
 
 
+## Unstructured Text
+
+* [Extractous (Dec 2024)](https://github.com/yobix-ai/extractous)
+* [Unstruct](https://github.com/Zipstack/unstract)
+
 ## Structured Text
 
 Several open-source Python libraries exist for decomposing and transforming full documents into semantically meaningful hierarchical structures. Here are some notable options:
@@ -58,8 +63,9 @@ Citations:
 [4] https://github.com/hdmf-dev/hdmf
 
 
-## Complex Document Processing
+## ETL Pipelines / Complex Document Processing
 
+* [ToWhee](https://github.com/towhee-io/towhee)
 * DocETL
   * [Github](https://github.com/ucbepic/docetl)
   * [DocETL Documentation](https://ucbepic.github.io/docetl/installation/)
