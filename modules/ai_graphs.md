@@ -3,6 +3,9 @@
 ## LLM Graphs
 
 * [LLM-Graph-Builder](https://github.com/neo4j-labs/llm-graph-builder)
+## Vendors
+* [neo4j](https://console-preview.neo4j.io/guides/software-development)
+
 ## Graphs Extracted from Texts
 
 * [Neo4j: Exracting Graphs from Historical Docs (25 Feb 2021)](https://neo4j.com/blog/nodes/unearthing-historical-networks-neo4j/)
@@ -10,6 +13,12 @@
 * [Text to Knowledge Graph Made Easy with Graph Maker: An open-source library for building knowledge graphs from text corpus using open-source LLMs like Llama 3 and Mixtral. (7 May 2024)](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8/)
 * [GraphMaker Github (May 2025)](https://github.com/rahulnyk/graph_maker)
 
+## Research Github
+
+* [SimGRAG (Dec 2024)](https://github.com/YZ-Cai/SimGRAG)
+* [GRAG (Nov 2024)](https://github.com/HuieL/GRAG)
+
+# DeepResearch
 
 Acyclic graphs, particularly Directed Acyclic Graphs (DAGs), are foundational in many CS and AI applications that require a structured, non-repetitive progression of tasks, states, or decisions. Here are several prominent applications and structures where avoiding loops is crucial:
 

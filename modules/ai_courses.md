@@ -3,6 +3,7 @@
 ## Formal Courses
 
 * [DeepLearning.ai](https://www.deeplearning.ai/)
+* [Huggingface Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction?ref=dailydev)
 * [MS GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
 * [Chinese LLM Cookbook ](https://github.com/datawhalechina/llm-cookbook)
 
