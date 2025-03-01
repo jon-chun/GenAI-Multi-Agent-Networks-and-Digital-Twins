@@ -22,6 +22,13 @@
 * [Perplexity](https://www.perplexity.ai/search/open-source-or-python-librarie-Myts_hs4QjaG.pBkUsSNjw)
 * [TesseractOCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 * [Xerox OCR](https://github.com/getomni-ai/zerox)
+* [Unstruct OCR Model](https://github.com/Zipstack/unstract)
+* [OCR-Battle](https://github.com/trancethehuman/ai-workshop-code/tree/main/projects/ocr-battle)
+* [YT: 10 LMM for OCR (34:06) (19 Dec 2024)](https://www.youtube.com/watch?v=yT-7i5npRBQ)
+
+## OCR Models
+
+* [OlmOCR 7B (Feb 2025)](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
 ## ETL
 
