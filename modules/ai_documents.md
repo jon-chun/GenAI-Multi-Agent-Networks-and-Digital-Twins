@@ -17,14 +17,11 @@
 * multilingual-pdf2text
 * EasyOCR
 * Spark OCR
+* [GOT-OCR2.0](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
 * [ChatGPT](https://chatgpt.com/share/66eed096-4110-800d-9d79-d131fab8b221)
 * [Perplexity](https://www.perplexity.ai/search/open-source-or-python-librarie-Myts_hs4QjaG.pBkUsSNjw)
 * [TesseractOCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 * [Xerox OCR](https://github.com/getomni-ai/zerox)
-
-## OCR Models
-
-* [OlmOCR 7B (Feb 2025)](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
 ## ETL
 

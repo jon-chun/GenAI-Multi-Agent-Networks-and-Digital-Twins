@@ -188,7 +188,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/oh_noes_404.md)
+* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/week14_ai_future.md) (obèrt)
 * [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
@@ -218,9 +218,26 @@ Students will finalize and present their semester-long projects, demonstrating t
 3. RAG Application using Langchain
 4. Autonomous Multi-Agent Simulations
 
-### Final Project
+### Final Project Submission Requirements
 
 An original interdisciplinary research project applying at least one key technology covered in the 4 mini-projects.
+
+Final projects are due today Wednesday, December 18, 2024 by 6:30pm per the official Kenyon 2024 Exam Week Schedule. You may request an extension until Friday at noon but no later.
+
+1. Please email me the following 2 parts for your Project for grading:
+
+* Your carefully proof-read poster in *.ppt (MS PowerPoint format NOT PDF)
+* Your code (to verify originality/plagiarism check) (e.g. a colab notebook or github repo)
+* Any data required to successfully run and test your programs (e.g. *.csv structured tables for SML or *.pdf unstructured documents for RAG)
+
+2. If your code is based upon one of the many agentic tutorials/examples out there:
+
+* Cite this in your references
+* Explain this in your poster and explain how you modified, extended, or otherwise customized it (e.g. unique dataset, prompts, agents, tools, etc)
+
+3. If you used AI to help write your poster, please note that in the credits for transparency (and do not have AI write the poster for you)
+
+4. Please do a final check on Moodle.kenyon.edu to ensure all your grades, quizzes, presentations, etc have been accurately recorded.
 
 For detailed project descriptions and grading rubrics, please refer to the individual module files.
 
@@ -228,7 +245,7 @@ For detailed project descriptions and grading rubrics, please refer to the indiv
 
 ## Diachronic Sentiment Analysis
 
-* [SentimentArcs Simplified (17 Nov 2024)](./code/notebooks/sentimentarcs_supersimplified_20241117.ipynb)
+* [SentimentArcs Simplified (10 Dec 2024)](./code/notebooks/sentimentarcs_supersimplified_20241210.ipynb)
 
 ## Topic Modeling
 

@@ -1,5 +1,8 @@
 # Dataset Creation
 
+## Data Engineering
+
+* [Data Engineer Handbook on Github](https://github.com/DataExpert-io/data-engineer-handbook)
 
 ## SURVEY
 
@@ -33,27 +36,76 @@
 
 * [SerpAPI](https://serpapi.com/playground)
 
+* [Web Search API Summary](https://chatgpt.com/share/675afa9a-1170-800d-9b49-a69f3a27af4f   )
+
+# Web Search APIs for Agentic Frameworks
+
+| API                          | Free Searches          | Use Case                              | Pros                                   | Cons                                 |
+|------------------------------|------------------------|---------------------------------------|----------------------------------------|--------------------------------------|
+| **DuckDuckGo Instant**       | Unlimited (limited features) | Quick facts, structured data         | Privacy-focused, no API key required  | No full web search                  |
+| **Taviloi Scraper**          | Limited free tier      | Scraping search engine results        | Multi-engine support, captcha bypass  | ToS risks when scraping             |
+| **SerpAPI**                  | 100/month             | Aggregated search results             | Rich JSON, customizable               | Expensive paid plans                |
+| **Google Custom Search**     | 100/day               | Google search on specific domains     | Accurate, Google integration          | Strict request limits               |
+| **Bing Search (Azure)**      | 250/month             | Web, image, and entity search         | Multimedia support, robust API        | Requires Azure setup                |
+| **ContextualWeb Search**     | 1000/month            | General web and news searches         | Simple API, fast integration          | Limited results                     |
+| **RapidAPI Hub**             | Varies by API         | Multiple search providers             | Flexible options                      | Steep pricing for some APIs         |
+| **Algolia Search**           | 10,000 operations/month | Site-specific or dataset searches    | Fast, customizable relevance          | Not general web search              |
+| **Whoosh/OpenSearch**        | Unlimited (self-hosted) | Internal search systems               | Privacy, no dependency costs          | Infrastructure setup required       |
+| **News API**                 | 1000/month            | News, headlines, trending articles    | News-focused, source filters          | Limited to news data                |
+| **Meilisearch**              | Unlimited (self-hosted) | Custom dataset search                 | Customizable, open-source             | Requires pre-indexing, self-hosting |
+| **OpenAI Plugins**           | Dependent on host API  | Search-powered agent tools            | Easy integration with frameworks      | Depends on hosting API limits       |
+
+
 ## Torrent
 
 * [jq](https://github.com/jqlang/jq)
 * [Reliq](https://github.com/TUVIMEN/reliq)
 * [Torge](https://github.com/TUVIMEN/torge)
 
-## Torrent
 
-* [jq](https://github.com/jqlang/jq)
-* [Reliq](https://github.com/TUVIMEN/reliq)
-* [Torge](https://github.com/TUVIMEN/torge)
+## Datasets
+
+* [Mendeley](https://data.mendeley.com/)
+* [Kaggle](https://kaggle.com)
+* [Zenodo](https://zenodo.org/)
+
+## OSINT
+
+* [jivoi/Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Astrosp/Awesome OSINT for Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+* [ARPSyndicate/Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
+* [Maigret](https://github.com/soxoj/maigret)
+
+## Affect
+
+* [iSarcasm](https://www.research.ed.ac.uk/files/160693501/iSarcasm_OPREA_DOA03042020_VOR_CC_BY.pdf)
+
+## EXTRACION
+
+* [Dockling]() PowerPoint, PDF, Excel, HTML, etc to Markdown
+* [PyMuPDF]()
+* [MarkItDown]()
+* [Nougat]()
 
 ## SCRAPING
 
+| | Firecrawl.dev | Reader API (jina.ai) | ScrapeGraphAI | |---------|:-------------:|:--------------------:|:-------------:| | Efficient Data Extraction | ✓ | ✓ | ✓ | | PDF Support | ✗ | ✓ | ✗ | | Image Reading | ✗ | ✓ | ✗ | | Real-Time Extraction | ✓ | ✗ | ✗ | | Free Tier | ✗ | ✓ | ✗ | | Audio File Generation | ✗ | ✗ | ✓ | | Highly Customizable | ✗ | ✗ | ✓ | | Graph Builder Tool | ✗ | ✗ | ✓ |
+
+
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
+* [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
+* [Firecrawl](https://github.com/mendableai/firecrawl)
+* [Crawl4AI]
+  * [Scrape Any Website for FREE & NO CODE Using DeepSeek & Crawl4AI! (Opensource) (14:53) (13 Feb 2025)](https://www.youtube.com/watch?v=uSTTAJh9xAQ)
+    * [Blog and Github](https://intheworldofai.com/p/specialedition)
+  * [Crawl4AI and variants](https://github.com/search?q=craw4ai&type=repositories)
 * [ScrapeGraph AI Github](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
   * [Scragraph AI Colab](https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?usp=sharing)
 * [Browser-use + LightRAG Agent That Can Scrape 99% websites with LLM (11:18) (19 Nov 2024)](https://www.youtube.com/watch?v=ehMdktyQgEk&t=595s)
   * [Browser Use Github](https://github.com/gregpr07/browser-use)
   * [LightRAG Github](https://github.com/HKUDS/LightRAG)
 * [Selenium Web Scraping is too Slow. Try This. (22:10) (3 Nov 2024)](https://www.youtube.com/watch?v=di8V-baNCac)
+* [Web-Scrapping-using-Deepseek-API (Feb 2025)](https://github.com/avparadox/Web-Scrapping-using-Deepseek-API)
 
 * [Anthropic](https://claude.ai/chat/6ad53704-7a65-4cfa-9d30-e892b1bc1862)
 * [ChatGPT](https://chatgpt.com/share/66eed6ce-d31c-800d-a027-fced68c29092)
@@ -63,14 +115,22 @@
 
 * [Crawl4AI](https://github.com/unclecode/crawl4ai)
 
+1. use a free open source dataset (sales, tax assessors, building permits/upgrades, etc)
+https://www.perplexity.ai/search/where-can-i-get-public-real-es-gJQZPNGITqmX4AUg4uhZng
+https://catalog.data.gov/dataset/?tags=real-estate
 
-## Scraping Utility Libraries
+2. try scraping with open source libraries
+https://www.perplexity.ai/search/as-of-dec-2024-what-are-the-mo-7sRIK3s7SmutLjIWlv2ZwA
+https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail for web scraping? (4:34) (Aug 2024)](https://www.youtube.com/watch?v=8GhFmQPZAlo)* [Scrape ANY Website in a Few Seconds!!! AI powered Web Scraping (13:09) (Nov 2024)](https://www.youtube.com/watch?v=wTy0cDqRxeQ)* [Crawl4AI Github Repo](https://github.com/unclecode/crawl4ai)* [Crawl4AI Colab](https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C?usp=sharing#scrollTo=jcsRbhAVxaIg)* [Crawl4AI: The Ultimate AI Website Scraping Guide (7:35) (29 Jun 2024)](https://www.youtube.com/watch?v=KAvuVUh0XU8&t=38s)* [The ultimate AI SCRAPER is Finally COMPLETE!! (14:53) (26 Oct 2024)](https://www.youtube.com/watch?v=YCicort0TrQ)* [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING (45:35) (30 Aug 2024)](https://www.youtube.com/watch?v=Oo8-nEuDBkk&t=595s)* [Easy Web Scraping with Playwright and AI – Tutorial (14:33) (18 Oct 2024)](https://www.youtube.com/watch?v=DqXVfRkY-WA)
 
-* [CamoFox (Feb 2025)]](https://github.com/daijro/camoufox)
+3. pay for scraping webservices like Octoparse, APIify, etc for your target websites
+* [Apify Tutorial (The best web crawler platform? (12:18) (7 Dec 2024)](https://www.youtube.com/watch?v=y9IGD9OoRkw) Real Estate scraper in real-time
 
 ## PREPROCESSING
 
 * [Mastering LLM Techniques: Data Preprocessing (13 Nov 2024)](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/?ref=dailydev)
+* [Format Data for Chat by LLM Types](https://github.com/jpmanson/llm_templates)
+  * [Colab](https://colab.research.google.com/drive/187sA0rGwVLiP6A3IyvV0ICglsJQmvQa3#scrollTo=sUjN9PDx-dcp)
 
 ## TABLES
 
@@ -125,6 +185,9 @@
 
 ### Augmented Data
 
+* [Augmentoolkit Github](https://github.com/e-p-armstrong/augmentoolkit)
+  * [Convert Any Raw Text Into LLM Dataset Locally - Augmentoolkit (8:25) (Mar 2024)](https://www.youtube.com/watch?v=cdqIeNCj_eA)
+    * [Create a Custom Dataset in 3 Minutes - Augmentoolkit Demo (2:56) (2 Aug 2024)](https://www.youtube.com/watch?v=m32fM8S_DeY)
 * [Upgini](https://github.com/upgini/upgini)
 
 ### LLM TRAINING DATASETS
@@ -138,9 +201,13 @@
 * [RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models (30 Oct 2023)](https://www.together.ai/blog/redpajama-data-v2)
 * [How to Fine-Tune an LLM Part 1: Preparing a Dataset for Instruction Tuning (15 Jan 2024)](https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2)
 * [How to Create High Quality Synthetic Data for Fine-Tuning LLMs (12 Jul 2024)](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms)
+* [WildChat 1M (May 2024)](https://arxiv.org/pdf/2405.01470)
+  * [Huggingface](https://huggingface.co/datasets/allenai/WildChat-1M)
+* [WildChat 10M (Jan 2025)](https://arxiv.org/pdf/2501.18511)
 
 ### SYNTHETIC DATA
 
+* [Install Synthetic Data Generator with Ollama - Generate High-Quality Datasets Locally (8:56) (7 Jan 2025)](https://www.youtube.com/watch?v=yQy_hSFSyIY)
 * [Mostly.ai (PAID/FREE)](https://mostly.ai/)
 * [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
 

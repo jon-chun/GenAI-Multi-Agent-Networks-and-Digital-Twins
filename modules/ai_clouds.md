@@ -5,7 +5,21 @@
 * [Best GPUs for LLM (19 Aug 2024)](https://medium.com/@kumbhardishant/best-gpus-for-llm-deployment-6a2e8187bfe0)
 * [Ollama LLM benchmarks on different GPUs on runpod.io (Sep 2024)](https://www.reddit.com/r/LocalLLaMA/comments/1fe8g8z/ollama_llm_benchmarks_on_different_gpus_on/)
 * [Benchmarking LLMs: A Deep Dive into Local Deployment and Performance Optimization (4 Jul 2024)](https://blog.runpod.io/benchmarking-llms-a-deep-dive-into-local-deployment-and-performance-optimization/)
-* 
+
+## Github
+
+* [Github Actions](https://news.ycombinator.com/item?id=42397167)
+
+
+## OpenAI
+
+## Google
+
+* [AiStudio.google.com](https://aistudio.google.com/apikey)
+
+## Anthropic
+
+
 
 ## TOGETHER AI
 

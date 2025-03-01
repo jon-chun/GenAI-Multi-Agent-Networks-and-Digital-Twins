@@ -3,6 +3,7 @@
 ## Setup
 
 * [VSCode + ClaudeDev + Aider + Supermaven : STOP PAYING for CURSOR with this ULTIMATE Alternative (12:32) (2 Oct 2024)](https://www.youtube.com/watch?v=zLQuBSuzu2w&t=605s)
+* [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens (28 Jan 2025)](https://news.ycombinator.com/item?id=42831769) HNews setup and strategies
 
 ## Colab
 
@@ -20,6 +21,10 @@
   * [V0.dev](https://v0.dev/chat)
   * [Cursor Directory of Prompts](https://www.cursordirectory.com/)
 
+## Bold and Derivatives
+
+* [Bold.div](https://github.com/stackblitz-labs/bolt.diy)
+
 ## Repos
 
 * [o1-eng](https://github.com/Doriandarko/o1-engineer/blob/main/o1-eng.py)
@@ -27,6 +32,8 @@
 
 ## Coding Copilots
 
+* [Goose](https://github.com/block/goose)
+* [Potpie](https://github.com/potpie-ai/potpie?ref=dailydev)
 * Aider
   * [Aider (Upgraded) : This Coding Agent just got AMAZING with DeepSeek-V2.5 Support, Caching & More! (8:50) (11 Sep 2024)](https://www.youtube.com/watch?v=s0nzjuJeibQ)
   * Free: Google/Remote, Supermaven/Local autocomplete
@@ -46,6 +53,10 @@
 ## Python
 
 * [Advanced NumPy Course - Vectorization, Masking, Broadcasting & More (49:33) (10 Aug 2024)](https://www.youtube.com/watch?v=pQt8yQuPOGo)
+
+## Prompt Engineering
+
+* [https://www.youtube.com/watch?v=XWJGm3y207A&t=360s (24:59) (6 Jan 2025)](https://www.youtube.com/watch?v=XWJGm3y207A&t=360s)
 
 ## API
 

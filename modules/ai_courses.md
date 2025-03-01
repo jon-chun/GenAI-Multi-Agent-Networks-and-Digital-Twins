@@ -1,8 +1,14 @@
 # AI Courses
 
-## DeepLearning.ai
+## Formal Courses
 
 * [DeepLearning.ai](https://www.deeplearning.ai/)
+* [MS GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
+* [Chinese LLM Cookbook ](https://github.com/datawhalechina/llm-cookbook)
+
+## Awesome Courses
+
+* [AI-Bites Learn-AI](https://github.com/ai-bites/learn-ai)
 
 ## Blog
 

@@ -1,4 +1,4 @@
-# Week N: Week Title
+# Week 13: AI Now
 
 This week we introduce our fourth and final Agentic Framework in Microsoft's AutoGen related to the taste of recently released Magentic-One reasoning-focused framework by MS. Unlike previous weeks, we will focus on the fundamentals and well as future direction rather than coding Agents. The one coding exercise for AutoGen version 0.2 should feel intuitive at this point.
 
@@ -10,12 +10,15 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### Specific AI Ideas to Customize MVP
 
-* [NotebookLM API](https://www.youtube.com/watch?v=mO-tVmtakMQ) (programmatically generate podcasts)
+* Low-Code NotebookLM with API: New Features and Customizability to programmatically generate research, scripts or two person conversational podcasts
+  * [NotebookLM tutorial to 10x your productivity (8:05) (3 Dec 2024)](https://www.youtube.com/watch?v=QxbmQs3b_DE)
+  * [Create AI Podcasts like NotebookLM with API Tutorial (8:05) (Nov 2024)](https://www.youtube.com/watch?v=mO-tVmtakMQ)
 * [FREE LogoCreator Flux Pro 1.1 Open Source AI Image Generator!🤖 Together.AI Self Hosted (NEW)](https://www.youtube.com/watch?v=4CdXujGPO3U) (logo creator)
 * [Berman EdCrew](https://github.com/mberman84/edu-crew/tree/main/src)
 * [Sharbo.io ](https://www.sharbo.io/) (competitive analysis)
 * [ParaFactAI.com](https://parafactai.com/?ref=manuagi) (fact checking)
 * [Spokk.io](https://www.spokk.io) (customer feedback, customize for non-profits or others)
+* [Haystack Demos](https://github.com/deepset-ai/haystack-demos)
   
 ### Many more ideas at
 
@@ -27,12 +30,15 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### Tutorial on Agentic Workflow
 
+* [FinanceRAG - Building a High-Performance, Finance-Specific RAG System (6:05) (7 Dec 2024)](https://www.youtube.com/watch?v=o4k-T9NeJOw)
+  * [Github Repo](https://github.com/cv-lee/FinanceRAG)
+  * [ArXiv Paper](https://arxiv.org/pdf/2411.16732)
 * [Building Multi-Agent AI Systems From Scratch: OpenAI vs. Ollama (17 Nov 2024)](https://pub.towardsai.net/building-multi-agent-ai-systems-from-scratch-openai-vs-ollama-8ec0dae98639)
   * [Github ver from AIAnyTime](https://github.com/isurulkh?tab=repositories)
 * [AI Anytime Github](https://github.com/AIAnytime)
 * [Build your Personal Assistant with Agents and Tools (22 Nov 2024)](https://towardsdatascience.com/build-your-personal-assistant-with-agents-and-tools-048637ac308e)
 * [Evaluating and Monitoring LLM Agents: Tools, Metrics, and Best Practices (17 Nov 2024)](https://pub.towardsai.net/evaluating-and-monitoring-llm-agents-tools-metrics-and-best-practices-a61f508cccb0)
-
+* [LLMeme Coins Github](https://github.com/llmemecoin/docs)
 
 ## KEY QUESTIONS
 
@@ -51,6 +57,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 ### AI NEWS AND CULTURE
 
 * (only 0-5:00 and 24:40-32:40)[Satya Nadella "THE NEW SCALING LAWS" and the Agentic Future [Microsoft Ignite 2024 SUPERCUT] (34:07) (20 Nov 2024)](https://www.youtube.com/watch?v=jpvbYukNZGM)
+* [Microsoft Launches 10 NEW AI Agents (13:01) (24 Nov 2024)](https://www.youtube.com/watch?v=pcWKJ_yvf1M&t=8s)
+* [Multi-Agent AI EXPLAINED: How Magentic-One Works (16:38) (Nov 2024)](https://www.youtube.com/watch?v=RUDZZLtB08w)
 * [These new computers are getting creepy… Copilot+ PC first look (4:31) (Jun 2024)](https://www.youtube.com/watch?v=hlwcZpEx2IY)
 
 ### RESEARCH
@@ -70,7 +78,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### CODING
 
-* [AI Agentic Design Patterns with AutoGen 0.2 (~1hr)]([oh_noes_404.md](https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/))
+* [AI Agentic Design Patterns with AutoGen 0.2 (~1hr)](https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/)
 * [AutoGen 0.2 Doc](https://microsoft.github.io/autogen/0.2/docs/Getting-Started)
 * [AutoGen 0.4 Doc](https://microsoft.github.io/autogen/dev/user-guide/agentchat-user-guide/quickstart.html)
 
@@ -78,7 +86,7 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### ADMINISTRATIVE
 
-* [Quiz](oh_noes_404.md)
+* [Week 13 Quiz: MS AutoGen](https://docs.google.com/forms/d/e/1FAIpQLSdcsMR0kG-Ppn6RJZRtlsUX3CVrICRrsJa0qHdmQcZSHIUu1Q/viewform?usp=sharing)
 
 ### PRESENTATIONS
 
@@ -116,6 +124,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 ### FOLLOW-UPS
 
+* [This Open Source AI Generates Videos with UNREAL Realism (Tencent HunyuanVideo) (8:43) (3 Dec 2024)](https://www.youtube.com/watch?v=mzzxTOnZM2U)
+* [Anthropic's New Agent Protocol! MPC (15:34) (29 Nov 2024)](https://www.youtube.com/watch?v=8mU2OeOCIrE)
 * [Podcastify](https://github.com/souzatharsis/podcastfy)
 * [Deepseek R1 Lite Preview](https://www.deepseek.com/)
 
@@ -123,6 +133,8 @@ Cut down versions of AI products/startups with customized: (a) workflows, (b) da
 
 * [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 * [LLM Research Summaries](https://github.com/cognitivetech/llm-research-summaries?tab=readme-ov-file#ai-psychology)
+* [Hoodwinked: Deception and Cooperation in a Text-Based Game for Language Models by O'Gara et al. (4 Aug 2023)](https://arxiv.org/pdf/2308.01404)
+* [AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents by Ma et al. (24 Jan 2024)](https://arxiv.org/pdf/2401.13178) 
 
 ### CONCEPTS
 
