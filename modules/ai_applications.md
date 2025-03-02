@@ -43,6 +43,10 @@
 * [Kaggle](kaggle.com)
 * [Bohrium](https://bohrium.dp.tech/notebooks?tags=25&notebookTab=recommendations)
 
+## Enterprise Software Design
+
+* [Domain Driven Design](https://github.com/ddd-by-examples/library)
+  Domain Driven Design, Behavior-Driven Development, Event Storming, User Story Mapping
 
 ## Prompts
 
@@ -94,6 +98,8 @@
 
 ## MCP
 
+* [MCP Repo](https://github.com/modelcontextprotocol/servers)
+  * [](https://github.com/modelcontextprotocol/python-sdk)
 
 ## Local-Remote Model
 

@@ -18,6 +18,11 @@
 * [SimGRAG (Dec 2024)](https://github.com/YZ-Cai/SimGRAG)
 * [GRAG (Nov 2024)](https://github.com/HuieL/GRAG)
 
+## Deep Research
+
+* [Agentic Reasoning (7 Feb 2025)](https://github.com/theworldofagents/Agentic-Reasoning)
+* [GraphCheck](https://anonymous.4open.science/r/GraphCheck-1D43/README.md)
+   
 # DeepResearch
 
 Acyclic graphs, particularly Directed Acyclic Graphs (DAGs), are foundational in many CS and AI applications that require a structured, non-repetitive progression of tasks, states, or decisions. Here are several prominent applications and structures where avoiding loops is crucial:

@@ -91,6 +91,10 @@
 
 * [Prompt to Leaderboard](https://lmarena.ai/?p2l)
 
+### Chat Benchmarks
+
+* [Intellagent](https://intellagent-doc.plurai.ai/How_it_Works/how-it-works/)
+  
 ### Agent Benchmarks
 
 * [The AgenticBench](https://github.com/TheAgenticAI/TheAgenticBench)

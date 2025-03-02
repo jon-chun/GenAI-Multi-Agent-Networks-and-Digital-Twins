@@ -128,3 +128,18 @@ Agents don't replace people - They help businesses scale and allow employees to 
 ### Low/No-Code Agents
 
 * [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)
+
+### Cognitive Agents
+
+
+### Game Theory Agents
+
+* []()
+  * [Github](https://github.com/dicelab-rhul/GAMA)
+* []()
+
+### Automated Self-Modifying Agents
+
+* [ADAS (Jan 2025)](https://github.com/ShengranHu/ADAS)
+  * [Github](https://github.com/ShengranHu/ADAS)
+* []()

@@ -101,12 +101,14 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 * [How to Convert any Text into a Graph of Concepts (10 Nov 2023)](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a/)
 * [Text to Knowledge Graph made easy with Graph_Maker (7 May 2024)](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8/)
 
+## Graph RAG Research Frameworks
 
-Colab
-https://github.com/rahulnyk/graph_maker/blob/main/graph_maker_example.ipynb
-* [LightRAG](https://github.com/HKUDS/LightRAG)
+* [PathRAG (28 Feb 2025)](https://github.com/ai-in-pm/PathRAG)
+* [LightRAG (1 Mar 2025)](https://github.com/HKUDS/LightRAG)
 * [MS GraphRAG](https://github.com/microsoft/graphrag)
+  * [GraphRAG Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
 * [FastRAG](https://github.com/IntelLabs/fastRAG)
+* [KARMA (6 Feb 2025)](https://github.com/YuxingLu613/KARMA)
 * [Harvard Presents NEW Knowledge-Graph AGENT (MedAI) (38:35) (7 Oct 2024)](https://www.youtube.com/watch?v=Fm68I-phaiY)
 
 ## Frameworks

@@ -1,10 +1,16 @@
 # Deep Research
 
 
-## Applications
+## Deep Research Frameworks
 
-- [(LangChain) Building a fully local research assistant from scratch with Ollama (16:24) (11 Dec 2024)](https://www.youtube.com/watch?v=XGuTzHoqlj8)
+* [Jini Deep Research](https://github.com/jina-ai/node-DeepResearch)
+* [Deep Research](https://github.com/dzhng/deep-research)
+* [Open Deep Research](https://github.com/mshumer/OpenDeepResearcher)
+* [Firecraw Open Deep Research](https://github.com/nickscamara/open-deep-research)
+* [(LangChain) Building a fully local research assistant from scratch with Ollama (16:24) (11 Dec 2024)](https://www.youtube.com/watch?v=XGuTzHoqlj8)
   * [Blog] (https://mirror-feeling-d80.notion.site/Fully-Local-Research-Summarization-157808527b1780bfa5e5f4650630ae08)
+* [Huggingface](https://huggingface.co/blog/open-deep-research)
+* 
 
 ## Framework
 
