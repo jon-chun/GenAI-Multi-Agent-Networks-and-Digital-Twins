@@ -92,6 +92,17 @@
 
 * [Prompt Link (202401)](https://github.com/constantjxyz/PromptLink)
 
+## MCP
+
+
+## Local-Remote Model
+
+* [Docker n8n self-hosted AI starter kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+  * [https://www.youtube.com/watch?v=BwqDwepsS20 (11:50) (23 Feb 2025)](https://www.youtube.com/watch?v=BwqDwepsS20)
+* [Minions]
+  * [Github](https://github.com/HazyResearch/minions)
+  * [https://www.youtube.com/watch?v=ngjWhpOqgJY (13:25) (1 Mar 2025)](https://www.youtube.com/watch?v=ngjWhpOqgJY)
+
 ## Research
 
 * [A Survey of Large Language Models for Financial Applications -- Progress, Prospects and Challenges by Nie (16 Jun 2024)](https://arxiv.org/pdf/2406.11903v1)

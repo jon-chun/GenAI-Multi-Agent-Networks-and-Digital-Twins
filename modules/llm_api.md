@@ -182,6 +182,7 @@ Submit your code and a brief report discussing your experience, challenges faced
 # Tokenization and Costs
 
 * [Tiktoken]()
+* [Unstract LLM Token Counter](https://unstract.com/tools/llm-token-counter/)
 * [Cost Estimator]()
 * [OpenAI Images]()
 

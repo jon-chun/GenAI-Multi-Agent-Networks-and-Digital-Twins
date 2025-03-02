@@ -124,3 +124,7 @@ Agents don't replace people - They help businesses scale and allow employees to 
 ## Agent Applications Colab
 
 * [Praison Agents](https://github.com/MervinPraison/PraisonAI/tree/main/cookbooks/notebooks)
+
+### Low/No-Code Agents
+
+* [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)

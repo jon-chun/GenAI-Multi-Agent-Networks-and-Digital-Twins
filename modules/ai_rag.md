@@ -52,13 +52,17 @@ When implementing a RAG system with URL citations, consider using frameworks lik
 
 Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https://github.com/rahulanand1103/rag-citation [3] https://github.com/weaviate/Verba [4] https://docs.llamaindex.ai/en/stable/examples/workflow/citation_query_engine/ [5] https://python.langchain.com/docs/tutorials/rag/ [6] https://zilliz.com/blog/retrieval-augmented-generation-with-citations [7] https://www.reddit.com/r/LocalLLaMA/comments/1egjwnp/rag_for_github_repos_miniproject/ [8] https://github.com/Cinnamon/kotaemon [9] https://github.com/NirDiamant/RAG_Techniques [10] https://github.com/Praveen76/RAG-Retrieval-Augmented-Generation-using-Langchain/
 
+## RAG Tutorials
+
+* [Advanced RAG with LlamaIndex - Metadata Extraction [2025] (52:23) (28 Feb 2025)](https://www.youtube.com/watch?v=yzPQaNhuVGU)
+
 ## Multimodal
+
   * [Building a Multimodal RAG App for Medical Applications (48:54) (Feb 2024)](https://www.youtube.com/watch?v=fbbFrCfaF0w)
 * Contextual RAG
   * [Contextual RAG is stupidly brilliant! (15:02) (23 Sep 2024)](https://www.youtube.com/watch?v=42Da0O9zkhc)
 * RAG Multiformat Input
   * [Vision-Based RAG System For Complex Documents (15:55) (7 Sep 2024)](https://www.youtube.com/watch?v=DI9Q60T_054)
-
 
 ## Local RAG
 
@@ -83,14 +87,20 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 
 ## Graph RAG
 
+* [Graph RAG Evolved: PathRAG (Relational Reasoning Paths) (26:21) (26 Feb 2025)](https://www.youtube.com/watch?v=oetP9uksUwM)
 * [Deeplearning.ai KG-RAG](https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction?courseName=knowledge-graphs-rag)
 * [Neo4j LLM Knowledge Graph Builder - Extract Nodes and Relationships from Unstructured Text](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
+
+## Graph RAG Repos
+
+* [PathRAG](https://github.com/ai-in-pm/PathRAG)
+* [MS GraphRAG](https://github.com/microsoft/graphrag)
+* [LightRAG](https://github.com/HKUDS/LightRAG)
+* [DeepSeek Agents KARMA](https://github.com/YuxingLu613/KARMA)
 * [GraphMaker Repo and Colab](https://github.com/rahulnyk/graph_maker/blob/main/graph_maker_example.ipynb)
 * [How to Convert any Text into a Graph of Concepts (10 Nov 2023)](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a/)
 * [Text to Knowledge Graph made easy with Graph_Maker (7 May 2024)](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8/)
 
-Repo
-https://github.com/rahulnyk/graph_maker
 
 Colab
 https://github.com/rahulnyk/graph_maker/blob/main/graph_maker_example.ipynb

@@ -32,6 +32,7 @@
 
 ## Coding Copilots
 
+* [Full Stack App Build Claude 3.7 & Cursor AI (25:30) (25 Feb 2025)](https://www.youtube.com/watch?v=k0kBylMwlbA)
 * [Goose](https://github.com/block/goose)
 * [Potpie](https://github.com/potpie-ai/potpie?ref=dailydev)
 * Aider
