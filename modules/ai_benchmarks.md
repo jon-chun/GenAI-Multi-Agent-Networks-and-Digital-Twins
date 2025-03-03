@@ -34,6 +34,7 @@
 * [Stanford HELM](https://crfm.stanford.edu/helm/)
 * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
 * [Evalverse](https://github.com/UpstageAI/evalverse)
+* [codewithpapers](https://paperswithcode.com/sota)
 
 ## Leaderboards 
 
@@ -97,10 +98,11 @@
   
 ### Agent Benchmarks
 
+* [TheAgentCompany (18 Dec 2025)](https://arxiv.org/abs/2412.14161)
 * [The AgenticBench](https://github.com/TheAgenticAI/TheAgenticBench)
   * [AgenticBench - Digital Worker Framework - Install and Review (8:51) (22 Feb 2025)](https://www.youtube.com/watch?v=jLh5RwySYrA)
 * [AgentEvals](https://github.com/langchain-ai/agentevals)
-* [AgentBench](https://github.com/THUDM/AgentBench)
+  * [AgentBench](https://github.com/THUDM/AgentBench)
 * [GAIA Benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
 
 ## LLM Leaderboards
