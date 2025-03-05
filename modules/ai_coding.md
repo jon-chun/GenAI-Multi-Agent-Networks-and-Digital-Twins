@@ -86,3 +86,7 @@
 * [samwit: Agents](https://github.com/samwit/agent_tutorials)
 * [samwit: LangChain](https://github.com/samwit/langchain-tutorials)
 * [allaboutAI](https://github.com/AllAboutAI-YT?tab=repositories)
+
+## Roo-Cline
+
+* [Reddit: s/roocline](https://www.reddit.com/r/roocline/)

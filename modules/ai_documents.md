@@ -32,6 +32,7 @@
 
 ## ETL
 
+* [Haystack](https://github.com/deepset-ai/haystack)
 * [NuExtract](https://github.com/mneedham/LearnDataWithMark/tree/main/nuextract-playground)
 * [DocETL](https://github.com/ucbepic/docetl)
   * [Analyzing common weaknesses in ICLR 2024 reviews with DocETL (32:11) (29 Oct 2024)](https://www.youtube.com/watch?v=IlgueVqtHGo)

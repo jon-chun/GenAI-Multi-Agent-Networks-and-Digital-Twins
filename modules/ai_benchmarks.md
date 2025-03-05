@@ -42,7 +42,8 @@
 * [Scale.com](https://scale.com/leaderboard)
 * *[extractum](https://llm.extractum.io/)
 * [OpenRouter.ai](https://openrouter.ai/rankings)
-
+* [Scale leaderboard](https://scale.com/leaderboard)
+  
 ## LLM Benchmark Leaderboards
 
 ### Listing
