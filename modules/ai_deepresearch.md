@@ -3,6 +3,8 @@
 
 ## Deep Research Frameworks
 
+* [Ollama Deep Researcher](https://www.youtube.com/watch?v=XGuTzHoqlj8)
+  * [Github](https://github.com/langchain-ai/ollama-deep-researcher)
 * [Jini Deep Research](https://github.com/jina-ai/node-DeepResearch)
 * [Deep Research](https://github.com/dzhng/deep-research)
 * [Open Deep Research](https://github.com/mshumer/OpenDeepResearcher)
