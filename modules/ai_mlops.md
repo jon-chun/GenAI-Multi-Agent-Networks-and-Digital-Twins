@@ -70,9 +70,17 @@ Rallly
   * [Ollama in Colab](https://colab.research.google.com/github/jellyterra/ollama-colab/blob/master/OllamaColab.ipynb)
   * [ngrok API](https://dashboard.ngrok.com/)
   * [Ollama in Github Code Space](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
+
+## Ollama UI
+
 * [Ollama with Vision - Enabling Multimodal RAG (13:00) (7 Oct 2024)](https://www.youtube.com/watch?v=45LJT-bt500)
 * [Find Your Perfect Ollama Build (13:30) (21 Nov 2024)](https://www.youtube.com/watch?v=RFaMiQ97EoE)
-
+* [Ollama](ollama.ai)
+* [MSTY](https://msty.app/)
+* [Open WebUI](https://github.com/open-webui/open-webui)
+* [Ollama UI](https://www.technovangelist.com/notes/annotated%20list%20of%20ollama%20web%20and%20desktop%20integrations/)
+* [LocalAI](https://github.com/mudler/LocalAI)
+  
 ## Local Alternatives
 
 * [Run Any Local LLM Faster Than Ollama—Here's How (12:06) (5 Nov 2024)](https://www.youtube.com/watch?v=i1rvSiSpzSo)
