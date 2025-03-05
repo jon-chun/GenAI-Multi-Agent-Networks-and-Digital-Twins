@@ -1,8 +1,9 @@
 # RESEARCH
 
 
-## AI Resserach
+## AI Researach
 
+* [Andy Stapleton: Best AI Research Tools for 2025 (13 Jan 2025)](https://www.youtube.com/watch?v=IBsBixGTh-I)
 * [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
 * [Scira](https://github.com/zaidmukaddam/scira)
 

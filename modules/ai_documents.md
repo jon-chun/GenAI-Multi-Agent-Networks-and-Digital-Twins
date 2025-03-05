@@ -1,5 +1,14 @@
 # AI Document
 
+## PDF Table Extraction
+
+* BEST (PDF to Markdown) [getomni-ai/zerox](https://github.com/getomni-ai/zerox)
+* [facebookresearch/nougat](https://github.com/facebookresearch/nougat)
+* [LLMWhisperer](https://github.com/Zipstack/llmwhisperer-table-extraction)
+* [tabulapdf/tabula](https://github.com/tabulapdf/tabula)
+* [adrienjoly/npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader)
+* [Table Extraction LMM, gpt4-Vision, fitz/PyMuPDF](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
+
 ## OCR Comparisons
 
 * [OCR Comparisons for Rag (23 Sep 2024)](https://nanonets.com/blog/best-pdf-parser-for-rag-apps-a-comprehensive-guide/#summary-of-quality-of-extraction)
@@ -9,6 +18,9 @@
 
 ## OCR
 
+* [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+  * [ArXiv](https://arxiv.org/html/2409.01704v1)
+* [Parsevision Tessaract/EasyOCR](https://github.com/orasik/parsevision)
 * Textract
 * Tika
 * [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/)

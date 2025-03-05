@@ -39,6 +39,7 @@ Overview Here...
 ### SOFTWARE ENGINEERING
 
 * [Ollama](ollama.ai)
+* [MSTY](https://msty.app/)
 * [Open WebUI](https://github.com/open-webui/open-webui)
 * [Ollama UI](https://www.technovangelist.com/notes/annotated%20list%20of%20ollama%20web%20and%20desktop%20integrations/)
 * [LocalAI](https://github.com/mudler/LocalAI)
