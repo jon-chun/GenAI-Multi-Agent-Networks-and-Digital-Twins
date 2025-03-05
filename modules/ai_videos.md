@@ -3,7 +3,9 @@
 ## LMM 
 
 * [Qwen2.5 VL](https://github.com/QwenLM/Qwen2.5-VL) w/Colabs
+  * [Qwen2.5 VL Cookbook](https://github.com/QwenLM/Qwen2.5-VL/blob/main/cookbooks/video_understanding.ipynb)
   * [Qwen2.5-VL: Can It Really Understand 1 Hour of Video? 🤯 AI Video Analysis Test (9:34) (22 Feb 2025) - REQUIRED A6000 48GB VRAM    ](https://www.youtube.com/watch?v=1m8QXAHj5Sw)
+
 ## Text-to-Video
 
 * [FREE & Open-Source AI Video Generator | AI Video Generator FREE (13:34) (2 Jan 2025)](https://www.youtube.com/watch?v=Y4cWwllPcdg)
