@@ -106,6 +106,11 @@
   * [AgentBench](https://github.com/THUDM/AgentBench)
 * [GAIA Benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
 
+### Energy Benchmarks
+
+* [Measuring AI's Carbon Footprint and Impact with CodeCarbon & Eco2AI (8:15) (6 Mar 2025)](https://www.youtube.com/watch?v=CyVOWCoZna4)
+  * [Energy](https://github.com/bflaven/ia_usages)
+
 ## LLM Leaderboards
 
 * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)

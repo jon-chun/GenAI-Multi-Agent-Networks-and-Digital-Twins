@@ -11,19 +11,30 @@
 * [Github Actions](https://news.ycombinator.com/item?id=42397167)
 
 
-## OpenAI
+## Main Commercial API
 
-## Google
+### OpenAI
 
+### Anthropic
+
+### Google
 * [AiStudio.google.com](https://aistudio.google.com/apikey)
 
-## Anthropic
+### Grok.com
 
+* [Grok.com](https://grok.com/)
 
+## Model Demos
 
-## TOGETHER AI
+* [DeepSeek.ai](https://chat.deepseek.com/)
+* [Qwen.ai](https://chat.qwenlm.ai/)
+* [You.com](https://you.com/)
+
+## Cloud Model Hosting API
 
 * [Together.ai](together.ai)
+* [Groq.com](https://groq.com/)
+* [Hyperbolic.xyz](https://www.hyperbolic.xyz/)
 
 ## RUNPOD
 
