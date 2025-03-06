@@ -80,13 +80,6 @@
 
 * [iSarcasm](https://www.research.ed.ac.uk/files/160693501/iSarcasm_OPREA_DOA03042020_VOR_CC_BY.pdf)
 
-## EXTRACION
-
-* [Dockling]() PowerPoint, PDF, Excel, HTML, etc to Markdown
-* [PyMuPDF]()
-* [MarkItDown]()
-* [Nougat]()
-
 ## SCRAPING
 
 | | Firecrawl.dev | Reader API (jina.ai) | ScrapeGraphAI | |---------|:-------------:|:--------------------:|:-------------:| | Efficient Data Extraction | ✓ | ✓ | ✓ | | PDF Support | ✗ | ✓ | ✗ | | Image Reading | ✗ | ✓ | ✗ | | Real-Time Extraction | ✓ | ✗ | ✗ | | Free Tier | ✗ | ✓ | ✗ | | Audio File Generation | ✗ | ✗ | ✓ | | Highly Customizable | ✗ | ✗ | ✓ | | Graph Builder Tool | ✗ | ✗ | ✓ |
@@ -95,6 +88,7 @@
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
 * [Scrapper](https://github.com/amerkurev/scrapper)
+* [LLMWebCrawler](https://github.com/Aavache/LLMWebCrawler)
 * [Firecrawl](https://github.com/mendableai/firecrawl)
 * [Crawl4AI]
   * [Scrape Any Website for FREE & NO CODE Using DeepSeek & Crawl4AI! (Opensource) (14:53) (13 Feb 2025)](https://www.youtube.com/watch?v=uSTTAJh9xAQ)

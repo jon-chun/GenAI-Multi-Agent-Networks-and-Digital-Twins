@@ -43,6 +43,8 @@
 ## OCR Models
 
 * [OlmOCR 7B (Feb 2025)](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
+  * OlmOCR Docker: "docker pull caldedaniele/olmocr-app"
+  * https://hub.docker.com/r/caldedaniele/olmocr-app 
 
 ## ETL
 
