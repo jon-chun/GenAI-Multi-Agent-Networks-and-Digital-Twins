@@ -94,6 +94,7 @@
 
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
+* [Scrapper](https://github.com/amerkurev/scrapper)
 * [Firecrawl](https://github.com/mendableai/firecrawl)
 * [Crawl4AI]
   * [Scrape Any Website for FREE & NO CODE Using DeepSeek & Crawl4AI! (Opensource) (14:53) (13 Feb 2025)](https://www.youtube.com/watch?v=uSTTAJh9xAQ)
