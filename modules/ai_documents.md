@@ -18,6 +18,7 @@
 
 ## OCR
 
+* [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
   * [ArXiv](https://arxiv.org/html/2409.01704v1)
 * [Parsevision Tessaract/EasyOCR](https://github.com/orasik/parsevision)
@@ -58,7 +59,6 @@
 ## PDF
 
 * [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
-* [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [MinerU](https://github.com/opendatalab/MinerU)
 * [H2OGPT](https://github.com/h2oai/h2ogpt)
 * [PikePDF](https://github.com/pikepdf/pikepdf)
