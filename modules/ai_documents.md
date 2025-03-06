@@ -2,6 +2,7 @@
 
 ## PDF Table Extraction
 
+* [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 * BEST (PDF to Markdown) [getomni-ai/zerox](https://github.com/getomni-ai/zerox)
 * [facebookresearch/nougat](https://github.com/facebookresearch/nougat)
 * [LLMWhisperer](https://github.com/Zipstack/llmwhisperer-table-extraction)
