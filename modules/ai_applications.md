@@ -80,6 +80,8 @@
   
 ## Frameworks
 
+* [Dify](https://github.com/langgenius/dify)
+  * [Dify Cloud](https://dify.ai/)
 * LangChain
   * [LangChain](https://www.youtube.com/@LangChain)
   * [LangGraph]()
@@ -87,6 +89,10 @@
 * LlamaIndex
 * [Haystack](https://github.com/deepset-ai/haystack)
 * SEE [ai_agents]
+
+## Application Integration
+
+* [DeepSeek API App Integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
 ## No/Low Code
 

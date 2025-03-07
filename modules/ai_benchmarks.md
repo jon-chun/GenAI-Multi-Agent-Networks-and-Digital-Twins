@@ -2,6 +2,10 @@
 
 ## LLM Benchmarks
 
+## Overall Benchmarking
+
+* [OpenAI Benchmarking](https://platform.openai.com/docs/models/compare)
+
 ### Awesome Benchmarks
 
 * [BradyFU/Awesome-Multimodal-Large-Language-Models (Mar 2025)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -41,8 +45,7 @@
 * [huggingface.co](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a)
 * [Scale.com](https://scale.com/leaderboard)
 * *[extractum](https://llm.extractum.io/)
-* [OpenRouter.ai](https://openrouter.ai/rankings)
-* [Scale leaderboard](https://scale.com/leaderboard)
+* [OpenRouter.ai](https://openrouter.ai/rankings)* [Scale leaderboard](https://scale.com/leaderboard)
   
 ## LLM Benchmark Leaderboards
 

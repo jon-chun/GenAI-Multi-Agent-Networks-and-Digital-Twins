@@ -9,6 +9,20 @@
 
 ## Academic Research
 
+### Research Tools
+
+* [Zotero](https://www.zotero.org/)
+  * [BibTex](https://www.zotero.org/support/kb/bibtex)
+* [Obsidian](https://obsidian.md/pricing)
+  * [How to Connect Zotero and Obsidian for the Ultimate PhD Workflow (21:50) (Jan 2025)](https://www.youtube.com/watch?v=hRCiuycpAIU)
+* [Logseq](https://docs.logseq.com/#/page/start%20here)
+* [Zettlr](https://www.zettlr.com/)
+* [dendron](https://github.com/dendronhq/dendron)
+* VSCode Pluging
+  * [Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
+* GitHub
+  * [Silverbullet](https://silverbullet.md/Plugs/Git)
+
 ### Quick Academic Presentations
 
 * [NeurIPS 2022 FrozenBiLM: 5 Min Presentation](https://www.youtube.com/watch?v=dedoSjAiVL4)
