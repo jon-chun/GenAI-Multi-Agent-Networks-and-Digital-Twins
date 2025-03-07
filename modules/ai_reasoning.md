@@ -34,6 +34,7 @@
 
 ### Multiagent Reasoning Frameworks
 
+* [theworldofagents/Agentic-Reasoning](https://github.com/theworldofagents/Agentic-Reasoning)
 * [Understanding and Effectively Using AI Reasoning Models (5:15) (22 Jan 2025)](https://www.youtube.com/watch?v=f0RbwrBcFmc)
 * [Multiagent Reasoning](https://github.com/AdieLaine/multi-agent-reasoning)
 * [MS Magnetic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks)

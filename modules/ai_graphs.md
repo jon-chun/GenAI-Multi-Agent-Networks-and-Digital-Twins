@@ -13,8 +13,9 @@
 * [Text to Knowledge Graph Made Easy with Graph Maker: An open-source library for building knowledge graphs from text corpus using open-source LLMs like Llama 3 and Mixtral. (7 May 2024)](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8/)
 * [GraphMaker Github (May 2025)](https://github.com/rahulnyk/graph_maker)
 
-## Research Github
+## Graph RAG (GRAG)
 
+* [nano-GraphRAG](https://github.com/gusye1234/nano-graphrag)
 * [SimGRAG (Dec 2024)](https://github.com/YZ-Cai/SimGRAG)
 * [GRAG (Nov 2024)](https://github.com/HuieL/GRAG)
 
