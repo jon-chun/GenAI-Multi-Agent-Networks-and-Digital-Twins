@@ -6,6 +6,10 @@
 * [Extractous (Dec 2024)](https://github.com/yobix-ai/extractous)
 * [Unstruct](https://github.com/Zipstack/unstract)
 
+## Commercial ETL
+
+* [sensible](https://www.sensible.so/)
+  
 ## Structured Text
 
 Several open-source Python libraries exist for decomposing and transforming full documents into semantically meaningful hierarchical structures. Here are some notable options:

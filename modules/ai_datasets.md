@@ -202,6 +202,7 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 ### SYNTHETIC DATA
 
+* [argilla-io/distilabel](https://github.com/argilla-io/distilabel)
 * [Install Synthetic Data Generator with Ollama - Generate High-Quality Datasets Locally (8:56) (7 Jan 2025)](https://www.youtube.com/watch?v=yQy_hSFSyIY)
 * [Mostly.ai (PAID/FREE)](https://mostly.ai/)
 * [CREATE Your Own Dataset Like a Pro in 30 mins (18:29) (2 Oct 2024)](https://www.youtube.com/watch?v=MQis5kQ99mw) [Github](https://github.com/e-p-armstrong/augmentoolkit?tab=readme-ov-file#rptoolkit)
