@@ -1,7 +1,5 @@
 # RAG
 
-
-
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
 
@@ -67,6 +65,8 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 
 ## Local RAG
 
+* [orama](https://github.com/oramasearch/orama)
+* [rlama](https://github.com/DonTizi/rlama/tree/main)
 * [PyMuPDF RAG](https://github.com/pymupdf/RAG)
 * Ollama
   * [Python RAG Tutorial (with Local LLMs): AI For Your PDFs (21:32) (17 Apr 2024)](https://www.youtube.com/watch?v=2TJxpyO3ei4&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e)

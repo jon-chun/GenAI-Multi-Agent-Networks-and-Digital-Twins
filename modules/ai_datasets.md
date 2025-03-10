@@ -86,6 +86,7 @@
 
 
 * (Working)[Browser-Use](https://docs.browser-use.com/quickstart)
+  * [Browser Use Docker](https://github.com/gauravdhiman/browser-use-fastapi-docker-server)
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
 * [Scrapper](https://github.com/amerkurev/scrapper)
@@ -117,11 +118,11 @@
 https://www.perplexity.ai/search/where-can-i-get-public-real-es-gJQZPNGITqmX4AUg4uhZng
 https://catalog.data.gov/dataset/?tags=real-estate
 
-2. try scraping with open source libraries
+1. try scraping with open source libraries
 https://www.perplexity.ai/search/as-of-dec-2024-what-are-the-mo-7sRIK3s7SmutLjIWlv2ZwA
 https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail for web scraping? (4:34) (Aug 2024)](https://www.youtube.com/watch?v=8GhFmQPZAlo)* [Scrape ANY Website in a Few Seconds!!! AI powered Web Scraping (13:09) (Nov 2024)](https://www.youtube.com/watch?v=wTy0cDqRxeQ)* [Crawl4AI Github Repo](https://github.com/unclecode/crawl4ai)* [Crawl4AI Colab](https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C?usp=sharing#scrollTo=jcsRbhAVxaIg)* [Crawl4AI: The Ultimate AI Website Scraping Guide (7:35) (29 Jun 2024)](https://www.youtube.com/watch?v=KAvuVUh0XU8&t=38s)* [The ultimate AI SCRAPER is Finally COMPLETE!! (14:53) (26 Oct 2024)](https://www.youtube.com/watch?v=YCicort0TrQ)* [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING (45:35) (30 Aug 2024)](https://www.youtube.com/watch?v=Oo8-nEuDBkk&t=595s)* [Easy Web Scraping with Playwright and AI – Tutorial (14:33) (18 Oct 2024)](https://www.youtube.com/watch?v=DqXVfRkY-WA)
 
-3. pay for scraping webservices like Octoparse, APIify, etc for your target websites
+1. pay for scraping webservices like Octoparse, APIify, etc for your target websites
 * [Apify Tutorial (The best web crawler platform? (12:18) (7 Dec 2024)](https://www.youtube.com/watch?v=y9IGD9OoRkw) Real Estate scraper in real-time
 
 ## PREPROCESSING
@@ -204,6 +205,11 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 * [WildChat 1M (May 2024)](https://arxiv.org/pdf/2405.01470)
   * [Huggingface](https://huggingface.co/datasets/allenai/WildChat-1M)
 * [WildChat 10M (Jan 2025)](https://arxiv.org/pdf/2501.18511)
+
+
+### NLP Datasets
+
+* [AllenAI Natural Instructions](https://github.com/allenai/natural-instructions)
 
 ### SYNTHETIC DATA
 
