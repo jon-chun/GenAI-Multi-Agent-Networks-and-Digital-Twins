@@ -23,7 +23,10 @@ Rallly
 ## Utilities
 
 * [can-it-run-llm](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
-* []()
+
+## Virtual Environments
+
+* [uv for Python](https://docs.astral.sh/uv/#tools)
 
 ## Software Engineering
 
@@ -99,6 +102,7 @@ Rallly
 
 ## Infrastructure as Code
 
+* [MetaFlow](https://github.com/Netflix/metaflow?tab=readme-ov-file)
 * [Ansible in 100 Second (2:33) (2023)](https://www.youtube.com/watch?v=xRMPKQweySE)
 
 ## JavaScript

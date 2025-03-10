@@ -18,11 +18,6 @@
 * [nano-GraphRAG](https://github.com/gusye1234/nano-graphrag)
 * [SimGRAG (Dec 2024)](https://github.com/YZ-Cai/SimGRAG)
 * [GRAG (Nov 2024)](https://github.com/HuieL/GRAG)
-
-## Deep Research
-
-* [Agentic Reasoning (7 Feb 2025)](https://github.com/theworldofagents/Agentic-Reasoning)
-* [GraphCheck](https://anonymous.4open.science/r/GraphCheck-1D43/README.md)
    
 # DeepResearch
 

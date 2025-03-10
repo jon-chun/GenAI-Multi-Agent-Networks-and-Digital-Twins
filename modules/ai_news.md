@@ -137,6 +137,10 @@ Here is a sample for some of the sources for AI news, technology, and research. 
       - Official Stability.ai community
       - Access to Stable Models and discussions on prompt engineering
 
+## Substack
+
+* [MLOps](https://vutr.substack.com/)
+
 ## Podcasts
 
 ### Short-Form News

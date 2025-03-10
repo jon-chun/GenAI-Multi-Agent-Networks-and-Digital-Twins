@@ -85,12 +85,15 @@
 | | Firecrawl.dev | Reader API (jina.ai) | ScrapeGraphAI | |---------|:-------------:|:--------------------:|:-------------:| | Efficient Data Extraction | ✓ | ✓ | ✓ | | PDF Support | ✗ | ✓ | ✗ | | Image Reading | ✗ | ✓ | ✗ | | Real-Time Extraction | ✓ | ✗ | ✗ | | Free Tier | ✗ | ✓ | ✗ | | Audio File Generation | ✗ | ✗ | ✓ | | Highly Customizable | ✗ | ✗ | ✓ | | Graph Builder Tool | ✗ | ✗ | ✓ |
 
 
+* (Working)[Browser-Use](https://docs.browser-use.com/quickstart)
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
 * [Scrapper](https://github.com/amerkurev/scrapper)
 * [LLMWebCrawler](https://github.com/Aavache/LLMWebCrawler)
 * [Firecrawl](https://github.com/mendableai/firecrawl)
-* [Crawl4AI]
+* [Crawl4AI](https://github.com/unclecode/crawl4ai)
+  * [Crawl441 Docs](https://docs.crawl4ai.com/api/arun/) 
+  * [Scrape ANYTHING using this AI Agent, here's how (12:00) (9 Mar 2025)](https://www.youtube.com/watch?v=FHVfMxOYTBM)
   * [Scrape Any Website for FREE & NO CODE Using DeepSeek & Crawl4AI! (Opensource) (14:53) (13 Feb 2025)](https://www.youtube.com/watch?v=uSTTAJh9xAQ)
     * [Blog and Github](https://intheworldofai.com/p/specialedition)
   * [Crawl4AI and variants](https://github.com/search?q=craw4ai&type=repositories)
@@ -180,6 +183,8 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 ### Augmented Data
 
+* [Distilable](https://github.com/argilla-io/distilabel)
+* [Synthetic-data-generator](https://huggingface.co/blog/synthetic-data-generator)
 * [Augmentoolkit Github](https://github.com/e-p-armstrong/augmentoolkit)
   * [Convert Any Raw Text Into LLM Dataset Locally - Augmentoolkit (8:25) (Mar 2024)](https://www.youtube.com/watch?v=cdqIeNCj_eA)
     * [Create a Custom Dataset in 3 Minutes - Augmentoolkit Demo (2:56) (2 Aug 2024)](https://www.youtube.com/watch?v=m32fM8S_DeY)

@@ -54,6 +54,7 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 
 ## RAG Tutorials
 
+* [16 RAG Techniques (1 Feb 2025)](https://blog.dailydoseofds.com/p/16-techniques-to-build-real-world?ref=dailydev)
 * [Advanced RAG with LlamaIndex - Metadata Extraction [2025] (52:23) (28 Feb 2025)](https://www.youtube.com/watch?v=yzPQaNhuVGU)
 
 ## Multimodal

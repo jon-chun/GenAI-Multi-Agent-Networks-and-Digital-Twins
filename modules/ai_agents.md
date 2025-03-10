@@ -73,6 +73,10 @@ Agents don't replace people - They help businesses scale and allow employees to 
 * [Awesome AI Agents Guide](https://github.com/algomatic-inc/awesome-ai-agents-guide)
 * [https://github.com/Kunlun-Zhu/Awesome-Agents-Research (2023)](https://github.com/Kunlun-Zhu/Awesome-Agents-Research)
 
+### Agent Frameworks
+
+* [PySpur](https://github.com/PySpur-Dev/pyspur)
+
 ### LangChain Agents
 
 * [Awesome LangChain Agents (2023)](https://github.com/EniasCailliau/awesome-langchain-agents)

@@ -3,6 +3,7 @@
 
 ## Deep Research Frameworks
 
+* [OpenManus](https://github.com/mannaandpoem/OpenManus)
 * [MetaGPT](https://github.com/geekan/MetaGPT)
 * [Ollama Deep Researcher](https://www.youtube.com/watch?v=XGuTzHoqlj8)
   * [Github](https://github.com/langchain-ai/ollama-deep-researcher)

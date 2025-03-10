@@ -28,9 +28,18 @@
 * [Llama O1](https://github.com/SimpleBerry/LLaMA-O1)
 * [Huskey](https://huggingface.co/papers/2406.06469)
 
+### RL Training
+
+* [Verl](https://github.com/volcengine/verl)
+
 ### Reasoning Prompts
 
 * [Prompt4Reasoning](https://github.com/zjunlp/Prompt4ReasoningPapers)
+
+## Agentic Graph Deep Research
+
+* [Agentic Reasoning (7 Feb 2025)](https://github.com/theworldofagents/Agentic-Reasoning)
+* [GraphCheck](https://anonymous.4open.science/r/GraphCheck-1D43/README.md)
 
 ### Multiagent Reasoning Frameworks
 
