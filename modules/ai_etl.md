@@ -67,6 +67,7 @@
 
 ## OCR Segmenting
 
+* [MS OmniParser (Mar 2025)](https://github.com/microsoft/OmniParser/blob/master/demo.ipynb)
 * [Reddit/Aryn.ai](https://www.reddit.com/r/LocalLLaMA/comments/1esb01q/segmentingchunking_pdfs_sharing_our_approach_and/)
 
 ## ETL

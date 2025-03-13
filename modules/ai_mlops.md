@@ -77,6 +77,7 @@ Rallly
 
 ## Ollama UI
 
+* [LibreChat](https://github.com/danny-avila/LibreChat)
 * [Ollama with Vision - Enabling Multimodal RAG (13:00) (7 Oct 2024)](https://www.youtube.com/watch?v=45LJT-bt500)
 * [Find Your Perfect Ollama Build (13:30) (21 Nov 2024)](https://www.youtube.com/watch?v=RFaMiQ97EoE)
 * [Ollama](ollama.ai)

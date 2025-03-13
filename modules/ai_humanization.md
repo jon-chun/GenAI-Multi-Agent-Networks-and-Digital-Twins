@@ -15,6 +15,14 @@ GITHUB
 * (2018)https://github.com/woolz/Text-Rewrite-NLP (2018)
 
 COMMERCIAL DETECTORS:
+* DupliChecker
+* PlagiarismDetector.net
+* SearchEngineReports.net
+* Plagiarism Checker by On.com
+* PaperPal (Designed for Academia) 
+  * 7k words/mo free
+  * 5 uses/day (e.g. rewrite/paraphrase)
+  * Uses Turnitin-like detection, making it similar to what universities use.
 * Originality.ai
 * gptzero.me
 * zerogpt

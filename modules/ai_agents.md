@@ -1,5 +1,11 @@
 # AI Agent Frameworks
 
+## Agent Zoos
+
+* [Ottomator.ai (Mar 2025)](https://studio.ottomator.ai/)
+  * [The Future of RAG is Agentic - Learn this Strategy NOW (45:48) (15 Jan 2025)](https://www.youtube.com/watch?v=_R-ff4ZMLC8)
+  * [Github](https://github.com/coleam00/ottomator-agents)
+
 ## Awesome Agents
 
 * [Awesome AI Agents (Jan 2025)](https://github.com/jim-schwoebel/awesome_ai_agents)
@@ -128,10 +134,6 @@ Agents don't replace people - They help businesses scale and allow employees to 
 ## Agent Applications Colab
 
 * [Praison Agents](https://github.com/MervinPraison/PraisonAI/tree/main/cookbooks/notebooks)
-
-### Low/No-Code Agents
-
-* [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)
 
 ### Cognitive Agents
 

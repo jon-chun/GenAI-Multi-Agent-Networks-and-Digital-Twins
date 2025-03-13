@@ -1,8 +1,8 @@
 # AI Applications
 
-
 ### Projects
 
+* [Cole Medin](https://www.youtube.com/@ColeMedin)
 * [Github Practical Tutorials](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
 * [Matt Williams](https://github.com/technovangelist/videoprojects)
 * [NLP Projects](https://github.com/Vasanthengineer4949/NLP-Projects-NHV)
@@ -94,19 +94,19 @@
 
 * [DeepSeek API App Integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
+## AI Architectures
+
+* [AI in Production 2025 | Keynote (2:07:00) (12 Mar 2025)](https://www.youtube.com/watch?v=ioCIpbAKl_M)
+* 
 ### Low/No-Code Agents
 
 * [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)
 * [n8n](https://www.youtube.com/watch?v=JbGhMZ_nKD8)
+  * [n8n nodes MPC](https://github.com/nerding-io/n8n-nodes-mcp)
 
 ## Extracting Structured Info
 
 * [Prompt Link (202401)](https://github.com/constantjxyz/PromptLink)
-
-## MCP
-
-* [MCP Repo](https://github.com/modelcontextprotocol/servers)
-  * [](https://github.com/modelcontextprotocol/python-sdk)
 
 ## Local-Remote Model
 

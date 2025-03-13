@@ -1,7 +1,12 @@
 # AI Workflow Automation Design
 
+## Commercial AI Automation
+
+* [VectorShift.ai](https://vectorshift.ai/)
+
 ## Workflow Architecture
 
+* [Airflow](https://airflow.apache.org/)
 * [Anthropic Revealed Secrets to Building Powerful Agents (19:08) (28 Dec 2024)](https://www.youtube.com/watch?v=0v7TQIh_kes)
 * [Anthropic: Building Effective Agents (19 Dec 2024)](https://www.anthropic.com/research/building-effective-agents)
 

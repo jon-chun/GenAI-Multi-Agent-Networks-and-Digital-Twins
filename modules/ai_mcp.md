@@ -14,3 +14,8 @@
 
 * [MCP Playwright](https://executeautomation.github.io/mcp-playwright/)
 * [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+
+## MCP
+
+* [MCP Repo](https://github.com/modelcontextprotocol/servers)
+  * [Github](https://github.com/modelcontextprotocol/python-sdk)
