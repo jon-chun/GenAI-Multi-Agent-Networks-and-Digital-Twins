@@ -109,8 +109,16 @@ Rallly
 
 * [Install Node.js on Windows Subsystem for Linux (WSL2)](https://github.com/MicrosoftDocs/windows-dev-docs/blob/docs/hub/dev-environment/javascript/nodejs-on-wsl.md)
 
-## Performance
+## Setup, Performance and Profiling Models
 
+* [Gemma 3 Google AI Best Local Vision LLM Ever?! (47:41) (12 Mar 2025)](https://www.youtube.com/watch?v=rMSSuY4ppnY)
+  * WebUI+Ollama, Quad RTX 3090s (see notes)
+  * Enable Flash Attention: "LLAMA_FLASH_ATTENTION=1"
+  * Set KV Cache Optimization Option: 'export OLLAMA_KV_CACHE_TYPE="q8_0"'
+  * Start Ollama
+  * Check logs to verify settings
+  * NOTE: (Default?)
+  * https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/
 * [Modded-NanoGPT]()
 
 ## Multiple Models
