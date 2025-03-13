@@ -5,6 +5,10 @@
 * [HootSuite](https://www.hootsuite.com/lp/social-media-management)
 * [WriteSonic](https://writesonic.com/)
 
+## Business Intelligence
+
+* [MetaBase](https://github.com/metabase/metabase)
+
 ## Social Media
 
 * [Bluesky](https://github.com/bluesky-social/feed-generator)

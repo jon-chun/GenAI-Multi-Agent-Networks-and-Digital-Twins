@@ -94,8 +94,9 @@
 
 * [DeepSeek API App Integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
-## No/Low Code
+### Low/No-Code Agents
 
+* [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)
 * [n8n](https://www.youtube.com/watch?v=JbGhMZ_nKD8)
 
 ## Extracting Structured Info

@@ -21,6 +21,7 @@
 
 ## OCR Comparisons
 
+* [SmolVLM-256/500M Doclking w/IBM (25 Jan 2025)](https://huggingface.co/blog/smolervlm#smoldocling)
 * [OCR Comparisons for Rag (23 Sep 2024)](https://nanonets.com/blog/best-pdf-parser-for-rag-apps-a-comprehensive-guide/#summary-of-quality-of-extraction)
   * PyPDF 1 and 2 - free, but have found them to struggle with large amounts of text data, messy extraction
   * PDFminer - Generally correct with text-based questions - should be ideal for you
@@ -28,6 +29,11 @@
 
 ## OCR
 
+* [Docling](https://github.com/DS4SD/docling)
+  * [SmolVLM-256M/500M Docling w/IBM](https://huggingface.co/blog/smolervlm#smoldocling)
+* [MistralOCR]()
+* [OmniAI Xerox](https://github.com/getomni-ai/zerox)
+* [LlamaOCR](https://github.com/Nutlope/llama-ocr)
 * [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
   * [ArXiv](https://arxiv.org/html/2409.01704v1)
@@ -205,6 +211,8 @@ Citations:
 
 ## ETL Pipelines / Complex Document Processing
 
+* [Apache Airflow](https://github.com/apache/airflow)
+* [Apache NiFi](https://github.com/apache/nifi)
 * [ToWhee](https://github.com/towhee-io/towhee)
 * DocETL
   * [Github](https://github.com/ucbepic/docetl)
