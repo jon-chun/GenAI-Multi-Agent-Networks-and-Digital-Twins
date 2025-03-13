@@ -2,6 +2,10 @@
 
 ## Web
 
+* [MCP-Playwrite](https://github.com/executeautomation/mcp-playwright)
+  * [Homepage](https://executeautomation.github.io/mcp-playwright/)
+  * [Github](https://github.com/executeautomation/mcp-playwright)
+  * [Video](https://www.youtube.com/watch?v=Fp7D7RuzElo)
 * [Browser-Use](https://github.com/gregpr07/browser-use)
 
 ## RAG

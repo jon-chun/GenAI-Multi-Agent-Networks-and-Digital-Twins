@@ -48,6 +48,11 @@
 * [AIAnytime Github: Distill Model FT(3 Feb 2025)](https://github.com/AIAnytime/Fine-Tune-DeepSeek/blob/main/Distill_Model_FT.ipynb)
 * [OPEN DeepSeek R1: SECRETS Uncovered (18:39) (29 Jan 2025)](https://www.youtube.com/watch?v=2ENvGkkK36E)
 
+### Linux Foundation
+
+* [AI Linux Foundation](https://lfaidata.foundation/)
+* [Meta Strobelight](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
+
 ### Unsloth
 
 * [Unsloth Github Colab](https://github.com/unslothai/unsloth)

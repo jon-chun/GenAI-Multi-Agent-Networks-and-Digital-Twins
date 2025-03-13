@@ -1,5 +1,10 @@
 # AI Marketing
 
+## Commercial
+
+* [HootSuite](https://www.hootsuite.com/lp/social-media-management)
+* [WriteSonic](https://writesonic.com/)
+
 ## Social Media
 
 * [Bluesky](https://github.com/bluesky-social/feed-generator)

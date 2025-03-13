@@ -23,3 +23,7 @@
 
 * [Protkey AI Gateway](https://github.com/Portkey-AI/gateway)
   * [Install AI Gateway with Ollama Locally (12:25) (23 Dec 2024)]()
+
+## Models
+
+* [AMD Instella](https://github.com/AMD-AIG-AIMA/Instella)

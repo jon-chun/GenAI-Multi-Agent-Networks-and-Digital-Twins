@@ -1,5 +1,9 @@
 # AI Videos
 
+## Video Workflows
+
+* [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+
 ## LMM 
 
 * [Qwen2.5 VL](https://github.com/QwenLM/Qwen2.5-VL) w/Colabs
@@ -14,6 +18,13 @@
 ## AI Video Tutorials
 
 * [The Future of RAG will be with Vision: End to End Example with ColPali and a Vision Language Model (17 Aug 2024)](https://blog.gopenai.com/the-future-of-rag-will-be-with-vision-end-to-end-example-with-colpali-and-a-vision-language-model-fe133667d2f9)
+
+## Video Analysis
+
+* [https://www.youtube.com/watch?v=kPTKlg-RDVs (37:59) (5 Mar 2025)](https://github.com/ALucek/NeedleInAVidStack)'
+  * [NeedleInAVidStack](https://github.com/ALucek/NeedleInAVidStack)
+  * [ppt2desc](https://github.com/ALucek/ppt2desc)
+  * [LibraOffice Docker](https://github.com/ALucek/ppt2desc/blob/main/docker-compose.yml)
 
 ## Video Libraries
 

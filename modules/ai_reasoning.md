@@ -28,16 +28,28 @@
 * [Llama O1](https://github.com/SimpleBerry/LLaMA-O1)
 * [Huskey](https://huggingface.co/papers/2406.06469)
 
+### RL Training
+
+* [Verl](https://github.com/volcengine/verl)
+
 ### Reasoning Prompts
 
 * [Prompt4Reasoning](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
+<<<<<<< HEAD
 ### Reinfocement Learning
 
 * [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
+=======
+## Agentic Graph Deep Research
+
+* [Agentic Reasoning (7 Feb 2025)](https://github.com/theworldofagents/Agentic-Reasoning)
+* [GraphCheck](https://anonymous.4open.science/r/GraphCheck-1D43/README.md)
+>>>>>>> e1a90f5e993cbd9902a00d1430bd1bc8b3749dcc
 
 ### Multiagent Reasoning Frameworks
 
+* [theworldofagents/Agentic-Reasoning](https://github.com/theworldofagents/Agentic-Reasoning)
 * [Understanding and Effectively Using AI Reasoning Models (5:15) (22 Jan 2025)](https://www.youtube.com/watch?v=f0RbwrBcFmc)
 * [Multiagent Reasoning](https://github.com/AdieLaine/multi-agent-reasoning)
 * [MS Magnetic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks)
