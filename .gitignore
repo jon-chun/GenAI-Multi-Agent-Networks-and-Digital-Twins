@@ -166,3 +166,4 @@ cython_debug/
 #.idea/
 code/deepseek-web-crawler/
 code/deepseek-web-crawler/
+.qodo
