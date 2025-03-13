@@ -23,6 +23,13 @@
 * GitHub
   * [Silverbullet](https://silverbullet.md/Plugs/Git)
 
+### AI Tools
+11 Mar 2025
+* [SciSpace Deep Review: 10x Better than ChatGPT (SciSpace) (7:58) (11 Mar 2025)](https://www.youtube.com/watch?v=C_xvA6CYqB0)
+* [(Consensus.app) This AI Tool Finds the Best Research Instantly - And It’s 100x Faster Than You! (8:31) (13 Mar 2025)](https://www.youtube.com/watch?v=fZgLKYcEp0M)
+* [How to Use Perplexity's FREE Deep Research & Supercharge your Literature Review (9:34) (4 Mar 2025)](https://www.youtube.com/watch?v=UobQwGTli5w&t=1s)
+
+
 ### Quick Academic Presentations
 
 * [NeurIPS 2022 FrozenBiLM: 5 Min Presentation](https://www.youtube.com/watch?v=dedoSjAiVL4)

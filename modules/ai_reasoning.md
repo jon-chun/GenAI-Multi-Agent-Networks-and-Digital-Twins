@@ -32,6 +32,10 @@
 
 * [Prompt4Reasoning](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
+### Reinfocement Learning
+
+* [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
+
 ### Multiagent Reasoning Frameworks
 
 * [Understanding and Effectively Using AI Reasoning Models (5:15) (22 Jan 2025)](https://www.youtube.com/watch?v=f0RbwrBcFmc)

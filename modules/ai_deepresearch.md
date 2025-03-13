@@ -3,6 +3,8 @@
 
 ## Deep Research Frameworks
 
+* [OpenManus](https://github.com/mannaandpoem/OpenManus)
+* [ANUS](https://github.com/nikmcfly/ANUS)
 * [MetaGPT](https://github.com/geekan/MetaGPT)
 * [Ollama Deep Researcher](https://www.youtube.com/watch?v=XGuTzHoqlj8)
   * [Github](https://github.com/langchain-ai/ollama-deep-researcher)
@@ -13,7 +15,6 @@
 * [(LangChain) Building a fully local research assistant from scratch with Ollama (16:24) (11 Dec 2024)](https://www.youtube.com/watch?v=XGuTzHoqlj8)
   * [Blog] (https://mirror-feeling-d80.notion.site/Fully-Local-Research-Summarization-157808527b1780bfa5e5f4650630ae08)
 * [Huggingface](https://huggingface.co/blog/open-deep-research)
-* 
 
 ## Framework
 

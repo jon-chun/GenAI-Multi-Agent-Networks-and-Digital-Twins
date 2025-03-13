@@ -5,8 +5,9 @@
 * [VSCode + ClaudeDev + Aider + Supermaven : STOP PAYING for CURSOR with this ULTIMATE Alternative (12:32) (2 Oct 2024)](https://www.youtube.com/watch?v=zLQuBSuzu2w&t=605s)
 * [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens (28 Jan 2025)](https://news.ycombinator.com/item?id=42831769) HNews setup and strategies
 
-## Colab
+## Jupyter Colab Notebooks
 
+* [An overview of marimo (6:23) (11 Mar 2024)](https://www.youtube.com/watch?v=3N6lInzq5MI)
 * [Google colab.research.google.com](https://colab.research.google.com)
 * [Medium Colab: Experiment, Iterate, Collaborate](https://medium.com/google-colab)
   

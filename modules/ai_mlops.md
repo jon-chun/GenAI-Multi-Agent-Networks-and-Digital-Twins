@@ -115,6 +115,7 @@ Rallly
 
 ## AI Observability
 
+* [LangFuse](https://github.com/langfuse/langfuse-docs/blob/main/cookbook/integration_pydantic_ai.ipynb)
 * [Pydantic   logfire.dev](https://github.com/pydantic/logfire)
 * [Opik](https://www.comet.com/site/products/opik/)
 * [AgentBoard (24 Jan 2024)](https://github.com/hkust-nlp/AgentBoard)

@@ -180,6 +180,7 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 ### Augmented Data
 
+* [Meta AugLy](https://github.com/facebookresearch/AugLy)
 * [Augmentoolkit Github](https://github.com/e-p-armstrong/augmentoolkit)
   * [Convert Any Raw Text Into LLM Dataset Locally - Augmentoolkit (8:25) (Mar 2024)](https://www.youtube.com/watch?v=cdqIeNCj_eA)
     * [Create a Custom Dataset in 3 Minutes - Augmentoolkit Demo (2:56) (2 Aug 2024)](https://www.youtube.com/watch?v=m32fM8S_DeY)
