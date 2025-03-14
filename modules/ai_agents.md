@@ -108,6 +108,7 @@ Agents don't replace people - They help businesses scale and allow employees to 
 
 ### Research
 
+* [ICLR 2025 Agent Paper Submissions (Ranked)](https://github.com/Aaron617/ICLR-2025-Submissions-Agent)
 * [Awesome LLM-Powered Agents](https://github.com/hyp1231/awesome-llm-powered-agent)
 * [Awesome Autonomous Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
 * [Awesome Multiagent Papers](https://github.com/kyegomez/awesome-multi-agent-papers)

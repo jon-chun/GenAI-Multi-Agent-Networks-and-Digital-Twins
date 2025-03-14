@@ -5,6 +5,12 @@
 * [HootSuite](https://www.hootsuite.com/lp/social-media-management)
 * [WriteSonic](https://writesonic.com/)
 
+## Website
+
+* Github Jekyll .io Website
+  * [al-folio template](https://github.com/alshedivat/al-folio)
+  * [academic website template ](https://github.com/sbryngelson/academic-website-template)
+  * [Sample](https://godxuxilie.github.io/)
 ## Social Media
 
 * [Bluesky](https://github.com/bluesky-social/feed-generator)

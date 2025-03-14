@@ -92,6 +92,8 @@ Rallly
 
 ## Docker
 
+* [How to Make Your Python Docker Image 80% Smaller (18:46) (14 Mar 2025)](https://www.youtube.com/watch?v=tc713anE3UY&t=648s)
+  * [Gihub](https://github.com/ArjanCodes/examples/tree/main/2025/efficient-python-dockerfile)
 * [How to Install Ollama, Docker, and Open WebUI on Linux (Ubuntu) (5:14) (Dec 2025)](https://www.youtube.com/watch?v=TsTJVd9LciY)
 * [How I deploy serverless containers for free (6:32) (Feb 2024)](https://www.youtube.com/watch?v=cw34KMPSt4k)
 
