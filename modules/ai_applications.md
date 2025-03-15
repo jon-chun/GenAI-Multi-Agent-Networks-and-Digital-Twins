@@ -58,6 +58,10 @@
   * [Notebook #5](../code/deeplearningai/deeplearningai_prompt_compression_query_opt_Lesson_5.ipynb)
   * [Notebook Appendix](../code/deeplearningai/deeplearningai_prompt_compression_query_opt_Appendix-Tips_and_Help.ipynb)
 
+## Static Website Generators
+
+* [Awesome Static Generators (Mar 2025)](https://github.com/myles/awesome-static-generators)
+
 ## Job Applications
 
   Auto_Jobs_Applier_AIHawk is a tool that automates the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.

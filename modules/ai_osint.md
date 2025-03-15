@@ -10,4 +10,5 @@
 
 ## Business Intelligence
 
+* [Glance](https://github.com/glanceapp/glance)
 * [MetaBase](https://github.com/metabase/metabase)

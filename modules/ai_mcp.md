@@ -1,5 +1,21 @@
 # Model Context Protocol
 
+
+## MCP Official
+
+* [MCP Repo](https://github.com/modelcontextprotocol/servers)
+  * [Github](https://github.com/modelcontextprotocol/python-sdk)
+
+## MCP Awesome
+
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+* [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
+
+## MCP Examples
+
+* [Coding-Crashkurse/Model-Context-Protocol](https://github.com/Coding-Crashkurse/Model-Context-Protocol)
+  * [YouTube](https://www.youtube.com/watch?v=DjASqYqXs4g)
+
 ## MCP
 
 * [MCP Introduction](https://modelcontextprotocol.io/introduction)
@@ -14,8 +30,3 @@
 
 * [MCP Playwright](https://executeautomation.github.io/mcp-playwright/)
 * [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
-
-## MCP
-
-* [MCP Repo](https://github.com/modelcontextprotocol/servers)
-  * [Github](https://github.com/modelcontextprotocol/python-sdk)

@@ -7,10 +7,8 @@
 ## Deep Research Frameworks
 
 * [OpenManus](https://github.com/mannaandpoem/OpenManus)
-<<<<<<< HEAD
 * [ANUS](https://github.com/nikmcfly/ANUS)
-=======
->>>>>>> e1a90f5e993cbd9902a00d1430bd1bc8b3749dcc
+* [autoMate](https://github.com/yuruotong1/autoMate)
 * [MetaGPT](https://github.com/geekan/MetaGPT)
 * [Ollama Deep Researcher](https://www.youtube.com/watch?v=XGuTzHoqlj8)
   * [Github](https://github.com/langchain-ai/ollama-deep-researcher)

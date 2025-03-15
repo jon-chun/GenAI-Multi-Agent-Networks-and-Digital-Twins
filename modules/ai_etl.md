@@ -214,6 +214,7 @@ Citations:
 
 * [Apache Airflow](https://github.com/apache/airflow)
 * [Apache NiFi](https://github.com/apache/nifi)
+* [xPipe](https://github.com/xpipe-io/xpipe)
 * [ToWhee](https://github.com/towhee-io/towhee)
 * DocETL
   * [Github](https://github.com/ucbepic/docetl)

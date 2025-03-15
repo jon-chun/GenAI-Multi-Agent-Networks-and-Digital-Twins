@@ -15,6 +15,15 @@
 
 * [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)
 
+### LMM Reasoning / Vision Reasoning
+
+* [(Mac) mlx-vlm (5 models as of Mar 2025)](https://github.com/Blaizzy/mlx-vlm)
+  Idefics 2
+  LLaVA (Interleave)
+  Qwen2-VL
+  Phi3-Vision
+  Pixtral
+
 ### Causal Reasoning
 
 * [Improving Causal Reasoning in Large Language Models: A Survey by Xiong et al. (22 Oct 2024)](https://github.com/chendl02/Awesome-LLM-causal-reasoning)
@@ -36,16 +45,14 @@
 
 * [Prompt4Reasoning](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
-<<<<<<< HEAD
 ### Reinfocement Learning
 
 * [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
-=======
+
 ## Agentic Graph Deep Research
 
 * [Agentic Reasoning (7 Feb 2025)](https://github.com/theworldofagents/Agentic-Reasoning)
 * [GraphCheck](https://anonymous.4open.science/r/GraphCheck-1D43/README.md)
->>>>>>> e1a90f5e993cbd9902a00d1430bd1bc8b3749dcc
 
 ### Multiagent Reasoning Frameworks
 

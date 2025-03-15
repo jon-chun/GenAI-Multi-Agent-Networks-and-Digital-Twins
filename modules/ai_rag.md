@@ -65,6 +65,7 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 
 ## Local RAG
 
+* [Klee (Mar 2025)](https://github.com/signerlabs/Klee)
 * [orama](https://github.com/oramasearch/orama)
 * [rlama](https://github.com/DonTizi/rlama/tree/main)
 * [PyMuPDF RAG](https://github.com/pymupdf/RAG)
