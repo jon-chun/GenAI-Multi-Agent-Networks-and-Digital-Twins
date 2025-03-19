@@ -10,7 +10,20 @@
 * Github Jekyll .io Website
   * [al-folio template](https://github.com/alshedivat/al-folio)
   * [academic website template ](https://github.com/sbryngelson/academic-website-template)
-  * [Sample](https://godxuxilie.github.io/)
+
+  https://godxuxilie.github.io/project_page/prompt_attack/
+
+  Personal Website Template
+  https://github.com/alshedivat/al-folio 
+  https://github.com/sbryngelson/academic-website-template 
+  https://alshedivat.github.io/al-folio/ 
+
+  Personal Website
+  https://godxuxilie.github.io/ 
+
+  Directory Structure
+  https://chatgpt.com/share/67d88334-e150-800d-8c32-924f9f3b345a
+
 ## Social Media
 
 * [Bluesky](https://github.com/bluesky-social/feed-generator)

@@ -9,6 +9,10 @@
 
 ## Academic Research
 
+### Research Gaps
+
+* [LitMap (18:08) (May 2024)](https://www.youtube.com/watch?v=rLsLsQr3VaA)
+
 ### Research Tools
 
 * [Zotero](https://www.zotero.org/)
@@ -23,6 +27,13 @@
   * [Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
 * GitHub
   * [Silverbullet](https://silverbullet.md/Plugs/Git)
+
+### Zotero Plugins
+
+* [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v7.0.5)
+  [Install Page](https://retorque.re/zotero-better-bibtex/installation/)
+* [Custom Zotero Template for Obsidian (24:57) (2024)](https://www.youtube.com/watch?v=FV-lwRpLWyI)
+  [Blog](https://dannyhatcher.com/how-to-customize-your-zotero-template-for-obsidian/)
 
 ### AI Tools
 11 Mar 2025

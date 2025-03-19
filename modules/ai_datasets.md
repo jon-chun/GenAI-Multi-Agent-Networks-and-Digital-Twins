@@ -85,8 +85,9 @@
 | | Firecrawl.dev | Reader API (jina.ai) | ScrapeGraphAI | |---------|:-------------:|:--------------------:|:-------------:| | Efficient Data Extraction | ✓ | ✓ | ✓ | | PDF Support | ✗ | ✓ | ✗ | | Image Reading | ✗ | ✓ | ✗ | | Real-Time Extraction | ✓ | ✗ | ✗ | | Free Tier | ✗ | ✓ | ✗ | | Audio File Generation | ✗ | ✗ | ✓ | | Highly Customizable | ✗ | ✗ | ✓ | | Graph Builder Tool | ✗ | ✗ | ✓ |
 
 
-* (Working)[Browser-Use](https://docs.browser-use.com/quickstart)
+* (Working)[Browser Use](https://docs.browser-use.com/quickstart)
   * [Browser Use Docker](https://github.com/gauravdhiman/browser-use-fastapi-docker-server)
+* [browseragent.dev](https://browseragent.dev/?ref=manuagi)
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
 * [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
 * [Scrapper](https://github.com/amerkurev/scrapper)
@@ -252,3 +253,7 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 * [datacompy](https://capitalone.github.io/datacompy/pandas_usage.html)
 * [python-tabulate](https://github.com/astanin/python-tabulate)
+
+## Data APIify
+
+* [Interlify](https://www.interlify.com/pricing)

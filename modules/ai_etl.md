@@ -6,6 +6,7 @@
 
 ## PDF Processing
 
+* [SmolDocling - The SmolOCR Solution? (8:16) (18 Mar 2025)](https://www.youtube.com/watch?v=kPKRJeLMq_M)
 * [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg)
 * [PDFium](https://pdfium.googlesource.com/pdfium/)
 
@@ -132,6 +133,11 @@
   
 * [FireCrawl](https://www.firecrawl.dev/)
 * [Unstructured](https://pypi.org/project/unstructured/)
+
+## Commerical Document Processing
+
+* [Upstage (Vector-based PDF)](https://www.youtube.com/watch?v=Y2gXmCM3NMw)
+  * [Hugginface Benchmarks](https://huggingface.co/datasets/upstage/dp-bench)
 
 ## DOCUMENT PROCESSING
 

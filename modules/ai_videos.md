@@ -4,6 +4,10 @@
 
 * [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 
+## Commercial
+
+* [HeyEddie.ai](https://www.heyeddie.ai/?ref=manuagi#Use-Cases-section)
+
 ## LMM 
 
 * [Qwen2.5 VL](https://github.com/QwenLM/Qwen2.5-VL) w/Colabs

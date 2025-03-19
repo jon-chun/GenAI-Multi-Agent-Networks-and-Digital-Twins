@@ -99,6 +99,8 @@ Rallly
 
 ## Self-Hosted
 
+* [Local AI Package Coleam00](https://github.com/coleam00/local-ai-packaged)
+  * [YouTube](https://www.youtube.com/watch?v=hKrl5Gr7hM0)
 * [Github: n8n Self-hosted AI starter kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
   * [Run All-in-One Local AI Infrastructure In MINUTES! (LLMs, RAG & More) (15:08) (10 Dec 2024)](https://www.youtube.com/watch?v=TIMOfVhnjQA)
   * [The ULTIMATE n8n Self-Hosting Guide (25:17) (11 Dec 2024)](https://www.youtube.com/watch?v=mhDeE5N_SWk)
