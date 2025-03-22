@@ -8,6 +8,10 @@
   * [Video](https://www.youtube.com/watch?v=Fp7D7RuzElo)
 * [Browser-Use](https://github.com/gregpr07/browser-use) 
 
+## Computer Use
+
+* [Roo-Cline Chrome Remote Browser Use with Anthropic (Mar 2025)](https://www.youtube.com/watch?v=oKRY-tIqNOk)
+
 ## Cloud
 
 * [Google App Scripts (Mar 2025 )](https://github.com/googleworkspace/apps-script-samples)

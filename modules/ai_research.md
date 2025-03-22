@@ -27,6 +27,8 @@
 * [Obsidian](https://obsidian.md/pricing)
   * [How to Connect Zotero and Obsidian for the Ultimate PhD Workflow (21:50) (Jan 2025)](https://www.youtube.com/watch?v=hRCiuycpAIU)
   * [Obsidian: The King of Learning Tools (FULL GUIDE + SETUP) (36:25) (May 2024)](https://www.youtube.com/watch?v=hSTy_BInQs8)
+  * Vault in Cloud (GDrive)
+  * 6 folders: Rough Notes, Source Material, Tags, Indicies, Template, Full Notes, Story Log
 * [Logseq](https://docs.logseq.com/#/page/start%20here)
 * [Zettlr](https://www.zettlr.com/)
 * [dendron](https://github.com/dendronhq/dendron)

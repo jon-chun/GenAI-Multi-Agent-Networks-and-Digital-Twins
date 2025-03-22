@@ -7,6 +7,7 @@
 ## Deep Research Frameworks / AI Automation
 
 * [OpenManus](https://github.com/mannaandpoem/OpenManus)
+* [LangChain Local-Deep-Researcher (Mar 2025)](https://github.com/langchain-ai/local-deep-researcher)
 * [OWL Camel.ai](https://github.com/camel-ai/owl)
 * [GPTme](https://github.com/gptme/gptme)
 * [Surf by E2B](https://github.com/e2b-dev/surf/)
