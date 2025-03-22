@@ -3,11 +3,13 @@
 ## Commercial Deep Research
 
 * [Jina.ai](https://jina.ai/deepsearch)
-  ]
-## Deep Research Frameworks
+
+## Deep Research Frameworks / AI Automation
 
 * [OpenManus](https://github.com/mannaandpoem/OpenManus)
 * [OWL Camel.ai](https://github.com/camel-ai/owl)
+* [GPTme](https://github.com/gptme/gptme)
+* [Surf by E2B](https://github.com/e2b-dev/surf/)
 * [Proxy Convergence.ai (freemium)]()
 * [ANUS](https://github.com/nikmcfly/ANUS)
 * [autoMate](https://github.com/yuruotong1/autoMate)

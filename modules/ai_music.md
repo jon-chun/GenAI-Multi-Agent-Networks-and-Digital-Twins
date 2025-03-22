@@ -2,7 +2,10 @@
 
 To create a music video mixtape from YouTube content using Python, **MoviePy** is the primary open-source library for video editing and compilation. Here's a breakdown of tools and workflows:
 
----
+# Generative AI Music
+
+* [NotaGen](https://electricalexis.github.io/notagen-demo/)
+  * [Github](https://github.com/ElectricAlexis/NotaGen)
 
 ## Key Tools & Workflows
 ### 1. **Video Editing & Compilation with MoviePy

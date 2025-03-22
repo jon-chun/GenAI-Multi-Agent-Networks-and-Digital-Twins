@@ -1,7 +1,13 @@
 # RESEARCH
 
+## AI Research Sites:
 
-## AI Researach
+* [SemanticScholar.org]()
+* [ArXiv.org]()
+* [OpenReview.net]()
+* [AllenAI ScholarQA](https://scholarqa.allen.ai/chat)
+
+## AI Research
 
 * [Andy Stapleton: Best AI Research Tools for 2025 (13 Jan 2025)](https://www.youtube.com/watch?v=IBsBixGTh-I)
 * [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -15,6 +21,7 @@
 
 ### Research Tools
 
+* [Overview Andy Stapleton (17 Mar 2025)](https://www.youtube.com/watch?v=xIj366I-om8)
 * [Zotero](https://www.zotero.org/)
   * [BibTex](https://www.zotero.org/support/kb/bibtex)
 * [Obsidian](https://obsidian.md/pricing)
@@ -34,6 +41,7 @@
   [Install Page](https://retorque.re/zotero-better-bibtex/installation/)
 * [Custom Zotero Template for Obsidian (24:57) (2024)](https://www.youtube.com/watch?v=FV-lwRpLWyI)
   [Blog](https://dannyhatcher.com/how-to-customize-your-zotero-template-for-obsidian/)
+* [How to connect Gemini to Zotero for a free, no code, research assistant (14:40) (15 Mar 2025)](https://www.youtube.com/watch?v=Ca8VYtx5Suk)
 
 ### AI Tools
 11 Mar 2025
@@ -70,3 +78,7 @@ ACL
 ## Research Methods
 
 * [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton)
+
+## AI Scientific Discovery
+
+* [MS RD-Agent](https://github.com/microsoft/RD-Agent)

@@ -2,6 +2,7 @@
 
 ## Video Workflows
 
+* [Zap Automated Video Pipeline (15:50) (19 Mar 2025)](https://www.youtube.com/watch?v=a4DndjvDSmE)
 * [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 
 ## Commercial

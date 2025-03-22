@@ -1,11 +1,17 @@
 # AI Document
 
+## Awesome
+
+* [business-science/awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist)
+
 ## Document Processing
 
 * [](https://www.youtube.com/watch?v=FN6U5D7ZsLA&t=344s)
-
+  
 ## PDF Processing
 
+* [Marker](https://github.com/VikParuchuri/marker)
+  * [YouTube (May 2024)](https://www.youtube.com/watch?v=mdLBr9IMmgI&t=172s)
 * [SmolDocling - The SmolOCR Solution? (8:16) (18 Mar 2025)](https://www.youtube.com/watch?v=kPKRJeLMq_M)
 * [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg)
 * [PDFium](https://pdfium.googlesource.com/pdfium/)
@@ -68,6 +74,10 @@
 
 ## OCR Segmenting
 
+* [ColPali: Efficient Document Retrieval with Vision Language Models (2 Jul 2025)](https://arxiv.org/pdf/2407.01449v2)
+  * [YouTube (27:32) (17 Jul 2024)](https://www.youtube.com/watch?v=0C0FL0iFd1E)
+  * [Github](https://github.com/illuin-tech/colpali)
+  * [Leaderboard](https://huggingface.co/spaces/vidore/vidore-leaderboard)
 * [MS OmniParser (Mar 2025)](https://github.com/microsoft/OmniParser/blob/master/demo.ipynb)
 * [Reddit/Aryn.ai](https://www.reddit.com/r/LocalLLaMA/comments/1esb01q/segmentingchunking_pdfs_sharing_our_approach_and/)
 
@@ -127,6 +137,8 @@
 * [Unstructured](https://github.com/Unstructured-IO/unstructured)
 * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
 * [LlamaParse](https://github.com/run-llama/llama_parse)
+  * [YouTube (5 Jun 2024)](https://www.youtube.com/watch?v=7DJzHncUlpI)
+  * [Colab](https://colab.research.google.com/drive/18KB9yXxDUeQGrEZEP1eCrXQ0dNB-Oazm?usp=sharing)
   
 * [Introducing the Realtime API by OpenAI Speech](https://openai.com/index/introducing-the-realtime-api/)
 * ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3 (24:10) (30 Apr 2024)](https://www.youtube.com/watch?v=u5Vcrwpzoz8) 
@@ -146,6 +158,12 @@
 ## Document Conversions
 
 ## Document Manipulation
+
+## Document Generation
+
+* [AI2 ScholarQA.allen.ai](https://github.com/allenai/ai2-scholarqa-lib/)
+* [NotebookLM]()
+* [Story Generation]()
 
 ### MS-Word
 

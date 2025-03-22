@@ -36,11 +36,19 @@
 * [Groq.com](https://groq.com/)
 * [Hyperbolic.xyz](https://www.hyperbolic.xyz/)
 
-## RUNPOD
+## VM Cloud Services
 
+* [Hostinger](hostinger.com)
+* [Lambda](https://www.lambdalabs.com/)
+* [Akamai Cloud (aka linnode)](linode.com)
+* [Vultr.ai](https://vultr.com)
+* [paperspace.ai]()
+
+## Container Cloud Services
 * [Runpod.io Console](https://www.runpod.io/console/user/billing)
 * [Runpod.io Benchmarks](https://www.reddit.com/r/LocalLLaMA/comments/1fe8g8z/ollama_llm_benchmarks_on_different_gpus_on/)
 * [Runpod.io Ollama Speedtest](https://github.com/MarkoPekas/runpod-ollama-speedtest-guide)
+* [Tensordock.com](tensordock.com)
 
 ## LAMBDA
 
