@@ -18,6 +18,7 @@
 
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern)
 * [HNews](https://news.ycombinator.com/item?id=41936745)
+* [Surf by E2B](https://github.com/e2b-dev/surf/)
 
 ## General Automation Tools
 

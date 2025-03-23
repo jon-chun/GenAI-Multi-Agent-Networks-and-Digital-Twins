@@ -7,6 +7,10 @@ To create a music video mixtape from YouTube content using Python, **MoviePy** i
 * [NotaGen](https://electricalexis.github.io/notagen-demo/)
   * [Github](https://github.com/ElectricAlexis/NotaGen)
 
+## Classification
+
+* [Colab 2024](https://github.com/MaxWienandts/Music-Classification/blob/main/Music%20Classification.ipynb)
+
 ## Key Tools & Workflows
 ### 1. **Video Editing & Compilation with MoviePy
 MoviePy ([Search Result 1][5][6]) enables trimming, concatenation, transitions, and audio mixing:
