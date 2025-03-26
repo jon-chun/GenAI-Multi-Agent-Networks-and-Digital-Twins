@@ -50,4 +50,19 @@
 * Local n8n:
   * BrowserAgent.dev (freemium): https://browseragent.dev/?ref=manuagi
 * unstract: https://github.com/Zipstack/unstract
-  * 
+  *
+
+## Setup
+
+* [Python]()
+* [Standard Libraries]()
+* [Virtual Environments (uv, conda, venv)]()
+* [NVIDIA]()
+* [Ollama]()
+* [Open WebUI]()
+* [Docker]()
+* [VSCode]()
+* [VSCode Plugins]()
+* [VSCode MCP Servers]()
+* [Browser Use]()
+* [n8n]()

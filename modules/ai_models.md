@@ -27,3 +27,19 @@
 ## Models
 
 * [AMD Instella](https://github.com/AMD-AIG-AIMA/Instella)
+
+## STT Models
+
+* [OpenAI Whisper]()
+
+## TTS Models
+
+* [Zonos](https://github.com/Zyphra/Zonos)
+* [SparkAudio](https://github.com/SparkAudio/Spark-TTS)
+* [HF Fish-Speech 1.5](https://huggingface.co/fishaudio/fish-speech-1.5)
+
+## Multimodal
+
+* [Orpheus 3B TTS Local Test & Install (A Realistic LOCAL TTS!) (17:37) (20 Mar 2025)](https://www.youtube.com/watch?v=otgzoKHdYpA)
+  * [Github](https://github.com/canopyai/Orpheus-TTS)
+  * [Local Install](https://github.com/PRITHIVSAKTHIUR/Orpheus-TTS-Edge)

@@ -93,6 +93,8 @@ Rallly
 
 ## Docker
 
+* [Docker CE]
+  * [Portainer.io localhost:9443]()
 * [How to Make Your Python Docker Image 80% Smaller (18:46) (14 Mar 2025)](https://www.youtube.com/watch?v=tc713anE3UY&t=648s)
   * [Gihub](https://github.com/ArjanCodes/examples/tree/main/2025/efficient-python-dockerfile)
 * [How to Install Ollama, Docker, and Open WebUI on Linux (Ubuntu) (5:14) (Dec 2025)](https://www.youtube.com/watch?v=TsTJVd9LciY)
@@ -100,12 +102,17 @@ Rallly
 
 ## Self-Hosted
 
+* [n8n setup local+cloud](https://www.youtube.com/watch?v=OWa9Qse3ow0)
 * [Local AI Package Coleam00](https://github.com/coleam00/local-ai-packaged)
   * [YouTube](https://www.youtube.com/watch?v=hKrl5Gr7hM0)
 * [Github: n8n Self-hosted AI starter kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
   * [Run All-in-One Local AI Infrastructure In MINUTES! (LLMs, RAG & More) (15:08) (10 Dec 2024)](https://www.youtube.com/watch?v=TIMOfVhnjQA)
   * [The ULTIMATE n8n Self-Hosting Guide (25:17) (11 Dec 2024)](https://www.youtube.com/watch?v=mhDeE5N_SWk)
 
+## LLM in Browser
+
+* [Cloud Code AI](https://github.com/Cloud-Code-AI)
+)
 ## Infrastructure as Code
 
 * [MetaFlow](https://github.com/Netflix/metaflow?tab=readme-ov-file)
