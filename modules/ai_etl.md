@@ -38,7 +38,7 @@
 
 * [Docling](https://github.com/DS4SD/docling)
   * [SmolVLM-256M/500M Docling w/IBM](https://huggingface.co/blog/smolervlm#smoldocling)
-* [MistralOCR]()
+* [MistralOCR n8n workflow automation](https://www.youtube.com/watch?v=Z9Lym6AZdVM)
 * [OmniAI Xerox](https://github.com/getomni-ai/zerox)
 * [LlamaOCR](https://github.com/Nutlope/llama-ocr)
 * [OCRMyPDF](https://github.com/ocrmypdf/OCRmyPDF)

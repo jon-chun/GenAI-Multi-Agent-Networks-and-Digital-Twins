@@ -80,6 +80,14 @@
 
 * [iSarcasm](https://www.research.ed.ac.uk/files/160693501/iSarcasm_OPREA_DOA03042020_VOR_CC_BY.pdf)
 
+## Export
+
+* [ExportComments.com](https://exportcomments.com/pricing)
+
+## Specialized Scraping Repos
+
+* [BBC Pidgeon (Africa)](https://github.com/keleog/bbc_pidgin_scraper)
+
 ## SCRAPING
 
 | | Firecrawl.dev | Reader API (jina.ai) | ScrapeGraphAI | |---------|:-------------:|:--------------------:|:-------------:| | Efficient Data Extraction | ✓ | ✓ | ✓ | | PDF Support | ✗ | ✓ | ✗ | | Image Reading | ✗ | ✓ | ✗ | | Real-Time Extraction | ✓ | ✗ | ✗ | | Free Tier | ✗ | ✓ | ✗ | | Audio File Generation | ✗ | ✗ | ✓ | | Highly Customizable | ✗ | ✗ | ✓ | | Graph Builder Tool | ✗ | ✗ | ✓ |
