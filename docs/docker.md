@@ -1,5 +1,10 @@
 # DOCS: Docker
 
+## Docker YAML
+
+* [](https://github.com/technovangelist/videoprojects/blob/main/2024-10-25-n8ninstall/docker-compose.yml)
+
+
 ## Docker Desktop vs Docker CE
 
 Grok (23 Mar 2025) https://grok.com/share/bGVnYWN5_d5fc5c1d-3305-4961-a3dd-097612fe445c

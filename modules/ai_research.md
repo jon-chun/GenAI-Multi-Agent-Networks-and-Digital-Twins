@@ -1,11 +1,31 @@
 # RESEARCH
 
-## AI Research Sites:
+## AI Research Papers and Preprints:
+(To find and read specific papers)
 
-* [SemanticScholar.org]()
-* [ArXiv.org]()
-* [OpenReview.net]()
-* [AllenAI ScholarQA](https://scholarqa.allen.ai/chat)
+* (best free)[SemanticScholar.org](https://semanticscholar.org/)
+* (most current CS/AI)[ArXiv.org](https://arxiv.org/)
+* (great comments for Tier 1 Conference preprints)[OpenReview.net](https://openreview.net/)
+* (everything and the sink)[Google Scholar](https://scholar.google.com/)
+
+## AI DeepResearch Websites for Overview
+(To do a Lit Search and give overview of research topics, related areas, and recent activities)
+
+* (best long-form free as of 3/2025)[Google Gemini DeepResearch Model](https://gemini.google.com/app)
+* (best short-form freemium as of 3/2025)[Perplexity.ai](https://www.perplexity.ai/)
+* (good alt short-form freemium as of 3/2025)[DeepSeek DeepThink+Search](https://chat.deepseek.com)
+* (decent freemium as of 3/2025)[Grok DeepSearch](https://grok.com/)
+* (OK freemium as of 3/2025)[OpenAI o3-mini-high with Web](https://chatgpt.com/)
+* (OK freemium as of 3/2025)[Claude Sonnet 3.7](https://claude.ai)
+* (Meh freemium as of 3/2025)[Qwen 2.5 Max with Thinking+Search](https://chat.qwen.ai/)
+
+## AI Literature Search and Detailed Paper Analysis
+(To drill down into specific papers and do an efficienct and focused crawl over directly relevant research papers, trends, topics and well as explore new ideas, identify research gaps, discover new connections)
+
+* (best free as of 3/2025)[AllenAI ScholarQA (free)](https://scholarqa.allen.ai/chat)
+* (best paid as of 3/2025) [SciSpace (freemium vs $12/mo]()
+* (paid and free)[Consensus.app](https://consensus.app/)
+
 
 ## AI Research
 
