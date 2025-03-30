@@ -27,6 +27,7 @@
 
 ## Cookbooks
 
+* [Prompt Kit for AI Applications](https://github.com/ibelick/prompt-kit)
 * [OpenAI Cookbook](https://cookbook.openai.com/)
 * [Anthropic Cookbook](https://docs.anthropic.com/en/docs/resources/cookbook)
 * [LangChain Cookbook](https://python.langchain.com/v0.1/docs/cookbook/)

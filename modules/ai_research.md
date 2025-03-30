@@ -19,6 +19,11 @@
 
 * [LitMap (18:08) (May 2024)](https://www.youtube.com/watch?v=rLsLsQr3VaA)
 
+
+### Second Brain
+
+* [SuperMemory](https://github.com/supermemoryai/supermemory)
+
 ### Research Tools
 
 * [Overview Andy Stapleton (17 Mar 2025)](https://www.youtube.com/watch?v=xIj366I-om8)
@@ -65,6 +70,7 @@
 * [Phind.com](https://phind.com)
 * [SciSpace](https://typeset.io/)
 * [Paper Digest](https://www.paperdigest.org/)
+* [OpenSearch (Perplexity clone)](https://github.com/supermemoryai/opensearch-ai)
 
 ## Research Paper Guidelines
 

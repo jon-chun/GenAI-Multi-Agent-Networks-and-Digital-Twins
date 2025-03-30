@@ -1,5 +1,13 @@
 # AI: OSINT
 
+## News Aggregators
+
+* [NewsNow](https://github.com/ourongxing/newsnow)
+
+## RSS Feeds
+
+* [HNews](https://news.ycombinator.com/rss)
+
 ## Traditional OSINT
 
 * [OSINT Framework Map](https://osintframework.com/)
