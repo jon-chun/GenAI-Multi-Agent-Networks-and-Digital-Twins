@@ -115,6 +115,7 @@
 ## Local-Remote Model
 
 * [Docker n8n self-hosted AI starter kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+* [Docker n8n](https://www.youtube.com/watch?v=1QR-fz-JCA4)
   * [https://www.youtube.com/watch?v=BwqDwepsS20 (11:50) (23 Feb 2025)](https://www.youtube.com/watch?v=BwqDwepsS20)
 * [Minions]
   * [Github](https://github.com/HazyResearch/minions)

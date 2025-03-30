@@ -1,0 +1,1155 @@
+{
+  "type": "REPORT",
+  "id": "a6ca0206-df91-445e-a19b-9a8be33ca021",
+  "sections": [
+    {
+      "id": "section0",
+      "title": "Background and Introduction",
+      "tldr": "The Arab Spring refers to a wave of pro-democracy uprisings that swept across several Middle Eastern and North African countries beginning in late 2010, with social media playing a pivotal role in organizing and spreading information. Researchers have increasingly applied artificial intelligence and machine learning techniques, particularly natural language processing (NLP), to analyze the vast amounts of data generated during these movements to understand information flows, detect misinformation, and examine sentiment patterns. (LLM Memory)",
+      "text": "\nThe Arab Spring represented a series of unprecedented civil uprisings and protests that began in Tunisia in December 2010 and quickly spread to Egypt, Libya, Yemen, Syria, Bahrain, and other countries across the Middle East and North Africa. These movements were characterized by calls for democracy, human rights, economic opportunities, and an end to corruption. What made the Arab Spring particularly significant was the novel role of digital technologies, especially social media platforms like Facebook, Twitter, and YouTube, which served as tools for organizing protests, disseminating information, and bypassing state-controlled media. <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">\n\nSince these events, academic researchers have been developing increasingly sophisticated computational methods to analyze the massive datasets generated during these political movements. Natural language processing and other AI techniques have proven valuable for examining how information spread during these events, identifying propaganda campaigns, detecting misinformation, and understanding public sentiment. These technologies allow researchers to process and analyze text at scales impossible through traditional manual content analysis methods. <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">\n\nThe term \"color revolutions\" is sometimes used to describe these movements, drawing parallels to earlier pro-democracy movements in post-Soviet states that were often associated with specific colors or symbols. However, the Arab Spring movements developed their own unique characteristics and trajectories across different countries. As of 2024, with advancements in large language models and other AI technologies, researchers have gained new tools to retrospectively analyze these complex socio-political events and their information ecosystems. <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">\n\nThis emerging field represents an interdisciplinary approach combining political science, communication studies, computational linguistics, and data science to understand how digital media shapes political movements and how information flows during periods of social upheaval. <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">",
+      "citations": [],
+      "format": "synthesis"
+    },
+    {
+      "id": "section1",
+      "title": "Role of Social Media in Arab Spring Movements",
+      "tldr": "Social media platforms like Twitter and Facebook played a transformative role in the Arab Spring movements by enabling citizens to organize protests, disseminate information, and bypass state-controlled media. These digital tools shifted power dynamics by allowing ordinary citizens to shape political narratives, mobilize collective action, and influence both traditional news coverage and international perceptions of the uprisings. (8 sources)",
+      "text": "\nSocial media platforms emerged as crucial catalysts during the Arab Spring movements, fundamentally altering how political protests were organized and information was shared. These digital tools enabled activists to bypass state-controlled media channels, create alternative information networks, and coordinate protest activities with unprecedented efficiency. As Horne et al. note, social media shifted power dynamics away from elites who traditionally controlled information flow to ordinary citizens and grassroots movements, particularly during the Arab Spring <Paper corpusId=\"267320858\" paperTitle=\"(Horne et al., 2024)\" isShortName></Paper>. This democratization of information sharing represented a significant departure from previous political movements.\n\nThe impact of social media on these uprisings was multifaceted. Platforms like Twitter and Facebook contributed to awareness-raising, recruitment of participants, mobilization of protests, and sustainability of the movements in Tunisia, Egypt, and beyond <Paper corpusId=\"267618300\" paperTitle=\"(Tambari et al., 2024)\" isShortName></Paper>. These digital tools amplified citizen voices and provided spaces for organizing and expressing dissent that had previously been unavailable in many of these countries <Paper corpusId=\"267954657\" paperTitle=\"(Sheikh, 2024)\" isShortName></Paper>. The rapid dissemination of information enabled by social media transformed isolated grievances into collective calls for political reform <Paper corpusId=\"268001750\" paperTitle=\"(Kharel, 2024)\" isShortName></Paper>.\n\nResearch has shown that social media platforms were particularly effective at shaping political discourse around the uprisings. Howard et al. found that revolutionary conversations on social networks preceded major on-the-ground revolts in Tunisia and Egypt, helping to disseminate the democratic ideas that underpinned the revolutions <Paper corpusId=\"273248668\" paperTitle=\"(Torrecillas-Lacave et al., 2024)\" isShortName></Paper>. Studies have documented the crucial role of platforms like Twitter (now X) and Facebook in allowing protesters to bypass traditional media channels and shape global narratives around the protests <Paper corpusId=\"271428661\" paperTitle=\"(Yaqoub et al., 2024)\" isShortName></Paper>.\n\nPerhaps most significantly, social media enabled the sharing of unfiltered, user-generated content during the uprisings. Citizens, activists, and journalists shared real-time perspectives that often contradicted mainstream media narratives, leading to more nuanced international understanding of these complex movements <Paper corpusId=\"275966574\" paperTitle=\"(Almakaty, 2025)\" isShortName></Paper> <Paper corpusId=\"204825789\" paperTitle=\"(Mavrodieva et al., 2019)\" isShortName></Paper>. This aspect of social media as a \"soft power\" tool during the Arab Spring has continued to influence how researchers understand the relationship between digital platforms and political movements.\n\nThe Arab Spring thus represents a watershed moment in understanding how social media can facilitate collective political action, offering both historical insight and lessons for contemporary movements. These events demonstrated how digital platforms could not only connect like-minded individuals but also create sustained momentum for social and political change in environments previously dominated by tightly controlled information ecosystems.",
+      "citations": [
+        {
+          "id": "(Horne et al., 2024)",
+          "corpusId": 267320858,
+          "snippets": [
+            "Today's media systems are hybrid. As described by Chadwick (2017): professional-driven news cycles develop along side ordinary citizens and activist on social media. It has been argued that this mixing of old and new logics has shifted power away from elites, who in the past retained authority over information flow and could steer the news agenda, to ordinary citizens and grassroots movements. For example, social media and the coverage of information conveyed on social media gave power to anti-government protesters during the Arab Spring (Khondker 2011), and more recently, during the Black Lives Matter movement, activists gained the attention of traditional news media through social media efficacy and coordination (Freelon et al., 2018)(Zhang et al., 2018)."
+          ],
+          "paper": {
+            "corpusId": 267320858,
+            "title": "Embedding Elites: Examining the Use of Tweets Embedded in Online News Articles across Reliable and Fringe Outlets",
+            "year": 2024,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "Benjamin D. Horne", "authorId": "2313917318" },
+              { "name": "Summer Phillips", "authorId": "2281832322" },
+              { "name": "Nelia Koontz", "authorId": "2281830411" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Tambari et al., 2024)",
+          "corpusId": 267618300,
+          "snippets": [
+            "The paper relies on qualitative data and method for its analysis. The Arab spring with focus on Tunisia and Egypt, and the Spanish indignados revolution in Spain were examined. The study concluded that the social media contributed immensely to the Arab spring and the Spanish indignados' revolutions through awareness, recruitment, mobilization and sustainability"
+          ],
+          "paper": {
+            "corpusId": 267618300,
+            "title": "Social Media and Social Change. A Study of the Arab Spring and Spanish Indignados",
+            "year": 2024,
+            "venue": "INTERNATIONAL JOURNAL OF SOCIAL SCIENCES AND MANAGEMENT RESEARCH",
+            "authors": [
+              { "name": "Adooh Tambari", "authorId": "2249355028" },
+              { "name": "Onuegbu Ferguson Amaobi", "authorId": "2283780917" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Sheikh, 2024)",
+          "corpusId": 267954657,
+          "snippets": [
+            "Beyond elections, social media has played a crucial role in mobilizing mass movements. From the Arab Spring to contemporary protests, these platforms have amplified citizen voices and provided a space for organizing and expressing dissent. Political campaigns now extend beyond election cycles to year-round engagement and activism."
+          ],
+          "paper": {
+            "corpusId": 267954657,
+            "title": "Data and Democracy: Social Media Analytics in Political Campaign Strategies",
+            "year": 2024,
+            "venue": "International Journal of English Literature and Social Sciences",
+            "authors": [
+              { "name": "Suhail Ahmad Sheikh", "authorId": "2287092689" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Kharel, 2024)",
+          "corpusId": 268001750,
+          "snippets": [
+            "The Arab Spring, for instance, witnessed the extensive use of social media in organizing protests and disseminating information, showcasing the platforms' ability to facilitate collective action (Breuer, 2012)",
+            "During the Arab Spring, social media played a crucial role in facilitating the rapid dissemination of information, enabling the organization of protests, and coordinating dissenting voices, ultimately turning isolated grievances into a collective call for political reform (Wolfsfeld et al., 2013)."
+          ],
+          "paper": {
+            "corpusId": 268001750,
+            "title": "Cyber-Politics: Social Media's Influence on Political Mobilization",
+            "year": 2024,
+            "venue": "Journal of Political Science",
+            "authors": [
+              { "name": "Aswasthama Bhakta Kharel", "authorId": "2062411856" }
+            ],
+            "nCitations": 4
+          }
+        },
+        {
+          "id": "(Torrecillas-Lacave et al., 2024)",
+          "corpusId": 273248668,
+          "snippets": [
+            "The work of Howard et al. (2011) on the Arab Spring highlights the importance of social networks on shaping the political debate regarding the uprisings in Tunisia and Egypt. It was found that revolutionary conversations on the networks preceded prominent on-the-ground revolts and helped disseminate the democratic ideas underlying the revolution."
+          ],
+          "paper": {
+            "corpusId": 273248668,
+            "title": "Cyberactivism and Social and Political Participation Regarding the War in Ukraine: Analysis of Social Interactions in Spanish on Twitter",
+            "year": 2024,
+            "venue": "Communication &amp; Society",
+            "authors": [
+              {
+                "name": "María-Teresa Torrecillas-Lacave",
+                "authorId": "2325316007"
+              },
+              {
+                "name": "Luis-Manuel Fernández-Martínez",
+                "authorId": "2325316525"
+              }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Yaqoub et al., 2024)",
+          "corpusId": 271428661,
+          "snippets": [
+            "Studies documented the crucial role of platforms like X (formerly known as Twitter) and Facebook in movements like the Arab Spring (Gerbaudo, 2017;Hamza, 2015;Jamil, 2022;Maamari and Zein, 2013;Smidi and Shahin, 2017;Wolfsfeld et al., 2013;Al-Kassimi, 2022), andOccupy Wall Street (Conover et al., 2013;Gautney, 2013), demonstrating the potential for these platforms to bypass traditional media and shape the global narrative around protests."
+          ],
+          "paper": {
+            "corpusId": 271428661,
+            "title": "The evolution of research on digital communication and social protests: A bibliometric analysis",
+            "year": 2024,
+            "venue": "Journal of Infrastructure Policy and Development",
+            "authors": [
+              { "name": "Muhammad Yaqoub", "authorId": "2312856656" },
+              { "name": "Khaled Al-Kassimi", "authorId": "1422289207" },
+              { "name": "Haizhou Wang", "authorId": "2257985810" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Almakaty, 2025)",
+          "corpusId": 275966574,
+          "snippets": [
+            "One of the mechanisms by which digital media shape perceptions is through user-generated content. Citizens, activists, and journalists can now share their perspectives in real-time, often bypassing traditional media filters. For instance, during the Arab Spring, social media played a crucial role in providing unfiltered accounts of events, which significantly influenced international perceptions of uprisings. This user-generated content sometimes contradicts mainstream media narratives, leading to a more nuanced understanding of the complexities of such movements (Mavrodieva et al., 2019)."
+          ],
+          "paper": {
+            "corpusId": 275966574,
+            "title": "Communication and soft power: Exploring the role of international media in building national image",
+            "year": 2025,
+            "venue": "Edelweiss Applied Science and Technology",
+            "authors": [
+              { "name": "Safran Safar Almakaty", "authorId": "2301985702" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Mavrodieva et al., 2019)",
+          "corpusId": 204825789,
+          "snippets": [
+            "Climate change has been one of the most debated topics in the past few decades, but a number of challenges have hindered the development of robust policies and strategies by nations. At the same time, social media platforms—such as Instagram, Twitter, and Facebook—have given the opportunity for the general public to share opinions and engage with the issue of climate change like never before. This phenomenon is considered to be a new form of soft power which can provide input into the discussion and possibly affect the current international political mechanisms. The present paper aims to (1) define the forms and characteristics of social media as a soft power method, (2) analyze its influence on the awareness of societies, and (3) assess if increased public awareness could influence the official political and policy processes. In order to assess if social media has influence on people’s relative awareness, we have focused on analyzing the links between a few highly visible climate change related events and the trends in people’s searches on the Internet in connection to those events. The study finds that even though it is difficult to assess the effects of social media as a soft power tool with certainty, there are visible links between social media and changing public perceptions, with the possibility of public opinion influencing political decision-making."
+          ],
+          "paper": {
+            "corpusId": 204825789,
+            "title": "Role of Social Media as a Soft Power Tool in Raising Public Awareness and Engagement in Addressing Climate Change",
+            "year": 2019,
+            "venue": "Climate",
+            "authors": [
+              { "name": "Aleksandrina V. Mavrodieva", "authorId": "122827507" },
+              { "name": "Okky K. Rachman", "authorId": "2183383304" },
+              { "name": "Vito B. Harahap", "authorId": "2183381170" },
+              { "name": "R. Shaw", "authorId": "143826558" }
+            ],
+            "nCitations": 126
+          }
+        }
+      ],
+      "format": "synthesis"
+    },
+    {
+      "id": "section2",
+      "title": "NLP and AI Techniques for Analyzing Arab Spring Content",
+      "tldr": "Researchers have employed various natural language processing (NLP) and machine learning techniques to analyze the vast amounts of text data generated during the Arab Spring movements. These techniques include sentiment analysis, topic modeling, text classification, and the use of large language models to process news articles, social media content, and other textual data related to political unrest and social movements. (9 sources)",
+      "text": "\nNatural language processing (NLP) and artificial intelligence techniques have emerged as crucial tools for analyzing the enormous volumes of textual data generated during the Arab Spring movements. These computational methods have enabled researchers to extract meaningful insights from news articles, social media posts, and other text sources at unprecedented scales. As social media platforms played a pivotal role in these movements, NLP techniques have been particularly valuable for understanding how information spread and influenced public opinion during these political upheavals.\n\nSentiment analysis stands out as one of the most widely applied NLP techniques in studying the Arab Spring. This approach allows researchers to classify text into positive, negative, or neutral sentiments, providing insights into public opinions toward political candidates, parties, and key issues <Paper corpusId=\"273654880\" paperTitle=\"(Chercheur et al., 2024)\" isShortName></Paper>. Unlike traditional polling methods, which can be expensive and difficult to implement in certain contexts, sentiment analysis leverages publicly available data to create real-time understanding of political sentiment, making it especially valuable in regions with limited polling data <Paper corpusId=\"273654880\" paperTitle=\"(Chercheur et al., 2024)\" isShortName></Paper> <Paper corpusId=\"43980624\" paperTitle=\"(Jaidka et al., 2019)\" isShortName></Paper>.\n\nTopic modeling, an unsupervised machine learning technique, has been extensively used to discover prevalent themes in collections of documents related to political movements <Paper corpusId=\"271755037\" paperTitle=\"(Buryakov et al., 2024)\" isShortName></Paper>. For instance, researchers have applied topic modeling to examine millions of social media posts about political events, identifying predominant topics and their associations with particular political positions <Paper corpusId=\"271755037\" paperTitle=\"(Buryakov et al., 2024)\" isShortName></Paper>. This approach helps researchers understand the key concerns and narratives that shaped public discourse during the Arab Spring.\n\nText classification represents another important NLP application in analyzing Arab Spring content. Social media researchers routinely employ classification techniques to categorize large quantities of text data, allowing them to identify and analyze specific types of content, such as hate speech, public attitudes, or news credibility <Paper corpusId=\"272689332\" paperTitle=\"(Pangakis et al., 2024)\" isShortName></Paper>. More recently, researchers have begun deploying generative large language models (LLMs) for annotation tasks, enhancing the efficiency and scalability of text analysis <Paper corpusId=\"272689332\" paperTitle=\"(Pangakis et al., 2024)\" isShortName></Paper>.\n\nNLP tools have proven particularly valuable in crisis monitoring during political unrest. Researchers have developed specialized corpora, such as Kawarith—a collection of Arabic tweets representing disaster events—to train and test NLP models for crisis-related content analysis <Paper corpusId=\"268926665\" paperTitle=\"(Moussa et al., 2024)\" isShortName></Paper>. Various machine learning approaches, including BERT models, have been employed to classify crisis-related posts, detect relevant events, and filter out irrelevant information <Paper corpusId=\"268926665\" paperTitle=\"(Moussa et al., 2024)\" isShortName></Paper>.\n\nThe application of these technologies extends beyond academic research to practical challenges like predicting country instability. Researchers have leveraged AI and machine learning tools to analyze massive volumes of qualitative data from television, print, digital, and social media sources to make sense of complex socio-political dynamics and enhance predictive accuracy <Paper corpusId=\"273962822\" paperTitle=\"(Zebrowski et al., 2024)\" isShortName></Paper>. This approach recognizes the interconnectedness of global economies and social networks in shaping political movements.\n\nUrban planning scholars have also adopted NLP techniques to extract valuable insights from social media content related to the Arab Spring, including sentiment analysis, topic modeling, and named entity recognition <Paper corpusId=\"269857939\" paperTitle=\"(Bibri et al., 2024)\" isShortName></Paper>. These methods help researchers understand public opinions and identify trends across diverse temporal and spatial contexts, informing decision-making processes in urban planning and design <Paper corpusId=\"269857939\" paperTitle=\"(Bibri et al., 2024)\" isShortName></Paper>.\n\nIn the financial domain, NLP has been applied to analyze textual data from financial reports, news articles, and social media content during periods of political unrest, providing insights into market sentiment, investor behavior, and economic trends <Paper corpusId=\"267311958\" paperTitle=\"(Kanaparthi, 2024)\" isShortName></Paper>. Advanced NLP techniques such as sentiment analysis and topic modeling have enabled the development of sophisticated AI models that effectively process and analyze textual information in finance <Paper corpusId=\"267311958\" paperTitle=\"(Kanaparthi, 2024)\" isShortName></Paper> <Paper corpusId=\"238803253\" paperTitle=\"(Khalil et al., 2021)\" isShortName></Paper>.",
+      "citations": [
+        {
+          "id": "(Chercheur et al., 2024)",
+          "corpusId": 273654880,
+          "snippets": [
+            "In the evolving landscape of political forecasting, traditional methods such as opinion polls and voter surveys are often limited by sample size, time delays, and response biases (Ansu-Kyeremeh, 1999). With the rapid digitalization of news and the proliferation of online media, public sentiment, as reflected in news articles, has emerged as a valuable indicator of political climate [2]. The use of Artificial Intelligence (AI) and Natural Language Processing (NLP) techniques, particularly sentiment analysis, offers a modern approach to gauge public opinion through media coverage. Sentiment analysis classifies text into sentiments-positive, negative, or neutral-allowing researchers to discern the tone of media articles discussing political candidates and key issues [3]. This technology has been applied to various domains, including marketing, finance, and politics, providing a predictive edge in decisionmaking processes (Lotfi et al., 2021). Recent elections in several democratic countries have witnessed increasing interest in using AIdriven sentiment analysis for election forecasting [5]. In contrast to traditional polling, which can be cost-prohibitive and difficult to implement in certain contexts, AI-based sentiment analysis leverages publicly available data, such as news articles and social media posts, to create a real-time understanding of political sentiment (Jaidka et al., 2019). By processing and analyzing large volumes of text, AI can extract patterns of support, opposition, or neutrality toward political candidates and parties. These patterns can then be used to predict election outcomes, making sentiment analysis a promising tool for political forecasters, especially in regions with limited or unreliable polling data [7]."
+          ],
+          "paper": {
+            "corpusId": 273654880,
+            "title": "Leveraging AI and Sentiment Analysis for Forecasting Election Outcomes in Mauritius",
+            "year": 2024,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "Missie Chercheur", "authorId": "2328012303" },
+              { "name": "Malkenzie Bovafiz", "authorId": "2328013922" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Jaidka et al., 2019)",
+          "corpusId": 43980624,
+          "snippets": [
+            "ABSTRACT This study introduces and evaluates the robustness of different volumetric, sentiment, and social network approaches to predict the elections in three Asian countries – Malaysia, India, and Pakistan from Twitter posts. We find that predictive power of social media performs well for India and Pakistan but is not effective for Malaysia. Overall, we find that it is useful to consider the recency of Twitter posts while using it to predict a real outcome, such as an election result. Sentiment information mined using machine learning models was the most accurate predictor of election outcomes. Social network information is stable despite sudden surges in political discussions, for e.g. around elections-related news events. Methods combining sentiment and volume information, or sentiment and social network information, are effective at predicting smaller vote shares, for e.g. vote shares in the case of independent candidates and regional parties. We conclude with a detailed discussion on the caveats of social media analysis for predicting real-world outcomes and recommendations for future work."
+          ],
+          "paper": {
+            "corpusId": 43980624,
+            "title": "Predicting elections from social media: a three-country, three-method comparative study",
+            "year": 2019,
+            "venue": "",
+            "authors": [
+              { "name": "Kokil Jaidka", "authorId": "2798221" },
+              { "name": "Saifuddin Ahmed", "authorId": "6482957" },
+              { "name": "M. Skoric", "authorId": "2272463" },
+              { "name": "Martin Hilbert", "authorId": "144212002" }
+            ],
+            "nCitations": 67
+          }
+        },
+        {
+          "id": "(Buryakov et al., 2024)",
+          "corpusId": 271755037,
+          "snippets": [
+            "Natural language processing and machine learning are examples of computational tools that have been successfully applied in civic tech and policy domains in recent years",
+            "In a different study (Di Cocco and Monechi, 2022), a method based on supervised machine learning for measuring levels of parties' populism in six European countries was developed. The authors analyzed party manifestos over nearly two decades using a random forest classification algorithm and identified the level of populism without resource-intensive human-coding processes.\n\nIn recent years, topic modeling, which is an unsupervised machine learning method, has been widely used for discovering topics in a set of documents",
+            "In Anwar et al. (2021), topic modeling was used to examine 12 million tweets about the US election posted on the \"QAnon\" platform between August and September, 2020. A list of predominant topics with the extensive support of one candidate was thus found.\n\nBidirectional Encoder Representations from Transformers (BERT), developed by Google researchers in 2018, is a language model recently often used for text similarity assessment, text summarization, and fake news detection. In Gaglani et al. (2020) the authors conducted an analysis of the reliability of claims in instant messaging apps."
+          ],
+          "paper": {
+            "corpusId": 271755037,
+            "title": "Enhancing the design of voting advice applications with BERT language model",
+            "year": 2024,
+            "venue": "Frontiers Artif. Intell.",
+            "authors": [
+              { "name": "Daniil Buryakov", "authorId": "2143277953" },
+              { "name": "Máté Kovács", "authorId": "145672114" },
+              { "name": "U. Serdült", "authorId": "3241784" },
+              { "name": "Victor V. Kryssanov", "authorId": "2160780437" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Pangakis et al., 2024)",
+          "corpusId": 272689332,
+          "snippets": [
+            "Scholars studying social media routinely employ natural language processing (NLP) tools to analyze large quantities of text data. Classification is among the most common NLP tasks, allowing researchers to describe the text of social media posts at scale. Social media researchers have begun to deploy generative LLMs for annotation for important tasks, such as identifying hate speech (Kumarage, Bhattacharjee, and Garland 2024), public attitudes towards vaccines (Espinosa and Salathé 2024), and measuring news outlet credibility (Yang and Menczer 2023)."
+          ],
+          "paper": {
+            "corpusId": 272689332,
+            "title": "Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI",
+            "year": 2024,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "Nicholas Pangakis", "authorId": "2219329724" },
+              { "name": "Samuel Wolken", "authorId": "2262460938" }
+            ],
+            "nCitations": 2
+          }
+        },
+        {
+          "id": "(Moussa et al., 2024)",
+          "corpusId": 268926665,
+          "snippets": [
+            "In [4], the authors introduced Kawarith, a corpus retrieved from Twitter Arabic tweets that are multi-dialect. The corpus was built to represent disaster events, containing around one million Arabic tweets that are gathered at the times of twenty-two different crises that happened between 2018 and 2020.\n\nDuring a crisis, it is critical to monitor the related information on social media. Several efforts were proposed for this objective [1], for example, Fan et al. [19] proposed results of detecting events of disasters from posts of social media by using machine learning techniques. The authors suggested a machine learning model that uses tweets related to a specific crisis to discover crisis-related events. A BERT model was used to tackle posts classification problem.\n\nIn [12] the authors utilized online news to monitor disasters. Machine learning-based techniques have been used in their work to detect useful data using irrelevant data filtration. The classification of text has been conducted by utilizing supervised machine learning techniques that identify news data which are gathered from various stories and articles.\n\nIn another work, the authors of [17] proposed a crisis management system by using NLP and machine learning models. A scraping method was utilized to scrape news that is relevant to crises from various resources of news, and NLP and machine learning methods were utilized to specify the crises-related data."
+          ],
+          "paper": {
+            "corpusId": 268926665,
+            "title": "Enhanced Arabic disaster data classification using domain adaptation",
+            "year": 2024,
+            "venue": "PLoS ONE",
+            "authors": [
+              { "name": "Abdullah M. Moussa", "authorId": "32445208" },
+              { "name": "Sherif M. Abdou", "authorId": "143993049" },
+              { "name": "Khaled M Elsayed", "authorId": "2295083959" },
+              { "name": "Mohsen Rashwan", "authorId": "2285425068" },
+              { "name": "A. Asif", "authorId": "35131342" },
+              { "name": "Shaheen Khatoon", "authorId": "2284873636" },
+              { "name": "Majed A. Alshamari", "authorId": "3236461" }
+            ],
+            "nCitations": 2
+          }
+        },
+        {
+          "id": "(Zebrowski et al., 2024)",
+          "corpusId": 273962822,
+          "snippets": [
+            "Please click on the paper title to read the abstract on Semantic Scholar."
+          ],
+          "paper": {
+            "corpusId": 273962822,
+            "title": "Predicting Country Instability Using Bayesian Deep Learning and Random Forest",
+            "year": 2024,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "Adam Zebrowski", "authorId": "2330184143" },
+              { "name": "Haithem Afli", "authorId": "2052279617" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Bibri et al., 2024)",
+          "corpusId": 269857939,
+          "snippets": [
+            "NLP emerges as a vital tool for analyzing such textual data, enabling the extraction of valuable insights (e.g., sentiment analysis, topic modeling, and named entity recognition) to understand public opinions, identify trends, and inform decision-making processes in urban planning and design.Planning scholars have leveraged NLP techniques to analyze social media content, capturing public sentiment and opinions on various subjects across diverse temporal and spatial contexts [143]."
+          ],
+          "paper": {
+            "corpusId": 269857939,
+            "title": "The synergistic interplay of artificial intelligence and digital twin in environmentally planning sustainable smart cities: A comprehensive systematic review",
+            "year": 2024,
+            "venue": "Environmental Science and Ecotechnology",
+            "authors": [
+              { "name": "S. Bibri", "authorId": "2115815" },
+              { "name": "Jeffrey Huang", "authorId": "2297247663" },
+              { "name": "S. Jagatheesaperumal", "authorId": "2067322880" },
+              { "name": "John Krogstie", "authorId": "2260772502" }
+            ],
+            "nCitations": 34
+          }
+        },
+        {
+          "id": "(Kanaparthi, 2024)",
+          "corpusId": 267311958,
+          "snippets": [
+            "Yet another area of AI and ML research is Natural language processing (NLP) which has significant potential for fi-nance applications (Khalil et al., 2021). The analysis of textual data, such as financial reports, news articles, and social media content, can provide valuable insights into market sentiment, investor behaviour, and economic trends. Advances in NLP techniques, such as sentiment analysis and topic modelling, have enabled the development of sophisticated AI and ML models that can effectively process and analyze textual information in finance."
+          ],
+          "paper": {
+            "corpusId": 267311958,
+            "title": "Transformational application of Artificial Intelligence and Machine learning in Financial Technologies and Financial services: A bibliometric review",
+            "year": 2024,
+            "venue": "International Journal of Engineering and Advanced Technology",
+            "authors": [{ "name": "V. Kanaparthi", "authorId": "2188693825" }],
+            "nCitations": 11
+          }
+        },
+        {
+          "id": "(Khalil et al., 2021)",
+          "corpusId": 238803253,
+          "snippets": [
+            "This study tries to unravel the stock market prediction puzzle using the textual analytic with the help of natural language processing (NLP) techniques and Deep-learning recurrent model called long short term memory (LSTM). Instead of using count-based traditional sentiment index methods, the study uses its own sum and relevance based sentiment index mechanism. Hourly price data has been used in this research as daily data is too late and minutes data is too early for getting the exclusive effect of sentiments. Normally, hourly data is extremely costly and difficult to manage and analyze. Hourly data has been rarely used in similar kinds of researches. To built sentiment index, text analytic information has been parsed and analyzed, textual information that is relevant to selected stocks has been collected, aggregated, categorized, and refined with NLP and eventually converted scientifically into hourly sentiment index. News analytic sources include mainstream media, print media, social media, news feeds, blogs, investors’ advisory portals, experts’ opinions, brokers updates, web-based information, company’ internal news and public announcements regarding policies and reforms. The results of the study indicate that sentiments significantly influence the direction of stocks, on average after 3–4 h. Top ten companies from High-tech, financial, medical, automobile sectors are selected, and six LSTM models, three for using text-analytic and other without analytic are used. Every model includes 1, 3, and 6 h steps back. For all sectors, a 6-hour steps based model outperforms the other models due to LSTM specialty of keeping long term memory. Collective accuracy of textual analytic models is way higher relative to non-textual analytic models."
+          ],
+          "paper": {
+            "corpusId": 238803253,
+            "title": "Is Deep-Learning and Natural Language Processing Transcending the Financial Forecasting? Investigation Through Lens of News Analytic Process",
+            "year": 2021,
+            "venue": "Computational Economics",
+            "authors": [
+              { "name": "Faisal Khalil", "authorId": "88223633" },
+              { "name": "G. Pipa", "authorId": "1734512" }
+            ],
+            "nCitations": 20
+          }
+        }
+      ],
+      "format": "synthesis"
+    },
+    {
+      "id": "section3",
+      "title": "Propaganda and Misinformation Detection",
+      "tldr": "Researchers have developed specialized methods to detect propaganda and misinformation in Arabic content across social media and news platforms, addressing unique challenges posed by the language's complex morphology and diverse dialects. These efforts include creating annotated datasets, applying machine learning techniques, and leveraging large language models to identify propaganda techniques and misinformation in the context of regional events like the Arab Spring and ongoing conflicts. (13 sources)",
+      "text": "\nThe proliferation of propaganda and misinformation across digital platforms during and after the Arab Spring has prompted significant research into automated detection methods. This research addresses unique challenges in Arabic content analysis, where the language's complexity creates additional obstacles for detection systems. The Arabic language presents several distinct challenges for propaganda and misinformation detection, including its rich vocabulary and the presence of various dialects used across different Arab countries and regions. Social media users typically communicate using both Modern Standard Arabic (MSA), the formal language, and Dialectal Arabic (DA), the informal language used in daily communication, with the latter being more common online <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"157063678\" paperTitle=\"(AL-Saif et al., 2019)\" isShortName></Paper>.\n\nThe aftermath of the Arab Spring and Syrian crisis saw a significant increase in rumors and false information circulating online, highlighting the need for robust detection systems <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"26631757\" paperTitle=\"(Zaatari et al., 2016)\" isShortName></Paper>. To address this challenge, researchers have developed specialized Arabic corpora for credibility classification, recognizing the lack of such resources despite the growing popularity of blogs and microblogs in the Arab world <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"26631757\" paperTitle=\"(Zaatari et al., 2016)\" isShortName></Paper>. These efforts aim to filter out non-credible information using machine learning approaches that require sufficiently large and accurate training data.\n\nRecent advances in propaganda detection for Arabic content include the development of optimized systems leveraging transformer-based language models such as AraBERT with neural network classifiers for sequence tagging <Paper corpusId=\"270870581\" paperTitle=\"(Abir et al., 2024)\" isShortName></Paper>. Researchers have proposed robust preprocessing pipelines specifically for Arabic, addressing unique challenges such as Unicode inconsistencies, misaligned annotations, and user-mention normalization. These pipelines aim to improve the detection of propagandistic techniques in Arabic texts, which is crucial for maintaining information integrity <Paper corpusId=\"270870581\" paperTitle=\"(Abir et al., 2024)\" isShortName></Paper>.\n\nThe detection of political bias in social media content has also received attention, with researchers identifying bias in user-generated content and surveying sentiment analysis techniques <Paper corpusId=\"271432238\" paperTitle=\"(Zaghouani et al., 2024)\" isShortName></Paper>. Studies have advanced beyond examining lexical bias (captured by linguistic attributes like word choice and syntax) to address informational bias—factual content that can nevertheless be deployed to sway reader opinion <Paper corpusId=\"271432238\" paperTitle=\"(Zaghouani et al., 2024)\" isShortName></Paper> <Paper corpusId=\"202537179\" paperTitle=\"(Fan et al., 2019)\" isShortName></Paper>. This distinction is particularly important in the context of the Arab Spring, where the credibility of information shared on social media platforms significantly influenced public perception and participation in political movements.\n\nSeveral initiatives have specifically focused on Arabic propaganda detection, addressing the language gap in research that previously concentrated primarily on English content. The WANLP 2022 workshop, for instance, organized a shared task for detecting propaganda techniques in Arabic tweets through multilabel classification, attracting 63 participating teams <Paper corpusId=\"271769411\" paperTitle=\"(Haouhat et al., 2024)\" isShortName></Paper> <Paper corpusId=\"253708388\" paperTitle=\"(Alam et al., 2022)\" isShortName></Paper>. Researchers have also explored the potential of large language models (LLMs) like GPT-4 to function as both general and expert annotators for identifying and labeling propagandistic spans within Arabic textual content <Paper corpusId=\"271769411\" paperTitle=\"(Haouhat et al., 2024)\" isShortName></Paper>.\n\nThe ongoing Palestinian-Israeli conflict illustrates how social media platforms can be plagued with bias and propaganda despite the abundance of information available online. Traditional media bias and propaganda have accumulated over decades, and social networks now echo the same narratives and talking points from global media <Paper corpusId=\"271769819\" paperTitle=\"(Helal et al., 2024)\" isShortName></Paper>. Researchers have applied various methodologies to detect bias and propaganda in news and social media posts, including sentiment analysis using Natural Language Processing (NLP) and Machine Learning (ML) techniques <Paper corpusId=\"271769819\" paperTitle=\"(Helal et al., 2024)\" isShortName></Paper> <Paper corpusId=\"5171778\" paperTitle=\"(Park et al., 2009)\" isShortName></Paper>.\n\nThe impact of social communications on public opinion, cultural stereotypes, and user behavior during events like wars, revolutions, and pandemics has been studied to understand how these communications influence interactions among social groups and institutions <Paper corpusId=\"272951331\" paperTitle=\"(Valle-Cruz et al., 2024)\" isShortName></Paper>. Examinations of media coverage, particularly by major outlets like the BBC, have revealed potential biases in the representation of events such as the Syrian civil conflict, highlighting the importance of scrutinizing information quality in both traditional and social media during political upheavals <Paper corpusId=\"272951331\" paperTitle=\"(Valle-Cruz et al., 2024)\" isShortName></Paper>.\n\nThe proliferation of propaganda on online platforms has spurred a significant surge in research aimed at automatically identifying propagandistic content across textual, visual, and multimodal formats <Paper corpusId=\"271038699\" paperTitle=\"(Hasanain et al., 2024)\" isShortName></Paper>. While earlier efforts focused primarily on English content, there is increasing interest in other languages, including Arabic <Paper corpusId=\"271038699\" paperTitle=\"(Hasanain et al., 2024)\" isShortName></Paper> <Paper corpusId=\"202788575\" paperTitle=\"(Martino et al., 2019)\" isShortName></Paper>. Researchers have moved beyond document-level propaganda detection to performing fine-grained analysis of texts by identifying specific fragments containing propaganda techniques and classifying them by type <Paper corpusId=\"271038699\" paperTitle=\"(Hasanain et al., 2024)\" isShortName></Paper> <Paper corpusId=\"202788575\" paperTitle=\"(Martino et al., 2019)\" isShortName></Paper>. This approach provides greater explainability and addresses the limitations of systems trained on noisy gold labels from propagandistic news outlets.",
+      "citations": [
+        {
+          "id": "(Alotaibi et al., 2024)",
+          "corpusId": 267503979,
+          "snippets": [
+            "Rumors and false information have also proliferated in politics, as was the case during the Arab Spring and the Syrian crisis (Zaatari et al., 2016). The Arabic language is considered one of the most commonly spoken languages in the world, and an essential language for Muslims worldwide, who numbered about 1.8 billion in 2015 and are expected to increase to three billion in 2060, according to the Pew Research Center [8]. The Arabic language presents various challenges. First, there are different dialects used in different Arab countries, as well as from regions in the same country. The language also has a rich vocabulary that leads to the occurrence of misleading information from different dialects, making it more difficult for the system to detect (Alqurashi et al., 2021). In social media, the complexity of understanding the Arabic language is increased because users on social media, such as Twitter, use two forms of the language: Modern Standard Arabic (MSA), which is the formal language, and Dialect Arabic (DA), which is informal, used in daily communication between users, and is more common than MSA (AL-Saif et al., 2019)."
+          ],
+          "paper": {
+            "corpusId": 267503979,
+            "title": "A Review of Fake News Detection Techniques for Arabic Language",
+            "year": 2024,
+            "venue": "International Journal of Advanced Computer Science and Applications",
+            "authors": [
+              { "name": "Taghreed Alotaibi", "authorId": "73578297" },
+              { "name": "Hmood Al-Dossari", "authorId": "1398374176" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(AL-Saif et al., 2019)",
+          "corpusId": 157063678,
+          "snippets": [
+            "With the current increase in the number of online users, there has been a concomitant increase in the amount of data shared online. Techniques for discovering knowledge from these data can provide us with valuable information when it comes to detecting different problems, including violence. Violence is one of the significant problems humanity has faced in recent years all over the world, and this is especially a problem in Arabic countries. To address this issue, this research focuses on detecting violence-related tweets to help in solving this problem. Text mining is an important technique that can be used to find and predict information from text. In this study, a text classification model is built for detecting violence in Arabic dialects on Twitter using different feature-reduction approaches. The experiment comprises bagging, K-nearest neighbors (KNN), and Bayesian boosting using different extraction features, namely, root-based stemming, light stemming, and n-grams. In addition, the study used the following feature-reduction techniques: support vector machine (SVM), Chi-squared (CHI), the Gini index, correlation, rules, information gain (IG), deviation, symmetrical uncertainty, and the IG ratio. The experiment showed that the bagging with tri-gram approach has the highest accuracy at 86.61%, and a combination of IG with SVM from reduction features registers an accuracy of 90.59%."
+          ],
+          "paper": {
+            "corpusId": 157063678,
+            "title": "Arabic Text Classification using Feature-Reduction Techniques for Detecting Violence on Social Media",
+            "year": 2019,
+            "venue": "International Journal of Advanced Computer Science and Applications",
+            "authors": [
+              { "name": "Hissah AL-Saif", "authorId": "1413098819" },
+              { "name": "Taghreed Alotaibi", "authorId": "73578297" }
+            ],
+            "nCitations": 11
+          }
+        },
+        {
+          "id": "(Zaatari et al., 2016)",
+          "corpusId": 26631757,
+          "snippets": [
+            "Please click on the paper title to read the abstract on Semantic Scholar."
+          ],
+          "paper": {
+            "corpusId": 26631757,
+            "title": "Arabic Corpora for Credibility Analysis",
+            "year": 2016,
+            "venue": "International Conference on Language Resources and Evaluation",
+            "authors": [
+              { "name": "A. Zaatari", "authorId": "3448480" },
+              { "name": "Rim El Ballouli", "authorId": "3449667" },
+              { "name": "Shady Elbassuoni", "authorId": "1863248" },
+              { "name": "W. El-Hajj", "authorId": "1402224224" },
+              { "name": "Hazem M. Hajj", "authorId": "145336745" },
+              { "name": "K. Shaban", "authorId": "1837936" },
+              { "name": "Nizar Habash", "authorId": "1696645" },
+              { "name": "E. Yahya", "authorId": "2022472882" }
+            ],
+            "nCitations": 22
+          }
+        },
+        {
+          "id": "(Abir et al., 2024)",
+          "corpusId": 270870581,
+          "snippets": [
+            "The spread of propagandistic content on social media and news platforms poses a significant challenge to the integrity of information consumed by the public.Detecting and countering such content is crucial for maintaining a well-informed society.Identifying propaganda techniques in Arabic texts presents unique challenges due to the language's complex morphology and the use of diverse dialects.Our main contribution is developing an optimized system that leverages AraBERT for embeddings and a neural network classifier for sequence tagging to detect propagandistic techniques in Arabic texts.We propose a robust preprocessing pipeline for Arabic, addressing Unicode inconsistencies, misaligned annotations, and user-mention normalization.We also evaluate and compare different sequence tagging approaches."
+          ],
+          "paper": {
+            "corpusId": 270870581,
+            "title": "Nullpointer at ArAIEval Shared Task: Arabic Propagandist Technique Detection with Token-to-Word Mapping in Sequence Tagging",
+            "year": 2024,
+            "venue": "ARABICNLP",
+            "authors": [
+              { "name": "A. Abir", "authorId": "2330730048" },
+              { "name": "Kemal Oflazer", "authorId": "2250930714" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Zaghouani et al., 2024)",
+          "corpusId": 271432238,
+          "snippets": [
+            "Research on detecting political bias in social media includes Zhou et al. (2020), who identified bias in user-generated content, and (Yue et al., 2018), who surveyed sentiment analysis techniques.The Propitter corpus (Casavantes et al., 2023) was developed using distant supervision with refined annotations.Hamborg et al. (2019) advanced media bias detection by focusing on automated identification through word choice and labeling.(Fan et al., 2019) analyzed factual reporting to reduce bias, stressing the need for objectivity."
+          ],
+          "paper": {
+            "corpusId": 271432238,
+            "title": "The FIGNEWS Shared Task on News Media Narratives",
+            "year": 2024,
+            "venue": "ARABICNLP",
+            "authors": [
+              { "name": "W. Zaghouani", "authorId": "2034351" },
+              { "name": "Mustafa Jarrar", "authorId": "2311114234" },
+              { "name": "Nizar Habash", "authorId": "2256969039" },
+              { "name": "Houda Bouamor", "authorId": "2063374" },
+              { "name": "I. Zitouni", "authorId": "1954563" },
+              { "name": "Mona T. Diab", "authorId": "2288859298" },
+              { "name": "S. El-Beltagy", "authorId": "1399214738" },
+              { "name": "Muhammed AbuOdeh", "authorId": "20799402" }
+            ],
+            "nCitations": 10
+          }
+        },
+        {
+          "id": "(Fan et al., 2019)",
+          "corpusId": 202537179,
+          "snippets": [
+            "The increasing prevalence of political bias in news media calls for greater public awareness of it, as well as robust methods for its detection. While prior work in NLP has primarily focused on the lexical bias captured by linguistic attributes such as word choice and syntax, other types of bias stem from the actual content selected for inclusion in the text. In this work, we investigate the effects of informational bias: factual content that can nevertheless be deployed to sway reader opinion. We first produce a new dataset, BASIL, of 300 news articles annotated with 1,727 bias spans and find evidence that informational bias appears in news articles more frequently than lexical bias. We further study our annotations to observe how informational bias surfaces in news articles by different media outlets. Lastly, a baseline model for informational bias prediction is presented by fine-tuning BERT on our labeled data, indicating the challenges of the task and future directions."
+          ],
+          "paper": {
+            "corpusId": 202537179,
+            "title": "In Plain Sight: Media Bias Through the Lens of Factual Reporting",
+            "year": 2019,
+            "venue": "Conference on Empirical Methods in Natural Language Processing",
+            "authors": [
+              { "name": "Lisa Fan", "authorId": "2147260344" },
+              { "name": "M. White", "authorId": "152959826" },
+              { "name": "Eva Sharma", "authorId": "49974609" },
+              { "name": "Ruisi Su", "authorId": "153083809" },
+              { "name": "Prafulla Kumar Choubey", "authorId": "3466801" },
+              { "name": "Ruihong Huang", "authorId": "40372969" },
+              { "name": "Lu Wang", "authorId": "2153518220" }
+            ],
+            "nCitations": 101
+          }
+        },
+        {
+          "id": "(Haouhat et al., 2024)",
+          "corpusId": 271769411,
+          "snippets": [
+            "(Almotairy et al., 2024) tackle the challenge of detecting and characterizing Arab computational propaganda on Twitter by providing a dataset that includes 16 million tweets. However, only 2100 labeled propagandist tweets covering banking and sports are included in the dataset, and the unlabeled tweets are limited to Saudi Arabian Twitter data, necessitating generalization to diverse topics and regions within the Arab world. Despite these limitations, the dataset offers valuable insights into Arab computational propaganda and enables supervised and unsupervised machine learning and deep learning algorithm applications to classify the credibility of Arab tweets. Firoj et al. (Alam et al., 2022) highlight the importance of bridging the language gap in pro-4 https://arabicnlp2024.sigarab.org/ paganda detection by focusing on Arabic, which previously received less attention. The authors organized a shared task conducted as part of the WANLP 2022 workshop, aiming to detect propaganda techniques in Arabic tweets through multilabel classification. The task attracted significant participation, with 63 teams. Firoj et al. (Hasanain et al., 2023a) focus on the critical problem of identifying and labeling propagandistic spans within the textual content. The authors explore the potential of large language models (LLMs) like GPT-4 to function as both general and expert annotators for this task."
+          ],
+          "paper": {
+            "corpusId": 271769411,
+            "title": "MODOS at ArAIEval Shared Task: Multimodal Propagandistic Memes Classification Using Weighted SAM, CLIP and ArabianGPT",
+            "year": 2024,
+            "venue": "ARABICNLP",
+            "authors": [
+              { "name": "Abdelhamid Haouhat", "authorId": "2219922939" },
+              { "name": "H. Cherroun", "authorId": "2060703" },
+              { "name": "Slimane Bellaouar", "authorId": "3328936" },
+              { "name": "A. Nehar", "authorId": "3287866" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Alam et al., 2022)",
+          "corpusId": 253708388,
+          "snippets": [
+            "Propaganda is defined as an expression of opinion or action by individuals or groups deliberately designed to influence opinions or actions of other individuals or groups with reference to predetermined ends and this is achieved by means of well-defined rhetorical and psychological devices. Currently, propaganda (or persuasion) techniques have been commonly used on social media to manipulate or mislead social media users. Automatic detection of propaganda techniques from textual, visual, or multimodal content has been studied recently, however, major of such efforts are focused on English language content. In this paper, we propose a shared task on detecting propaganda techniques for Arabic textual content. We have done a pilot annotation of 200 Arabic tweets, which we plan to extend to 2,000 tweets, covering diverse topics. We hope that the shared task will help in building a community for Arabic propaganda detection. The dataset will be made publicly available, which can help in future studies."
+          ],
+          "paper": {
+            "corpusId": 253708388,
+            "title": "Overview of the WANLP 2022 Shared Task on Propaganda Detection in Arabic",
+            "year": 2022,
+            "venue": "Workshop on Arabic Natural Language Processing",
+            "authors": [
+              { "name": "Firoj Alam", "authorId": "37784060" },
+              { "name": "Hamdy Mubarak", "authorId": "143779235" },
+              { "name": "W. Zaghouani", "authorId": "2034351" },
+              { "name": "Giovanni Da San Martino", "authorId": "34086979" },
+              { "name": "Preslav Nakov", "authorId": "2026545715" }
+            ],
+            "nCitations": 53
+          }
+        },
+        {
+          "id": "(Helal et al., 2024)",
+          "corpusId": 271769819,
+          "snippets": [
+            "The ongoing conflict between Palestinians and Israelis has been a subject to traditional media bias and propaganda for years, layers over layers of misinformation accumulated over decades did not help bridge the gap between Palestinian and Israeli public points of views. Then comes the event of October 7 th , coinciding with the era of Social Media, where people can see and hear the suffering of innocent war victims through numerous social platforms, alternative to traditional media outlets. One would think that in the age of information, controlling a narrative would be out of the reach, however since the events of 7 th of October and followed by Israel's military response, social media has been plagued with bias and propaganda, and the same narratives and talking points from media, globally, are echoing all over social networks. Detecting bias and propaganda from news or social media posts has been deeply explored in the literature and a variety of methodologies and techniques have been presented. For instance, detecting bias through sentiment analysis on news reports using Natural Language Processing (NLP) and Machine Learning (ML) techniques (Park et al., 2009). Hutto et. al. presented sentiment analysis, subjectivity analysis, modality and other analysis to detect bias in short sentences (Hutto et al., 2015). Shahi et. al. has presented a semi-automatic annotation framework to detect misinformation on COVID-19 pandemic in social media posts (Shahi, 2022). Abuaiadah et. al. performed Clustering on Arabic Tweets in order to detect sentiment (D. (Abuaiadah et al., 2017)."
+          ],
+          "paper": {
+            "corpusId": 271769819,
+            "title": "The CyberEquity Lab at FIGNEWS 2024 Shared Task: Annotating a Corpus of Facebook Posts to Label Bias and Propaganda in Gaza-Israel War Coverage in Five Languages",
+            "year": 2024,
+            "venue": "ARABICNLP",
+            "authors": [
+              { "name": "Mohammed Helal", "authorId": "2315312548" },
+              { "name": "Radi Jarrar", "authorId": "39831818" },
+              { "name": "Mohammed Alkhanafseh", "authorId": "2315309003" },
+              { "name": "A. Karakra", "authorId": "9162205" },
+              { "name": "Ruba Awadallah", "authorId": "2092084527" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Park et al., 2009)",
+          "corpusId": 5171778,
+          "snippets": [
+            "Please click on the paper title to read the abstract on Semantic Scholar."
+          ],
+          "paper": {
+            "corpusId": 5171778,
+            "title": "NewsCube: delivering multiple aspects of news to mitigate media bias",
+            "year": 2009,
+            "venue": "International Conference on Human Factors in Computing Systems",
+            "authors": [
+              { "name": "Souneil Park", "authorId": "2474998" },
+              { "name": "Seungwoo Kang", "authorId": "3028172" },
+              { "name": "Sangyoung Chung", "authorId": "2112448044" },
+              { "name": "Junehwa Song", "authorId": "1789470" }
+            ],
+            "nCitations": 211
+          }
+        },
+        {
+          "id": "(Valle-Cruz et al., 2024)",
+          "corpusId": 272951331,
+          "snippets": [
+            "Halich's (2023) investigation into the impact of social communications on public opinion, cultural stereotypes, and user types, particularly in contexts like war, revolution, and pandemics, contributes to understanding how social communications influence interactions among social groups and institutions, including political processes, civic engagement, and youth culture",
+            "Aksenov's (2019) examination of the evolving political process and media coverage, particularly within the British Broadcasting Corporation (BBC), suggests that the BBC may not be entirely unbiased in its representation of Syrian events. The study scrutinizes the quality of information provided by the BBC through social media, using the example of civic confrontation in the Syrian Arab Republic in the 2010s, providing insights into current media practices."
+          ],
+          "paper": {
+            "corpusId": 272951331,
+            "title": "Unveiling political polarization on Twitter: Machine learning and sentiment analysis in presidential elections",
+            "year": 2024,
+            "venue": "JeDEM - eJournal of eDemocracy and Open Government",
+            "authors": [
+              { "name": "David Valle-Cruz", "authorId": "2313390328" },
+              { "name": "Rodrigo Sandoval-Almazán", "authorId": "1398233828" },
+              { "name": "Asdrúbal López-Chau", "authorId": "1403702213" },
+              { "name": "J. I. Criado", "authorId": "2323258775" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Hasanain et al., 2024)",
+          "corpusId": 271038699,
+          "snippets": [
+            "Online media has become a primary channel for information dissemination and consumption, with numerous individuals considering it their main source of news (Perrin, 2015).While online media (including news and social media platforms) offers a plethora of benefits, it is periodically exploited by malicious actors aiming to manipulate and mislead a broad audience.They often engage in sharing inappropriate content, misinformation, and disinformation (Alam et al., 2022a;(Sharma et al., 2022)",
+            "To combat the proliferation of propaganda on online platforms, there has been a significant surge in research in recent years.The aim is to automatically identify propagandistic content in textual, visual, and multimodal modalities, such as memes (Chen et al., 2024)(Dimitrov et al., 2021)(Martino et al., 2019).These efforts mainly focused on English, but with increased interest in other languages too."
+          ],
+          "paper": {
+            "corpusId": 271038699,
+            "title": "ArAIEval Shared Task: Propagandistic Techniques Detection in Unimodal and Multimodal Arabic Content",
+            "year": 2024,
+            "venue": "ARABICNLP",
+            "authors": [
+              { "name": "Maram Hasanain", "authorId": "2905745" },
+              { "name": "Md Arid Hasan", "authorId": "151116677" },
+              { "name": "Fatema Ahmed", "authorId": "2266856028" },
+              { "name": "Reem Suwaileh", "authorId": "3378399" },
+              { "name": "Md. Rafiul Biswas", "authorId": "32267310" },
+              { "name": "W. Zaghouani", "authorId": "2034351" },
+              { "name": "Firoj Alam", "authorId": "2257274157" }
+            ],
+            "nCitations": 18
+          }
+        },
+        {
+          "id": "(Martino et al., 2019)",
+          "corpusId": 202788575,
+          "snippets": [
+            "Propaganda aims at influencing people’s mindset with the purpose of advancing a specific agenda. Previous work has addressed propaganda detection at document level, typically labelling all articles from a propagandistic news outlet as propaganda. Such noisy gold labels inevitably affect the quality of any learning system trained on them. A further issue with most existing systems is the lack of explainability. To overcome these limitations, we propose a novel task: performing fine-grained analysis of texts by detecting all fragments that contain propaganda techniques as well as their type. In particular, we create a corpus of news articles manually annotated at fragment level with eighteen propaganda techniques and propose a suitable evaluation measure. We further design a novel multi-granularity neural network, and we show that it outperforms several strong BERT-based baselines."
+          ],
+          "paper": {
+            "corpusId": 202788575,
+            "title": "Fine-Grained Analysis of Propaganda in News Article",
+            "year": 2019,
+            "venue": "Conference on Empirical Methods in Natural Language Processing",
+            "authors": [
+              { "name": "Giovanni Da San Martino", "authorId": "34086979" },
+              { "name": "Seunghak Yu", "authorId": "1885974" },
+              { "name": "Alberto Barrón-Cedeño", "authorId": "1397442049" },
+              { "name": "R. Petrov", "authorId": "2065869784" },
+              { "name": "Preslav Nakov", "authorId": "1683562" }
+            ],
+            "nCitations": 317
+          }
+        }
+      ],
+      "format": "synthesis"
+    },
+    {
+      "id": "section4",
+      "title": "Sentiment Analysis Applications",
+      "tldr": "Sentiment analysis has emerged as a crucial tool for monitoring public opinion during political events like the Arab Spring, enabling researchers to classify social media content into positive, negative, or neutral sentiments. This approach has proven particularly valuable for predicting political outcomes, detecting early warning signs of social unrest, and tracking changing public attitudes toward government actions in real-time. (6 sources)",
+      "text": "\nSentiment analysis has evolved into a powerful application of natural language processing for understanding public opinion during political movements like the Arab Spring. Traditional methods of gauging public sentiment, such as opinion polls and voter surveys, often suffer from limitations including small sample sizes, time delays, and response biases. The digitalization of news and the proliferation of online media have created opportunities to analyze public sentiment through media coverage using AI and NLP techniques <Paper corpusId=\"273654880\" paperTitle=\"(Chercheur et al., 2024)\" isShortName></Paper>. Sentiment analysis classifies text into positive, negative, or neutral categories, enabling researchers to discern the tone of media articles discussing political candidates, parties, and key issues <Paper corpusId=\"273654880\" paperTitle=\"(Chercheur et al., 2024)\" isShortName></Paper>.\n\nOne of the most valuable applications of sentiment analysis is political forecasting and election prediction. Unlike traditional polling, which can be expensive and challenging to implement in certain contexts, AI-based sentiment analysis leverages publicly available data such as news articles and social media posts to create real-time understanding of political sentiment <Paper corpusId=\"273654880\" paperTitle=\"(Chercheur et al., 2024)\" isShortName></Paper> <Paper corpusId=\"43980624\" paperTitle=\"(Jaidka et al., 2019)\" isShortName></Paper>. Research has demonstrated that sentiment information extracted using machine learning models can be an accurate predictor of election outcomes, particularly in Asian countries like India and Pakistan <Paper corpusId=\"43980624\" paperTitle=\"(Jaidka et al., 2019)\" isShortName></Paper>. Combined approaches that integrate sentiment with volume information or social network data have proven especially effective at predicting smaller vote shares, such as those for independent candidates and regional parties <Paper corpusId=\"43980624\" paperTitle=\"(Jaidka et al., 2019)\" isShortName></Paper>.\n\nPerhaps most critically, sentiment analysis serves as an early warning system for social unrest. Emotional sentiment can function as an indicator of impending chaos, allowing authorities to intervene before tensions escalate, as witnessed during events like the Arab Spring <Paper corpusId=\"276132381\" paperTitle=\"(Zaabar et al., 2025)\" isShortName></Paper> <Paper corpusId=\"261470218\" paperTitle=\"(Arora et al., 2023)\" isShortName></Paper>. By applying NLP techniques to social media content, researchers can detect shifts in emotional tone or intensity across populations, identifying concerning patterns of anger, fear, or frustration that might presage larger social threats <Paper corpusId=\"276132381\" paperTitle=\"(Zaabar et al., 2025)\" isShortName></Paper> <Paper corpusId=\"261470218\" paperTitle=\"(Arora et al., 2023)\" isShortName></Paper>. The high-volume application of sentiment analysis to user-generated content has proven particularly useful for monitoring indicators of social instability, disinformation campaigns, and other factors that may threaten national security <Paper corpusId=\"276132381\" paperTitle=\"(Zaabar et al., 2025)\" isShortName></Paper>.\n\nSentiment analysis and machine learning have also been deployed to track public attitudes toward government interventions, misinformation campaigns, and election outcomes <Paper corpusId=\"276487652\" paperTitle=\"(Nedungadi et al., 2025)\" isShortName></Paper>. This application highlights AI's role in facilitating real-time information dissemination and shaping our understanding of public opinion during political movements <Paper corpusId=\"276487652\" paperTitle=\"(Nedungadi et al., 2025)\" isShortName></Paper>. The integration of sentiment analysis into broader AI frameworks has enabled more sophisticated modeling of investor decision-making and market movements during periods of political uncertainty, overcoming traditional assumptions about market efficiency by capturing the behavior of agents who might trade based on rumors or false information <Paper corpusId=\"245753310\" paperTitle=\"(Lotfi et al., 2021)\" isShortName></Paper>.\n\nThe development of advanced AI algorithms specifically tailored for sentiment analysis during political movements has demonstrated significant advantages over classical statistical models, which often rely on assumptions that don't hold in real-world scenarios like the Arab Spring <Paper corpusId=\"245753310\" paperTitle=\"(Lotfi et al., 2021)\" isShortName></Paper>. These more sophisticated approaches can process and analyze large volumes of text to extract patterns of support, opposition, or neutrality toward political actors and movements, making sentiment analysis an increasingly valuable tool for researchers studying complex sociopolitical events, especially in regions with limited or unreliable polling data <Paper corpusId=\"273654880\" paperTitle=\"(Chercheur et al., 2024)\" isShortName></Paper>.",
+      "citations": [
+        {
+          "id": "(Chercheur et al., 2024)",
+          "corpusId": 273654880,
+          "snippets": [
+            "In the evolving landscape of political forecasting, traditional methods such as opinion polls and voter surveys are often limited by sample size, time delays, and response biases (Ansu-Kyeremeh, 1999). With the rapid digitalization of news and the proliferation of online media, public sentiment, as reflected in news articles, has emerged as a valuable indicator of political climate [2]. The use of Artificial Intelligence (AI) and Natural Language Processing (NLP) techniques, particularly sentiment analysis, offers a modern approach to gauge public opinion through media coverage. Sentiment analysis classifies text into sentiments-positive, negative, or neutral-allowing researchers to discern the tone of media articles discussing political candidates and key issues [3]. This technology has been applied to various domains, including marketing, finance, and politics, providing a predictive edge in decisionmaking processes (Lotfi et al., 2021). Recent elections in several democratic countries have witnessed increasing interest in using AIdriven sentiment analysis for election forecasting [5]. In contrast to traditional polling, which can be cost-prohibitive and difficult to implement in certain contexts, AI-based sentiment analysis leverages publicly available data, such as news articles and social media posts, to create a real-time understanding of political sentiment (Jaidka et al., 2019). By processing and analyzing large volumes of text, AI can extract patterns of support, opposition, or neutrality toward political candidates and parties. These patterns can then be used to predict election outcomes, making sentiment analysis a promising tool for political forecasters, especially in regions with limited or unreliable polling data [7]."
+          ],
+          "paper": {
+            "corpusId": 273654880,
+            "title": "Leveraging AI and Sentiment Analysis for Forecasting Election Outcomes in Mauritius",
+            "year": 2024,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "Missie Chercheur", "authorId": "2328012303" },
+              { "name": "Malkenzie Bovafiz", "authorId": "2328013922" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Jaidka et al., 2019)",
+          "corpusId": 43980624,
+          "snippets": [
+            "ABSTRACT This study introduces and evaluates the robustness of different volumetric, sentiment, and social network approaches to predict the elections in three Asian countries – Malaysia, India, and Pakistan from Twitter posts. We find that predictive power of social media performs well for India and Pakistan but is not effective for Malaysia. Overall, we find that it is useful to consider the recency of Twitter posts while using it to predict a real outcome, such as an election result. Sentiment information mined using machine learning models was the most accurate predictor of election outcomes. Social network information is stable despite sudden surges in political discussions, for e.g. around elections-related news events. Methods combining sentiment and volume information, or sentiment and social network information, are effective at predicting smaller vote shares, for e.g. vote shares in the case of independent candidates and regional parties. We conclude with a detailed discussion on the caveats of social media analysis for predicting real-world outcomes and recommendations for future work."
+          ],
+          "paper": {
+            "corpusId": 43980624,
+            "title": "Predicting elections from social media: a three-country, three-method comparative study",
+            "year": 2019,
+            "venue": "",
+            "authors": [
+              { "name": "Kokil Jaidka", "authorId": "2798221" },
+              { "name": "Saifuddin Ahmed", "authorId": "6482957" },
+              { "name": "M. Skoric", "authorId": "2272463" },
+              { "name": "Martin Hilbert", "authorId": "144212002" }
+            ],
+            "nCitations": 67
+          }
+        },
+        {
+          "id": "(Zaabar et al., 2025)",
+          "corpusId": 276132381,
+          "snippets": [
+            "Emotional sentiment can be an early indicator of chaos, allowing authorities to intervene early before tensions escalate, as is the case in events such as the Arab Spring [7], (Arora et al., 2023). Advances in sentiment analysis have leveraged machine learning and artificial intelligence (AI) technologies to not only detect emotional changes in social media content but also predict potential security concerns. By applying natural language processing (NLP) techniques, the system can detect changes in emotional tone or intensity among a broad population, identifying issues such as anger, fear, or frustration that may lead to greater social threats (Arora et al., 2023)",
+            "The high-volume applications of sentiment analysis on user-generated content such as tweets or Facebook posts have proven useful in the monitoring of public sentiments indicative of social instability, disinformation dissemination, and other factors that can threaten national security [6]. Therefore, it may be said that emotional sentiment can act as an early warning signal for chaos, and the authorities can intervene at an early stage before tensions escalate, as in events like the Arab Spring [7], (Arora et al., 2023). Advanced sentiment analysis harnessed the power of machine learning and AI technologies to identify not only emotional changes in content on social media but also predict possible security concerns. Using the methods of NLP, it can observe changes in emotional tone or intensity of the greater population and pinpoint problems such as anger, fear, or frustration that might be a larger threat to society."
+          ],
+          "paper": {
+            "corpusId": 276132381,
+            "title": "Sentiment and Emotion Analysis with Large Language Models for Political Security Prediction Framework",
+            "year": 2025,
+            "venue": "International Journal of Advanced Computer Science and Applications",
+            "authors": [
+              { "name": "Liyana Safra Zaabar", "authorId": "2325044134" },
+              { "name": "Adriana Arul Yacob", "authorId": "2343929262" },
+              { "name": "Mohd Rizal Mohd Isa", "authorId": "2313532899" },
+              { "name": "Muslihah Wook", "authorId": "6535761" },
+              { "name": "Nor Asiakin Abdullah", "authorId": "2325002636" },
+              { "name": "S. Ramli", "authorId": "2461013" },
+              { "name": "N. Razali", "authorId": "73380002" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Arora et al., 2023)",
+          "corpusId": 261470218,
+          "snippets": [
+            "In recent years, groups of cyber criminals/hackers have carried out cyber-attacks using various tactics with the goal of destabilizing web services in a specific context for which they are motivated. Predicting these attacks is a critical task that assists in determining what actions should be taken to mitigate the effects of such attacks and to prevent them in the future. Although there are programs to detect security concerns on the internet, there is currently no system that can anticipate or foretell whether the attacks will be successful. This research aims to develop sustainable strategies to reduce threats, vulnerability, and data manipulation of chatbots, consequently improving cyber security. To achieve this goal, we develop a conversational chatbot, an application that uses artificial intelligence (AI) to communicate, and deploy it on social media sites (e.g., Twitter) for cyber security purposes. Chatbots have the capacity to consume large amounts of information and give an appropriate response in an efficient and timely manner, thus rendering them useful in predicting threats emanating from social media. The research utilizes sentiment analysis strategy by employing chatbots on Twitter (and analyzing Twitter data) for predicting future threats and cyber-attacks. The strategy is based on a daily collection of tweets from two types of users: those who use the platform to voice their opinions on important and relevant subjects, and those who use it to share information on cyber security attacks. The research provides tools and strategies for developing chatbots that can be used for assessing cyber threats on social media through sentiment analysis leading to a global sustainable development of businesses. Future research may utilize and improvise on the tools and strategies suggested in our research to strengthen the knowledge domain of chatbots, cyber security, and social media."
+          ],
+          "paper": {
+            "corpusId": 261470218,
+            "title": "Developing Chatbots for Cyber Security: Assessing Threats through Sentiment Analysis on Social Media",
+            "year": 2023,
+            "venue": "Sustainability",
+            "authors": [
+              { "name": "Amit Arora", "authorId": "2237222776" },
+              { "name": "A. Arora", "authorId": "3066302" },
+              { "name": "John R. McIntyre", "authorId": "2210988812" }
+            ],
+            "nCitations": 4
+          }
+        },
+        {
+          "id": "(Nedungadi et al., 2025)",
+          "corpusId": 276487652,
+          "snippets": [
+            "Sentiment analysis and machine learning were further used to track public attitudes toward government interventions, misinformation, and election outcomes, highlighting AI's role in real-time information dissemination (Tsao et al., 2021). These findings underscore AI's significant impact on shaping our understanding of public opinion."
+          ],
+          "paper": {
+            "corpusId": 276487652,
+            "title": "AI Techniques and Applications for Online Social Networks and Media: Insights From BERTopic Modeling",
+            "year": 2025,
+            "venue": "IEEE Access",
+            "authors": [
+              { "name": "Prema Nedungadi", "authorId": "2857425" },
+              { "name": "G. Veena", "authorId": "2271948116" },
+              { "name": "Kai-Yu Tang", "authorId": "2330302286" },
+              { "name": "Remya R. K. Menon", "authorId": "40289883" },
+              { "name": "R. Raman", "authorId": "2258751950" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Lotfi et al., 2021)",
+          "corpusId": 245753310,
+          "snippets": [
+            "ABSTRACT This work is based on a mixe between the dynamics of investor decision making and the effectiveness of the forecasting models used to model market movements. Thus, it appears that the determination of adequate models can help to explain the behavior of agents and result to easier decision making through the anticipation of future prices. For this reason, we will use artificial intelligence models, in particular Machine Learning and Deep Learning algorithms, in order to better understand the variation of asset prices and their future evolution. In order to do so, we will use Recurrent Neural Networks (RNN), which has proven to be very suitable in the case of the Moroccan banking sector. The comparison between classical models and advanced artificial intelligence (AI) algorithms has demonstrated the inadequacy of classical statistical models. The latter are based on certain assumptions not verified in the framework of financial series, which reduces the capacity of classical models to correctly predict new data. The integration of AI has also made it possible to overcome the assumption of market efficiency by modeling the behavior of irrational agents, who trade on rumors and false news."
+          ],
+          "paper": {
+            "corpusId": 245753310,
+            "title": "Artificial Intelligence Methods: Toward a New Decision Making Tool",
+            "year": 2021,
+            "venue": "Applied Artificial Intelligence",
+            "authors": [
+              { "name": "Ismail Lotfi", "authorId": "2269394790" },
+              { "name": "A. Bouhadi", "authorId": "103898781" }
+            ],
+            "nCitations": 7
+          }
+        }
+      ],
+      "format": "synthesis"
+    },
+    {
+      "id": "section5",
+      "title": "Challenges in Arabic NLP",
+      "tldr": "Arabic natural language processing faces unique challenges due to the language's rich morphology, diverse dialects, and the coexistence of formal Modern Standard Arabic (MSA) and informal Dialectal Arabic (DA) in social media communications. These linguistic complexities create significant obstacles for developing effective NLP tools to analyze the Arab Spring and related events, particularly in tasks like propaganda detection, misinformation identification, and sentiment analysis. (9 sources)",
+      "text": "\nArabic presents distinctive challenges for natural language processing researchers studying content related to the Arab Spring and subsequent political movements. The language's complexity is multifaceted, beginning with its rich vocabulary and morphological structure that complicate automated text analysis <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper>. Perhaps most significantly, Arabic exists in multiple forms used across different contexts: Modern Standard Arabic (MSA), which serves as the formal language, and Dialectal Arabic (DA), which represents the informal language used in everyday communication. On social media platforms—critical sources for Arab Spring research—users typically employ both forms, with the informal DA being more prevalent than MSA <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"157063678\" paperTitle=\"(AL-Saif et al., 2019)\" isShortName></Paper>.\n\nThe dialectal variation within Arabic presents a substantial obstacle for NLP systems. Different dialects are used across Arab countries and even across regions within the same country, creating significant linguistic diversity <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper>. This variation can lead to misleading information as systems struggle to account for dialectal differences in vocabulary, syntax, and semantics <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"231603127\" paperTitle=\"(Alqurashi et al., 2021)\" isShortName></Paper>. For research analyzing Arab Spring content, these dialectal variations pose a particular challenge as they can confound systems attempting to detect subtle propagandistic messaging or misinformation.\n\nThe aftermath of the Arab Spring and Syrian crisis saw a proliferation of rumors and false information online, highlighting the urgent need for credibility classification systems specifically designed for Arabic content <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"26631757\" paperTitle=\"(Zaatari et al., 2016)\" isShortName></Paper>. While effective machine learning approaches require large, accurate training datasets, there has been a notable lack of public Arabic corpora for tasks like credibility classification, despite the growing popularity of blogs and microblogs in the Arab world <Paper corpusId=\"267503979\" paperTitle=\"(Alotaibi et al., 2024)\" isShortName></Paper> <Paper corpusId=\"26631757\" paperTitle=\"(Zaatari et al., 2016)\" isShortName></Paper>. This data scarcity represents a significant challenge for research in this domain.\n\nIn the specific area of propaganda detection, researchers face additional challenges when working with Arabic content. While propaganda detection has received considerable attention for English language content, Arabic has historically received less focus despite its importance <Paper corpusId=\"271769411\" paperTitle=\"(Haouhat et al., 2024)\" isShortName></Paper> <Paper corpusId=\"253708388\" paperTitle=\"(Alam et al., 2022)\" isShortName></Paper>. Efforts to bridge this language gap include the creation of specialized datasets, such as one containing 16 million Arabic tweets with a subset labeled for propaganda <Paper corpusId=\"271769411\" paperTitle=\"(Haouhat et al., 2024)\" isShortName></Paper>. However, existing datasets often have limitations in terms of topic coverage or regional focus, necessitating generalization to diverse topics and regions across the Arab world <Paper corpusId=\"271769411\" paperTitle=\"(Haouhat et al., 2024)\" isShortName></Paper>.\n\nThe increasing reliance on social media for news consumption among Arab youth—with approximately 79% obtaining news from social media—underscores the importance of focusing on Arabic content for fake news detection <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper>. The unique linguistic and cultural nuances inherent in Arabic social media content require specialized approaches for effective analysis <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper>. While substantial research has focused on machine learning methodologies for fake news detection on social media platforms, many studies primarily address English datasets, creating a research gap for Arabic content <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper> <Paper corpusId=\"234785728\" paperTitle=\"(Al-Yahya et al., 2021)\" isShortName></Paper> <Paper corpusId=\"246780500\" paperTitle=\"(Himdi et al., 2022)\" isShortName></Paper>.\n\nRecent efforts have attempted to address these challenges by developing Arabic natural language processing tools specifically designed for tasks like fake news detection and textual feature extraction <Paper corpusId=\"246780500\" paperTitle=\"(Himdi et al., 2022)\" isShortName></Paper>. Additionally, researchers have explored the use of transformer-based language models for Arabic fake news detection, demonstrating performance improvements compared to neural network-based solutions <Paper corpusId=\"234785728\" paperTitle=\"(Al-Yahya et al., 2021)\" isShortName></Paper>. Despite these advances, significant challenges remain in developing comprehensive NLP systems capable of effectively analyzing the complex linguistic landscape of Arabic political and social media content.",
+      "citations": [
+        {
+          "id": "(Alotaibi et al., 2024)",
+          "corpusId": 267503979,
+          "snippets": [
+            "Rumors and false information have also proliferated in politics, as was the case during the Arab Spring and the Syrian crisis (Zaatari et al., 2016). The Arabic language is considered one of the most commonly spoken languages in the world, and an essential language for Muslims worldwide, who numbered about 1.8 billion in 2015 and are expected to increase to three billion in 2060, according to the Pew Research Center [8]. The Arabic language presents various challenges. First, there are different dialects used in different Arab countries, as well as from regions in the same country. The language also has a rich vocabulary that leads to the occurrence of misleading information from different dialects, making it more difficult for the system to detect (Alqurashi et al., 2021). In social media, the complexity of understanding the Arabic language is increased because users on social media, such as Twitter, use two forms of the language: Modern Standard Arabic (MSA), which is the formal language, and Dialect Arabic (DA), which is informal, used in daily communication between users, and is more common than MSA (AL-Saif et al., 2019)."
+          ],
+          "paper": {
+            "corpusId": 267503979,
+            "title": "A Review of Fake News Detection Techniques for Arabic Language",
+            "year": 2024,
+            "venue": "International Journal of Advanced Computer Science and Applications",
+            "authors": [
+              { "name": "Taghreed Alotaibi", "authorId": "73578297" },
+              { "name": "Hmood Al-Dossari", "authorId": "1398374176" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(AL-Saif et al., 2019)",
+          "corpusId": 157063678,
+          "snippets": [
+            "With the current increase in the number of online users, there has been a concomitant increase in the amount of data shared online. Techniques for discovering knowledge from these data can provide us with valuable information when it comes to detecting different problems, including violence. Violence is one of the significant problems humanity has faced in recent years all over the world, and this is especially a problem in Arabic countries. To address this issue, this research focuses on detecting violence-related tweets to help in solving this problem. Text mining is an important technique that can be used to find and predict information from text. In this study, a text classification model is built for detecting violence in Arabic dialects on Twitter using different feature-reduction approaches. The experiment comprises bagging, K-nearest neighbors (KNN), and Bayesian boosting using different extraction features, namely, root-based stemming, light stemming, and n-grams. In addition, the study used the following feature-reduction techniques: support vector machine (SVM), Chi-squared (CHI), the Gini index, correlation, rules, information gain (IG), deviation, symmetrical uncertainty, and the IG ratio. The experiment showed that the bagging with tri-gram approach has the highest accuracy at 86.61%, and a combination of IG with SVM from reduction features registers an accuracy of 90.59%."
+          ],
+          "paper": {
+            "corpusId": 157063678,
+            "title": "Arabic Text Classification using Feature-Reduction Techniques for Detecting Violence on Social Media",
+            "year": 2019,
+            "venue": "International Journal of Advanced Computer Science and Applications",
+            "authors": [
+              { "name": "Hissah AL-Saif", "authorId": "1413098819" },
+              { "name": "Taghreed Alotaibi", "authorId": "73578297" }
+            ],
+            "nCitations": 11
+          }
+        },
+        {
+          "id": "(Alqurashi et al., 2021)",
+          "corpusId": 231603127,
+          "snippets": [
+            "Please click on the paper title to read the abstract on Semantic Scholar."
+          ],
+          "paper": {
+            "corpusId": 231603127,
+            "title": "Eating Garlic Prevents COVID-19 Infection: Detecting Misinformation on the Arabic Content of Twitter",
+            "year": 2021,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "S. Alqurashi", "authorId": "87727257" },
+              { "name": "Btool Hamoui", "authorId": "1724715137" },
+              { "name": "Abdulaziz S. Alashaikh", "authorId": "2408242" },
+              { "name": "Ahmad Alhindi", "authorId": "3143907" },
+              { "name": "Eisa A. Alanazi", "authorId": "2451113" }
+            ],
+            "nCitations": 36
+          }
+        },
+        {
+          "id": "(Zaatari et al., 2016)",
+          "corpusId": 26631757,
+          "snippets": [
+            "Please click on the paper title to read the abstract on Semantic Scholar."
+          ],
+          "paper": {
+            "corpusId": 26631757,
+            "title": "Arabic Corpora for Credibility Analysis",
+            "year": 2016,
+            "venue": "International Conference on Language Resources and Evaluation",
+            "authors": [
+              { "name": "A. Zaatari", "authorId": "3448480" },
+              { "name": "Rim El Ballouli", "authorId": "3449667" },
+              { "name": "Shady Elbassuoni", "authorId": "1863248" },
+              { "name": "W. El-Hajj", "authorId": "1402224224" },
+              { "name": "Hazem M. Hajj", "authorId": "145336745" },
+              { "name": "K. Shaban", "authorId": "1837936" },
+              { "name": "Nizar Habash", "authorId": "1696645" },
+              { "name": "E. Yahya", "authorId": "2022472882" }
+            ],
+            "nCitations": 22
+          }
+        },
+        {
+          "id": "(Haouhat et al., 2024)",
+          "corpusId": 271769411,
+          "snippets": [
+            "(Almotairy et al., 2024) tackle the challenge of detecting and characterizing Arab computational propaganda on Twitter by providing a dataset that includes 16 million tweets. However, only 2100 labeled propagandist tweets covering banking and sports are included in the dataset, and the unlabeled tweets are limited to Saudi Arabian Twitter data, necessitating generalization to diverse topics and regions within the Arab world. Despite these limitations, the dataset offers valuable insights into Arab computational propaganda and enables supervised and unsupervised machine learning and deep learning algorithm applications to classify the credibility of Arab tweets. Firoj et al. (Alam et al., 2022) highlight the importance of bridging the language gap in pro-4 https://arabicnlp2024.sigarab.org/ paganda detection by focusing on Arabic, which previously received less attention. The authors organized a shared task conducted as part of the WANLP 2022 workshop, aiming to detect propaganda techniques in Arabic tweets through multilabel classification. The task attracted significant participation, with 63 teams. Firoj et al. (Hasanain et al., 2023a) focus on the critical problem of identifying and labeling propagandistic spans within the textual content. The authors explore the potential of large language models (LLMs) like GPT-4 to function as both general and expert annotators for this task."
+          ],
+          "paper": {
+            "corpusId": 271769411,
+            "title": "MODOS at ArAIEval Shared Task: Multimodal Propagandistic Memes Classification Using Weighted SAM, CLIP and ArabianGPT",
+            "year": 2024,
+            "venue": "ARABICNLP",
+            "authors": [
+              { "name": "Abdelhamid Haouhat", "authorId": "2219922939" },
+              { "name": "H. Cherroun", "authorId": "2060703" },
+              { "name": "Slimane Bellaouar", "authorId": "3328936" },
+              { "name": "A. Nehar", "authorId": "3287866" }
+            ],
+            "nCitations": 1
+          }
+        },
+        {
+          "id": "(Alam et al., 2022)",
+          "corpusId": 253708388,
+          "snippets": [
+            "Propaganda is defined as an expression of opinion or action by individuals or groups deliberately designed to influence opinions or actions of other individuals or groups with reference to predetermined ends and this is achieved by means of well-defined rhetorical and psychological devices. Currently, propaganda (or persuasion) techniques have been commonly used on social media to manipulate or mislead social media users. Automatic detection of propaganda techniques from textual, visual, or multimodal content has been studied recently, however, major of such efforts are focused on English language content. In this paper, we propose a shared task on detecting propaganda techniques for Arabic textual content. We have done a pilot annotation of 200 Arabic tweets, which we plan to extend to 2,000 tweets, covering diverse topics. We hope that the shared task will help in building a community for Arabic propaganda detection. The dataset will be made publicly available, which can help in future studies."
+          ],
+          "paper": {
+            "corpusId": 253708388,
+            "title": "Overview of the WANLP 2022 Shared Task on Propaganda Detection in Arabic",
+            "year": 2022,
+            "venue": "Workshop on Arabic Natural Language Processing",
+            "authors": [
+              { "name": "Firoj Alam", "authorId": "37784060" },
+              { "name": "Hamdy Mubarak", "authorId": "143779235" },
+              { "name": "W. Zaghouani", "authorId": "2034351" },
+              { "name": "Giovanni Da San Martino", "authorId": "34086979" },
+              { "name": "Preslav Nakov", "authorId": "2026545715" }
+            ],
+            "nCitations": 53
+          }
+        },
+        {
+          "id": "(Mostafa et al., 2024)",
+          "corpusId": 273743203,
+          "snippets": [
+            "Around 79% of Arab youth obtain their news from social media, showing a significant increase from previous years. This substantial user base underscores the importance of focusing on Arabic tweets for fake news detection. Moreover, the linguistic and cultural nuances inherent in Arabic tweets present unique challenges that require specialized approaches for effective fake news detection.\n\nOver the past years, a considerable body of research has focused on the application of machine learning methodologies to develop automated models aimed at detecting fake news on social media platforms. Recent surveys highlight various machine learning techniques (Mishra, Shukla & Agarwal, 2022;Alghamdi, Luo & Lin, 2024), with some focusing on textual models for news content (Al-Yahya et al., 2021;Himdi et al., 2022;Capuano et al., 2023), while others explore multimodal approaches that incorporate both textual and multimedia features (Comito, Caroprese & Zumpano, 2023;Tufchi, Yadav & Ahmed, 2023). However, many of these studies primarily focus on English datasets, leaving a gap in research on other languages."
+          ],
+          "paper": {
+            "corpusId": 273743203,
+            "title": "VERA-ARAB: unveiling the Arabic tweets credibility by constructing balanced news dataset for veracity analysis",
+            "year": 2024,
+            "venue": "PeerJ Computer Science",
+            "authors": [
+              { "name": "Mohamed A. Mostafa", "authorId": "2328433464" },
+              { "name": "Ahmad S. Almogren", "authorId": "2538908" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Al-Yahya et al., 2021)",
+          "corpusId": 234785728,
+          "snippets": [
+            "Fake news detection (FND) involves predicting the likelihood that a particular news article (news report, editorial, expose, etc.) is intentionally deceptive. Arabic FND started to receive more attention in the last decade, and many detection approaches demonstrated some ability to detect fake news on multiple datasets. However, most existing approaches do not consider recent advances in natural language processing, i.e., the use of neural networks and transformers. This paper presents a comprehensive comparative study of neural network and transformer-based language models used for Arabic FND. We examine the use of neural networks and transformer-based language models for Arabic FND and show their performance compared to each other. We also conduct an extensive analysis of the possible reasons for the difference in performance results obtained by different approaches. The results demonstrate that transformer-based models outperform the neural network-based solutions, which led to an increase in the F1 score from 0.83 (best neural network-based model, GRU) to 0.95 (best transformer-based model, QARiB), and it boosted the accuracy by 16% compared to the best in neural network-based solutions. Finally, we highlight the main gaps in Arabic FND research and suggest future research directions."
+          ],
+          "paper": {
+            "corpusId": 234785728,
+            "title": "Arabic Fake News Detection: Comparative Study of Neural Networks and Transformer-Based Approaches",
+            "year": 2021,
+            "venue": "Complex",
+            "authors": [
+              { "name": "M. Al-Yahya", "authorId": "3589053" },
+              { "name": "H. Al-Khalifa", "authorId": "1556678958" },
+              { "name": "Heyam H. Al-Baity", "authorId": "1745957" },
+              { "name": "D. Alsaeed", "authorId": "40612897" },
+              { "name": "Amr Essam", "authorId": "2098809261" }
+            ],
+            "nCitations": 68
+          }
+        },
+        {
+          "id": "(Himdi et al., 2022)",
+          "corpusId": 246780500,
+          "snippets": [
+            "Over the years, social media has had a considerable impact on the way we share information and send messages. With this comes the problem of the rapid distribution of fake news which can have negative impacts on both individuals and society. Given the potential negative influence, detecting unmonitored ‘fake news’ has become a critical issue in mainstream media. While there are recent studies that built machine learning models that detect fake news in several languages, lack of studies in detecting fake news in the Arabic language is scare. Hence, in this paper, we study the issue of fake news detection in the Arabic language based on textual analysis. In an attempt to address the challenges of authenticating news, we introduce a supervised machine learning model that classifies Arabic news articles based on their context’s credibility. We also introduce the first dataset of Arabic fake news articles composed through crowdsourcing. Subsequently, to extract textual features from the articles, we create a unique approach of forming Arabic lexical wordlists and design an Arabic Natural Language Processing tool to perform textual features extraction. The findings of this study promises great results and outperformed human performance in the same task."
+          ],
+          "paper": {
+            "corpusId": 246780500,
+            "title": "Arabic Fake News Detection Based on Textual Analysis",
+            "year": 2022,
+            "venue": "The Arabian journal for science and engineering",
+            "authors": [
+              { "name": "Hanen T. Himdi", "authorId": "2154229187" },
+              { "name": "G. Weir", "authorId": "2727307" },
+              { "name": "F. Assiri", "authorId": "3182619" },
+              { "name": "Hassanin M. Al-Barhamtoshy", "authorId": "1403342188" }
+            ],
+            "nCitations": 52
+          }
+        }
+      ],
+      "format": "synthesis"
+    },
+    {
+      "id": "section6",
+      "title": "Future Research Directions",
+      "tldr": "Future research on the Arab Spring should focus on developing more sophisticated NLP tools for Arabic language processing, creating multilingual datasets, and integrating multimodal analysis approaches that combine text with visual content. Researchers should also explore cross-platform information flow analysis, develop early warning systems for social unrest, and address ethical challenges in analyzing political content. (5 sources)",
+      "text": "\n1. **Enhanced Arabic Language Processing Models**: Development of specialized NLP models that can better handle the linguistic complexities of Arabic, including its rich morphology and dialectal variations that pose unique challenges for automated analysis of Arab Spring content <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper>.\n\n2. **Arabic Dialectal NLP Tools**: Creation of more sophisticated tools specifically designed to process the diverse dialectal Arabic variations used in social media communications, which differ significantly from Modern Standard Arabic and vary across different Arab countries and regions <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper>.\n\n3. **Comprehensive Arabic Propaganda Detection Systems**: Development of robust systems capable of identifying and classifying various propaganda techniques in Arabic content, addressing the notable research gap compared to English-language propaganda detection <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper>.\n\n4. **Multilingual and Cross-Lingual Datasets**: Creation of parallel datasets that include both Arabic and other languages to enable cross-lingual analysis of political movements across different regions and languages <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">.\n\n5. **Integration of Multiple Data Sources**: Expansion of research methodologies to incorporate diverse data sources beyond social media, creating more comprehensive analyses of information flows during political movements <Paper corpusId=\"273186365\" paperTitle=\"(Lian et al., 2024)\" isShortName></Paper>.\n\n6. **Multimodal Analysis Approaches**: Development of techniques that combine textual analysis with image and video processing to provide more holistic understanding of multimedia content shared during political movements <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper> <Paper corpusId=\"234785728\" paperTitle=\"(Al-Yahya et al., 2021)\" isShortName></Paper>.\n\n7. **Cross-Platform Information Flow Analysis**: Investigation of how information travels across different social media platforms and between social and traditional media during political events like the Arab Spring <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">.\n\n8. **Ethical AI Frameworks for Political Content Analysis**: Creation of ethical guidelines and frameworks specifically addressing the challenges of analyzing politically sensitive content in regions with varying levels of freedom of expression <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">.\n\n9. **Early Warning Systems for Social Unrest**: Development of more sophisticated predictive models that can identify potential triggers for social unrest based on patterns in social media content and news coverage <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">.\n\n10. **Longitudinal Studies of Political Information Ecosystems**: Research examining how information ecosystems in Arab countries have evolved since the Arab Spring, tracing the development of digital discourse over time <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">.\n\n11. **Arabic Fake News Detection Models**: Further development of specialized fake news detection systems for Arabic content, addressing the research gap compared to English-focused systems <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper> <Paper corpusId=\"246780500\" paperTitle=\"(Himdi et al., 2022)\" isShortName></Paper>.\n\n12. **Transformer-Based Models for Arabic Content Analysis**: Continued refinement of transformer-based language models specifically optimized for Arabic political content analysis, building on preliminary findings showing their superior performance compared to neural network-based approaches <Paper corpusId=\"234785728\" paperTitle=\"(Al-Yahya et al., 2021)\" isShortName></Paper>.\n\n13. **Comparative Studies Across Different Political Movements**: Research comparing information flows and social media dynamics across different political movements globally to identify common patterns and unique characteristics <Model name=\"Anthropic\" version=\"claude-3-7-sonnet-20250219\">.\n\n14. **Cultural and Contextual Aspects of Arabic Political Communication**: Deeper exploration of how cultural context influences political communication in the Arab world, moving beyond purely linguistic analysis to incorporate cultural nuances <Paper corpusId=\"273743203\" paperTitle=\"(Mostafa et al., 2024)\" isShortName></Paper>.\n\n15. **Social Network Analysis of Information Dissemination**: More sophisticated approaches to mapping how information spreads through social networks during political events, identifying key influencers and information pathways <Paper corpusId=\"265180945\" paperTitle=\"(Alghamdi et al., 2023)\" isShortName></Paper>.",
+      "citations": [
+        {
+          "id": "(Mostafa et al., 2024)",
+          "corpusId": 273743203,
+          "snippets": [
+            "Around 79% of Arab youth obtain their news from social media, showing a significant increase from previous years. This substantial user base underscores the importance of focusing on Arabic tweets for fake news detection. Moreover, the linguistic and cultural nuances inherent in Arabic tweets present unique challenges that require specialized approaches for effective fake news detection.\n\nOver the past years, a considerable body of research has focused on the application of machine learning methodologies to develop automated models aimed at detecting fake news on social media platforms. Recent surveys highlight various machine learning techniques (Mishra, Shukla & Agarwal, 2022;Alghamdi, Luo & Lin, 2024), with some focusing on textual models for news content (Al-Yahya et al., 2021;Himdi et al., 2022;Capuano et al., 2023), while others explore multimodal approaches that incorporate both textual and multimedia features (Comito, Caroprese & Zumpano, 2023;Tufchi, Yadav & Ahmed, 2023). However, many of these studies primarily focus on English datasets, leaving a gap in research on other languages."
+          ],
+          "paper": {
+            "corpusId": 273743203,
+            "title": "VERA-ARAB: unveiling the Arabic tweets credibility by constructing balanced news dataset for veracity analysis",
+            "year": 2024,
+            "venue": "PeerJ Computer Science",
+            "authors": [
+              { "name": "Mohamed A. Mostafa", "authorId": "2328433464" },
+              { "name": "Ahmad S. Almogren", "authorId": "2538908" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Lian et al., 2024)",
+          "corpusId": 273186365,
+          "snippets": [
+            "Additionally, further research could explore the integration of other data sources, such as social media, to enhance the robustness and scope of the analysis."
+          ],
+          "paper": {
+            "corpusId": 273186365,
+            "title": "Machine Learning Classification of Peaceful Countries: A Comparative Analysis and Dataset Optimization",
+            "year": 2024,
+            "venue": "arXiv.org",
+            "authors": [
+              { "name": "Kevin Lian", "authorId": "2330405828" },
+              { "name": "L. Liebovitch", "authorId": "2852943" },
+              { "name": "M. Wild", "authorId": "2330406182" },
+              { "name": "Harry West", "authorId": "2330403961" },
+              { "name": "Peter T. Coleman", "authorId": "2330406474" },
+              { "name": "Francine Chen", "authorId": "2330520506" },
+              { "name": "Everlyne Kimani", "authorId": "2330407806" },
+              { "name": "Katharine Sieck", "authorId": "2314899121" }
+            ],
+            "nCitations": 0
+          }
+        },
+        {
+          "id": "(Al-Yahya et al., 2021)",
+          "corpusId": 234785728,
+          "snippets": [
+            "Fake news detection (FND) involves predicting the likelihood that a particular news article (news report, editorial, expose, etc.) is intentionally deceptive. Arabic FND started to receive more attention in the last decade, and many detection approaches demonstrated some ability to detect fake news on multiple datasets. However, most existing approaches do not consider recent advances in natural language processing, i.e., the use of neural networks and transformers. This paper presents a comprehensive comparative study of neural network and transformer-based language models used for Arabic FND. We examine the use of neural networks and transformer-based language models for Arabic FND and show their performance compared to each other. We also conduct an extensive analysis of the possible reasons for the difference in performance results obtained by different approaches. The results demonstrate that transformer-based models outperform the neural network-based solutions, which led to an increase in the F1 score from 0.83 (best neural network-based model, GRU) to 0.95 (best transformer-based model, QARiB), and it boosted the accuracy by 16% compared to the best in neural network-based solutions. Finally, we highlight the main gaps in Arabic FND research and suggest future research directions."
+          ],
+          "paper": {
+            "corpusId": 234785728,
+            "title": "Arabic Fake News Detection: Comparative Study of Neural Networks and Transformer-Based Approaches",
+            "year": 2021,
+            "venue": "Complex",
+            "authors": [
+              { "name": "M. Al-Yahya", "authorId": "3589053" },
+              { "name": "H. Al-Khalifa", "authorId": "1556678958" },
+              { "name": "Heyam H. Al-Baity", "authorId": "1745957" },
+              { "name": "D. Alsaeed", "authorId": "40612897" },
+              { "name": "Amr Essam", "authorId": "2098809261" }
+            ],
+            "nCitations": 68
+          }
+        },
+        {
+          "id": "(Himdi et al., 2022)",
+          "corpusId": 246780500,
+          "snippets": [
+            "Over the years, social media has had a considerable impact on the way we share information and send messages. With this comes the problem of the rapid distribution of fake news which can have negative impacts on both individuals and society. Given the potential negative influence, detecting unmonitored ‘fake news’ has become a critical issue in mainstream media. While there are recent studies that built machine learning models that detect fake news in several languages, lack of studies in detecting fake news in the Arabic language is scare. Hence, in this paper, we study the issue of fake news detection in the Arabic language based on textual analysis. In an attempt to address the challenges of authenticating news, we introduce a supervised machine learning model that classifies Arabic news articles based on their context’s credibility. We also introduce the first dataset of Arabic fake news articles composed through crowdsourcing. Subsequently, to extract textual features from the articles, we create a unique approach of forming Arabic lexical wordlists and design an Arabic Natural Language Processing tool to perform textual features extraction. The findings of this study promises great results and outperformed human performance in the same task."
+          ],
+          "paper": {
+            "corpusId": 246780500,
+            "title": "Arabic Fake News Detection Based on Textual Analysis",
+            "year": 2022,
+            "venue": "The Arabian journal for science and engineering",
+            "authors": [
+              { "name": "Hanen T. Himdi", "authorId": "2154229187" },
+              { "name": "G. Weir", "authorId": "2727307" },
+              { "name": "F. Assiri", "authorId": "3182619" },
+              { "name": "Hassanin M. Al-Barhamtoshy", "authorId": "1403342188" }
+            ],
+            "nCitations": 52
+          }
+        },
+        {
+          "id": "(Alghamdi et al., 2023)",
+          "corpusId": 265180945,
+          "snippets": [
+            "The proliferation of fake news on social media platforms poses significant challenges to society and individuals, leading to negative impacts. As the tactics employed by purveyors of fake news continue to evolve, there is an urgent need for automatic fake news detection (FND) to mitigate its adverse social consequences. Machine learning (ML) and deep learning (DL) techniques have emerged as promising approaches for characterising and identifying fake news content. This paper presents an extensive review of previous studies aiming to understand and combat the dissemination of fake news. The review begins by exploring the definitions of fake news proposed in the literature and delves into related terms and psychological and scientific theories that shed light on why people believe and disseminate fake news. Subsequently, advanced ML and DL techniques for FND are dicussed in detail, focusing on three main feature categories: content-based, context-based, and hybrid-based features. Additionally, the review summarises the characteristics of fake news, commonly used datasets, and the methodologies employed in existing studies. Furthermore, the review identifies the challenges current FND studies encounter and highlights areas that require further investigation in future research. By offering a comprehensive overview of the field, this survey aims to serve as a guide for researchers working on FND, providing valuable insights for developing effective FND mechanisms in the era of technological advancements."
+          ],
+          "paper": {
+            "corpusId": 265180945,
+            "title": "A comprehensive survey on machine learning approaches for fake news detection",
+            "year": 2023,
+            "venue": "Multim. Tools Appl.",
+            "authors": [
+              { "name": "Jawaher Alghamdi", "authorId": "40098856" },
+              { "name": "Suhuai Luo", "authorId": "2266837166" },
+              { "name": "Yuqing Lin", "authorId": "2162628816" }
+            ],
+            "nCitations": 21
+          }
+        }
+      ],
+      "format": "list",
+      "table": {
+        "type": "TABLE",
+        "title": "",
+        "id": "baf8b128-6d91-4ede-a571-b35206dc2d88",
+        "columns": [
+          {
+            "id": "4fb3b715-6448-40ab-b18f-c1000d488483",
+            "name": "Research Focus Area",
+            "description": "The specific aspect or dimension of the Arab Spring's impact that the paper addresses, such as political changes, social dynamics, media influence, etc."
+          },
+          {
+            "id": "2fbd25e7-fac3-4044-bc80-40cb21c760ec",
+            "name": "Methodological Approach",
+            "description": "The specific AI and ML techniques (e.g., NLP models like BERT, GloVe, etc.) used in the paper to analyze the data."
+          },
+          {
+            "id": "24678519-4dd3-4a08-9973-25b7f26ac92e",
+            "name": "Data Sources",
+            "description": "The types of data used in the research, such as social media posts, news articles, speeches, etc., and the platforms they were collected from (Twitter, Facebook, etc.)."
+          },
+          {
+            "id": "c09b8ebf-163b-49c7-93eb-d72cb6f227fc",
+            "name": "Geographical Scope",
+            "description": "The specific geographic regions or countries focused on in the research concerning the Arab Spring."
+          },
+          {
+            "id": "60e0e7fd-1f6a-4ada-8430-b9c910e39ba7",
+            "name": "Key Findings",
+            "description": "The main results or insights derived from the study regarding the effects of the Arab Spring on news, social media, and information dissemination."
+          },
+          {
+            "id": "a1121b10-c1a9-4af9-a36c-e44f1e878e80",
+            "name": "Challenges Addressed",
+            "description": "The specific challenges or limitations identified and addressed in the studies, such as data sparsity, language diversity, etc."
+          }
+        ],
+        "rows": [
+          {
+            "id": "39f76343-e12f-4228-aa00-16c393e0a10b",
+            "paperCorpusId": 273743203,
+            "displayValue": "VERA-ARAB: unveiling the Arabic tweets credibility by constructing balanced news dataset for veracity analysis"
+          },
+          {
+            "id": "28abaaf7-96a1-4229-a8d4-51aec97063bf",
+            "paperCorpusId": 234785728,
+            "displayValue": "Arabic Fake News Detection: Comparative Study of Neural Networks and Transformer-Based Approaches"
+          }
+        ],
+        "cells": {
+          "28abaaf7-96a1-4229-a8d4-51aec97063bf_24678519-4dd3-4a08-9973-25b7f26ac92e": {
+            "displayValue": "The research used datasets of Arabic COVID-19 tweets, general Arabic misinformation, and Arabic news titles from various sources."
+          },
+          "28abaaf7-96a1-4229-a8d4-51aec97063bf_2fbd25e7-fac3-4044-bc80-40cb21c760ec": {
+            "displayValue": "The paper used AI and ML techniques such as AraBERT, AraELECTRA, AraGPT2, QARiB, Arbert, and Marbert for Arabic FND."
+          },
+          "28abaaf7-96a1-4229-a8d4-51aec97063bf_4fb3b715-6448-40ab-b18f-c1000d488483": {
+            "displayValue": "Arabic Fake News Detection using Neural Networks and Transformers"
+          },
+          "28abaaf7-96a1-4229-a8d4-51aec97063bf_60e0e7fd-1f6a-4ada-8430-b9c910e39ba7": {
+            "displayValue": "Transformer-based models outperform neural network-based solutions in Arabic Fake News Detection."
+          },
+          "28abaaf7-96a1-4229-a8d4-51aec97063bf_a1121b10-c1a9-4af9-a36c-e44f1e878e80": {
+            "displayValue": "Data sparsity, noise, repetition of tweets, unavailable tweets, and lack of a gold-standard dataset."
+          },
+          "28abaaf7-96a1-4229-a8d4-51aec97063bf_c09b8ebf-163b-49c7-93eb-d72cb6f227fc": {
+            "displayValue": "The paper focuses on Arabic language and Arabic-speaking countries."
+          },
+          "39f76343-e12f-4228-aa00-16c393e0a10b_24678519-4dd3-4a08-9973-25b7f26ac92e": {
+            "displayValue": "The research utilized Arabic tweets from various domains, including sports and politics, collected from the Twitter platform."
+          },
+          "39f76343-e12f-4228-aa00-16c393e0a10b_2fbd25e7-fac3-4044-bc80-40cb21c760ec": {
+            "displayValue": "The paper utilized machine learning algorithms such as Naive Bayes, Logistic Regression, SVM, AdaBoost, Random Forest, Gradient Boosting, KNN, and XGBoost to analyze social and textual features extracted from Arabic tweets."
+          },
+          "39f76343-e12f-4228-aa00-16c393e0a10b_4fb3b715-6448-40ab-b18f-c1000d488483": {
+            "displayValue": "Fake news detection and veracity analysis in Arabic tweets."
+          },
+          "39f76343-e12f-4228-aa00-16c393e0a10b_60e0e7fd-1f6a-4ada-8430-b9c910e39ba7": {
+            "displayValue": "The VERA-ARAB dataset provides valuable insights for fake news detection in Arabic social media, with promising results using textual features."
+          },
+          "39f76343-e12f-4228-aa00-16c393e0a10b_a1121b10-c1a9-4af9-a36c-e44f1e878e80": {
+            "displayValue": "Geographical distribution bias and dialectal representation imbalance in Arabic tweets dataset."
+          },
+          "39f76343-e12f-4228-aa00-16c393e0a10b_c09b8ebf-163b-49c7-93eb-d72cb6f227fc": {
+            "displayValue": "Saudi Arabia, Egypt, Kuwait, Yemen, United Arab Emirates, United States, United Kingdom"
+          }
+        }
+      }
+    }
+  ]
+}
