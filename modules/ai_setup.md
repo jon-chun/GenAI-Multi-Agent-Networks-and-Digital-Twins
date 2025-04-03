@@ -48,9 +48,22 @@
 * Automated Workflow Browser Agents:
   * Browser-Use:
   * Skyvern: https://github.com/Skyvern-AI/skyvern
-* [Local n8n](https://github.com/n8n-io/self-hosted-ai-starter-kit)
-* [BrowserAgent.dev (freemium)](https://browseragent.dev/?ref=manuagi)
-* LLM Libraries
-  * [Pydantic]()
-  * [unstract](https://github.com/Zipstack/unstract)
-  * [intructor]()
+* Local n8n:
+  * BrowserAgent.dev (freemium): https://browseragent.dev/?ref=manuagi
+* unstract: https://github.com/Zipstack/unstract
+  *
+
+## Setup
+
+* [Python]()
+* [Standard Libraries]()
+* [Virtual Environments (uv, conda, venv)]()
+* [NVIDIA]()
+* [Ollama]()
+* [Open WebUI]()
+* [Docker]()
+* [VSCode]()
+* [VSCode Plugins]()
+* [VSCode MCP Servers]()
+* [Browser Use]()
+* [n8n]()

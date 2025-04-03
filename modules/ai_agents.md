@@ -2,6 +2,7 @@
 
 ## Agent Zoos
 
+* [Awesome AI Agents](https://github.com/ChatTeach/Awesome-AI-Agents/blob/main/AGENTS.md)
 * [Ottomator.ai (Mar 2025)](https://studio.ottomator.ai/)
   * [The Future of RAG is Agentic - Learn this Strategy NOW (45:48) (15 Jan 2025)](https://www.youtube.com/watch?v=_R-ff4ZMLC8)
   * [Github](https://github.com/coleam00/ottomator-agents)

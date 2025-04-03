@@ -3,6 +3,8 @@
 
 ## Dataset Annotation
 
+* [POTATO (Text)](https://github.com/davidjurgens/potato)
+
 ## LLM as Judge
 
 * [Google](https://www.google.com/search?q=site%3Agithub.com+llm+as+judge&sca_esv=e095c950f9c2c4db&sxsrf=ADLYWILiG_M40r-I_gDfMElbdOz_y_iXXA%3A1734014760807&source=hp&ei=KPdaZ-eBL92A5OMPvpS5yAk&iflsig=AL9hbdgAAAAAZ1sFOGitZ-RYX0pnMZ7PriBoHMaZnFYf&ved=0ahUKEwjnteeuvKKKAxVdAHkGHT5KDpkQ4dUDCBo&uact=5&oq=site%3Agithub.com+llm+as+judge&gs_lp=Egdnd3Mtd2l6IhxzaXRlOmdpdGh1Yi5jb20gbGxtIGFzIGp1ZGdlSOwvUABYgS5wAHgAkAEAmAG2AaAB5xOqAQQyMi42uAEDyAEA-AEBmAIFoALYBsICBBAjGCfCAgsQABiABBiRAhiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIKEAAYgAQYQxiKBcICCBAAGIAEGLEDwgIFEAAYgATCAgsQABiABBixAxiDAcICDhAAGIAEGLEDGIMBGMkDwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICCxAuGIAEGMcBGK8BmAMAkgcDMC41oAeGQw&sclient=gws-wiz)
