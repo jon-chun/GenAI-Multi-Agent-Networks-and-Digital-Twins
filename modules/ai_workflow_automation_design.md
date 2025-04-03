@@ -10,10 +10,12 @@
 * [Anthropic Revealed Secrets to Building Powerful Agents (19:08) (28 Dec 2024)](https://www.youtube.com/watch?v=0v7TQIh_kes)
 * [Anthropic: Building Effective Agents (19 Dec 2024)](https://www.anthropic.com/research/building-effective-agents)
 
-## Data Analysis Automation
+## n8n Automation
 
+* [n8n Self-Hosting Starter Kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 * [How to Build an AI Agent for Data Analysis, Visualization, AND Reporting (n8n) (22:01) (8 Jan 2025)](https://www.youtube.com/watch?v=vUnG7hsPe5E)
-
+* [n8n](https://www.youtube.com/watch?v=JbGhMZ_nKD8)
+  * [n8n nodes MPC](https://github.com/nerding-io/n8n-nodes-mcp)
 ## Browser Automation
 
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern)

@@ -105,8 +105,6 @@
 ### Low/No-Code Agents
 
 * [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)
-* [n8n](https://www.youtube.com/watch?v=JbGhMZ_nKD8)
-  * [n8n nodes MPC](https://github.com/nerding-io/n8n-nodes-mcp)
 
 ## Extracting Structured Info
 

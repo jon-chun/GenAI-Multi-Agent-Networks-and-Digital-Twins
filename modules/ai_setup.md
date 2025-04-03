@@ -43,11 +43,14 @@
 
 * NVIDIA, CUDA, toolkit, container
 * Ollama
-* Open WebUIF: https://docs.openwebui.com/ (Models, Tools, Functions, etc.)
+* Open WebUI: https://docs.openwebui.com/ (Models, Tools, Functions, etc.)
+  [Github](https://github.com/open-webui/open-webui)
 * Automated Workflow Browser Agents:
   * Browser-Use:
   * Skyvern: https://github.com/Skyvern-AI/skyvern
-* Local n8n:
-  * BrowserAgent.dev (freemium): https://browseragent.dev/?ref=manuagi
-* unstract: https://github.com/Zipstack/unstract
-  * 
+* [Local n8n](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+* [BrowserAgent.dev (freemium)](https://browseragent.dev/?ref=manuagi)
+* LLM Libraries
+  * [Pydantic]()
+  * [unstract](https://github.com/Zipstack/unstract)
+  * [intructor]()
