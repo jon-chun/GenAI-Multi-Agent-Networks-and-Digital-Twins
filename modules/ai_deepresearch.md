@@ -7,6 +7,7 @@
 ## Deep Research Frameworks / AI Automation
 
 * [OpenManus](https://github.com/mannaandpoem/OpenManus)
+* [AgenticSeek](https://github.com/Fosowl/agenticSeek)
 * [LangChain Local-Deep-Researcher (Mar 2025)](https://github.com/langchain-ai/local-deep-researcher)
 * [GenSpark](https://www.genspark.ai/)
 * [OWL Camel.ai](https://github.com/camel-ai/owl)

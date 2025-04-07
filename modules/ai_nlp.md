@@ -5,10 +5,11 @@ https://github.com/segment-any-text/wtpsplit (table)
 https://github.com/wikimedia/sentencex?utm_source=chatgpt.com (table)
 
 
-## Structured  
+## Structured LLM Output / LLM Function Response
 
 * [Pydandic]()
 * [LLM InStructor](https://github.com/instructor-ai/instructor)
+  * [LLMs + Instructor: Generate Structured Output in Python Easily (29:30) (23 Mar 2025)](https://www.youtube.com/watch?v=VllkW63LWbY)
 * [Unstruct]()
 * [VLM Run Hub](https://www.youtube.com/watch?v=Vrp5vqdsMHM)
 

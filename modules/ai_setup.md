@@ -43,7 +43,8 @@
 
 * NVIDIA, CUDA, toolkit, container
 * Ollama
-* Open WebUIF: https://docs.openwebui.com/ (Models, Tools, Functions, etc.)
+* Open WebUI: https://docs.openwebui.com/ (Models, Tools, Functions, etc.)
+  [Github](https://github.com/open-webui/open-webui)
 * Automated Workflow Browser Agents:
   * Browser-Use:
   * Skyvern: https://github.com/Skyvern-AI/skyvern
