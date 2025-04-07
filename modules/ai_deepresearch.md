@@ -8,6 +8,7 @@
 
 * [OpenManus](https://github.com/mannaandpoem/OpenManus)
 * [LangChain Local-Deep-Researcher (Mar 2025)](https://github.com/langchain-ai/local-deep-researcher)
+* [GenSpark](https://www.genspark.ai/)
 * [OWL Camel.ai](https://github.com/camel-ai/owl)
 * [GPTme](https://github.com/gptme/gptme)
 * [Proxy Convergence.ai (freemium)]()

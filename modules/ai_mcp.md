@@ -1,5 +1,8 @@
 # Model Context Protocol
 
+## Public MCP Servers and Discussions
+
+* [YNews (29 Mar 2025)](https://news.ycombinator.com/item?id=43535889)
 
 ## MCP Official
 

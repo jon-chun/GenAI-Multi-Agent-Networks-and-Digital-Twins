@@ -8,6 +8,11 @@
 
 * [](https://www.youtube.com/watch?v=FN6U5D7ZsLA&t=344s)
   
+## EPub and Other Doc Formats
+
+* [Calibre]()
+* [KOReader](https://github.com/koreader/koreader)
+
 ## PDF Processing
 
 * [Marker](https://github.com/VikParuchuri/marker)

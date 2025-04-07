@@ -4,6 +4,7 @@
 (To find and read specific papers)
 
 * (best free)[SemanticScholar.org](https://semanticscholar.org/)
+* [CrossRef.org](https://www.crossref.org/)
 * (most current CS/AI)[ArXiv.org](https://arxiv.org/)
 * (great comments for Tier 1 Conference preprints)[OpenReview.net](https://openreview.net/)
 * (everything and the sink)[Google Scholar](https://scholar.google.com/)
