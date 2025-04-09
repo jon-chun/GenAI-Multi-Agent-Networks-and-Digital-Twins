@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Positional Encoding Animation – Constant Upward Speed</title>
+  <style>
+    body { text-align: center; font-family: monospace; background-color: #fafafa; }
+    canvas { border: 1px solid #ccc; background: #f5f5f5; margin: 20px auto; display: block; }
+  </style>
+</head>
+<body>
+  <!-- The canvas hosts both the horizontal 4-bit counter and the vertical streams -->
+  <canvas id="canvas" width="600" height="400"></canvas>
+  <script>
+    (function(){
+      const canvas = document.getElementById('canvas');
+      const ctx = canvas.getContext('2d');
+
+      const width = canvas.width;
+      const height = canvas.height;
+      
+      // Reserve the top area for the horizontal binary counter.
+      const topMargin = 50;
+      const streamAreaHeight = height - topMargin;
+      const numColumns = 4;
+      const columnWidth = width / numColumns;
+
+      // T is the base time period (in milliseconds) corresponding to the LSB.
+      const T = 1000;
+      // The LSB’s continuous vertical pattern is set to repeat every baseCycleHeight pixels.
+      const baseCycleHeight = 50;
+      // All columns will move upward at a constant speed.
+      // Here v (pixels per millisecond) is chosen so that the LSB completes one spatial cycle in time T.
+      const v = baseCycleHeight / T;  // e.g. 50 pixels per 1000ms = 0.05 px/ms
+
+      // For the vertical streams, we want the spatial wavelength (distance for one full cycle)
+      // to double for each bit as you move to the left.
+      // With the rightmost (LSB) having a wavelength equal to baseCycleHeight,
+      // we define the factors so that:
+      //   col 3 (LSB): factor = 1   => wavelength = baseCycleHeight
+      //   col 2:        factor = 2   => wavelength = 2 * baseCycleHeight
+      //   col 1:        factor = 4   => wavelength = 4 * baseCycleHeight
+      //   col 0 (MSB):  factor = 8   => wavelength = 8 * baseCycleHeight
+      const factors = [8, 4, 2, 1];
+
+      let startTime = null;
+
+      function draw(timestamp) {
+        if (!startTime) startTime = timestamp;
+        const elapsed = timestamp - startTime;
+        
+        // Global upward offset (in pixels) is the same for every column.
+        const globalOffset = v * elapsed;
+        
+        // Clear the entire canvas.
+        ctx.clearRect(0, 0, width, height);
+
+        // ===== Draw the Horizontal Binary Counter =====
+        // The counter ticks every T milliseconds, counting modulo 16 (4 bits).
+        const counter = Math.floor(elapsed / T) % 16;
+        const counterStr = counter.toString(2).padStart(4, '0');
+        ctx.font = '40px monospace';
+        ctx.textAlign = 'center';
+        ctx.fillStyle = 'black';
+        ctx.fillText(counterStr, width / 2, 40);
+
+        // ===== Draw the Vertical Streams =====
+        // Each column uses its own wavelength (spatial period) but all move upward at the same speed.
+        for (let col = 0; col < numColumns; col++) {
+          // Compute the center x-coordinate of the column.
+          const colCenter = col * columnWidth + columnWidth / 2;
+          // Map the column to the corresponding bit index (leftmost = MSB, so bit index = 3 - col).
+          const bitIndex = 3 - col;
+          // The wavelength for this column is the factor times the baseCycleHeight.
+          const wavelength = factors[col] * baseCycleHeight;
+          
+          // Draw a repeating vertical stream of digits.
+          // Start above the visible area to ensure the pattern appears continuous.
+          let startY = topMargin - wavelength;
+          for (let y = startY; y < height; y += 20) {
+            // For each digit position compute the phase.
+            // The phase is based on (y - topMargin + globalOffset) scaled by the wavelength.
+            // A π offset is added so that at time zero the digit is '0' (since cos(π) = -1).
+            let phase = 2 * Math.PI * ((y - topMargin + globalOffset) / wavelength) + Math.PI;
+            const digit = Math.cos(phase) >= 0 ? '1' : '0';
+            ctx.fillStyle = 'gray';
+            ctx.font = '16px monospace';
+            ctx.fillText(digit, colCenter, y);
+          }
+          
+          // Draw a horizontal sample marker (light blue line) in this column.
+          const sampleY = topMargin + streamAreaHeight / 2;
+          ctx.beginPath();
+          ctx.moveTo(col * columnWidth, sampleY);
+          ctx.lineTo((col + 1) * columnWidth, sampleY);
+          ctx.strokeStyle = 'lightblue';
+          ctx.stroke();
+          
+          // Compute the sample digit at the marker using the same phase calculation.
+          let samplePhase = 2 * Math.PI * ((sampleY - topMargin + globalOffset) / wavelength) + Math.PI;
+          const sampleDigit = Math.cos(samplePhase) >= 0 ? '1' : '0';
+
+          // For comparison, extract the discrete bit from the binary counter.
+          const discreteBit = (counter >> bitIndex) & 1;
+
+          // Draw the sample digit in a large red font at the marker,
+          // and display the corresponding discrete bit (in black) below it.
+          ctx.font = '32px monospace';
+          ctx.fillStyle = 'red';
+          ctx.fillText(sampleDigit, colCenter, sampleY);
+          ctx.font = '16px monospace';
+          ctx.fillStyle = 'black';
+          ctx.fillText('(' + discreteBit + ')', colCenter, sampleY + 30);
+
+          // For added illustration, draw the continuous sine-wave (blue) that shows the oscillation.
+          ctx.beginPath();
+          for (let y = topMargin; y < height; y += 5) {
+            let phase = 2 * Math.PI * ((y - topMargin + globalOffset) / wavelength) + Math.PI;
+            let dx = 20 * Math.sin(phase);
+            let x = colCenter + dx;
+            if (y === topMargin) {
+              ctx.moveTo(x, y);
+            } else {
+              ctx.lineTo(x, y);
+            }
+          }
+          ctx.strokeStyle = 'blue';
+          ctx.stroke();
+
+          // Label the column with its associated time period relative to T.
+          ctx.font = '14px sans-serif';
+          let label = '';
+          switch(col) {
+            case 0: label = '8T (MSB)'; break;
+            case 1: label = '4T'; break;
+            case 2: label = '2T'; break;
+            case 3: label = 'T (LSB)'; break;
+          }
+          ctx.fillStyle = 'black';
+          ctx.fillText(label, colCenter, height - 10);
+        }
+        
+        // Request the next animation frame.
+        requestAnimationFrame(draw);
+      }
+
+      requestAnimationFrame(draw);
+    })();
+  </script>
+</body>
+</html>

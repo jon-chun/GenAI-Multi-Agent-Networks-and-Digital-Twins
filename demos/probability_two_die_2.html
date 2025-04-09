@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Normalized Plot</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+    <style>
+        /* Use Inter font */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-8">
+
+    <h1 class="text-2xl font-bold mb-4 text-center text-gray-800">Data Plots with Visually Normalized Probability Distribution Peak Height</h1>
+
+    <div id="plotDiv" class="w-full max-w-4xl mx-auto bg-white p-4 rounded-lg shadow-md">
+        </div>
+
+    <script>
+        // --- Helper Functions ---
+
+        /**
+         * Generates an array of evenly spaced numbers over a specified interval.
+         * @param {number} start - The starting value of the sequence.
+         * @param {number} stop - The end value of the sequence.
+         * @param {number} num - Number of samples to generate.
+         * @returns {number[]} - Array of numbers.
+         */
+        function linspace(start, stop, num) {
+          if (num <= 1) return [start]; // Handle edge cases
+          const step = (stop - start) / (num - 1);
+          // Use Array.from for cleaner generation
+          return Array.from({length: num}, (_, i) => start + step * i);
+        }
+
+        /**
+         * Calculates the Probability Density Function (PDF) of a Gaussian distribution.
+         * @param {number} x - The value at which to calculate the PDF.
+         * @param {number} mu - The mean of the distribution.
+         * @param {number} sigma - The standard deviation of the distribution.
+         * @returns {number} - The PDF value at x.
+         */
+        function gaussianPDF(x, mu, sigma) {
+          if (sigma <= 0) return 0; // Standard deviation must be positive
+          const coefficient = 1 / (sigma * Math.sqrt(2 * Math.PI));
+          const exponent = -0.5 * Math.pow((x - mu) / sigma, 2);
+          return coefficient * Math.exp(exponent);
+        }
+
+        /**
+         * Creates a function that generates normally distributed random numbers (mean 0, stddev 1)
+         * using the Box-Muller transform.
+         * @returns {function(): number} - A function that returns a new random number each time it's called.
+         */
+        function gaussianRandomGenerator() {
+            let hasSpare = false;
+            let spareValue;
+            return function() {
+                if (hasSpare) {
+                    hasSpare = false;
+                    return spareValue; // Return the stored spare value
+                } else {
+                    // Generate two independent random numbers uniformly distributed in (0,1]
+                    let u, v, s;
+                    do {
+                        u = Math.random() * 2 - 1; // Transform to (-1, 1)
+                        v = Math.random() * 2 - 1; // Transform to (-1, 1)
+                        s = u * u + v * v;
+                    } while (s >= 1 || s === 0); // Ensure point is inside the unit circle but not at the center
+                    // Apply Box-Muller transform
+                    s = Math.sqrt(-2.0 * Math.log(s) / s);
+                    spareValue = v * s; // Store one value for next call
+                    hasSpare = true;
+                    return u * s; // Return the other value
+                }
+            };
+        }
+        // Create the generator function instance
+        const randn = gaussianRandomGenerator();
+
+        // --- 1. Generate Sample Data ---
+        const x = linspace(-10, 10, 500);
+        // Generate y1 with sine wave and Gaussian noise
+        const y1 = x.map(val => 5 * Math.sin(val * 0.5) + randn() * 0.5 + 10);
+        // Generate y2 as a quadratic curve
+        const y2 = x.map(val => -0.1 * Math.pow(val, 2) + 15);
+        // Generate the original probability distribution (Gaussian PDF)
+        const prob_dist_original = x.map(val => gaussianPDF(val, 2, 1.5)); // mu=2, sigma=1.5
+
+        // --- 2. Find Maximum Values ---
+        const max_y1 = Math.max(...y1);
+        const max_y2 = Math.max(...y2);
+        // Find the highest peak among the first two datasets
+        const max_other_plots = Math.max(max_y1, max_y2);
+        // Find the peak of the original probability distribution
+        const max_prob_dist_original = Math.max(...prob_dist_original);
+
+        // --- 3. Calculate Scaling Factor ---
+        let scale_factor = 1.0; // Default scale factor
+        // Avoid division by zero or near-zero
+        if (max_prob_dist_original > 1e-9) {
+            scale_factor = max_other_plots / max_prob_dist_original;
+        } else {
+            // Log a warning if the probability distribution is flat or zero
+            console.warn("Warning: Maximum of original probability distribution is near zero. Scaling might not be meaningful.");
+        }
+
+        // --- 4. Apply Scaling ---
+        // Scale the original probability distribution
+        const scaled_prob_dist = prob_dist_original.map(val => val * scale_factor);
+        // The maximum value of scaled_prob_dist should now be equal to max_other_plots
+
+        // --- 5. Plotting Setup (Plotly.js) ---
+
+        // Define the trace for the first dataset (y1)
+        const trace1 = {
+          x: x,
+          y: y1,
+          mode: 'lines',
+          name: `Dataset 1 (Original Max ≈ ${max_y1.toFixed(2)})`,
+          line: { color: 'rgba(54, 162, 235, 0.8)', dash: 'solid' }, // Equivalent to tab:blue
+          yaxis: 'y1' // Assign to the primary y-axis
+        };
+
+        // Define the trace for the second dataset (y2)
+        const trace2 = {
+          x: x,
+          y: y2,
+          mode: 'lines',
+          name: `Dataset 2 (Original Max ≈ ${max_y2.toFixed(2)})`,
+          line: { color: 'rgba(54, 162, 235, 0.8)', dash: 'dash' }, // Equivalent to tab:blue, dashed
+          yaxis: 'y1' // Assign to the primary y-axis
+        };
+
+        // Define the trace for the scaled probability distribution
+        const trace3 = {
+          x: x,
+          y: scaled_prob_dist,
+          mode: 'lines',
+          name: `Prob Dist (Scaled Peak ≈ ${max_other_plots.toFixed(2)})`,
+          line: { color: 'rgba(255, 99, 132, 1)', width: 2 }, // Equivalent to tab:red
+          yaxis: 'y2' // Assign to the secondary y-axis
+        };
+
+        // Combine traces into data array for Plotly
+        const data = [trace1, trace2, trace3];
+
+        // --- 6. Configure Layout and Align Axis Limits ---
+
+        // Calculate y-axis limits for visual normalization
+        const min_y1y2 = Math.min(Math.min(...y1), Math.min(...y2));
+        const padding_factor = 1.10; // 10% padding above the max peak
+        const ylim_top = max_other_plots * padding_factor;
+        // Adjust bottom padding based on whether the minimum is positive or negative
+        const ylim_bottom_ax1 = min_y1y2 * (min_y1y2 >= 0 ? 0.95 : 1.05);
+
+        // Define the layout for the plot
+        const layout = {
+          // title: 'Data Plots with Visually Normalized Probability Distribution Peak Height', // Title moved to H1 tag
+          xaxis: {
+            title: 'X-axis Label (e.g., Time, Parameter Value)',
+            gridcolor: 'rgba(200, 200, 200, 0.3)', // Lighter grid lines
+            zerolinecolor: 'rgba(200, 200, 200, 0.5)',
+          },
+          yaxis: { // Primary Y-axis (y1) configuration
+            title: 'Y1 / Y2 Values',
+            titlefont: { color: 'rgba(54, 162, 235, 1)' },
+            tickfont: { color: 'rgba(54, 162, 235, 1)' },
+            // Set range for primary axis
+            range: [ylim_bottom_ax1, ylim_top],
+            gridcolor: 'rgba(200, 200, 200, 0.5)', // Grid line color
+            gridwidth: 1,
+            zerolinecolor: 'rgba(200, 200, 200, 0.5)',
+            zerolinewidth: 1,
+          },
+          yaxis2: { // Secondary Y-axis (y2) configuration
+            title: 'Scaled Probability Distribution',
+            titlefont: { color: 'rgba(255, 99, 132, 1)' },
+            tickfont: { color: 'rgba(255, 99, 132, 1)' },
+            overlaying: 'y', // Overlay this axis on 'y' (primary y-axis)
+            side: 'right',   // Position the axis on the right side
+            // Set range for secondary axis - TOP MUST MATCH PRIMARY for visual normalization
+            range: [0, ylim_top], // Bottom is 0 for probability, top matches primary axis top limit
+            showgrid: false, // Typically hide grid lines for secondary axis for clarity
+            zeroline: false
+          },
+          legend: {
+            x: 0.05, // Position legend inside plot area (adjust as needed)
+            y: 0.95,
+            bgcolor: 'rgba(255, 255, 255, 0.7)', // Semi-transparent background
+            bordercolor: 'rgba(200, 200, 200, 0.5)',
+            borderwidth: 1
+          },
+          margin: { l: 65, r: 65, t: 30, b: 50 }, // Adjust plot margins
+          font: { family: 'Inter, sans-serif' } // Ensure font is applied
+        };
+
+        // --- 7. Render Plot ---
+        // Use Plotly to draw the chart in the specified div
+        Plotly.newPlot('plotDiv', data, layout, {responsive: true}); // Make plot responsive
+
+        // --- 8. Optional: Print diagnostic information to console ---
+        console.log("-".repeat(30));
+        console.log("Diagnostic Information:");
+        console.log(`Max of Dataset 1 (y1): ${max_y1.toFixed(4)}`);
+        console.log(`Max of Dataset 2 (y2): ${max_y2.toFixed(4)}`);
+        console.log(`Target max height for scaling (max_other_plots): ${max_other_plots.toFixed(4)}`);
+        console.log(`Original max of Probability Distribution: ${max_prob_dist_original.toFixed(4)}`);
+        console.log(`Scaling Factor Applied: ${scale_factor.toFixed(4)}`);
+        console.log(`Calculated max of Scaled Probability Distribution: ${Math.max(...scaled_prob_dist).toFixed(4)}`); // Should match max_other_plots
+        console.log(`Primary Axis (ax1) Y-Range: [${layout.yaxis.range.map(v => v.toFixed(4)).join(', ')}]`);
+        console.log(`Secondary Axis (ax2) Y-Range: [${layout.yaxis2.range.map(v => v.toFixed(4)).join(', ')}]`);
+        console.log("-".repeat(30));
+
+    </script>
+
+</body>
+</html>

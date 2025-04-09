@@ -28,6 +28,7 @@
 
 ## Repos
 
+* [Continue.Dev](https://hub.continue.dev/explore/assistants)
 * [o1-eng](https://github.com/Doriandarko/o1-engineer/blob/main/o1-eng.py)
 * []()
 

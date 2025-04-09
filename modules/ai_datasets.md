@@ -55,13 +55,11 @@
 | **Meilisearch**              | Unlimited (self-hosted) | Custom dataset search                 | Customizable, open-source             | Requires pre-indexing, self-hosting |
 | **OpenAI Plugins**           | Dependent on host API  | Search-powered agent tools            | Easy integration with frameworks      | Depends on hosting API limits       |
 
-
 ## Torrent
 
 * [jq](https://github.com/jqlang/jq)
 * [Reliq](https://github.com/TUVIMEN/reliq)
 * [Torge](https://github.com/TUVIMEN/torge)
-
 
 ## Datasets
 
@@ -136,6 +134,7 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 ## PREPROCESSING
 
+* [OmniTools (Low/No Code)](https://omnitools.app/)
 * [Mastering LLM Techniques: Data Preprocessing (13 Nov 2024)](https://developer.nvidia.com/blog/mastering-llm-techniques-data-preprocessing/?ref=dailydev)
 * [Format Data for Chat by LLM Types](https://github.com/jpmanson/llm_templates)
   * [Colab](https://colab.research.google.com/drive/187sA0rGwVLiP6A3IyvV0ICglsJQmvQa3#scrollTo=sUjN9PDx-dcp)
@@ -193,12 +192,11 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 ### Augmented Data
 
-<<<<<<< HEAD
+
 * [Meta AugLy](https://github.com/facebookresearch/AugLy)
-=======
 * [Distilable](https://github.com/argilla-io/distilabel)
 * [Synthetic-data-generator](https://huggingface.co/blog/synthetic-data-generator)
->>>>>>> e1a90f5e993cbd9902a00d1430bd1bc8b3749dcc
+
 * [Augmentoolkit Github](https://github.com/e-p-armstrong/augmentoolkit)
   * [Convert Any Raw Text Into LLM Dataset Locally - Augmentoolkit (8:25) (Mar 2024)](https://www.youtube.com/watch?v=cdqIeNCj_eA)
     * [Create a Custom Dataset in 3 Minutes - Augmentoolkit Demo (2:56) (2 Aug 2024)](https://www.youtube.com/watch?v=m32fM8S_DeY)
@@ -219,6 +217,9 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
   * [Huggingface](https://huggingface.co/datasets/allenai/WildChat-1M)
 * [WildChat 10M (Jan 2025)](https://arxiv.org/pdf/2501.18511)
 
+## Data Organizations
+
+* [CrossRef](https://www.crossref.org/)
 
 ### NLP Datasets
 
@@ -265,3 +266,9 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 ## Data APIify
 
 * [Interlify](https://www.interlify.com/pricing)
+
+## Data Manipulation: SQL
+
+## Data Manipulation: JSON
+
+* [JSONata](https://jsonata.org/)
