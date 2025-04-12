@@ -43,6 +43,7 @@
 ## Leaderboards 
 
 * [huggingface.co](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a)
+* [Aider Leaderbaord](https://aider.chat/docs/leaderboards/)
 * [Scale.com](https://scale.com/leaderboard)
 * *[extractum](https://llm.extractum.io/)
 * [OpenRouter.ai](https://openrouter.ai/rankings)* [Scale leaderboard](https://scale.com/leaderboard)

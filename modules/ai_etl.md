@@ -15,6 +15,8 @@
 
 ## PDF Processing
 
+* [MarkItDown](https://github.com/microsoft/markitdown)
+* [PDFItDown](https://github.com/AstraBert/PdfItDown)
 * [Marker](https://github.com/VikParuchuri/marker)
   * [YouTube (May 2024)](https://www.youtube.com/watch?v=mdLBr9IMmgI&t=172s)
 * [SmolDocling - The SmolOCR Solution? (8:16) (18 Mar 2025)](https://www.youtube.com/watch?v=kPKRJeLMq_M)

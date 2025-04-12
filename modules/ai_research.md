@@ -30,6 +30,15 @@
 
 ## AI Research
 
+*[AICodeKing: My AI Coding Workflow + Free APIs: How I DO AI CODING! (RooCode, Gemini 2.5, T3 Stack, Requesty) (13:19) (11 Apr 2025)](https://www.youtube.com/watch?v=zv72WMmVkPw)
+  * [Mockups: Excalidraw]()
+  * [Mockups: Figma]()
+  * [Images: GPT-o4]()
+  * [AI Models: Requesty]()
+  * [AI Coding: Roo Code]()
+  * [T3 Stock: Framework]()
+  * [Database: Suprabase]()
+
 * [Andy Stapleton: Best AI Research Tools for 2025 (13 Jan 2025)](https://www.youtube.com/watch?v=IBsBixGTh-I)
 * [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
 * [Scira](https://github.com/zaidmukaddam/scira)
