@@ -8,6 +8,7 @@ There are several open-source and third-party options available for creating gat
 * [DeepSeek Chat]()
 * [MS Copilot](https://copilot.microsoft.com/chats)
 * [Qwen Chat](https://chat.qwen.ai/)
+* [Kimi.ai](https://kimi.moonshot.cn/)
 
 
 ### 1. CharacterAI Unofficial Python API

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Roll Probability Simulation</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            width: 95%;
+            max-width: 1200px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            align-items: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1rem;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            transition: background-color 0.2s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        button#stop-auto {
+            background-color: #dc3545;
+        }
+
+        button#stop-auto:hover {
+            background-color: #c82333;
+        }
+
+        #roll-counter {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #555;
+        }
+
+        .visualizations {
+            display: flex;
+            justify-content: space-around;
+            width: 100%;
+            gap: 20px;
+            flex-wrap: wrap; /* Allow wrapping on smaller screens */
+        }
+
+        .visualization-panel {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 250px; /* Minimum width for each panel */
+            flex: 1; /* Allow panels to grow */
+        }
+
+        .visualization-panel h2 {
+            margin-top: 0;
+            margin-bottom: 15px;
+            color: #444;
+            font-size: 1.2rem;
+            text-align: center;
+        }
+
+        /* 1. Dice Styling */
+        #dice-section {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+        .dice {
+            width: 60px;
+            height: 60px;
+            border: 2px solid #666;
+            border-radius: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2.5rem;
+            font-weight: bold;
+            background-color: white;
+            color: #333;
+        }
+
+        /* 2. Grid Space Styling */
+         #grid-space-container {
+            width: 250px; /* Fixed width */
+            height: 250px; /* Fixed height */
+        }
+        #grid-space {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            grid-template-rows: repeat(6, 1fr);
+            width: 100%;
+            height: 100%;
+            border: 1px solid #aaa;
+            gap: 1px; /* Small gap to see cell borders */
+            background-color: #ccc; /* Background for the gaps */
+        }
+        .grid-cell {
+            background-color: white; /* Cell background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 0.8rem; /* Smaller font for coordinates */
+            font-weight: bold;
+            color: #eeeeee; /* Start very faint */
+            transition: color 0.3s ease; /* Smooth color transition */
+            user-select: none; /* Prevent text selection */
+            position: relative; /* For potential count display */
+        }
+        /* Optional: Display count on hover */
+        .grid-cell::after {
+            content: attr(data-count);
+            position: absolute;
+            bottom: 1px;
+            right: 2px;
+            font-size: 0.6rem;
+            color: rgba(0, 0, 0, 0.5);
+            display: none; /* Hidden by default */
+        }
+        .grid-cell:hover::after {
+             /* display: block; */ /* Uncomment to show count on hover */
+        }
+
+
+        /* 3. Probability Density Styling */
+        #prob-density-container {
+             height: 250px; /* Fixed height */
+             width: 100%;
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+        }
+        #prob-density {
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-end; /* Align bars to the bottom */
+            width: 100%;
+            height: 210px; /* Height for the bars */
+            border-bottom: 2px solid #333;
+            padding: 0 5px; /* Padding inside the flex container */
+            box-sizing: border-box;
+            position: relative;
+        }
+        .bar-column {
+            flex: 1; /* Equal width for columns */
+            display: flex;
+            flex-direction: column-reverse; /* Stack dots from bottom */
+            align-items: center;
+            gap: 1px; /* Space between dots */
+            min-width: 15px; /* Ensure columns have some width */
+            position: relative; /* For label positioning */
+            margin: 0 1px; /* Small margin between columns */
+        }
+        .dot {
+            width: 8px;
+            height: 8px;
+            background-color: #28a745;
+            border-radius: 50%;
+            flex-shrink: 0; /* Prevent dots from shrinking */
+        }
+         .bar-label {
+            position: absolute;
+            bottom: -20px; /* Position below the bottom border */
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.8rem;
+            color: #333;
+         }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Dice Roll Probability Simulation</h1>
+
+        <div class="controls">
+            <button id="roll-once">Roll Once</button>
+            <button id="auto-roll">Auto Roll (100ms)</button>
+            <span id="roll-counter">Rolls: 0</span>
+        </div>
+
+        <div class="visualizations">
+            <div class="visualization-panel">
+                <h2>1. Dice Roll</h2>
+                <div id="dice-section">
+                    <div class="dice" id="die1">?</div>
+                    <div class="dice" id="die2">?</div>
+                </div>
+            </div>
+
+            <div class="visualization-panel">
+                <h2>2. Outcome Grid Space (Die1 x Die2)</h2>
+                 <div id="grid-space-container">
+                    <div id="grid-space">
+                        </div>
+                 </div>
+            </div>
+
+            <div class="visualization-panel">
+                <h2>3. Sum Frequency Distribution</h2>
+                 <div id="prob-density-container">
+                    <div id="prob-density">
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- DOM Elements ---
+        const die1Element = document.getElementById('die1');
+        const die2Element = document.getElementById('die2');
+        const gridSpaceElement = document.getElementById('grid-space');
+        const probDensityElement = document.getElementById('prob-density');
+        const rollOnceButton = document.getElementById('roll-once');
+        const autoRollButton = document.getElementById('auto-roll');
+        const rollCounterElement = document.getElementById('roll-counter');
+
+        // --- State Variables ---
+        const gridSize = 6;
+        const maxGridHitsForBlack = 50; // How many hits until a grid cell is pure black
+        const baseGridColor = 238; // Starting color value (light gray #eeeeee)
+        let gridCounts = Array(gridSize).fill(null).map(() => Array(gridSize).fill(0));
+        let sumCounts = {}; // Store counts for sums 2-12
+        let totalRolls = 0;
+        let autoRollInterval = null;
+        let gridCells = []; // To store references to grid cell elements
+        let probColumns = {}; // To store references to probability density columns
+
+        // --- Initialization ---
+        function initialize() {
+            // 1. Initialize Grid Space
+            gridSpaceElement.innerHTML = ''; // Clear previous grid
+            gridCells = [];
+            for (let r = 0; r < gridSize; r++) {
+                gridCells[r] = [];
+                for (let c = 0; c < gridSize; c++) {
+                    const cell = document.createElement('div');
+                    cell.classList.add('grid-cell');
+                    // Store row/col for easier access, adjust to 1-based index for display
+                    cell.dataset.row = r + 1;
+                    cell.dataset.col = c + 1;
+                    cell.textContent = `(${r + 1},${c + 1})`; // Display coordinates
+                    cell.style.color = `rgb(${baseGridColor}, ${baseGridColor}, ${baseGridColor})`;
+                    cell.dataset.count = 0; // Initialize count attribute
+                    gridSpaceElement.appendChild(cell);
+                    gridCells[r][c] = cell; // Store reference
+                }
+            }
+
+            // 2. Initialize Probability Density Chart
+            probDensityElement.innerHTML = ''; // Clear previous bars
+            probColumns = {};
+            for (let sum = 2; sum <= 12; sum++) {
+                const column = document.createElement('div');
+                column.classList.add('bar-column');
+                column.dataset.sum = sum; // Store sum value
+
+                const label = document.createElement('span');
+                label.classList.add('bar-label');
+                label.textContent = sum;
+                column.appendChild(label); // Append label to the column
+
+                probDensityElement.appendChild(column);
+                probColumns[sum] = column; // Store reference
+                sumCounts[sum] = 0; // Initialize sum count
+            }
+
+            // 3. Reset State
+            gridCounts = Array(gridSize).fill(null).map(() => Array(gridSize).fill(0));
+            totalRolls = 0;
+            die1Element.textContent = '?';
+            die2Element.textContent = '?';
+            updateRollCounter();
+
+            console.log("Simulation Initialized.");
+        }
+
+        // --- Core Simulation Logic ---
+        function rollDice() {
+            const roll1 = Math.floor(Math.random() * 6) + 1;
+            const roll2 = Math.floor(Math.random() * 6) + 1;
+            const sum = roll1 + roll2;
+
+            totalRolls++;
+
+            // Update Dice Display
+            die1Element.textContent = roll1;
+            die2Element.textContent = roll2;
+
+            // Update Grid Space
+            updateGridSpace(roll1, roll2);
+
+            // Update Probability Density
+            updateProbDensity(sum);
+
+            // Update Counter
+            updateRollCounter();
+        }
+
+        // --- Update Visualizations ---
+        function updateGridSpace(r, c) {
+            const rowIndex = r - 1;
+            const colIndex = c - 1;
+
+            gridCounts[rowIndex][colIndex]++;
+            const count = gridCounts[rowIndex][colIndex];
+            const cellElement = gridCells[rowIndex][colIndex];
+
+            // Update color: decrease RGB values towards 0 (black)
+            // Intensity step calculation: how much darker per hit
+            const intensityStep = baseGridColor / maxGridHitsForBlack;
+            const newColorValue = Math.max(0, Math.floor(baseGridColor - count * intensityStep));
+            cellElement.style.color = `rgb(${newColorValue}, ${newColorValue}, ${newColorValue})`;
+            cellElement.dataset.count = count; // Update data attribute for potential display
+        }
+
+        function updateProbDensity(sum) {
+            sumCounts[sum]++;
+            const columnElement = probColumns[sum];
+
+            // Add a new dot to the correct column
+            const dot = document.createElement('div');
+            dot.classList.add('dot');
+            columnElement.appendChild(dot); // Appends to the bottom due to flex-direction: column-reverse
+        }
+
+        function updateRollCounter() {
+            rollCounterElement.textContent = `Rolls: ${totalRolls}`;
+        }
+
+        // --- Event Listeners ---
+        rollOnceButton.addEventListener('click', rollDice);
+
+        autoRollButton.addEventListener('click', () => {
+            if (autoRollInterval) {
+                // Stop Auto Rolling
+                clearInterval(autoRollInterval);
+                autoRollInterval = null;
+                autoRollButton.textContent = 'Auto Roll (100ms)';
+                autoRollButton.id = 'auto-roll'; // Reset ID for styling
+                rollOnceButton.disabled = false;
+                console.log("Auto-roll stopped.");
+            } else {
+                // Start Auto Rolling
+                autoRollInterval = setInterval(rollDice, 100); // Roll every 100ms
+                autoRollButton.textContent = 'Stop Auto Roll';
+                autoRollButton.id = 'stop-auto'; // Change ID for styling
+                rollOnceButton.disabled = true; // Disable manual roll during auto
+                 console.log("Auto-roll started.");
+            }
+        });
+
+        // --- Initial Setup ---
+        document.addEventListener('DOMContentLoaded', initialize);
+
+    </script>
+
+</body>
+</html>

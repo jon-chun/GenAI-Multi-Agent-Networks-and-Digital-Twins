@@ -19,6 +19,9 @@
 * (OK freemium as of 3/2025)[OpenAI o3-mini-high with Web](https://chatgpt.com/)
 * (OK freemium as of 3/2025)[Claude Sonnet 3.7](https://claude.ai)
 * (Meh freemium as of 3/2025)[Qwen 2.5 Max with Thinking+Search](https://chat.qwen.ai/)
+* [Kimi.ai](https://kimi.moonshot.cn/)
+* [GenSpark.ai](https://www.genspark.ai/)
+* [Get]()
 
 ## AI Literature Search and Detailed Paper Analysis
 (To drill down into specific papers and do an efficienct and focused crawl over directly relevant research papers, trends, topics and well as explore new ideas, identify research gaps, discover new connections)

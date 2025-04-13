@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attention Head Visualization (Q, K, V) - Steppable</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        #container {
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            max-width: 900px;
+            width: 100%;
+        }
+        #sentence-display {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+            text-align: center;
+            font-size: 1.4em;
+        }
+        .token {
+            display: inline-block;
+            padding: 8px 12px;
+            margin: 0 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #e9ecef;
+            transition: background-color 0.3s ease, transform 0.3s ease, border-color 0.3s ease;
+        }
+        .token.query-token {
+            background-color: #007bff; /* Blue for Query */
+            color: white;
+            border-color: #0056b3;
+            transform: scale(1.1);
+        }
+        #visualization-area {
+            position: relative;
+            height: 350px; /* Adjust height as needed */
+            margin-top: 20px;
+            border: 1px dashed #ccc;
+            padding: 10px;
+            background-color: #fdfdfd;
+        }
+        svg {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+         /* Base colors defined here, JS will modify fill directly */
+        .qkv-rect {
+            transition: fill 0.5s ease; /* Smooth color transitions */
+            rx: 3; /* Rounded corners */
+            ry: 3;
+        }
+        .query-vec-base { fill: #007bff; } /* Blue */
+        .key-vec-base   { fill: #dc3545; } /* Red */
+        .value-vec-base { fill: #28a745; } /* Green */
+        .output-vec-base { fill: #ffc107; } /* Yellow */
+
+        .qkv-label {
+            font-size: 0.8em;
+            font-weight: bold;
+            text-anchor: middle;
+        }
+        .attention-line {
+            stroke: #6c757d; /* Grey */
+            stroke-width: 1;
+            transition: stroke-width 0.5s ease, opacity 0.5s ease, stroke 0.5s ease;
+        }
+         .weighted-value-line {
+            /* Uses attention-line class, color/stroke set via JS */
+         }
+        .attention-weight-text {
+            font-size: 0.7em;
+            fill: #333;
+            text-anchor: middle;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+        #explanation {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e2e3e5;
+            border-radius: 5px;
+            border-left: 5px solid #6c757d;
+            min-height: 60px;
+            font-style: italic;
+        }
+        #controls {
+            text-align: center;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 15px;
+            font-size: 1em;
+            margin: 0 5px; /* Reduced margin */
+            cursor: pointer;
+            background-color: #17a2b8;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.2s ease;
+        }
+        button:hover:not(:disabled) {
+            background-color: #138496;
+        }
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="container">
+        <h1>Self-Attention Head Visualization (Steppable)</h1>
+        <div id="sentence-display">
+            </div>
+
+        <div id="explanation">
+            Welcome! This visualization explains Query (Q), Key (K), and Value (V) interactions. Click 'Start' to initialize for the first token, then use 'Step' to advance. 'Reset' starts over.
+        </div>
+
+        <div id="visualization-area">
+            <svg id="attention-svg"></svg>
+        </div>
+
+        <div id="controls">
+            <button id="start-btn">Start</button>
+            <button id="step-btn" disabled>Step</button>
+            <button id="reset-btn">Reset</button>
+        </div>
+
+        <h2>How it Works (Conceptual)</h2>
+        <p>In a Transformer's self-attention mechanism, each input token generates three vectors: a Query (Q), a Key (K), and a Value (V). This happens for every token independently using learned weight matrices (Wq, Wk, Wv).</p>
+        <ol>
+            <li><strong>Query (Q):</strong> Represents the current token asking, "What information is relevant to me?".</li>
+            <li><strong>Key (K):</strong> Represents what information each token *offers* or signifies.</li>
+            <li><strong>Dot Product (Q · K):</strong> The Query of the current token is compared (via dot product) with the Key of *every* token (including itself). A high dot product means the Key token is potentially relevant to the Query token.</li>
+            <li><strong>Scale:</strong> The dot products are scaled down (usually by the square root of the Key vector dimension, √d<sub>k</sub>) to stabilize gradients during training. (Not explicitly animated here for simplicity).</li>
+            <li><strong>Softmax:</strong> The scaled scores are passed through a softmax function. This turns the scores into positive values that sum to 1, representing the "attention weights". A higher weight means the Query token pays more attention to that Key/Value token.</li>
+            <li><strong>Value (V):</strong> Represents the actual content or meaning of each token that should be passed on if attended to.</li>
+            <li><strong>Weighted Sum:</strong> The attention weights are multiplied by the corresponding Value vectors. These weighted Value vectors are then summed up to produce the final output vector for the Query token. This output vector is a context-aware representation of the original token. <strong>Notice how K and V vectors become darker/more saturated when they receive higher attention weights.</strong></li>
+        </ol>
+        <p>This process is repeated for every token in the sequence, allowing each token to gather information from other relevant tokens based on the learned Q, K, V transformations.</p>
+         <p><strong>Example Focus: "bank"</strong>. Notice how the attention weights change depending on the context. When processing "bank", its Query will likely find a stronger match (higher dot product) with the Key for "fish", resulting in higher attention weight on "fish". This helps the model understand "bank" as a river bank in this context.</p>
+    </div>
+
+    <script>
+        const sentence = "I went down to the bank to fish".split(" ");
+        const svg = document.getElementById('attention-svg');
+        const sentenceDisplay = document.getElementById('sentence-display');
+        const explanationDiv = document.getElementById('explanation');
+        const startBtn = document.getElementById('start-btn');
+        const stepBtn = document.getElementById('step-btn');
+        const resetBtn = document.getElementById('reset-btn');
+        const svgNS = "http://www.w3.org/2000/svg";
+
+        let tokenElements = [];
+        let svgElements = { tokens: [], lines: [], weights: [], qkv: [], output: null };
+        let currentAttentionWeights = [];
+
+        // State management
+        let state = {
+            queryIndex: -1, // Start before the first token
+            step: 'INITIAL', // INITIAL, QUERY, QK, SOFTMAX, WEIGHT_SUM, OUTPUT, DONE
+            isRunning: false
+        };
+
+        const VEC_WIDTH = 15;
+        const VEC_HEIGHT = 40;
+        const TOKEN_Y_POS = 50;
+        const Q_Y_POS = 120;
+        const K_Y_POS = 180;
+        const V_Y_POS = 240;
+        const OUTPUT_Y_POS = 310;
+
+        // Base HSL colors for easier manipulation
+        const BASE_COLORS_HSL = {
+            Q: { h: 211, s: 100, l: 50 }, // hsl(211, 100%, 50%) approx #007bff
+            K: { h: 354, s: 70, l: 53 },  // hsl(354, 70%, 53%) approx #dc3545
+            V: { h: 145, s: 63, l: 40 },  // hsl(145, 63%, 40%) approx #28a745
+            Output: { h: 45, s: 100, l: 51 } // hsl(45, 100%, 51%) approx #ffc107
+        };
+
+        // Simplified, pre-defined attention weights for demonstration
+        const predefinedAttention = {
+            5: { // Query: 'bank'
+                0: 0.05, 1: 0.05, 2: 0.10, 3: 0.05, 4: 0.05, 5: 0.15, 6: 0.10, 7: 0.45 // fish HIGHEST
+            }
+            // Add other indices if needed, otherwise use uniform
+        };
+
+        function calculateAttentionWeights(queryIndex) {
+             if (predefinedAttention[queryIndex]) {
+                 // Use predefined weights if available
+                 return sentence.map((_, k_idx) => predefinedAttention[queryIndex][k_idx] || 0);
+             } else {
+                 // Default: uniform attention with slightly higher self-attention
+                 const selfWeight = 0.2;
+                 const otherWeight = sentence.length > 1 ? (1.0 - selfWeight) / (sentence.length - 1) : 1.0;
+                 return sentence.map((_, i) => (i === queryIndex ? selfWeight : otherWeight));
+             }
+        }
+
+        // Function to adjust HSL color based on weight (0 to 1)
+        function calculateColorHSL(baseHSL, weight) {
+            const minLightness = 85; // Lightest color (for weight 0)
+            const minSaturation = 20; // Least saturated color (for weight 0)
+
+            // Interpolate lightness: higher weight -> closer to base lightness
+            const newLightness = minLightness - weight * (minLightness - baseHSL.l);
+            // Interpolate saturation: higher weight -> closer to base saturation
+            const newSaturation = minSaturation + weight * (baseHSL.s - minSaturation);
+
+            return `hsl(${baseHSL.h}, ${Math.max(0, Math.min(100, newSaturation))}%, ${Math.max(0, Math.min(100, newLightness))}%)`;
+        }
+
+        function createSVGRect(x, y, width, height, baseClass, label = null, labelXOffset = 0, labelYOffset = 0) {
+            const group = document.createElementNS(svgNS, 'g');
+            const rect = document.createElementNS(svgNS, 'rect');
+            rect.setAttribute('x', x);
+            rect.setAttribute('y', y);
+            rect.setAttribute('width', width);
+            rect.setAttribute('height', height);
+            rect.setAttribute('class', `qkv-rect ${baseClass}`); // Add qkv-rect for transition
+            group.appendChild(rect);
+
+            if (label) {
+                const text = document.createElementNS(svgNS, 'text');
+                text.setAttribute('x', x + width / 2 + labelXOffset);
+                text.setAttribute('y', y + height + 15 + labelYOffset); // Below rect
+                text.setAttribute('class', 'qkv-label');
+                text.textContent = label;
+                group.appendChild(text);
+            }
+            return group;
+        }
+
+        function createSVGLine(x1, y1, x2, y2, className) {
+            const line = document.createElementNS(svgNS, 'line');
+            line.setAttribute('x1', x1);
+            line.setAttribute('y1', y1);
+            line.setAttribute('x2', x2);
+            line.setAttribute('y2', y2);
+            line.setAttribute('class', className);
+            line.style.opacity = 0; // Start invisible
+            return line;
+        }
+
+         function createSVGText(x, y, content, className) {
+            const text = document.createElementNS(svgNS, 'text');
+            text.setAttribute('x', x);
+            text.setAttribute('y', y);
+            text.setAttribute('class', className);
+            text.textContent = content;
+            return text;
+        }
+
+
+        function setupScene() {
+            // Clear previous elements
+            sentenceDisplay.innerHTML = '';
+            svg.innerHTML = '';
+            tokenElements = [];
+            currentAttentionWeights = [];
+            svgElements = { tokens: [], lines: [], weights: [], qkv: [], output: null };
+
+            // Reset state
+            state = { queryIndex: -1, step: 'INITIAL', isRunning: false };
+
+            // Reset buttons
+            startBtn.disabled = false;
+            stepBtn.disabled = true;
+
+            // Display sentence tokens
+            sentence.forEach((word, index) => {
+                const span = document.createElement('span');
+                span.textContent = word;
+                span.classList.add('token');
+                span.dataset.index = index;
+                sentenceDisplay.appendChild(span);
+                tokenElements.push(span);
+            });
+
+            // Get SVG dimensions
+            const svgWidth = svg.getBoundingClientRect().width;
+            const tokenSpacing = svgWidth / (sentence.length + 1);
+
+            // Create SVG representations (initially neutral)
+            sentence.forEach((word, index) => {
+                const tokenX = tokenSpacing * (index + 1);
+
+                // Q, K, V placeholders
+                const qGroup = createSVGRect(tokenX - VEC_WIDTH/2, Q_Y_POS, VEC_WIDTH, VEC_HEIGHT, 'query-vec-base', 'Q');
+                const kGroup = createSVGRect(tokenX - VEC_WIDTH/2, K_Y_POS, VEC_WIDTH, VEC_HEIGHT, 'key-vec-base', 'K');
+                const vGroup = createSVGRect(tokenX - VEC_WIDTH/2, V_Y_POS, VEC_WIDTH, VEC_HEIGHT, 'value-vec-base', 'V');
+                qGroup.style.opacity = 0.3;
+                kGroup.style.opacity = 0.3;
+                vGroup.style.opacity = 0.3;
+                svg.appendChild(qGroup);
+                svg.appendChild(kGroup);
+                svg.appendChild(vGroup);
+                 // Store references to the actual <rect> elements for color changes
+                svgElements.qkv.push({
+                    q: qGroup.querySelector('rect'),
+                    k: kGroup.querySelector('rect'),
+                    v: vGroup.querySelector('rect'),
+                    x: tokenX
+                });
+
+                // Attention lines (Q to K) - initially hidden
+                const line = createSVGLine(0, 0, 0, 0, 'attention-line'); // Coordinates set later
+                svg.appendChild(line);
+                svgElements.lines.push(line);
+
+                // Attention weight text (above K) - initially hidden
+                const weightText = createSVGText(tokenX, K_Y_POS - 5, '', 'attention-weight-text');
+                svg.appendChild(weightText);
+                svgElements.weights.push(weightText);
+            });
+
+            // Output vector placeholder
+            svgElements.outputGroup = createSVGRect(svgWidth / 2 - 20, OUTPUT_Y_POS, 40, VEC_HEIGHT, 'output-vec-base', 'Output');
+            svgElements.outputGroup.style.opacity = 0;
+            svgElements.output = svgElements.outputGroup.querySelector('rect'); // Reference to rect
+            svg.appendChild(svgElements.outputGroup);
+
+             setExplanation("Scene initialized. Click 'Start' to setup for the first token, then use 'Step'.");
+        }
+
+        function setExplanation(text) {
+            explanationDiv.innerHTML = text;
+        }
+
+        function resetVisualsForNewQuery() {
+             tokenElements.forEach(t => t.classList.remove('query-token'));
+             svgElements.qkv.forEach((el, idx) => {
+                 el.q.style.opacity = 0.3;
+                 el.k.style.opacity = 0.3;
+                 el.v.style.opacity = 0.3;
+                 // Reset colors to base
+                 el.k.style.fill = `hsl(${BASE_COLORS_HSL.K.h}, ${BASE_COLORS_HSL.K.s}%, ${BASE_COLORS_HSL.K.l}%)`;
+                 el.v.style.fill = `hsl(${BASE_COLORS_HSL.V.h}, ${BASE_COLORS_HSL.V.s}%, ${BASE_COLORS_HSL.V.l}%)`;
+             });
+             svgElements.lines.forEach(l => {
+                l.style.opacity = 0;
+                l.style.strokeWidth = 1;
+                l.style.stroke = '#6c757d'; // Reset to grey
+             });
+             svgElements.weights.forEach(t => t.style.opacity = 0);
+             if (svgElements.outputGroup) svgElements.outputGroup.style.opacity = 0;
+        }
+
+        function runStep() {
+            if (!state.isRunning) return; // Only run if started
+
+            const qIndex = state.queryIndex;
+
+             // Reset visuals if starting a new token
+             if (state.step === 'QUERY') {
+                 resetVisualsForNewQuery();
+             }
+
+             const queryTokenElement = tokenElements[qIndex];
+             const querySvgPos = svgElements.qkv[qIndex].x;
+             const queryQElement = svgElements.qkv[qIndex].q;
+
+            switch(state.step) {
+                case 'QUERY':
+                    // --- Step 1: Highlight Query Token ---
+                    queryTokenElement.classList.add('query-token');
+                    queryQElement.style.opacity = 1;
+                    setExplanation(`[Step 1/5] Processing token: <strong>${sentence[qIndex]}</strong> (Index ${qIndex}). Its <strong>Query (Q)</strong> vector is generated. Click 'Step' for Q-K interaction.`);
+                    state.step = 'QK';
+                    break;
+
+                case 'QK':
+                    // --- Step 2: Show Keys and Q-K Interaction ---
+                     setExplanation(`[Step 2/5] The Query (Q) of '${sentence[qIndex]}' interacts with the <strong>Key (K)</strong> of every token (dot product Q·K). Lines show potential relevance. Click 'Step' for Softmax.`);
+                     svgElements.qkv.forEach((el, k_idx) => {
+                         el.k.style.opacity = 1; // Highlight all Keys
+                         const keySvgPos = el.x;
+                         const line = svgElements.lines[k_idx];
+                         line.setAttribute('x1', querySvgPos);
+                         line.setAttribute('y1', Q_Y_POS + VEC_HEIGHT); // Bottom of Q
+                         line.setAttribute('x2', keySvgPos);
+                         line.setAttribute('y2', K_Y_POS); // Top of K
+                         line.style.opacity = 0.5; // Show interaction lines (neutral width)
+                         line.style.strokeWidth = 1.5;
+                         line.style.stroke = '#6c757d'; // Ensure grey color
+                     });
+                     state.step = 'SOFTMAX';
+                    break;
+
+                case 'SOFTMAX':
+                    // --- Step 3: Calculate Softmax (Attention Weights) & Apply Color ---
+                    currentAttentionWeights = calculateAttentionWeights(qIndex);
+
+                    let explanationText = `[Step 3/5] Raw scores are scaled & passed through <strong>Softmax</strong> to get attention weights (sum to 1). Higher weight = thicker line & darker/saturated K color. Click 'Step' to Weight Values.`;
+                      if (qIndex === 5) { // Special case for 'bank'
+                          explanationText += `<br><em>Notice: '${sentence[qIndex]}' attends strongly to '${sentence[7]}' (weight ≈ ${currentAttentionWeights[7].toFixed(2)}), suggesting river bank context.</em>`;
+                      }
+                     setExplanation(explanationText);
+
+                    svgElements.lines.forEach((line, k_idx) => {
+                         const weight = currentAttentionWeights[k_idx];
+                         line.style.strokeWidth = 1 + weight * 5; // Thicker line for higher weight
+                         line.style.opacity = 0.2 + weight * 0.8; // More opaque for higher weight
+
+                         // Display weight value
+                         const weightText = svgElements.weights[k_idx];
+                         weightText.textContent = weight.toFixed(2);
+                         weightText.style.opacity = 1;
+
+                         // --- Apply Color Intensity ---
+                         const keyElement = svgElements.qkv[k_idx].k;
+                         keyElement.style.fill = calculateColorHSL(BASE_COLORS_HSL.K, weight);
+                     });
+                    state.step = 'WEIGHT_SUM';
+                    break;
+
+                 case 'WEIGHT_SUM':
+                     // --- Step 4: Weight and Sum Values & Apply Color ---
+                      setExplanation(`[Step 4/5] Weights multiply corresponding <strong>Value (V)</strong> vectors. Lines show weighted V contributions. Notice V color intensity matches weights. Click 'Step' for Output.`);
+                      svgElements.qkv.forEach((el, v_idx) => {
+                        el.v.style.opacity = 1; // Highlight all Value vectors
+                        const weight = currentAttentionWeights[v_idx];
+                         // --- Apply Color Intensity to V ---
+                        el.v.style.fill = calculateColorHSL(BASE_COLORS_HSL.V, weight);
+                      });
+
+                      // Animate contribution lines from V to Output (conceptual)
+                      svgElements.lines.forEach((line, v_idx) => {
+                           // Reuse lines, change color/position to show V contribution
+                           const valueSvgPos = svgElements.qkv[v_idx].x;
+                           line.setAttribute('x1', valueSvgPos);
+                           line.setAttribute('y1', V_Y_POS + VEC_HEIGHT); // Bottom of V
+                           line.setAttribute('x2', svg.getBoundingClientRect().width / 2); // Center point for output
+                           line.setAttribute('y2', OUTPUT_Y_POS); // Top of Output vec
+                           line.style.stroke = '#28a745'; // Green like Value
+                           line.style.strokeWidth = 1 + currentAttentionWeights[v_idx] * 5;
+                           line.style.opacity = 0.1 + currentAttentionWeights[v_idx] * 0.7;
+                      });
+                     state.step = 'OUTPUT';
+                     break;
+
+                 case 'OUTPUT':
+                     // --- Step 5: Show Final Output Vector ---
+                      setExplanation(`[Step 5/5] Weighted Values sum to the final context-aware <strong>Output Vector</strong> for '${sentence[qIndex]}'. Click 'Step' to process the next token.`);
+                      svgElements.outputGroup.style.opacity = 1; // Show the output vector
+                      svgElements.output.style.fill = `hsl(${BASE_COLORS_HSL.Output.h}, ${BASE_COLORS_HSL.Output.s}%, ${BASE_COLORS_HSL.Output.l}%)`; // Set base color
+
+                      // Optionally fade out the contribution lines after showing output
+                      // svgElements.lines.forEach(l => l.style.opacity = 0);
+
+                      // Prepare for next token
+                      state.queryIndex++;
+                      if (state.queryIndex < sentence.length) {
+                          state.step = 'QUERY'; // Ready for next token's query step
+                      } else {
+                          state.step = 'DONE'; // All tokens processed
+                          setExplanation(`All tokens processed! The output vector for each token incorporates context. Click 'Reset' to start over.`);
+                          stepBtn.disabled = true; // Disable step when done
+                          state.isRunning = false;
+                      }
+                     break;
+
+                case 'DONE':
+                     // Should not happen if button is disabled, but good practice
+                     console.log("Animation finished.");
+                     state.isRunning = false;
+                     stepBtn.disabled = true;
+                     break;
+
+                 case 'INITIAL':
+                 default:
+                     // Should not happen during normal step flow
+                     console.error("Invalid state reached:", state.step);
+                     state.step = 'QUERY'; // Attempt recovery
+                     break;
+            }
+        }
+
+        // --- Event Listeners ---
+        startBtn.addEventListener('click', () => {
+            setupScene(); // Reset scene completely
+            state.isRunning = true;
+            state.queryIndex = 0; // Start with first token
+            state.step = 'QUERY'; // Set initial step for the first token
+            runStep(); // Execute the first step (Show Query)
+            startBtn.disabled = true;
+            stepBtn.disabled = false; // Enable stepping
+        });
+
+        stepBtn.addEventListener('click', () => {
+            if (state.isRunning && state.step !== 'DONE') {
+                runStep(); // Execute the next step based on current state
+            }
+        });
+
+        resetBtn.addEventListener('click', () => {
+            setupScene();
+             setExplanation("Scene reset. Click 'Start' to initialize, then use 'Step'.");
+        });
+
+        // --- Initial Setup ---
+        window.addEventListener('load', setupScene);
+        window.addEventListener('resize', () => { // Debounce resize setup if needed
+            setupScene();
+            setExplanation("Resized. Scene reset. Click 'Start' to initialize, then use 'Step'.");
+        });
+
+    </script>
+
+</body>
+</html>
