@@ -69,6 +69,10 @@
 * [Kaggle](https://kaggle.com)
 * [Zenodo](https://zenodo.org/)
 
+# Books
+
+* [Gutenberg.org]()
+* [LibGen Alts](https://www.pdfagile.com/blog/10-best-alternatives-to-libgen)
 ## OSINT
 
 * [jivoi/Awesome OSINT](https://github.com/jivoi/awesome-osint)
@@ -84,11 +88,25 @@
 
 * [ExportComments.com](https://exportcomments.com/pricing)
 
-## Specialized  Scraping Repos
 
+## Scraping Libraries
+
+* [Scraping Seminar 202504](https://github.com/simonw/nicar-2025-scraping)
+* [Scraping Overview 20250208](https://substack.thewebscraping.club/p/browser-automation-landscape-2025)
+* [Playwright]()
+  * [Playwright Tutorial 20250224](https://wanago.io/2025/02/24/web-scraping-playwright/)
+* [botasaurus](https://github.com/omkarcloud/botasaurus/tree/master/botasaurus_humancursor)
+  * [Google Map Scraper](https://github.com/omkarcloud/google-maps-scraper/)
+  * [Botasaurus Starter](https://github.com/omkarcloud/botasaurus-starter)
+  * [Stabler Tutorial 20240604](https://stabler.tech/blog/botasaurus-tutorial-for-easy-webscraping)]
+  * [Zenrows Tutorial 20240422](https://www.zenrows.com/blog/botasaurus#tutorial)
+
+## Specialized Scraping Repos
+
+* [](https://github.com/simonw/nicar-2025-scraping)
 * [BBC Pidgeon (Africa)](https://github.com/keleog/bbc_pidgin_scraper)
 
-## SCRAPING
+## Scraping
 
 | | Firecrawl.dev | Reader API (jina.ai) | ScrapeGraphAI | |---------|:-------------:|:--------------------:|:-------------:| | Efficient Data Extraction | ✓ | ✓ | ✓ | | PDF Support | ✗ | ✓ | ✗ | | Image Reading | ✗ | ✓ | ✗ | | Real-Time Extraction | ✓ | ✗ | ✗ | | Free Tier | ✗ | ✓ | ✗ | | Audio File Generation | ✗ | ✗ | ✓ | | Highly Customizable | ✗ | ✗ | ✓ | | Graph Builder Tool | ✗ | ✗ | ✓ |
 
@@ -192,13 +210,9 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 * [Production ML Pipelines](https://github.com/EthicalML/awesome-production-machine-learning#data-stream-processing)
 
 ### Augmented Data
-
-<<<<<<< HEAD
 * [Meta AugLy](https://github.com/facebookresearch/AugLy)
-=======
 * [Distilable](https://github.com/argilla-io/distilabel)
 * [Synthetic-data-generator](https://huggingface.co/blog/synthetic-data-generator)
->>>>>>> e1a90f5e993cbd9902a00d1430bd1bc8b3749dcc
 * [Augmentoolkit Github](https://github.com/e-p-armstrong/augmentoolkit)
   * [Convert Any Raw Text Into LLM Dataset Locally - Augmentoolkit (8:25) (Mar 2024)](https://www.youtube.com/watch?v=cdqIeNCj_eA)
     * [Create a Custom Dataset in 3 Minutes - Augmentoolkit Demo (2:56) (2 Aug 2024)](https://www.youtube.com/watch?v=m32fM8S_DeY)
