@@ -3,6 +3,22 @@
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
 
+## Awesome RAG
+
+* [Danielskry/Awesome-RAG?tab=readme-ov-file#-approaches](https://github.com/Danielskry/Awesome-RAG?tab=readme-ov-file#-approaches)
+* [liunian-Jay/Awesome-RAG](https://github.com/liunian-Jay/Awesome-RAG)
+* [YHPeter/Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation)
+* [SJTU-DMTai/awesome-rag](https://github.com/SJTU-DMTai/awesome-rag)
+* [noworneverev/Awesome-RAG](https://github.com/noworneverev/Awesome-RAG)
+* [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+* [frutik/Awesome-RAG](https://github.com/frutik/Awesome-RAG)
+* [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/agentic_rag_101.md)
+* [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
+
+## Ranking and Reranking
+
+* [From RankNet to LambdaRank to LambdaMART: An Overview](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
+
 ## RAG with Citations
 
 Several GitHub repositories and code samples demonstrate how to create a RAG (Retrieval Augmented Generation) system with URL citations. Here are some notable examples:
