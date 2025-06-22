@@ -6,6 +6,7 @@
 
 ## MCP Official
 
+* [MCP Docs](https://modelcontextprotocol.io/introduction)
 * [MCP Repo](https://github.com/modelcontextprotocol/servers)
   * [Github](https://github.com/modelcontextprotocol/python-sdk)
 
@@ -45,3 +46,20 @@ You are a highly efficient AI automationi assistant, capable of dynamically inte
 
 * [MCP Playwright](https://executeautomation.github.io/mcp-playwright/)
 * [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+
+## MCP for Noobs
+
+* (History: Why) [99% of Developers Don't Get MCP (11:25) (May 2025)](https://www.youtube.com/watch?v=rCBSQxQr9Xg)
+* (Simple Overview: How) [Why MCP Saves 90% of Your Manual AI Work | Model Context Protocol Explained (14:56) (13 June 2025)](https://www.youtube.com/watch?v=xBcSLxpIlr0)
+  * [MCP Github](https://github.com/modelcontextprotocol/servers)
+  * [MCP Market](https://mcpmarket.com/)
+  * [Awesome MCP Servers](https://mcpservers.org/)
+  * [MCP.so](https://mcp.so/)
+* (MVP: How) [MCP 101 for Non-Developers (8:06) (May 2025)](https://www.youtube.com/watch?v=dTyGJJSOTJs)
+* (MCP Security) [The "S" in MCP Stands for Security (6 Apr 2025)](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
+
+## MCP Alternatives
+
+* [A Survey of AI Agent Protocols (26 Apr 2025)](https://arxiv.org/abs/2504.16736)
+* [Agent2Agent (A2S) Protocol](gootle-a2a.github.io/A2A/latest/)
+* [agents.json](docs.wild-card.ai/agentsjson/introduction)
