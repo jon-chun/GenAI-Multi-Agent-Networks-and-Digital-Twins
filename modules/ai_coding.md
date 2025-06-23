@@ -32,6 +32,10 @@
 * [o1-eng](https://github.com/Doriandarko/o1-engineer/blob/main/o1-eng.py)
 * []()
 
+## Claude Code
+
+* Cursor with Claude Code [The Case for Claude Code (26:46) (23 Jun 2025)](https://www.youtube.com/watch?v=aHTXccrfXC8)
+
 ## Coding Copilots
 
 * [Full Stack App Build Claude 3.7 & Cursor AI (25:30) (25 Feb 2025)](https://www.youtube.com/watch?v=k0kBylMwlbA)
