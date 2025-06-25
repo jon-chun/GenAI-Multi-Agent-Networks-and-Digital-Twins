@@ -1,5 +1,18 @@
 # RESEARCH
 
+## Automated Research (Agents)
+
+* [#2 LearningCircuit/local-deep-research (2.2k) (23 Apr 2025)](https://github.com/LearningCircuit/local-deep-research)
+* [#1 Pop: assafelovic/gpt-researcher (21.1k) (19 Apr 2025)](https://github.com/assafelovic/gpt-researcher)
+* [#1 FOSS: HKUDS/Auto-Deep-Research (917) (Apr 2025)](https://github.com/HKUDS/Auto-Deep-Research)
+* [#2 Pop: dzhng/deep-research (15.7k) (Apr 2025)](https://github.com/dzhng/deep-research)
+* [virattt/ai-financial-agent (845) (Apr 2025)](https://github.com/virattt/ai-financial-agent)
+* [AnotiaWang/deep-research-web-ui (1.8k) (Apr 2025)](https://github.com/AnotiaWang/deep-research-web-ui)
+* [Zotero AIRA (1.3k) (Apr 2025)](https://github.com/lifan0127/ai-research-assistant)
+* [HKUDS/AI-Researcher (1.5k) (Apr 2025)](https://github.com/HKUDS/AI-Researcher)
+* [btahir/open-deep-research (1.8k) (Mar 2025)](https://github.com/btahir/open-deep-research)
+* [TheBlewish/Automated-AI-Web-Researcher-Ollama (2.8k) (Dec 2024)](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
+
 ## AI Research Papers and Preprints:
 (To find and read specific papers)
 

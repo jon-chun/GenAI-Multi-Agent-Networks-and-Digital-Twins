@@ -10,6 +10,7 @@
 ## Awesome Courses
 
 * [AI-Bites Learn-AI](https://github.com/ai-bites/learn-ai)
+* [Background: imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)
 
 ## Blog
 

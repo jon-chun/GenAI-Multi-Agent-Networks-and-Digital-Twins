@@ -89,6 +89,11 @@
 
 * [HF ASR](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 
+### OCR
+
+* [Huggingface.co TTS-Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
+* [VoiceWriter](https://voicewriter.io/speech-recognition-leaderboard)
+
 ### Vision
 
 * [OpenCompass](https://rank.opencompass.org.cn/home)

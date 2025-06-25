@@ -103,3 +103,13 @@
 
 * [Reasoning with Large Language Models, a Survey by Aske Plaat et al. (17 Jul 2024)](https://arxiv.org/pdf/2407.11511v1)
 
+### Reasoning Traces
+
+#### Background Reading
+
+* [Github: Awesome Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
+* [Anthropic: Attribution Graphs](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
+
+#### Tools
+
+* [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners)

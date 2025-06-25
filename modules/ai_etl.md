@@ -6,7 +6,8 @@
 
 ## Document Processing
 
-* [](https://www.youtube.com/watch?v=FN6U5D7ZsLA&t=344s)
+* [Docling](https://github.com/docling-project/docling)
+* [Document-Reading Agents with Read-Write Memory (42:54) (Apr 2025)](https://www.youtube.com/watch?v=FN6U5D7ZsLA&t=344s)
   
 ## EPub and Other Doc Formats
 

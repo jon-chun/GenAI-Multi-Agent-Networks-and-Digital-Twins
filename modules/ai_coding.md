@@ -81,6 +81,10 @@
 
 ## Demo Code
 
+## Foundational Papers
+
+* [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
+
 * [LangChain](https://www.youtube.com/@LangChain)
 * [LlamaIndex](https://www.youtube.com/@LlamaIndex/videos)
 * [Florenz23: AI Agent YT Videos](https://github.com/Florenz23/ai-agent-videos/tree/master/youtube_automation)
