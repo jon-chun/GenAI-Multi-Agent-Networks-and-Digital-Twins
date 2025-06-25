@@ -32,6 +32,7 @@
 
 ### Reasoning Models
 
+* [WebThinker (30 Apr 2025)](https://arxiv.org/abs/2504.21776)
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL (28 Jan 2025)](https://news.ycombinator.com/item?id=42823568) HNews Deepseek
 * [Llama on Groq with O1-like reasoning](https://github.com/bklieger-groq/g1)
 * [Llama O1](https://github.com/SimpleBerry/LLaMA-O1)

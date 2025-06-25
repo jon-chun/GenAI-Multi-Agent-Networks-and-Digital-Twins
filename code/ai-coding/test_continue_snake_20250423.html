@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tetris Game</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+        
+        canvas {
+            border: 2px solid #333;
+            background-color: #fff;
+        }
+
+        .score {
+            margin-top: 20px;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tetris</h1>
+    <div class="score">Score: <span id="score">0</span></div>
+    <canvas id="gameCanvas" width="240" height="400"></canvas>
+
+    <script>
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const scoreElement = document.getElementById('score');
+
+        // Game constants
+        const BOARD_WIDTH = 8;
+        const BOARD_HEIGHT = 16;
+        const PLAYER_SPEED = 3;
+
+        // Initialize the grid (board)
+        let board = Array(BOARD_HEIGHT).fill().map(() => Array(BOARD_WIDTH).fill(0));
+
+        // Player object
+        let player = {
+            pos: {x: 0, y: 0},
+            matrix: [[1, 1], [1, 1]], // Tetromino shape
+            score: 0,
+        };
+
+        // Colors for different tetromino shapes
+        const COLORS = {
+            T: '#00f0f0',
+            L: '#f0a0f0',
+            J: '#f000f0',
+            O: '#0000ff',
+            S: '#00ffff',
+            Z: '#ff0000',
+            I: '#fff000'
+        };
+
+        // Rotation matrix
+        function rotate(matrix, angle) {
+            const rot = [[Math.cos(angle), Math.sin(angle)], 
+                        [-Math.sin(angle), Math.cos(angle)]];
+            
+            let newMatrix = [];
+            for (let i = 0; i < matrix.length; i++) {
+                let row = [];
+                for (let j = 0; j < matrix[i].length; j++) {
+                    row.push(rot.map(r => r[i]).reduce((a, b) => a + b));
+                }
+                newMatrix.push(row);
+            }
+            
+            return newMatrix;
+        }
+
+        // Draw the board
+        function draw() {
+            // Clear canvas
+            ctx.fillStyle = '#fff';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Draw board
+            for (let y = 0; y < BOARD_HEIGHT; y++) {
+                for (let x = 0; x < BOARD_WIDTH; x++) {
+                    if (board[y][x]) {
+                        ctx.fillStyle = '#000';
+                        ctx.fillRect(x * (canvas.width / BOARD_WIDTH), 
+                                    y * (canvas.height / BOARD_HEIGHT), 
+                                    canvas.width / BOARD_WIDTH - 1,
+                                    canvas.height / BOARD_HEIGHT - 1);
+                    }
+                }
+            }
+
+            // Draw player
+            ctx.fillStyle = COLORS[player.matrix];
+            player.matrix.forEach((row, y) => {
+                row.forEach((value, x) => {
+                    if (value) {
+                        ctx.fillRect(
+                            (player.pos.x + x) * (canvas.width / BOARD_WIDTH),
+                            (player.pos.y + y) * (canvas.height / BOARD_HEIGHT),
+                            canvas.width / BOARD_WIDTH - 1,
+                            canvas.height / BOARD_HEIGHT - 1
+                        );
+                    }
+                });
+            });
+
+            // Update score
+            scoreElement.textContent = player.score;
+        }
+
+        function isCollision(player, matrix, offsetX = 0, offsetY = 0) {
+            for (let y = 0; y < matrix.length; y++) {
+                for (let x = 0; x < matrix[y].length; x++) {
+                    if (matrix[y][x]) {
+                        let newX = player.pos.x + x + offsetX;
+                        let newY = player.pos.y + y + offsetY;
+
+                        // Check bottom
+                        if (newY >= BOARD_HEIGHT) return true;
+
+                        // Check left and right
+                        if (newX < 0 || newX >= BOARD_WIDTH) return true;
+
+                        // Check below blocks
+                        if (newY >= 0 && board[newY][newX]) return true;
+                    }
+                }
+            }
+
+            return false;
+        }
+
+        function merge(player, matrix) {
+            player.pos.x += matrix[0].indexOf(1);
+            player.pos.y += -(matrix.length - 1);
+
+            for (let y = 0; y < matrix.length; y++) {
+                for (let x = 0; x < matrix[y].length; x++) {
+                    if (matrix[y][x]) {
+                        board[y + player.pos.y][x + player.pos.x] = 1;
+                    }
+                }
+            }
+
+            let rowCount = 0, colCount = 0;
+
+            // Count filled rows
+            for (let row of board) {
+                if (row.indexOf(1) === -1) {
+                    rowCount++;
+                    board.splice(rowIndex, 1);
+                    board.unshift(Array(BOARD_WIDTH).fill(0));
+                }
+            }
+
+            while (rowCount > 0 && player.matrix[0].indexOf(1) === -1) {
+                player.score += 100;
+                
+                for (let row of board) {
+                    if (row.indexOf(1) === -1) {
+                        rowCount--;
+                        board.splice(rowIndex, 1);
+                        board.unshift(Array(BOARD_WIDTH).fill(0));
+                    }
+                }
+
+                player.matrix = player.matrix.slice(1);
+            }
+        }
+
+        function playerDrop() {
+            player.pos.y++;
+            
+            if (isCollision(player, player.matrix)) {
+                player.pos.y--;
+                merge(player, player.matrix);
+                
+                // Check if new piece is at top
+                if (player.matrix.length === 0) {
+                    player.matrix = [
+                        [1, 1],
+                        [1, 1]
+                    ];
+                    player.pos.y = -1;
+                    
+                    // Increase speed with score
+                    if (scoreElement.textContent.trim() > '0') {
+                        player.speed = Math.max(PLAYER_SPEED / 2, 1);
+                    }
+                }
+            }
+        }
+
+        function gameLoop(time = 0) {
+            if (!player.matrix) {
+                player.matrix = [
+                    [1, 1],
+                    [1, 1]
+                ];
+            }
+
+            const deltaTime = Date.now() - time;
+            
+            // Update speed
+            player.speed = Math.max(1, PLAYER_SPEED / (scoreElement.textContent.trim() / 5));
+
+            requestAnimationFrame(gameLoop);
+        }
+
+        document.addEventListener('keydown', event => {
+            switch(event.keyCode) {
+                case 37: // Left arrow
+                    if (!isCollision(player, [[0, 1], [0, 1]])) player.pos.x--;
+                    break;
+                case 39: // Right arrow
+                    if (!isCollision(player, [[1, 0], [1, 0]])) player.pos.x++;
+                    break;
+                case 40: // Down arrow
+                    playerDrop();
+                    break;
+                case 87: // Up arrow (rotate)
+                    const rotated = rotate(player.matrix, Math.PI / 2);
+                    
+                    if (!isCollision(player, rotated, -1)) {
+                        player.matrix = rotated;
+                    }
+                    break;
+            }
+        });
+
+        // Add game loop
+        setInterval(gameLoop, 1000);
+
+        draw();
+    </script>
+</body>
+</html>

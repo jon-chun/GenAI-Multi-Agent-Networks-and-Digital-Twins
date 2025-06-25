@@ -54,6 +54,15 @@ Rallly
     * [Github Discussions](https://github.com/orgs/community/discussions)
   * Replt
   
+
+## Utilities
+
+* tree
+* uv
+* pipreqs
+
+## Multimedia Files
+
 ## Cloud Services
 
 * MLOps Local/Cloud Private LLMs

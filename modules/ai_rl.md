@@ -8,6 +8,50 @@
 * [FireWorks.ai](https://fireworks.ai/blog/fine-tuning-deepseek-models)
 
 
+# AI Research Resources: Papers, Repositories, and Websites (June 2025)
+* [The Moment Every AI Lab Dreaded Has Arrived! (23 June 2025)](https://www.youtube.com/watch?v=JtKf6dcT8hg)
+
+## 1. Richard Sutton's "The Bitter Lesson" (2019)
+
+- **Original Essay**: [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- **Key Concept**: Computational scale ultimately wins over specialized engineering approaches in AI development
+- **Impact**: Foundational perspective on AI scaling that continues to shape current research directions and debates
+
+## 2. Microsoft's Reinforcement Pre-Training (RPT)
+
+- **Paper**: [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) (June 2025)
+- **Authors**: Qingxiu Dong, Li Dong, et al.
+- **Key Innovation**: Reframes next-token prediction as a reasoning task trained using reinforcement learning
+- **Performance**: RPT-14B model matches Qwen-32B (twice its size) on multiple benchmarks
+- **Repository**: Not publicly available as of June 2025
+
+## 3. NVIDIA's ProRL (Prolonged Reinforcement Learning)
+
+- **Paper**: [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) (May 2025)
+- **Authors**: Mingjie Liu, Shizhe Diao, et al. from NVIDIA
+- **Model**: [Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)
+- **Key Innovation**: Extended RL training with KL divergence control and reference policy resetting enables deeper exploration of reasoning strategies
+- **Performance**: Outperforms DeepSeek-R1-1.5B and matches/exceeds DeepSeek-R1-7B across diverse benchmarks
+
+## 4. Isomorphic Labs and AlphaFold
+
+- **Official Website**: [Isomorphic Labs](https://www.isomorphiclabs.com/)
+- **AlphaFold 3 Announcement**: [Google DeepMind and Isomorphic Labs introduce AlphaFold 3 AI model](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) (November 2024)
+- **Goal**: To "solve all disease" through AI-powered drug discovery
+- **Key Capability**: AlphaFold 3 can predict structures of proteins, DNA, RNA, ligands and molecular interactions
+- **AlphaFold Server**: [Free non-commercial research platform](https://alphafold.ebi.ac.uk/)
+- **Funding**: Raised $600 million in 2025
+
+## 5. Additional Related Resources
+
+- **RLVR (Reinforcement Learning with Verifiable Rewards)**: Used in many reasoning models from DeepSeek and other labs
+- **GRPO Algorithm**: Group Relative Policy Optimization, used by both Microsoft RPT and NVIDIA ProRL
+- **Emergent Mind Topic Page**: [Reinforcement Pre-Training (RPT)](https://www.emergentmind.com/topics/reinforcement-pre-training-rpt) - Detailed overview of RPT methods and applications
+- **NVIDIA AI Applications**: [Reinforcement Learning for Robotics](https://www.nvidia.com/en-us/use-cases/reinforcement-learning/) - Shows broader applications of RL techniques
+
+
+## Summary HN
+
 Here is a detailed summary of the Hacker News thread discussing Augento, including all supporting facts, names, libraries, technologies, and URLs mentioned in the provided context:
 
 URL: Hacker News Thread Date of Summary: Monday, April 7, 2025 Context: Discussion within the US-centric tech community about a new platform for AI agent fine-tuning.
