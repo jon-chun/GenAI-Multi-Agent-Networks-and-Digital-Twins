@@ -5,6 +5,118 @@
 * [VSCode + ClaudeDev + Aider + Supermaven : STOP PAYING for CURSOR with this ULTIMATE Alternative (12:32) (2 Oct 2024)](https://www.youtube.com/watch?v=zLQuBSuzu2w&t=605s)
 * [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens (28 Jan 2025)](https://news.ycombinator.com/item?id=42831769) HNews setup and strategies
 
+## Github + Claude Code CLI: Plan, Create, Test, Deploy
+
+* [Anthropic Build with Claude](https://docs.anthropic.com/en/docs/build-with-claude/)
+* [Anthropic Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code/)
+
+* [Master Claude Code — Full Beginner's Guide to Every Command (35:47) (21 Jun 2025)](https://www.youtube.com/watch?v=Cxd4b5JYqKE)
+
+* [Claude Code - 47 PRO TIPS in 9 minutes (9:18) (22 May 2025)](https://www.youtube.com/watch?v=TiNpzxoBPz0)
+  1. Use CC as a Bash CLI
+  2. Pass command line args to CC
+  3. `claude -p` for headless mode
+  4. Chain CC with other CLIs
+  5. Pipe data into CC
+  6. Run multiple instances in parallel
+  7. Ask CC to run subagents
+  8. Drag images into CC
+  9. Copy and paste images
+  10. Give CC mockups
+  11. Use screenshots as feedback
+  12. Automate feedback with Puppeteer
+  13. Use CC as an MCP **server**
+  14. Use CC as an MCP **client**
+  15. Connect your DB with MCP
+  16. Connect APIs with MCP
+  17. Import Docs with MCP
+  19. Import misc knowledge with URLs
+  20. use CLAUDE.md files (injected before each turn so keep clean/concise)
+  21. /init creates CLAUDE.md (after scanning dir and summarizing)
+  22. `#` adds to CLAUDE.md
+  23. ~/.claude/CLAUDE.md - Global
+  24. Use CLAUDE.md in subdirs (e.g. tests)
+  25. Refactor CLAUDE.md files often
+  26. Use [Anthropic's prompt improver](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-improver)
+  27. slash commands > .claude/commands/[issue.md](https://www.anthropic.com/engineering/claude-code-best-practices) 
+  28. use args with slash commands
+  29. tabs to autocomplete filenames
+  30. ESC early and often (if going off track)
+  31. ask CC to undo
+  32. have CC use version control
+  33. have CC commit often (to enable granular rollbacks)
+  34. have CC write your commit messages
+  35. revert more often
+  36. install the github CLI gh
+  37. or use Github via MCP
+  38. ask CC to file PR
+  39. ask CC to do code review of PR
+  40. be aware of upcoming auto compact (watch %context filled)
+  41. proactively compact at checkpoints
+  42. consider /clear vs /compact
+  43. plan work using (a) scratch pads 
+  44. plan work using (b) GH issues
+  45. smaller context > lower costs (use ext memory as much as possible)
+  46. use [open telemetry support](https://docs.anthropic.com/en/docs/claude-code/monitoring-usage) see [Martin Amps CC-OpenTele  Datadog Blog](https://ma.rtin.so/posts/monitoring-claude-code-with-datadog/)
+  47. Upgrade to Claude Max
+* [The Claude Code & GitHub WORKFLOW to Build Complex Apps (18:40) (26 Jun 2025)](https://www.youtube.com/watch?v=FjHtZnjNEBU)
+* [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
+  * [hnews thread (3 Jun 2025)](https://news.ycombinator.com/item?id=44163063)
+* [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+* [Claude Code: Best practices for agentic coding (18 Apr 2025)](https://www.anthropic.com/engineering/claude-code-best-practices)
+* [Install Github gh (pref over Github API or MCP)](https://cli.github.com/)
+* [Install Puppeteer for testing UI](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer)
+* [Custom Claude Code CMDs in ./.claude/commands]()
+* [/init to initialize new claude.md scratch pad memory]()
+* [/clear to start afresh]()
+* [Setup Testing Framework and CI Pipeline]()
+* [Claude Code + Github Actions, Beta+$$$ (June 2025)](https://docs.anthropic.com/en/docs/claude-code/github-actions)
+* [Github worktress for isolation/parallel Claude Code/feature checkout]()
+* [Deploy using Render sync'ed with Github](https://render.com/)
+
+
+Please analyze and fix the GitHub issue: $ARGUMENTS.
+
+Follow these steps:
+
+# PLAN
+* Use 'gh issue view' to get the issue details
+* Understand the problem described in the issue
+* Ask clarifying questions if necessary
+* Understand the prior art for this issue
+* Search the scratchpads for previous thoughts related to the issue
+* Search PRs to see if you can find history on this issue
+* Search the codebase for relevant files
+* Think harder about how to break the issue down into a series of small,
+manageable tasks.
+* Document your plan in a new scratchpad
+* include the issue name in the filename
+* include a link to the issue in the scratchpad.
+
+# CREATE
+- Create a new branch for the issue
+- Solve the issue in small, manageable steps, according to your plan
+- Commit your changes after each step
+
+# TEST
+- Use puppeteer via MCP to test the changes if you have made changes to the UI
+- Write rspec tests to describe the expected behavior of your code
+- Run the full test suite to ensure you haven't broken anything
+- If the tests are failing, fix them
+- Ensure that all tests are passing before moving on to the next step
+
+# DEPLOY
+- Open a PR and request a review
+
+Remember to use the Github CLI (`gh`) for all Github-related tasks
+
+## Google Gemini CLI and Gemini Code Assist (Agent)
+
+* [Announcement Blog Post (25 June 2025)](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+* [Gemini Code Assist (Agent)](https://codeassist.google/)
+
 ## Jupyter Colab Notebooks
 
 * [An overview of marimo (6:23) (11 Mar 2024)](https://www.youtube.com/watch?v=3N6lInzq5MI)
