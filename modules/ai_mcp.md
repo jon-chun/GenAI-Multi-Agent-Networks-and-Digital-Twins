@@ -4,6 +4,11 @@
 
 * [YNews (29 Mar 2025)](https://news.ycombinator.com/item?id=43535889)
 
+## MCP Docker 
+
+* [NEW MCP Toolkit Is Insane! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity! (10:35) (18 Jun 2025)](https://www.youtube.com/watch?v=Q3bMYavB8XA)
+* [Docker mcp:hub](https://hub.docker.com/mcp)
+
 ## MCP Official
 
 * [MCP Docs](https://modelcontextprotocol.io/introduction)
