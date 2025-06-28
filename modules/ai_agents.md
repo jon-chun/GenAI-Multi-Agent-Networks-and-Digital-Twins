@@ -134,6 +134,10 @@ Agents don't replace people - They help businesses scale and allow employees to 
 
 * [Composio.dev](https://composio.dev/)
 
+## Agent Protocols
+
+* [Google's NEW Agent2Agent Protocol (12:22) (Apr 2025)](https://www.youtube.com/watch?v=rAeqTaYj_aI)
+
 ## Agent Applications Colab
 
 * [Praison Agents](https://github.com/MervinPraison/PraisonAI/tree/main/cookbooks/notebooks)
