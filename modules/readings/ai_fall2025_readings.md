@@ -34,6 +34,9 @@
 
 #### Local
 
+* [Ollama]()
+* [Open-WebUI](https://github.com/open-webui/open-webui)
+
 #### Cloud
 
 ### Github
@@ -66,6 +69,16 @@
 
 * [Will Brown: Abstractions for Agentic RL (31:07) (23 Jun 2025)](https://www.youtube.com/watch?v=9aYJZysrQ9k)
 
+## Agent Protocols
+
+- [A Survey of AI Agent Protocols by Yang et. al. (21 Jun 2025)](https://arxiv.org/abs/2504.16736)
+  * [Github](https://github.com/zoe-yyx/Awesome-AIAgent-Protocol)
+
+## Licensing and Open Science
+
+- [The Model Openness Framework (MOF) Specification LF AI & Data - Generative AI Commons (Dec 2024)](https://lfaidata.foundation/wp-content/uploads/sites/3/2025/01/05_White_paper_MOF_Specification.pdf)
+  * [Github](https://github.com/lfai/model_openness_tool)
+
 ## Embodied AI : Robotics
 
 - [Tech]()
@@ -79,3 +92,22 @@
 * [Apple Paper]()
 * [Critique of Apple Paper]()
 * [Harvard, MIT: AI's Potemkin Understanding (21:48) (28 Jun 2025)](https://www.youtube.com/watch?v=-eFvwZx9U0Q)
+
+## Agent Tutorials
+
+* [Google DeepMind Educational Colabs (2022)](https://github.com/google-deepmind/educational)
+* [IBM Tutorials Github (25 Jun 2025)](https://github.com/IBM/ibmdotcom-tutorials/tree/main)
+* [LangGraph End-to-End (Oct 2025)](https://github.com/sunnysavita10/LangGraph-End-to-End-Course)
+
+## Project: Agentic Deep Research
+
+- [II-Researcher Intelligent Internet (28 Mar 2025)](https://www.ii.inc/web/blog/post/ii-researcher)
+  * [Github (Jun 2025)](https://github.com/Intelligent-Internet/ii-researcher)
+
+## Project: Agentic RAG
+
+
+## Project: Browser Automation
+
+- [Magnitude: The AI browser automation framework](https://magnitude.run/)
+  * [Github](https://github.com/magnitudedev/magnitude)
