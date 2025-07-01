@@ -54,7 +54,6 @@ Rallly
     * [Github Discussions](https://github.com/orgs/community/discussions)
   * Replt
   
-
 ## Utilities
 
 * tree
@@ -70,6 +69,7 @@ Rallly
   * [groq Cloud](https://groq.com/)
   * [cerebras.ai](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
   * [runpod.io](runpod.io)
+
 
 ## Ollama
 
@@ -203,11 +203,6 @@ Rallly
   
 ## Cloud Services
 
-* MLOps Local/Cloud Private LLMs
-  * [ollama](https://ollama.ai)
-  * [groq Cloud](https://groq.com/)
-  * [cerebras.ai](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
-  * [runpod.io](runpod.io)
 
 ## Ollama
 
