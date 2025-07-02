@@ -29,6 +29,10 @@
 * [LlamaFactory Github](https://github.com/hiyouga/LLaMA-Factory)
 * [TransformerLab Github](https://github.com/transformerlab/transformerlab-app)
 
+### Fine-Tunining Speed
+
+* [DeepSpeed: Accelerated AI Training]()
+
 ### Uncensoring
 
 * [Removing refusals with HF Transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
