@@ -56,8 +56,17 @@
 
 - [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
 
-- []()
+## LLM Survey
 
+
+## LLM Benchmarks
+
+- [A Survey of Useful LLM Evaluation by Peng et. al. (3 Jun 2025)](https://arxiv.org/pdf/2406.00936)
+
+## AI Agent Survey
+
+* [AI Agent Index by Capser et. al. (3 Feb 2025)](https://arxiv.org/abs/2502.01635)
+  - [AI Agent Index Homepage](https://aiagentindex.mit.edu/index/)
 
 ## Agent Metrics and Benchmarks
 

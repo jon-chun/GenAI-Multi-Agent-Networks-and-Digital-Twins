@@ -359,3 +359,8 @@ Citations:
 [3] https://www.evidentlyai.com/blog/open-source-llm-evaluation
 [4] https://dev.to/guybuildingai/-top-5-open-source-llm-evaluation-frameworks-in-2024-98m
 [5] https://www.superannotate.com/blog/llm-evaluation-guide
+
+## Stattistical Tests
+
+* [What statistical test should I use? (Flowchart) by nQuery](https://www.statsols.com/articles/types-of-statistical-tests)
+* [Handbook of Biological Statistics John H. McDonald: Choosing a Statistical Test](https://www.biostathandbook.com/testchoice.html)
