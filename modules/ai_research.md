@@ -1,5 +1,11 @@
 # RESEARCH
 
+## Local Private Research
+
+* [HF Jan-nano](https://huggingface.co/Menlo/Jan-nano)
+  - [HF Jan-Nano Discussion](https://huggingface.co/Menlo/Jan-nano/discussions)
+  - [Jan-Nano 4B](https://www.reddit.com/r/LocalLLaMA/comments/1lbrnod/jannano_a_4b_model_that_can_outperform_671b_on_mcp/)
+
 ## Automated Research (Agents)
 
 * [#2 LearningCircuit/local-deep-research (2.2k) (23 Apr 2025)](https://github.com/LearningCircuit/local-deep-research)

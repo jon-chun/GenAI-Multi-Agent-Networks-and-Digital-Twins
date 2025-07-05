@@ -70,6 +70,11 @@ Rallly
   * [cerebras.ai](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
   * [runpod.io](runpod.io)
 
+## vLLM
+
+* [vLLM Github](https://github.com/vllm-project/vllm)
+* [vLLM Docs](https://docs.vllm.ai/en/latest/getting_started/installation/gpu.html)\
+* [vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (5 Sep 2024)](https://blog.vllm.ai/2024/09/05/perf-update.html)
 
 ## Ollama
 

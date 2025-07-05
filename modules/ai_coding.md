@@ -7,6 +7,8 @@
 
 ## Github + Claude Code CLI: Plan, Create, Test, Deploy
 
+* [Mastering Claude Code in 30 minutes (28:00) (Jun 2025)](https://www.youtube.com/watch?v=6eBSHbLKuN0)
+
 * [Anthropic Build with Claude](https://docs.anthropic.com/en/docs/build-with-claude/)
 * [Anthropic Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code/)
 

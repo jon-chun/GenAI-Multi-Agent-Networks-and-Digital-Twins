@@ -1,5 +1,10 @@
 # Deep Research
 
+## Research on Deep Research
+
+* [THE BEST Deep Research Agent is .... NEW RESULTS (17:59) (18 Jun 2025)](https://www.youtube.com/watch?v=qnqW7ievln4)
+  * [HF Paper](https://huggingface.co/papers/2506.11763)
+
 ## Commercial Deep Research
 
 * [Jina.ai](https://jina.ai/deepsearch)
