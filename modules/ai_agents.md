@@ -9,6 +9,7 @@
 
 ## Awesome Agents
 
+* [Awesome AI Agents (Feb 2025)](https://github.com/e2b-dev/awesome-ai-agents)
 * [Awesome AI Agents (Jan 2025)](https://github.com/jim-schwoebel/awesome_ai_agents)
 
 ### Strategies

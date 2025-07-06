@@ -25,9 +25,15 @@
 * [These 7 Perplexity Features Make ChatGPT, Claude, and Gemini Look Trash (12:07) (27 June 2025)](https://www.youtube.com/watch?v=eJ0FczURNNI)
 
 
-## AI Deep Research
+## Agent Course Outlines
 
+* [AI Agents Are the Hottest Skill of 202 (3 Core)](https://substack.com/@paoloap/note/c-122559085?r=1p31h&utm_medium=ios&utm_source=notes-share-action)
+  - Fundamentals: LLMs, prompts, RAG
+  - Architecture: workflows, memory, tools
+  - Scaling: deployment, evaluation, reliability
 
+* [Anthropic: AI Fluency](https://www.anthropic.com/learn/claude-for-you)
+  
 ## Agentic Coding
 
 ### Config
@@ -49,8 +55,13 @@
 
 ## Foundational
 
+* [2025 State of AI Report: The Builder’s P laybook A Practical Roadmap for AI Innovation by IconIQ](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai)
+
 * [The Bitter Lesson by Rich Sutton (13 Mar 2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
+* [There Are No New Ideas in AI… Only New Datasets by Jack Morris (9 Apr 2025)](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only?subscribe_prompt=free)
+
+* [The New Skill in AI is Not Prompting, It's Context Engineering by Phil Schmid (30 Jun 2025)](https://www.philschmid.de/context-engineering)
 
 ## Real-World Analysis
 
@@ -58,9 +69,15 @@
 
 - [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
 
-- []()
+## LLM Apps
+
+* [Awesome LLM Apps (48.2k)](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 
+## No-Low Code Workflows
+
+* [n8n workflows](https://n8n.io/workflows/)
+  
 ## Agent Metrics and Benchmarks
 
 
