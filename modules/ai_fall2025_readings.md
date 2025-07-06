@@ -69,15 +69,51 @@
 
 - [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
 
+## MCP
+
+* [MCP Guide](https://modelcontextprotocol.io/introduction)
+* [MCP Client Dev Guide](https://github.com/cyanheads/model-context-protocol-resources/blob/main/guides/mcp-client-development-guide.md#1-introduction-to-mcp-clients)
+* [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+
 ## LLM Apps
 
 * [Awesome LLM Apps (48.2k)](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-
 ## No-Low Code Workflows
 
 * [n8n workflows](https://n8n.io/workflows/)
+* [Stop Building n8n Workflows Manually... This MCP Does It INSTANTLY (No-Code) (23:36) (6 Jul 2025)](https://www.youtube.com/watch?v=KKFfpxzsF54)
+  - [MCP context7](https://github.com/upstash/context7)
+  - [MCP n8n Workflow](https://github.com/Zie619/n8n-workflows/blob/main/README.md)
+  - [MCP n8n-MCP](https://github.com/promptadvisers/n8n-mcp?tab=readme-ov-file)
   
+
+## Multi-Agent Frameworks
+
+## Context Engineering
+
+* [Context Engineering for Agents (22:05) (2 Jul 2025)](https://www.youtube.com/watch?v=4GiqzUHD5AA)
+* [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (3 Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
+  - [12 Factor Agents](https://github.com/humanlayer/12-factor-agents)
+  - [HN 12 Factor Agents](https://news.ycombinator.com/item?id=43699271)
+  How We Got Here: A Brief History of Software
+  Factor 1: Natural Language to Tool Calls
+  Factor 2: Own your prompts
+  Factor 3: Own your context window
+  Factor 4: Tools are just structured outputs
+  Factor 5: Unify execution state and business state
+  Factor 6: Launch/Pause/Resume with simple APIs
+  Factor 7: Contact humans with tool calls
+  Factor 8: Own your control flow
+  Factor 9: Compact Errors into Context Window
+  Factor 10: Small, Focused Agents
+  Factor 11: Trigger from anywhere, meet users where they are
+  Factor 12: Make your agent a stateless reducer
+  
+## Project Documentation
+
+* [Build Better Apps with AI Using This One Simple Document (PRD Guide) (21:00) (29 Jun 2025)](https://www.youtube.com/watch?v=MZjW7mlRgdw)
+
 ## Agent Metrics and Benchmarks
 
 
