@@ -53,7 +53,13 @@ Rallly
   * Github
     * [Github Discussions](https://github.com/orgs/community/discussions)
   * Replt
-  
+## vLLM
+
+* [vLLM Github](https://github.com/vllm-project/vllm)
+* [vLLM Docs](https://docs.vllm.ai/en/latest/getting_started/installation/gpu.html)\
+* [vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (5 Sep 2024)](https://blog.vllm.ai/2024/09/05/perf-update.html)
+
+
 ## Utilities
 
 * tree
@@ -70,11 +76,6 @@ Rallly
   * [cerebras.ai](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
   * [runpod.io](runpod.io)
 
-## vLLM
-
-* [vLLM Github](https://github.com/vllm-project/vllm)
-* [vLLM Docs](https://docs.vllm.ai/en/latest/getting_started/installation/gpu.html)\
-* [vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (5 Sep 2024)](https://blog.vllm.ai/2024/09/05/perf-update.html)
 
 ## Ollama
 
@@ -122,6 +123,10 @@ Rallly
 * [Github: n8n Self-hosted AI starter kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
   * [Run All-in-One Local AI Infrastructure In MINUTES! (LLMs, RAG & More) (15:08) (10 Dec 2024)](https://www.youtube.com/watch?v=TIMOfVhnjQA)
   * [The ULTIMATE n8n Self-Hosting Guide (25:17) (11 Dec 2024)](https://www.youtube.com/watch?v=mhDeE5N_SWk)
+
+## Model Inference Speed
+
+* []()
 
 ## LLM in Browser
 

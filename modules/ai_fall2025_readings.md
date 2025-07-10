@@ -81,6 +81,7 @@
 
 ## No-Low Code Workflows
 
+* [ToothfairyAI ($5 Credit as of Jul 2025)](https://toothfairyai.com/pricing)
 * [n8n workflows](https://n8n.io/workflows/)
 * [Stop Building n8n Workflows Manually... This MCP Does It INSTANTLY (No-Code) (23:36) (6 Jul 2025)](https://www.youtube.com/watch?v=KKFfpxzsF54)
   - [MCP context7](https://github.com/upstash/context7)
