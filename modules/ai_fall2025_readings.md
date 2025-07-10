@@ -55,7 +55,11 @@
 
 ## Foundational
 
-* [2025 State of AI Report: The Builder’s P laybook A Practical Roadmap for AI Innovation by IconIQ](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai)
+* [AI Index 2025: State of AI in 10 Charts by Stanford HAI](https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts)
+
+* [18th Edition: 2025 Tech Trends Report by FTSG](https://cran.r-project.org/web/packages/AgePopDenom/AgePopDenom.pdf)
+  
+* [2025 State of AI Report: The Builder’s Playbook A Practical Roadmap for AI Innovation by IconIQ](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai)
 
 * [The Bitter Lesson by Rich Sutton (13 Mar 2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 

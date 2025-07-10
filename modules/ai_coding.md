@@ -5,6 +5,19 @@
 * [VSCode + ClaudeDev + Aider + Supermaven : STOP PAYING for CURSOR with this ULTIMATE Alternative (12:32) (2 Oct 2024)](https://www.youtube.com/watch?v=zLQuBSuzu2w&t=605s)
 * [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens (28 Jan 2025)](https://news.ycombinator.com/item?id=42831769) HNews setup and strategies
 
+## Vibe Coding
+
+* [Awesome Vibe Coding (filipecalegario)](https://github.com/filipecalegario/awesome-vibe-coding)
+
+## Context Coding
+
+* [Awesome Context Engineering](https://github.com/coleam00/context-engineering-intro)
+
+## Agentic Coding
+
+* [Claude Code: Best practices for agentic coding (18 Apr 2025)](https://www.anthropic.com/engineering/claude-code-best-practices)
+
+
 ## Github + Claude Code CLI: Plan, Create, Test, Deploy
 
 * [Mastering Claude Code in 30 minutes (28:00) (Jun 2025)](https://www.youtube.com/watch?v=6eBSHbLKuN0)
@@ -150,6 +163,13 @@ Remember to use the Github CLI (`gh`) for all Github-related tasks
 
 * Cursor with Claude Code [The Case for Claude Code (26:46) (23 Jun 2025)](https://www.youtube.com/watch?v=aHTXccrfXC8)
 
+## Gemini CLI
+
+
+## Trae-Agent
+
+* [Bytedance Trae-CLI](https://github.com/bytedance/trae-agent)
+
 ## Coding Copilots
 
 * [Google Jules](https://jules.google/)
@@ -215,3 +235,8 @@ Remember to use the Github CLI (`gh`) for all Github-related tasks
 ## Roo-Cline
 
 * [Reddit: s/roocline](https://www.reddit.com/r/roocline/)
+
+## Full-Stack
+
+* [Convex Chef](https://chef.convex.dev/?utm_source=yt-&utm_medium=video&dub_id=7DcIOXKDwMjwgYhE)
+  - [Github](https://github.com/get-convex/convex-backend)
