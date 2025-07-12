@@ -48,18 +48,15 @@
 * [The rise of Large Language Models: from fundamentals to application by Management Solutions (2024)](https://www.managementsolutions.com/sites/default/files/minisite/static/72b0015f-39c9-4a52-ba63-872c115bfbd0/llm/pdf/rise-of-llm.pdf)
 * [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
 
-## AI Deep Research
+## Agent Course Outlines
 
-* [TBD]()
+* [AI Agents Are the Hottest Skill of 202 (3 Core)](https://substack.com/@paoloap/note/c-122559085?r=1p31h&utm_medium=ios&utm_source=notes-share-action)
+  - Fundamentals: LLMs, prompts, RAG
+  - Architecture: workflows, memory, tools
+  - Scaling: deployment, evaluation, reliability
 
-## Agentic Frameworks - Low Code
-
-* [Windows OS Copilot]()
-* [Edge/Chrome Browser]()
-* [MindStudio.ai Chrome Plugin](MindStudio.ai)
-  - [How to Build Your First AI Agent in MINUTES (11:30) (aPR 2025)](https://www.youtube.com/watch?v=JlDqei_-THY)
-* [n8n]()
-
+* [Anthropic: AI Fluency](https://www.anthropic.com/learn/claude-for-you)
+  
 ## Agentic Coding
 
 ### Configuration
@@ -88,6 +85,89 @@
 * [TBD]()
 
 ### RL for Agents and MARL
+
+### Github
+
+### VSCode
+
+### Plugins
+
+
+
+## Foundational
+
+* [AI Index 2025: State of AI in 10 Charts by Stanford HAI](https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts)
+
+* [18th Edition: 2025 Tech Trends Report by FTSG](https://cran.r-project.org/web/packages/AgePopDenom/AgePopDenom.pdf)
+  
+* [2025 State of AI Report: The Builder’s Playbook A Practical Roadmap for AI Innovation by IconIQ](https://www.iconiqcapital.com/growth/reports/2025-state-of-ai)
+
+* [The Bitter Lesson by Rich Sutton (13 Mar 2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+* [There Are No New Ideas in AI… Only New Datasets by Jack Morris (9 Apr 2025)](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only?subscribe_prompt=free)
+
+* [The New Skill in AI is Not Prompting, It's Context Engineering by Phil Schmid (30 Jun 2025)](https://www.philschmid.de/context-engineering)
+
+## Real-World Analysis
+
+- [The rise of Large Language Models: from fundamentals to application by Management Solutions (2024)](https://www.managementsolutions.com/sites/default/files/minisite/static/72b0015f-39c9-4a52-ba63-872c115bfbd0/llm/pdf/rise-of-llm.pdf)
+
+- [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
+
+## MCP
+
+* [MCP Guide](https://modelcontextprotocol.io/introduction)
+* [MCP Client Dev Guide](https://github.com/cyanheads/model-context-protocol-resources/blob/main/guides/mcp-client-development-guide.md#1-introduction-to-mcp-clients)
+* [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+
+## LLM Apps
+
+* [Awesome LLM Apps (48.2k)](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+## No-Low Code Workflows
+
+* [ToothfairyAI ($5 Credit as of Jul 2025)](https://toothfairyai.com/pricing)
+* [n8n workflows](https://n8n.io/workflows/)
+* [Stop Building n8n Workflows Manually... This MCP Does It INSTANTLY (No-Code) (23:36) (6 Jul 2025)](https://www.youtube.com/watch?v=KKFfpxzsF54)
+  - [MCP context7](https://github.com/upstash/context7)
+  - [MCP n8n Workflow](https://github.com/Zie619/n8n-workflows/blob/main/README.md)
+  - [MCP n8n-MCP](https://github.com/promptadvisers/n8n-mcp?tab=readme-ov-file)
+  
+
+## Multi-Agent Frameworks
+
+## Context Engineering
+
+* [Context Engineering for Agents (22:05) (2 Jul 2025)](https://www.youtube.com/watch?v=4GiqzUHD5AA)
+* [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (3 Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
+  - [12 Factor Agents](https://github.com/humanlayer/12-factor-agents)
+  - [HN 12 Factor Agents](https://news.ycombinator.com/item?id=43699271)
+  How We Got Here: A Brief History of Software
+  Factor 1: Natural Language to Tool Calls
+  Factor 2: Own your prompts
+  Factor 3: Own your context window
+  Factor 4: Tools are just structured outputs
+  Factor 5: Unify execution state and business state
+  Factor 6: Launch/Pause/Resume with simple APIs
+  Factor 7: Contact humans with tool calls
+  Factor 8: Own your control flow
+  Factor 9: Compact Errors into Context Window
+  Factor 10: Small, Focused Agents
+  Factor 11: Trigger from anywhere, meet users where they are
+  Factor 12: Make your agent a stateless reducer
+  
+## Project Documentation
+
+* [Build Better Apps with AI Using This One Simple Document (PRD Guide) (21:00) (29 Jun 2025)](https://www.youtube.com/watch?v=MZjW7mlRgdw)
+
+## Agent Metrics and Benchmarks
+
+
+## Single Super Agent vs Multi-Agent Systems
+
+
+## RL for Agents and MARL
+
 * [Will Brown: Abstractions for Agentic RL (31:07) (23 Jun 2025)](https://www.youtube.com/watch?v=9aYJZysrQ9k)
 
 ### Agent Protocols
