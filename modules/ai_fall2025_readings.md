@@ -6,6 +6,8 @@
 * [TBD]()
 
 ### Research
+
+* [ArXiv ML Monthly Papers](https://www.arxiv.org/list/cs.LG/2025-01?skip=1825&show=2000  )
 * [Harvard, MIT: AI's Potemkin Understanding (21:48) (28 Jun 2025)](https://www.youtube.com/watch?v=-eFvwZx9U0Q)
 
 ### Models, Libraries, and Frameworks
@@ -47,7 +49,10 @@
 
 * [The rise of Large Language Models: from fundamentals to application by Management Solutions (2024)](https://www.managementsolutions.com/sites/default/files/minisite/static/72b0015f-39c9-4a52-ba63-872c115bfbd0/llm/pdf/rise-of-llm.pdf)
 * [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
+## AI Course
 
+* [2022 FSDL The Full Stack](https://fullstackdeeplearning.com/course/2022/lecture-5-deployment/)
+  
 ## Agent Course Outlines
 
 * [AI Agents Are the Hottest Skill of 202 (3 Core)](https://substack.com/@paoloap/note/c-122559085?r=1p31h&utm_medium=ios&utm_source=notes-share-action)
