@@ -129,6 +129,20 @@
 
 - [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
 
+## Prompt Engineering
+
+* [DAIR Prompt Engineering](https://www.promptingguide.ai/)
+
+## Deep Research Prompts
+
+* []()
+
+## Context Engineering
+
+* [OpenAI (Agentic) GPT-4.1 Prompting Guide (14 Apr 2025)](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
+  - [Github](https://github.com/openai/openai-cookbook/blob/main/examples/gpt4-1_prompting_guide.ipynb)
+
+
 ## MCP
 
 * [MCP Guide](https://modelcontextprotocol.io/introduction)
@@ -151,7 +165,7 @@
 
 ## Multi-Agent Frameworks
 
-## Context Engineering
+## Project Managment Prompt Engineering: 
 
 * [Context Engineering for Agents (22:05) (2 Jul 2025)](https://www.youtube.com/watch?v=4GiqzUHD5AA)
 * [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (3 Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
@@ -226,6 +240,11 @@
 
 ### Agentic RAG
 * [TBD]()
+
+
+### GenAI Video
+
+* [FAL Cloud](https://fal.ai/pricing)
 
 ### Browser Automation
 * [Magnitude: The AI browser automation framework](https://magnitude.run/)
