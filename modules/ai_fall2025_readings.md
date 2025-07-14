@@ -28,6 +28,13 @@
 
 ## Foundational
 
+### SDLC and SWE
+
+* [Shipping Code](https://bytebytego.com/guides/how-do-companies-ship-code-to-production/)
+* [Software Engineering](https://github.com/ByteByteGoHq/system-design-101/blob/main/data/guides/how-do-companies-ship-code-to-production.md)
+  
+### ML/AI
+
 * [The Bitter Lesson by Rich Sutton (13 Mar 2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ## Surveys and Benchmarks
@@ -49,7 +56,8 @@
 
 * [The rise of Large Language Models: from fundamentals to application by Management Solutions (2024)](https://www.managementsolutions.com/sites/default/files/minisite/static/72b0015f-39c9-4a52-ba63-872c115bfbd0/llm/pdf/rise-of-llm.pdf)
 * [Seizing the agentic AI advantage: A CEO playbook to solve the gen AI paradox and unlock scalable impact with AI agents](https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/seizing%20the%20agentic%20ai%20advantage/seizing-the-agentic-ai-advantage-june-2025.pdf)
-## AI Course
+
+## AI Courses
 
 * [2022 FSDL The Full Stack](https://fullstackdeeplearning.com/course/2022/lecture-5-deployment/)
   
@@ -61,7 +69,9 @@
   - Scaling: deployment, evaluation, reliability
 
 * [Anthropic: AI Fluency](https://www.anthropic.com/learn/claude-for-you)
-  
+
+
+
 ## Agentic Coding
 
 ### Configuration
@@ -76,7 +86,7 @@
 ### Development Tools
 
 #### Github
-* [TBD]()
+* [Git scm Book](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
 #### VSCode
 * [TBD]()
