@@ -19,6 +19,10 @@
 * [btahir/open-deep-research (1.8k) (Mar 2025)](https://github.com/btahir/open-deep-research)
 * [TheBlewish/Automated-AI-Web-Researcher-Ollama (2.8k) (Dec 2024)](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
 
+## Deep Research Benchmark
+
+* [DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents (13 Jun 2025)](https://huggingface.co/papers/2506.11763)
+
 ## AI Research Papers and Preprints:
 (To find and read specific papers)
 
