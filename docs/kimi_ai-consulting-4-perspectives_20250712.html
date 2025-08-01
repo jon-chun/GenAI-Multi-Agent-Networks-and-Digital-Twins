@@ -1,0 +1,1440 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>The Economic Impact of AI Since ChatGPT-3: A Global Analysis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.5.0/mermaid.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&amp;family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'serif': ['Playfair Display', 'serif'],
+                        'sans': ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        primary: '#1e293b',
+                        secondary: '#475569',
+                        accent: '#3b82f6',
+                        muted: '#64748b'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        .toc-fixed {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 280px;
+            height: 100vh;
+            background: white;
+            border-right: 1px solid #e2e8f0;
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 2rem 1.5rem;
+        }
+        
+        .main-content {
+            margin-left: 280px;
+            min-height: 100vh;
+        }
+        
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            align-items: center;
+            min-height: 60vh;
+        }
+        
+        .citation {
+            color: #3b82f6;
+            text-decoration: none;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        
+        .citation:hover {
+            text-decoration: underline;
+        }
+        
+        .section-divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, #e2e8f0, transparent);
+            margin: 4rem 0;
+        }
+        
+        .data-point {
+            background: #f8fafc;
+            border-left: 4px solid #3b82f6;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .region-card {
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .toc-link {
+            display: block;
+            padding: 0.5rem 0;
+            color: #64748b;
+            text-decoration: none;
+            border-left: 2px solid transparent;
+            padding-left: 1rem;
+            margin-left: -1rem;
+            transition: all 0.2s;
+        }
+        
+        .toc-link:hover, .toc-link.active {
+            color: #3b82f6;
+            border-left-color: #3b82f6;
+            background: #f8fafc;
+        }
+        
+        .pull-quote {
+            font-size: 1.25rem;
+            font-style: italic;
+            color: #1e293b;
+            border-left: 4px solid #3b82f6;
+            padding-left: 2rem;
+            margin: 2rem 0;
+            background: #f8fafc;
+            padding: 2rem;
+        }
+        
+        @media (max-width: 1024px) {
+            .toc-fixed {
+                transform: translateX(-100%);
+                transition: transform 0.3s;
+            }
+            
+            .toc-fixed.open {
+                transform: translateX(0);
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .hero-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+
+            /* Responsive mermaid controls */
+            .mermaid-control-btn:not(.reset-zoom) {
+                display: none;
+            }
+            .mermaid-controls {
+                top: auto;
+                bottom: 15px;
+                right: 15px;
+            }
+        }
+        
+        .smooth-scroll {
+            scroll-behavior: smooth;
+        }
+        
+        .mermaid-container {
+            display: flex;
+            justify-content: center;
+            min-height: 300px;
+            max-height: 800px;
+            background: #ffffff;
+            border: 2px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 30px;
+            margin: 30px 0;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .mermaid-container .mermaid {
+            width: 100%;
+            max-width: 100%;
+            height: 100%;
+            cursor: grab;
+            transition: transform 0.3s ease;
+            transform-origin: center center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            touch-action: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        
+        .mermaid-container .mermaid svg {
+            max-width: 100%;
+            height: 100%;
+            display: block;
+            margin: 0 auto;
+        }
+        
+        .mermaid-container .mermaid:active {
+            cursor: grabbing;
+        }
+        
+        .mermaid-container.zoomed .mermaid {
+            height: 100%;
+            width: 100%;
+            cursor: grab;
+        }
+        
+        .mermaid-controls {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            display: flex;
+            gap: 10px;
+            z-index: 20;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 8px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .mermaid-control-btn {
+            background: #ffffff;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            padding: 10px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: #374151;
+            font-size: 14px;
+            min-width: 36px;
+            height: 36px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .mermaid-control-btn:hover {
+            background: #f8fafc;
+            border-color: #3b82f6;
+            color: #3b82f6;
+            transform: translateY(-1px);
+        }
+        
+        .mermaid-control-btn:active {
+            transform: scale(0.95);
+        }
+
+        /* Mobile styles */
+        @media (max-width: 768px) {
+            body {
+                overflow-x: hidden;
+            }
+            
+            .hero-grid {
+                min-height: auto;
+                padding: 1rem 0;
+            }
+            
+            .hero-grid h1 {
+                font-size: 2.5rem;
+                line-height: 1.2;
+            }
+            
+            .hero-grid p {
+                font-size: 1rem;
+            }
+            
+            .hero-grid img {
+                height: auto;
+                max-height: 250px;
+            }
+            
+            .container {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+            
+            .section-divider {
+                margin: 2rem 0;
+            }
+            
+            .mermaid-container {
+                padding: 15px;
+                margin: 15px 0;
+            }
+            
+            .grid-cols-5 {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .hero-grid h1 {
+                font-size: 2rem;
+            }
+            
+            .hero-grid img {
+                max-height: 200px;
+            }
+            
+            .mermaid-container {
+                padding: 10px;
+            }
+        }
+    </style>
+  </head>
+
+  <body class="bg-white font-sans text-gray-900 leading-relaxed smooth-scroll">
+
+    <!-- Fixed Table of Contents -->
+    <nav class="toc-fixed">
+      <div class="mb-8">
+        <h3 class="font-serif text-lg font-semibold text-primary mb-4">Contents</h3>
+        <div class="space-y-1">
+          <a href="#executive-summary" class="toc-link text-sm">Executive Summary</a>
+          <a href="#global-investment" class="toc-link text-sm">Global Investment Trends</a>
+          <a href="#us-analysis" class="toc-link text-sm">United States Analysis</a>
+          <a href="#eu-analysis" class="toc-link text-sm">European Union</a>
+          <a href="#asia-analysis" class="toc-link text-sm">Asia Focus</a>
+          <a href="#business-adaptations" class="toc-link text-sm">Business Adaptations</a>
+          <a href="#future-outlook" class="toc-link text-sm">Future Projections</a>
+          <a href="#methodology" class="toc-link text-sm">Methodology</a>
+        </div>
+      </div>
+
+      <div class="mt-8 pt-8 border-t border-gray-200">
+        <p class="text-xs text-muted mb-2">Key Metrics</p>
+        <div class="space-y-2 text-xs">
+          <div class="flex justify-between">
+            <span>Global AI Market</span>
+            <span class="font-semibold">$391B</span>
+          </div>
+          <div class="flex justify-between">
+            <span>US Investment</span>
+            <span class="font-semibold">$109.1B</span>
+          </div>
+          <div class="flex justify-between">
+            <span>AI Job Growth</span>
+            <span class="font-semibold">+68%</span>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Mobile Menu Toggle -->
+    <button id="mobile-menu-toggle" class="lg:hidden fixed top-4 left-4 z-50 bg-white p-2 rounded-md shadow-lg">
+      <i class="fas fa-bars text-primary"></i>
+    </button>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+      <!-- Hero Section -->
+      <section class="bg-gradient-to-br from-slate-50 to-blue-50 py-16 px-8">
+        <div class="max-w-7xl mx-auto">
+          <div class="hero-grid">
+            <div class="space-y-6">
+              <div class="inline-block px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium">
+                July 2025 Analysis
+              </div>
+              <h1 class="font-serif text-5xl lg:text-6xl font-bold text-primary leading-tight">
+                The Economic Impact of <em class="text-accent">AI</em> Since ChatGPT-3
+              </h1>
+              <p class="text-xl text-secondary leading-relaxed max-w-2xl">
+                A comprehensive analysis of global AI investment, productivity gains, and labor market transformations across the United States, European Union, and Asia since October 2022.
+              </p>
+              <div class="flex flex-wrap gap-4 text-sm text-muted">
+                <span><i class="fas fa-chart-line mr-2"></i>Global Market Analysis</span>
+                <span><i class="fas fa-globe mr-2"></i>Multi-Regional Comparison</span>
+                <span><i class="fas fa-users mr-2"></i>Labor Market Impact</span>
+              </div>
+            </div>
+            <div class="relative">
+              <img src="https://kimi-web-img.moonshot.cn/img/kce.ac.in/58f8d42b9beb741b9e957e13ec32bcd2ff41cd45.jpg" alt="Artificial intelligence technology concept" class="rounded-lg shadow-xl w-full h-96 object-cover" size="large" aspect="wide" query="artificial intelligence technology" referrerpolicy="no-referrer" data-modified="1" data-score="11598.00"/>
+              <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent rounded-lg"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Executive Summary -->
+      <section id="executive-summary" class="py-16 px-8 bg-white">
+        <div class="max-w-4xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">Executive Summary</h2>
+
+          <div class="prose prose-lg max-w-none">
+            <p class="text-lg text-secondary leading-relaxed mb-6">
+              The period following the public release of ChatGPT-3 in October 2022 has marked a significant acceleration in the adoption, investment, and perceived economic impact of Artificial Intelligence globally. This whitepaper synthesizes current data as of July 2025, revealing transformative changes across investment landscapes, GDP contributions, and labor markets.
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
+            <div class="data-point">
+              <h3 class="font-semibold text-primary mb-2">Global AI Investment</h3>
+              <p class="text-2xl font-bold text-accent mb-2">$391B</p>
+              <p class="text-sm text-muted">Market valuation in early 2025, with projections pointing to nearly fivefold increase over five years <a href="#ref-43" class="citation">[43]</a>
+              </p>
+            </div>
+            <div class="data-point">
+              <h3 class="font-semibold text-primary mb-2">US Economic Impact</h3>
+              <p class="text-2xl font-bold text-accent mb-2">+0.4%</p>
+              <p class="text-sm text-muted">Additional annual GDP growth projected over next decade from AI integration <a href="#ref-7" class="citation">[7]</a>
+              </p>
+            </div>
+            <div class="data-point">
+              <h3 class="font-semibold text-primary mb-2">AI Job Market</h3>
+              <p class="text-2xl font-bold text-accent mb-2">+68%</p>
+              <p class="text-sm text-muted">Increase in AI job postings from Q4 2022 to Q4 2024, amidst overall IT decline <a href="#ref-509" class="citation">[509]</a>
+              </p>
+            </div>
+          </div>
+
+          <div class="pull-quote mt-12">
+            &#34;AI is projected to contribute an additional 0.4 percentage points to annual U.S. GDP growth over the next decade, with some estimates suggesting 1.5% GDP growth in 2025 alone due to AI-driven automation.&#34;
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- Global Investment Trends -->
+      <section id="global-investment" class="py-16 px-8">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">Global AI Investment and Market Trends</h2>
+
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
+            <div>
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">Market Growth Trajectory</h3>
+              <p class="text-secondary mb-4">
+                The global AI market has experienced unprecedented growth since ChatGPT-3&#39;s launch, characterized by a compound annual growth rate (CAGR) of 35.9%. Projections indicate robust expansion from <strong>$391 billion in early 2025</strong> to nearly five times that amount over the subsequent five years <a href="#ref-43" class="citation">[43]</a>.
+              </p>
+              <div class="bg-slate-50 p-4 rounded-lg">
+                <h4 class="font-semibold text-primary mb-2">Key Growth Drivers</h4>
+                <ul class="text-sm text-secondary space-y-1">
+                  <li>• Generative AI investment surge from $25.2B (2023) to $33.9B (2024) <a href="#ref-8" class="citation">[8]</a>
+                  </li>
+                  <li>• 40.6% increase in newly funded AI companies, reaching 1,812 in 2023</li>
+                  <li>• Global IT spending on AI projected to reach $521B by 2027</li>
+                </ul>
+              </div>
+            </div>
+            <div>
+              <img src="https://kimi-web-img.moonshot.cn/img/cdnuploads.aa.com.tr/8cb46d00fa48e18ee49c791be0a15042265ccd27.jpg" alt="Artificial intelligence technology growth" class="rounded-lg shadow-lg w-full h-80 object-cover" size="medium" aspect="wide" style="photo" query="AI technology growth" referrerpolicy="no-referrer" data-modified="1" data-score="11583.00"/>
+            </div>
+          </div>
+
+          <!-- Regional Investment Comparison -->
+          <div class="mb-12">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">Regional Venture Capital Distribution</h3>
+            <div class="comparison-grid">
+              <div class="region-card">
+                <div class="flex items-center mb-4">
+                  <i class="fas fa-flag-usa text-accent mr-3"></i>
+                  <h4 class="font-semibold text-primary">North America</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div class="flex justify-between">
+                    <span>Investment (Q1 2025)</span>
+                    <span class="font-semibold">$65.30B</span>
+                  </div>
+                  <div class="flex justify-between">
+                    <span>Deals (Q1 2025)</span>
+                    <span class="font-semibold">1,056</span>
+                  </div>
+                  <div class="flex justify-between">
+                    <span>Global Share</span>
+                    <span class="font-semibold">89.3%</span>
+                  </div>
+                </div>
+                <p class="text-xs text-muted mt-4">Dominant position with 89.3% of global AI investment value in Q1 2025 <a href="#ref-614" class="citation">[614]</a>
+                </p>
+              </div>
+
+              <div class="region-card">
+                <div class="flex items-center mb-4">
+                  <i class="fas fa-globe-europe text-accent mr-3"></i>
+                  <h4 class="font-semibold text-primary">Europe</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div class="flex justify-between">
+                    <span>Investment (Q1 2025)</span>
+                    <span class="font-semibold">$5.10B</span>
+                  </div>
+                  <div class="flex justify-between">
+                    <span>Deals (Q1 2025)</span>
+                    <span class="font-semibold">525</span>
+                  </div>
+                  <div class="flex justify-between">
+                    <span>Global Deals Share</span>
+                    <span class="font-semibold">25.0%</span>
+                  </div>
+                </div>
+                <p class="text-xs text-muted mt-4">Focus on responsible AI and ethical governance with significant EU funding commitments</p>
+              </div>
+
+              <div class="region-card">
+                <div class="flex items-center mb-4">
+                  <i class="fas fa-globe-asia text-accent mr-3"></i>
+                  <h4 class="font-semibold text-primary">Asia</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div class="flex justify-between">
+                    <span>Investment (Q1 2025)</span>
+                    <span class="font-semibold">$2.00B</span>
+                  </div>
+                  <div class="flex justify-between">
+                    <span>Deals (Q1 2025)</span>
+                    <span class="font-semibold">395</span>
+                  </div>
+                  <div class="flex justify-between">
+                    <span>Patent Leadership</span>
+                    <span class="font-semibold">70% (China)</span>
+                  </div>
+                </div>
+                <p class="text-xs text-muted mt-4">Strong government support with China leading in patent volume (300,000 applications in 2024) <a href="#ref-627" class="citation">[627]</a>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="bg-blue-50 p-6 rounded-lg">
+            <h4 class="font-semibold text-primary mb-3">Generative AI Market Projections</h4>
+            <p class="text-secondary mb-4">
+              The generative AI segment shows remarkable growth potential, projected to reach <strong>$62.72 billion in 2025</strong> with a CAGR of 46.47% through 2030, reaching <strong>$356.10 billion</strong>
+              <a href="#ref-84" class="citation">[84]</a>.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+              <div class="bg-white p-3 rounded">
+                <span class="font-semibold text-accent">Challenge:</span> 30% of GenAI projects may be abandoned after proof-of-concept
+              </div>
+              <div class="bg-white p-3 rounded">
+                <span class="font-semibold text-accent">Trend:</span> 75% of businesses will create synthetic customer data by 2026
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- US Analysis -->
+      <section id="us-analysis" class="py-16 px-8 bg-slate-50">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">The United States: AI Adoption and Economic Impact</h2>
+
+          <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+            <div class="lg:col-span-2">
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">Investment Dominance</h3>
+              <p class="text-secondary mb-4">
+                The United States has solidified its global AI leadership with private investment reaching <strong>$109.1 billion in 2024</strong>—nearly 12 times China&#39;s investment and 24 times the UK&#39;s <a href="#ref-8" class="citation">[8]</a>. This represents a 22.1% increase from 2022, while competitors experienced declines.
+              </p>
+              <div class="space-y-4">
+                <div class="data-point">
+                  <h4 class="font-semibold text-primary">GDP Impact</h4>
+                  <p class="text-lg font-bold text-accent">+0.4% annually</p>
+                  <p class="text-sm text-muted">Projected additional GDP growth over next decade <a href="#ref-7" class="citation">[7]</a>
+                  </p>
+                </div>
+                <div class="data-point">
+                  <h4 class="font-semibold text-primary">Productivity Growth</h4>
+                  <p class="text-lg font-bold text-accent">+1.5 percentage points</p>
+                  <p class="text-sm text-muted">Annual labor productivity growth potential over ten years <a href="#ref-255" class="citation">[255]</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <img src="https://kimi-web-img.moonshot.cn/img/images.china.cn/8641ac89cd3080c93ec793a7bf193139b7dbd382.JPG" alt="AI technology integration in United States business operations" class="rounded-lg shadow-lg w-full h-80 object-cover" size="medium" aspect="wide" style="photo" query="AI technology United States business" referrerpolicy="no-referrer" data-modified="1" data-score="11590.00"/>
+            </div>
+          </div>
+
+          <!-- Labor Market Impact -->
+          <div class="mb-12">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">Labor Market Transformation</h3>
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                  <h4 class="font-semibold text-primary mb-4">Job Market Dynamics</h4>
+                  <div class="space-y-3">
+                    <div class="flex justify-between items-center p-3 bg-green-50 rounded">
+                      <span class="text-sm">AI Job Postings Growth</span>
+                      <span class="font-bold text-green-600">+68%</span>
+                    </div>
+                    <div class="flex justify-between items-center p-3 bg-red-50 rounded">
+                      <span class="text-sm">Overall IT Postings</span>
+                      <span class="font-bold text-red-600">-27%</span>
+                    </div>
+                    <div class="flex justify-between items-center p-3 bg-blue-50 rounded">
+                      <span class="text-sm">AI Skills Premium</span>
+                      <span class="font-bold text-blue-600">56%</span>
+                    </div>
+                  </div>
+                  <p class="text-xs text-muted mt-4">Data reflects Q4 2022 to Q4 2024 changes <a href="#ref-509" class="citation">[509]</a>
+                  </p>
+                </div>
+                <div>
+                  <h4 class="font-semibold text-primary mb-4">Industry-Specific Impacts</h4>
+                  <div class="space-y-3 text-sm">
+                    <div class="border-l-4 border-blue-500 pl-3">
+                      <strong>Manufacturing:</strong> 86% now consider AI a driving force, up from 59% in 2022 <a href="#ref-18" class="citation">[18]</a>
+                    </div>
+                    <div class="border-l-4 border-green-500 pl-3">
+                      <strong>Financial Services:</strong> 25-30% cost reduction through AI automation by 2025 <a href="#ref-398" class="citation">[398]</a>
+                    </div>
+                    <div class="border-l-4 border-purple-500 pl-3">
+                      <strong>Information Sector:</strong> 18.1% AI adoption rate, highest among industries <a href="#ref-99" class="citation">[99]</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="pull-quote">
+            &#34;AI-skilled professionals reportedly earn 56% more than their peers without such skills in 2024, more than double the 25% premium observed in the previous year.&#34;
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- EU Analysis -->
+      <section id="eu-analysis" class="py-16 px-8">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">European Union: Regulation-First Approach</h2>
+
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
+            <div>
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">Adoption and Investment Landscape</h3>
+              <p class="text-secondary mb-4">
+                The EU pursues a cautious, regulation-first strategy with its comprehensive AI Act. While private investment declined 14.1% from 2022-2023, European VC firms still invested <strong>$5.10 billion in Q1 2025</strong>, demonstrating continued commitment to responsible AI development.
+              </p>
+              <div class="space-y-4">
+                <div class="bg-blue-50 p-4 rounded-lg">
+                  <h4 class="font-semibold text-primary mb-2">Key Member State Adoption</h4>
+                  <div class="grid grid-cols-3 gap-4 text-sm">
+                    <div class="text-center">
+                      <div class="font-bold text-accent">Germany</div>
+                      <div>46% (Finance)</div>
+                      <div>55% (Manufacturing)</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="font-bold text-accent">France</div>
+                      <div>48% (Finance)</div>
+                      <div>45% (Manufacturing)</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="font-bold text-accent">UK</div>
+                      <div>57% (Finance)</div>
+                      <div>41% (Manufacturing)</div>
+                    </div>
+                  </div>
+                  <p class="text-xs text-muted mt-2">Adoption rates across key sectors <a href="#ref-160" class="citation">[160]</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <img src="https://kimi-web-img.moonshot.cn/img/ec.europa.eu/957f3865e1ba9b87df03f2ca6065a859a4bbada4.jpg" alt="European Union AI technology regulation" class="rounded-lg shadow-lg w-full h-80 object-cover" size="medium" aspect="wide" style="photo" query="European Union AI regulation" referrerpolicy="no-referrer" data-modified="1" data-score="11599.00"/>
+            </div>
+          </div>
+
+          <div class="mb-12">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">AI Act and Regulatory Framework</h3>
+            <div class="bg-white border border-gray-200 rounded-lg p-6">
+              <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="text-center">
+                  <div class="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                    <i class="fas fa-ban text-red-600 text-xl"></i>
+                  </div>
+                  <h4 class="font-semibold text-primary mb-2">Unacceptable Risk</h4>
+                  <p class="text-sm text-muted">Banned AI systems posing threats to safety and fundamental rights</p>
+                </div>
+                <div class="text-center">
+                  <div class="w-16 h-16 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                    <i class="fas fa-exclamation-triangle text-yellow-600 text-xl"></i>
+                  </div>
+                  <h4 class="font-semibold text-primary mb-2">High Risk</h4>
+                  <p class="text-sm text-muted">Stringent requirements for critical infrastructure, employment, law enforcement</p>
+                </div>
+                <div class="text-center">
+                  <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                    <i class="fas fa-check-circle text-green-600 text-xl"></i>
+                  </div>
+                  <h4 class="font-semibold text-primary mb-2">Minimal Risk</h4>
+                  <p class="text-sm text-muted">Voluntary codes of conduct and standards</p>
+                </div>
+              </div>
+              <p class="text-sm text-muted mt-6 text-center">
+                The EU AI Act adopts a risk-based approach to ensure trustworthy AI development <a href="#ref-558" class="citation">[558]</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- Asia Analysis -->
+      <section id="asia-analysis" class="py-16 px-8 bg-slate-50">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">Asia: Rapid Adoption and Government-Led Strategy</h2>
+
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
+            <div>
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">China&#39;s AI Leadership</h3>
+              <p class="text-secondary mb-4">
+                China demonstrates &#34;state-driven supremacy&#34; with comprehensive national strategies and massive investment. Despite a 44.2% decline in private investment since 2022, China leads in patent activity with <strong>300,000 AI patent applications in 2024</strong> (70% of global total) <a href="#ref-627" class="citation">[627]</a>.
+              </p>
+              <div class="space-y-4">
+                <div class="data-point">
+                  <h4 class="font-semibold text-primary">GDP Impact</h4>
+                  <p class="text-lg font-bold text-accent">+26% by 2030</p>
+                  <p class="text-sm text-muted">Projected GDP boost from AI adoption <a href="#ref-68" class="citation">[68]</a>
+                  </p>
+                </div>
+                <div class="data-point">
+                  <h4 class="font-semibold text-primary">User Base</h4>
+                  <p class="text-lg font-bold text-accent">250M</p>
+                  <p class="text-sm text-muted">Generative AI users by February 2025 <a href="#ref-587" class="citation">[587]</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <img src="https://kimi-web-img.moonshot.cn/img/asianinsiders.com/b53a01efba708c6952bb84e5b3f19275919bd5f9.webp" alt="Robotic automation in Asian manufacturing facility" class="rounded-lg shadow-lg w-full h-80 object-cover" size="medium" aspect="wide" style="photo" query="Asian factory robotics automation" referrerpolicy="no-referrer" data-modified="1" data-score="11598.00"/>
+            </div>
+          </div>
+
+          <!-- India and Regional Players -->
+          <div class="mb-12">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">India and Regional Innovation Hubs</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+              <div class="bg-white p-6 rounded-lg shadow-sm">
+                <div class="flex items-center mb-3">
+                  <i class="fas fa-flag text-orange-500 mr-2"></i>
+                  <h4 class="font-semibold text-primary">India</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div>• <strong>$1B+</strong> IndiaAI mission investment</div>
+                  <div>• <strong>26,000</strong> AI patent applications (2024)</div>
+                  <div>• <strong>1.2%</strong> GDP boost in 2025 <a href="#ref-619" class="citation">[619]</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="bg-white p-6 rounded-lg shadow-sm">
+                <div class="flex items-center mb-3">
+                  <i class="fas fa-building text-red-500 mr-2"></i>
+                  <h4 class="font-semibold text-primary">Singapore</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div>• <strong>80.79</strong> overall AI adoption score</div>
+                  <div>• <strong>$743M</strong> government investment</div>
+                  <div>• Leading in financial services AI</div>
+                </div>
+              </div>
+
+              <div class="bg-white p-6 rounded-lg shadow-sm">
+                <div class="flex items-center mb-3">
+                  <i class="fas fa-microchip text-blue-500 mr-2"></i>
+                  <h4 class="font-semibold text-primary">South Korea</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div>• <strong>$8.5B</strong> Digital New Deal</div>
+                  <div>• <strong>58%</strong> manufacturing AI adoption</div>
+                  <div>• 5G and robotics leadership</div>
+                </div>
+              </div>
+
+              <div class="bg-white p-6 rounded-lg shadow-sm">
+                <div class="flex items-center mb-3">
+                  <i class="fas fa-robot text-purple-500 mr-2"></i>
+                  <h4 class="font-semibold text-primary">Japan</h4>
+                </div>
+                <div class="space-y-2 text-sm">
+                  <div>• <strong>15,000+</strong> AI care robots deployed</div>
+                  <div>• <strong>57%</strong> manufacturing AI adoption</div>
+                  <div>• Society 5.0 initiative</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="pull-quote">
+            &#34;China&#39;s AI integration contributed an estimated 2.1% to its GDP in 2025, while India&#39;s &#39;scalable frugal AI&#39; approach is projected to deliver 1.2% GDP growth.&#34;
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- Business Adaptations -->
+      <section id="business-adaptations" class="py-16 px-8">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">Business Adaptations and Cross-Cutting Themes</h2>
+
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
+            <div>
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">Evolution of Business Priorities</h3>
+              <p class="text-secondary mb-6">
+                AI has fundamentally shifted business strategies from static planning to dynamic, AI-driven processes. <strong>90% of businesses now use AI to gain competitive advantage</strong>, with 71% regularly using generative AI in business functions <a href="#ref-635" class="citation">[635]</a>.
+              </p>
+
+              <div class="space-y-4">
+                <div class="bg-gradient-to-r from-blue-50 to-indigo-50 p-4 rounded-lg">
+                  <h4 class="font-semibold text-primary mb-2">Strategic Integration</h4>
+                  <ul class="text-sm text-secondary space-y-1">
+                    <li>• Real-time market signal analysis</li>
+                    <li>• Dynamic strategy adjustment</li>
+                    <li>• Multi-agent system integration</li>
+                  </ul>
+                </div>
+
+                <div class="bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg">
+                  <h4 class="font-semibold text-primary mb-2">Operational Efficiency</h4>
+                  <ul class="text-sm text-secondary space-y-1">
+                    <li>• 79% of US organizations use AI agents <a href="#ref-22" class="citation">[22]</a>
+                    </li>
+                    <li>• 40% of retailers integrated AI</li>
+                    <li>• Amazon: 35% sales increase from AI recommendations <a href="#ref-630" class="citation">[630]</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div>
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">Knowledge Worker Impact</h3>
+              <p class="text-secondary mb-6">
+                AI&#39;s impact on knowledge workers represents a paradigm shift, with white-collar professionals earning up to <strong>$80,000 annually</strong> being most affected by automation <a href="#ref-10" class="citation">[10]</a>.
+              </p>
+
+              <div class="mermaid-container">
+                <div class="mermaid-controls">
+                  <button class="mermaid-control-btn zoom-in" title="放大">
+                    <i class="fas fa-search-plus"></i>
+                  </button>
+                  <button class="mermaid-control-btn zoom-out" title="缩小">
+                    <i class="fas fa-search-minus"></i>
+                  </button>
+                  <button class="mermaid-control-btn reset-zoom" title="重置">
+                    <i class="fas fa-expand-arrows-alt"></i>
+                  </button>
+                  <button class="mermaid-control-btn fullscreen" title="全屏查看">
+                    <i class="fas fa-expand"></i>
+                  </button>
+                </div>
+                <div class="mermaid">
+                  graph TD
+                  A[&#34;Knowledge Worker Impact&#34;] --&gt; B[&#34;Role Transformation&#34;]
+                  A --&gt; C[&#34;Skill Requirements&#34;]
+                  A --&gt; D[&#34;Work Organization&#34;]
+
+                  B --&gt; B1[&#34;Automation of Routine Tasks&#34;]
+                  B --&gt; B2[&#34;Augmentation of Complex Work&#34;]
+                  B --&gt; B3[&#34;New AI-Centric Roles&#34;]
+
+                  C --&gt; C1[&#34;Technical AI Skills&#34;]
+                  C --&gt; C2[&#34;Human-Centric Skills&#34;]
+                  C --&gt; C3[&#34;Continuous Learning&#34;]
+
+                  D --&gt; D1[&#34;Hybrid Human-AI Teams&#34;]
+                  D --&gt; D2[&#34;Freelance &amp; Gig Economy&#34;]
+                  D --&gt; D3[&#34;Global Talent Access&#34;]
+
+                  style A fill:#3b82f6,stroke:#1e40af,stroke-width:3px,color:#fff
+                  style B fill:#f8fafc,stroke:#475569,stroke-width:2px,color:#1e293b
+                  style C fill:#f8fafc,stroke:#475569,stroke-width:2px,color:#1e293b
+                  style D fill:#f8fafc,stroke:#475569,stroke-width:2px,color:#1e293b
+                  style B1 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style B2 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style B3 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style C1 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style C2 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style C3 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style D1 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style D2 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                  style D3 fill:#e2e8f0,stroke:#64748b,stroke-width:1px,color:#1e293b
+                </div>
+              </div>
+
+              <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mt-6">
+                <h4 class="font-semibold text-primary mb-2">Critical Warning</h4>
+                <p class="text-sm text-secondary">
+                  AI could eliminate <strong>half of all entry-level white-collar jobs</strong>, potentially spiking unemployment to 10-20% in the next 1-5 years <a href="#ref-11" class="citation">[11]</a>.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Global Upskilling Imperative -->
+          <div class="bg-gradient-to-r from-purple-50 to-pink-50 p-8 rounded-lg">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">Global Upskilling and Reskilling Imperative</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div class="text-center">
+                <div class="text-3xl font-bold text-accent mb-2">60%</div>
+                <p class="text-sm text-secondary">of workers will require training by 2027 to adapt to AI-driven changes <a href="#ref-87" class="citation">[87]</a>
+                </p>
+              </div>
+              <div class="text-center">
+                <div class="text-3xl font-bold text-accent mb-2">50%</div>
+                <p class="text-sm text-secondary">of employees currently lack access to adequate training opportunities</p>
+              </div>
+              <div class="text-center">
+                <div class="text-3xl font-bold text-accent mb-2">54%</div>
+                <p class="text-sm text-secondary">of freelancers report advanced AI proficiency vs 38% of full-time employees <a href="#ref-32" class="citation">[32]</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- Future Outlook -->
+      <section id="future-outlook" class="py-16 px-8 bg-slate-50">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">Future Projections and Policy Recommendations</h2>
+
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
+            <div>
+              <h3 class="font-serif text-xl font-semibold text-primary mb-4">Long-Term Economic Impacts</h3>
+              <p class="text-secondary mb-6">
+                Long-term economic projections indicate transformative potential, with generative AI alone adding <strong>$2.6-4.4 trillion annually</strong> to the global economy. The Oliver Wyman Forum suggests AI could contribute $20 trillion to global GDP by 2030 <a href="#ref-35" class="citation">[35]</a>.
+              </p>
+
+              <div class="space-y-4">
+                <div class="data-point">
+                  <h4 class="font-semibold text-primary">US Economic Leadership</h4>
+                  <p class="text-lg font-bold text-accent">5.6% output increase</p>
+                  <p class="text-sm text-muted">In high TFP scenario over next decade <a href="#ref-48" class="citation">[48]</a>
+                  </p>
+                </div>
+                <div class="data-point">
+                  <h4 class="font-semibold text-primary">Global Disparities</h4>
+                  <p class="text-lg font-bold text-accent">2x greater benefits</p>
+                  <p class="text-sm text-muted">Advanced economies vs. low-income countries</p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <img src="https://kimi-web-img.moonshot.cn/img/biglysales.com/590fd1836a984724980774715b9c5a5025268f0b.jpg" alt="Futuristic cityscape with AI technology integration" class="rounded-lg shadow-lg w-full h-80 object-cover" size="medium" aspect="wide" style="photo" query="futuristic city AI technology" referrerpolicy="no-referrer" data-modified="1" data-score="11598.00"/>
+            </div>
+          </div>
+
+          <!-- Employment Shifts -->
+          <div class="mb-12">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">Anticipated Employment Shifts</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h4 class="font-semibold text-primary mb-4 flex items-center">
+                  <i class="fas fa-arrow-up text-green-600 mr-2"></i>
+                  Growing Roles
+                </h4>
+                <div class="space-y-3">
+                  <div class="flex justify-between items-center p-2 bg-green-50 rounded">
+                    <span class="text-sm">AI/ML Specialists</span>
+                    <span class="text-xs bg-green-600 text-white px-2 py-1 rounded">High Growth</span>
+                  </div>
+                  <div class="flex justify-between items-center p-2 bg-green-50 rounded">
+                    <span class="text-sm">Business Intelligence Analysts</span>
+                    <span class="text-xs bg-green-600 text-white px-2 py-1 rounded">High Growth</span>
+                  </div>
+                  <div class="flex justify-between items-center p-2 bg-green-50 rounded">
+                    <span class="text-sm">Information Security Analysts</span>
+                    <span class="text-xs bg-green-600 text-white px-2 py-1 rounded">High Growth</span>
+                  </div>
+                </div>
+                <p class="text-xs text-muted mt-4">97 million new roles may emerge by 2025 <a href="#ref-35" class="citation">[35]</a>
+                </p>
+              </div>
+
+              <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h4 class="font-semibold text-primary mb-4 flex items-center">
+                  <i class="fas fa-arrow-down text-red-600 mr-2"></i>
+                  Declining Roles
+                </h4>
+                <div class="space-y-3">
+                  <div class="flex justify-between items-center p-2 bg-red-50 rounded">
+                    <span class="text-sm">Clerical/Secretarial</span>
+                    <span class="text-xs bg-red-600 text-white px-2 py-1 rounded">-40%</span>
+                  </div>
+                  <div class="flex justify-between items-center p-2 bg-red-50 rounded">
+                    <span class="text-sm">Traditional Retail</span>
+                    <span class="text-xs bg-red-600 text-white px-2 py-1 rounded">-30%</span>
+                  </div>
+                  <div class="flex justify-between items-center p-2 bg-red-50 rounded">
+                    <span class="text-sm">Transportation Driving</span>
+                    <span class="text-xs bg-red-600 text-white px-2 py-1 rounded">-50%</span>
+                  </div>
+                </div>
+                <p class="text-xs text-muted mt-4">85 million jobs may be displaced by 2025 <a href="#ref-398" class="citation">[398]</a>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Policy Recommendations -->
+          <div class="bg-white p-8 rounded-lg shadow-sm">
+            <h3 class="font-serif text-xl font-semibold text-primary mb-6">Policy Recommendations Framework</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+              <div class="text-center">
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <i class="fas fa-flask text-blue-600 text-xl"></i>
+                </div>
+                <h4 class="font-semibold text-primary mb-2">R&amp;D Investment</h4>
+                <p class="text-sm text-muted">Sustained funding for fundamental AI research and public-private partnerships</p>
+              </div>
+
+              <div class="text-center">
+                <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <i class="fas fa-graduation-cap text-green-600 text-xl"></i>
+                </div>
+                <h4 class="font-semibold text-primary mb-2">Workforce Development</h4>
+                <p class="text-sm text-muted">Comprehensive upskilling initiatives and lifelong learning programs</p>
+              </div>
+
+              <div class="text-center">
+                <div class="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <i class="fas fa-balance-scale text-purple-600 text-xl"></i>
+                </div>
+                <h4 class="font-semibold text-primary mb-2">Ethical Governance</h4>
+                <p class="text-sm text-muted">Adaptive regulatory frameworks focusing on bias, privacy, and accountability</p>
+              </div>
+
+              <div class="text-center">
+                <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <i class="fas fa-users text-orange-600 text-xl"></i>
+                </div>
+                <h4 class="font-semibold text-primary mb-2">Equitable Access</h4>
+                <p class="text-sm text-muted">Social safety nets and inclusive AI ecosystem development</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="section-divider"></div>
+
+      <!-- Methodology -->
+      <section id="methodology" class="py-16 px-8">
+        <div class="max-w-4xl mx-auto">
+          <h2 class="font-serif text-3xl font-bold text-primary mb-8">Methodological Notes and Data Sources</h2>
+
+          <div class="prose prose-lg max-w-none">
+            <p class="text-secondary mb-6">
+              This whitepaper synthesizes information from leading academic institutions, industry research firms, international organizations, and government agencies. Key sources include Stanford Institute for Human-Centered Artificial Intelligence (HAI) AI Index Reports, McKinsey &amp; Company, PwC, Goldman Sachs, IMF, and World Economic Forum.
+            </p>
+
+            <div class="bg-gray-50 p-6 rounded-lg mb-8">
+              <h3 class="font-semibold text-primary mb-4">Data Limitations and Considerations</h3>
+              <ul class="text-sm text-secondary space-y-2">
+                <li>• <strong>Temporal Dynamics:</strong> AI field evolves rapidly; data may become outdated quickly</li>
+                <li>• <strong>Definitional Variance:</strong> Different methodologies for &#34;AI-related jobs&#34; and &#34;AI adoption&#34; across sources</li>
+                <li>• <strong>Projection Uncertainty:</strong> Economic impact forecasts depend on numerous assumptions</li>
+                <li>• <strong>Regional Disparities:</strong> Varying data collection standards across countries</li>
+                <li>• <strong>Industry Bias:</strong> Private research may reflect vested interests or optimistic projections</li>
+              </ul>
+            </div>
+
+            <p class="text-secondary">
+              The analysis employs comparative methods to highlight differences between regions, focusing on developments since ChatGPT-3&#39;s launch in October 2022. Data points are prioritized based on recency and relevance to economic impact assessment.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer class="bg-slate-900 text-white py-12 px-8">
+        <div class="max-w-6xl mx-auto">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div>
+              <h3 class="font-serif text-xl font-semibold mb-4">About This Report</h3>
+              <p class="text-slate-300 text-sm">
+                Comprehensive analysis of AI&#39;s economic impact since ChatGPT-3, providing data-driven insights for policymakers, researchers, and business leaders.
+              </p>
+            </div>
+            <div>
+              <h3 class="font-serif text-xl font-semibold mb-4">Key Insights</h3>
+              <ul class="text-slate-300 text-sm space-y-2">
+                <li>• US leads with $109.1B AI investment</li>
+                <li>• 68% growth in AI job postings</li>
+                <li>• $2.6-4.4T annual global economic potential</li>
+                <li>• 60% of workers need training by 2027</li>
+              </ul>
+            </div>
+            <div>
+              <h3 class="font-serif text-xl font-semibold mb-4">Publication</h3>
+              <p class="text-slate-300 text-sm">
+                <strong>Date:</strong> July 2025
+                <br/>
+                <strong>Analysis Period:</strong> October 2022 - July 2025
+                <br/>
+                <strong>Regions Covered:</strong> US, EU, Asia (China, India)
+              </p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+
+    <script>
+        // Initialize Mermaid
+        document.addEventListener('DOMContentLoaded', function() {
+            mermaid.initialize({ 
+                startOnLoad: true,
+                theme: 'default',
+                themeVariables: {
+                    primaryColor: '#3b82f6',
+                    primaryTextColor: '#ffffff',
+                    primaryBorderColor: '#1e40af',
+                    lineColor: '#475569',
+                    secondaryColor: '#f8fafc',
+                    tertiaryColor: '#e2e8f0',
+                    background: '#ffffff',
+                    mainBkg: '#3b82f6',
+                    secondBkg: '#f8fafc',
+                    tertiaryBkg: '#e2e8f0'
+                },
+                flowchart: {
+                    htmlLabels: true,
+                    curve: 'basis'
+                }
+            });
+
+            // Initialize mermaid controls after mermaid renders
+            setTimeout(initializeMermaidControls, 1000);
+        });
+
+        // Initialize Mermaid Controls for zoom and pan
+        function initializeMermaidControls() {
+            const containers = document.querySelectorAll('.mermaid-container');
+
+            containers.forEach(container => {
+            const mermaidElement = container.querySelector('.mermaid');
+            let scale = 1;
+            let isDragging = false;
+            let startX, startY, translateX = 0, translateY = 0;
+
+            // 触摸相关状态
+            let isTouch = false;
+            let touchStartTime = 0;
+            let initialDistance = 0;
+            let initialScale = 1;
+            let isPinching = false;
+
+            // Zoom controls
+            const zoomInBtn = container.querySelector('.zoom-in');
+            const zoomOutBtn = container.querySelector('.zoom-out');
+            const resetBtn = container.querySelector('.reset-zoom');
+            const fullscreenBtn = container.querySelector('.fullscreen');
+
+            function updateTransform() {
+                mermaidElement.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+
+                if (scale > 1) {
+                container.classList.add('zoomed');
+                } else {
+                container.classList.remove('zoomed');
+                }
+
+                mermaidElement.style.cursor = isDragging ? 'grabbing' : 'grab';
+            }
+
+            if (zoomInBtn) {
+                zoomInBtn.addEventListener('click', () => {
+                scale = Math.min(scale * 1.25, 4);
+                updateTransform();
+                });
+            }
+
+            if (zoomOutBtn) {
+                zoomOutBtn.addEventListener('click', () => {
+                scale = Math.max(scale / 1.25, 0.3);
+                if (scale <= 1) {
+                    translateX = 0;
+                    translateY = 0;
+                }
+                updateTransform();
+                });
+            }
+
+            if (resetBtn) {
+                resetBtn.addEventListener('click', () => {
+                scale = 1;
+                translateX = 0;
+                translateY = 0;
+                updateTransform();
+                });
+            }
+
+            if (fullscreenBtn) {
+                fullscreenBtn.addEventListener('click', () => {
+                if (container.requestFullscreen) {
+                    container.requestFullscreen();
+                } else if (container.webkitRequestFullscreen) {
+                    container.webkitRequestFullscreen();
+                } else if (container.msRequestFullscreen) {
+                    container.msRequestFullscreen();
+                }
+                });
+            }
+
+            // Mouse Events
+            mermaidElement.addEventListener('mousedown', (e) => {
+                if (isTouch) return; // 如果是触摸设备，忽略鼠标事件
+
+                isDragging = true;
+                startX = e.clientX - translateX;
+                startY = e.clientY - translateY;
+                mermaidElement.style.cursor = 'grabbing';
+                updateTransform();
+                e.preventDefault();
+            });
+
+            document.addEventListener('mousemove', (e) => {
+                if (isDragging && !isTouch) {
+                translateX = e.clientX - startX;
+                translateY = e.clientY - startY;
+                updateTransform();
+                }
+            });
+
+            document.addEventListener('mouseup', () => {
+                if (isDragging && !isTouch) {
+                isDragging = false;
+                mermaidElement.style.cursor = 'grab';
+                updateTransform();
+                }
+            });
+
+            document.addEventListener('mouseleave', () => {
+                if (isDragging && !isTouch) {
+                isDragging = false;
+                mermaidElement.style.cursor = 'grab';
+                updateTransform();
+                }
+            });
+
+            // 获取两点之间的距离
+            function getTouchDistance(touch1, touch2) {
+                return Math.hypot(
+                touch2.clientX - touch1.clientX,
+                touch2.clientY - touch1.clientY
+                );
+            }
+
+            // Touch Events - 触摸事件处理
+            mermaidElement.addEventListener('touchstart', (e) => {
+                isTouch = true;
+                touchStartTime = Date.now();
+
+                if (e.touches.length === 1) {
+                // 单指拖动
+                isPinching = false;
+                isDragging = true;
+
+                const touch = e.touches[0];
+                startX = touch.clientX - translateX;
+                startY = touch.clientY - translateY;
+
+                } else if (e.touches.length === 2) {
+                // 双指缩放
+                isPinching = true;
+                isDragging = false;
+
+                const touch1 = e.touches[0];
+                const touch2 = e.touches[1];
+                initialDistance = getTouchDistance(touch1, touch2);
+                initialScale = scale;
+                }
+
+                e.preventDefault();
+            }, { passive: false });
+
+            mermaidElement.addEventListener('touchmove', (e) => {
+                if (e.touches.length === 1 && isDragging && !isPinching) {
+                // 单指拖动
+                const touch = e.touches[0];
+                translateX = touch.clientX - startX;
+                translateY = touch.clientY - startY;
+                updateTransform();
+
+                } else if (e.touches.length === 2 && isPinching) {
+                // 双指缩放
+                const touch1 = e.touches[0];
+                const touch2 = e.touches[1];
+                const currentDistance = getTouchDistance(touch1, touch2);
+
+                if (initialDistance > 0) {
+                    const newScale = Math.min(Math.max(
+                    initialScale * (currentDistance / initialDistance),
+                    0.3
+                    ), 4);
+                    scale = newScale;
+                    updateTransform();
+                }
+                }
+
+                e.preventDefault();
+            }, { passive: false });
+
+            mermaidElement.addEventListener('touchend', (e) => {
+                // 重置状态
+                if (e.touches.length === 0) {
+                isDragging = false;
+                isPinching = false;
+                initialDistance = 0;
+
+                // 延迟重置isTouch，避免鼠标事件立即触发
+                setTimeout(() => {
+                    isTouch = false;
+                }, 100);
+                } else if (e.touches.length === 1 && isPinching) {
+                // 从双指变为单指，切换为拖动模式
+                isPinching = false;
+                isDragging = true;
+
+                const touch = e.touches[0];
+                startX = touch.clientX - translateX;
+                startY = touch.clientY - translateY;
+                }
+
+                updateTransform();
+            });
+
+            mermaidElement.addEventListener('touchcancel', (e) => {
+                isDragging = false;
+                isPinching = false;
+                initialDistance = 0;
+
+                setTimeout(() => {
+                isTouch = false;
+                }, 100);
+
+                updateTransform();
+            });
+
+            // Enhanced wheel zoom with better center point handling
+            container.addEventListener('wheel', (e) => {
+                e.preventDefault();
+                const rect = container.getBoundingClientRect();
+                const centerX = rect.width / 2;
+                const centerY = rect.height / 2;
+
+                const delta = e.deltaY > 0 ? 0.9 : 1.1;
+                const newScale = Math.min(Math.max(scale * delta, 0.3), 4);
+
+                // Adjust translation to zoom towards center
+                if (newScale !== scale) {
+                const scaleDiff = newScale / scale;
+                translateX = translateX * scaleDiff;
+                translateY = translateY * scaleDiff;
+                scale = newScale;
+
+                if (scale <= 1) {
+                    translateX = 0;
+                    translateY = 0;
+                }
+
+                updateTransform();
+                }
+            });
+
+            // Initialize display
+            updateTransform();
+            });
+        }
+
+        // Mobile menu toggle
+        const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+        const tocFixed = document.querySelector('.toc-fixed');
+        
+        mobileMenuToggle.addEventListener('click', () => {
+            tocFixed.classList.toggle('open');
+        });
+
+        // Close mobile menu when clicking on a link or outside
+        document.addEventListener('click', (e) => {
+            // Close menu when clicking outside
+            if (tocFixed.classList.contains('open') && 
+                !tocFixed.contains(e.target) && 
+                e.target !== mobileMenuToggle) {
+                tocFixed.classList.remove('open');
+            }
+
+            // Close menu when clicking on a link
+            if (e.target.classList.contains('toc-link')) {
+                tocFixed.classList.remove('open');
+            }
+        });
+
+        // Active section highlighting
+        const tocLinks = document.querySelectorAll('.toc-link');
+        const sections = document.querySelectorAll('section[id]');
+
+        function updateActiveSection() {
+            let current = '';
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop;
+                const sectionHeight = section.clientHeight;
+                if (window.scrollY >= sectionTop - 100) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            tocLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === `#${current}`) {
+                    link.classList.add('active');
+                }
+            });
+        }
+
+        window.addEventListener('scroll', updateActiveSection);
+        updateActiveSection();
+
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+  
+
+</body></html>

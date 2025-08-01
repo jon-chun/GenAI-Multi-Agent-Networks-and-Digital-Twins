@@ -1,5 +1,10 @@
 # AI Agents Fall 2025 Reaings
 
+## Textbooks
+
+* []()
+
+
 ## News and Updates
 
 ### News
