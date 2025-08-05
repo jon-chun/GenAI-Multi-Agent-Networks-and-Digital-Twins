@@ -87,6 +87,7 @@
 
 ### Voice
 
+* [EmergenTTS-Eval](https://github.com/boson-ai/emergenttts-eval-public)
 * [HF ASR](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 
 ### OCR

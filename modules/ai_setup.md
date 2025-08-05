@@ -17,6 +17,7 @@
 
 * [venv]()
 * [Conda]()
+  - [Conda MenuInst](https://github.com/conda/menuinst)
 * [Docker]()
 
 ## Python

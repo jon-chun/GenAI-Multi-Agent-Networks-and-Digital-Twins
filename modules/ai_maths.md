@@ -27,3 +27,9 @@
 
 * [TrueTheta.io Blog](https://truetheta.io/concepts/opinions-and-speculations/a-view-into-government-cybersecurity/)
 * [Applied Spatial Regression Analysis - Lecture: Spatial Process Models (37:28) (17 Oct 2024)](https://www.youtube.com/watch?v=6F5u8GEPHzs)
+
+## Optimization
+
+* [Pymoo (Jul 2025)](https://github.com/anyoptimization/pymoo)
+  - [Pymoo Doc](https://pymoo.org/)
+* [MM-NEAT (in Java) (2023)](https://github.com/schrum2/MM-NEAT)

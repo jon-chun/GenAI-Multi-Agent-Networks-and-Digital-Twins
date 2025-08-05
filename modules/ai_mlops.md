@@ -53,12 +53,20 @@ Rallly
   * Github
     * [Github Discussions](https://github.com/orgs/community/discussions)
   * Replt
-## vLLM
+
+## LVM/LMM/LMM Servers
+
+### Ollama
+
+### vLLM
 
 * [vLLM Github](https://github.com/vllm-project/vllm)
 * [vLLM Docs](https://docs.vllm.ai/en/latest/getting_started/installation/gpu.html)\
 * [vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (5 Sep 2024)](https://blog.vllm.ai/2024/09/05/perf-update.html)
 
+### SGL
+
+* [SGL](https://github.com/sgl-project/sglang)
 
 ## Utilities
 
@@ -105,6 +113,12 @@ Rallly
 ## Local Alternatives
 
 * [Run Any Local LLM Faster Than Ollama—Here's How (12:06) (5 Nov 2024)](https://www.youtube.com/watch?v=i1rvSiSpzSo)
+
+## Webserver
+
+## File Server
+
+* [CopyParty](https://github.com/9001/copyparty)
 
 ## Docker
 

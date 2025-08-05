@@ -9,6 +9,12 @@
 
 * [Awesome Vibe Coding (filipecalegario)](https://github.com/filipecalegario/awesome-vibe-coding)
 
+## Terminal IDE
+
+* [Crush](https://github.com/charmbracelet/crush)
+* [Claude Code]()
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+
 ## Context Coding
 
 * [Awesome Context Engineering](https://github.com/coleam00/context-engineering-intro)
@@ -159,8 +165,10 @@ Remember to use the Github CLI (`gh`) for all Github-related tasks
 * [o1-eng](https://github.com/Doriandarko/o1-engineer/blob/main/o1-eng.py)
 * []()
 
-## Claude Code
+## Claude Code 
 
+* [Awesome Claude Code (Jul 2025)](https://github.com/hesreallyhim/awesome-claude-code)
+* [Claude Code Templates (Jul 2025)](https://github.com/davila7/claude-code-templates)
 * Cursor with Claude Code [The Case for Claude Code (26:46) (23 Jun 2025)](https://www.youtube.com/watch?v=aHTXccrfXC8)
 
 ## Gemini CLI

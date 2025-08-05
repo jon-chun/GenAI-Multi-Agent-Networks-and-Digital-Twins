@@ -1,5 +1,6 @@
 # RAG
 
+* [A Practical Approach to Retrieval Augmented Generation Systems (21 Nov 2023)](https://mallahyari.github.io/rag-ebook/)
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
 
@@ -121,6 +122,7 @@ Citations: [1] https://python.langchain.com/docs/how_to/qa_citations/ [2] https:
 
 ## Graph RAG Research Frameworks
 
+* [EfficientRAG: Efficient Retriever for Multi-Hop Question Answering (26 Sep 2024)](https://github.com/NIL-zhuang/EfficientRAG-official)
 * [PathRAG (28 Feb 2025)](https://github.com/ai-in-pm/PathRAG)
 * [LightRAG (1 Mar 2025)](https://github.com/HKUDS/LightRAG)
 * [MS GraphRAG](https://github.com/microsoft/graphrag)

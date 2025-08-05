@@ -31,6 +31,14 @@
   * [ppt2desc](https://github.com/ALucek/ppt2desc)
   * [LibraOffice Docker](https://github.com/ALucek/ppt2desc/blob/main/docker-compose.yml)
 
+## Body Language and Poise Estimation
+
+* [Prompt2Sign (Jul 2025)](https://github.com/SignLLM/Prompt2Sign)
+
+## Video Dubbing, Subtitles, Segmentation
+
+* [VideoLingo](https://github.com/Huanshere/VideoLingo)
+
 ## Video Libraries
 
 * [PsyChip: OpenCV+YOLO+LLAVA powered video surveillance system](https://github.com/PsyChip/machina?ref=dailydev)

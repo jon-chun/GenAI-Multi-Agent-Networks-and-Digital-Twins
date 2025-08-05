@@ -113,7 +113,9 @@
   * [Browser Use Docker](https://github.com/gauravdhiman/browser-use-fastapi-docker-server)
 * [browseragent.dev](https://browseragent.dev/?ref=manuagi)
 * [Awesome Scraping](https://github.com/lorien/awesome-web-scraping)
-* [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Pytho](https://github.com/D4Vinci/Scrapling)
+
+* [AnyCrawl (Jul 2025)](https://github.com/any4ai/AnyCrawl)
+* [Scrapling: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python](https://github.com/D4Vinci/Scrapling)
 * [Scrapper](https://github.com/amerkurev/scrapper)
 * [LLMWebCrawler](https://github.com/Aavache/LLMWebCrawler)
 * [Firecrawl](https://github.com/mendableai/firecrawl)

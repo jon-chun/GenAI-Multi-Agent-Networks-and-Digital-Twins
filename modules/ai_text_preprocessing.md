@@ -3,8 +3,13 @@
 
 ## Unstructured Text
 
+* [LangExtract (Jul 2025)](https://github.com/google/langextract)
+  - [LangExtract - Google's New Library for NLP Tasks (21:01) (4 Aug 2025)](https://www.youtube.com/watch?v=t-53fouKqWI)
+* [Guidance (Jul 2025)](https://github.com/guidance-ai/guidance)
 * [Extractous (Dec 2024)](https://github.com/yobix-ai/extractous)
+* [Pydantic]()
 * [Unstruct](https://github.com/Zipstack/unstract)
+* [DocETL (Jul 2025)](https://github.com/ucbepic/docetl)
 
 ## Commercial ETL
 

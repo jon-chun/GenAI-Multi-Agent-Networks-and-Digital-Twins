@@ -83,10 +83,12 @@ Agents don't replace people - They help businesses scale and allow employees to 
 
 ### Agent Frameworks
 
+* [DeepAgents](https://github.com/hwchase17/deepagents)
 * [PySpur](https://github.com/PySpur-Dev/pyspur)
 
-### LangChain Agents
+### LangChain Agents and LangGraph
 
+* [LangGraph](https://github.com/langchain-ai/langgraph)
 * [Awesome LangChain Agents (2023)](https://github.com/EniasCailliau/awesome-langchain-agents)
 * [Pinecone LangChain Online Text](https://www.pinecone.io/learn/series/langchain/langchain-agents/)
 
@@ -98,6 +100,12 @@ Agents don't replace people - They help businesses scale and allow employees to 
 
 * [Awesome Social Agents](https://github.com/sotopia-lab/awesome-social-agents)
 * [a16z Eliza](https://github.com/dabit3/ai-agent-cognitivedriftt)
+
+## OS Agents
+
+* [Agent-OS](https://github.com/buildermethods/agent-os)
+* [OpenManus](https://github.com/mannaandpoem/OpenManus)
+(see ai_deepresearch.md)
 
 ### Agent Tools
 
@@ -129,7 +137,7 @@ Agents don't replace people - They help businesses scale and allow employees to 
 ## Agent Tools
 
 * [AgentOps.ai](https://www.agentops.ai/)
-* [LangGraph Studio]
+* [LangGraph Studio]()
 
 ### Agent API Services
 

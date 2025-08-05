@@ -1,9 +1,35 @@
 # AI Agents Fall 2025 Reaings
 
+## Course Prerequisites
+
+
+## Course Goals
+
+* Interdisciplinary AI
+  - Domain of Expertise
+  - CS/ML/AI Theory
+  - AI Industry Best Practices
+  - AI Research
+* Human-Centered AI
+  - Social Context
+  - Real-World, Big-Ideas, and High-Impact Applications
+  - Future of Work
+  - Ethical AI 
+  - Human Thriving
+ * 
+
+## Course Outline
+
+- 
 ## Textbooks
 
-* []()
+* [Building Agentic AI Systems by Biswas et al. (21 Apr 2025)](https://github.com/PacktPublishing/Building-Agentic-AI-Systems)
+* [AI Engineering: Building Applications with Foundation Models by Huyen (7 Jan 2025)](https://github.com/chiphuyen/aie-book)
+* [The AI Engineering Bible: The Complete and Up-to-Date Guide to Build, Develop and Scale Production Ready AI Systems by Caldwell (23 Apr 2025)]()
 
+## Survey Papers
+
+* [Foundations of Large Language Models by Xiao et al. - ver2 (15 Jun 2025)](https://arxiv.org/abs/2501.09223)
 
 ## News and Updates
 

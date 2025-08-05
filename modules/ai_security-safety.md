@@ -1,5 +1,9 @@
 # AI Security and Safety
 
+## Security Testing/Simulations
+
+* [OpenBAS](https://github.com/OpenBAS-Platform/openbas)
+
 ## LLM Jailbreaking
 
 * [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (12 Jan 2023)](https://arxiv.org/pdf/2401.06373)

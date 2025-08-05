@@ -105,7 +105,19 @@
 * 
 ### Low/No-Code Agents
 
+* [n8n]()
 * [VectorShift.ai](https://www.youtube.com/watch?v=Ss3euT0S7iA)
+
+## Simple Web-AI Frameworks
+
+* [Dyad](https://github.com/dyad-sh/dyad)
+* [Lovable]()
+* [v0]()
+* [Bolt]()
+
+## Integrated E2E Application Frameworks
+
+* [Motia](https://github.com/MotiaDev/motia)
 
 ## Extracting Structured Info
 
