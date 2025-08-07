@@ -264,11 +264,13 @@ https://www.youtube.com/results?search_query=ai+web+scraper* [Am I going to jail
 
 * [DataProfiler](https://github.com/capitalone/DataProfiler)
 
-### ANONYMIZER
+### Anonymizer
 
 * [MS Presidio](https://microsoft.github.io/presidio/getting_started/)
 * [ANJANA is a Python library for anonymizing sensitive data](https://github.com/IFCA-Advanced-Computing/anjana)
 * [anonymizer-it 1. faker 2. hash-based](https://github.com/elastic/anonymize-it)
+* [Anonymizing Sensitive Data in LLM Prompts (35:44) (2024)](https://www.youtube.com/watch?v=7NrzPuICLtg)
+  - [Slides](https://docs.google.com/presentation/d/1XBqaN73xRDyGGWLkWchdrmwW-d__dRddCfU4nrmn9TA/edit?slide=id.g2cc4a1d7c27_0_261#slide=id.g2cc4a1d7c27_0_261)
 
 ## PREDICTION LIBRARIES
 

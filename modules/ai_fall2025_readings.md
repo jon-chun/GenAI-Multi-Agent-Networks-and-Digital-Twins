@@ -5,31 +5,65 @@
 
 ## Course Goals
 
-* Interdisciplinary AI
+* Interdisciplinary AI: Trad Academic Scholarship + SOTA AI Research + SOP/BP AI Startups/Industry 
   - Domain of Expertise
   - CS/ML/AI Theory
-  - AI Industry Best Practices
-  - AI Research
+  - AI Industry Best Practices: SWE, SDLC, PRD/PTS, etc.
+  - State of the Art (SOTA) AI Research
 * Human-Centered AI
   - Social Context
+  - Creativity, Communication, Collaboration, and Entreprenuership
   - Real-World, Big-Ideas, and High-Impact Applications
-  - Future of Work
+  - AI and the Future of Work, Society, and Self
   - Ethical AI 
   - Human Thriving
- * 
 
 ## Course Outline
 
-- 
-## Textbooks
+* Setup
+  - VMs: NotebookLM, Colab, to RunPod.io 
+  - IDE: CLI and VSCode
+  - AI Coding: Prompt Engineering, Context Engineering 
+  - Github
+  - APIs: Google, OpenAI, Claude, OpenRouter, Requesty
+  - Low-Code/No-Code: Google Flow
+* From Philosophy to Math to Coding to Linguistics
+* Python, Libraries, PyTorch
+* LLMs: Architecture, Models, Hyperparameters, and Modalities
+* Metrics and Benchmarks: Stats, Metrics, LLM-as-Judges
+* DevOps/MLOps: Chat Web Sandboxes to Ollama to vLLM/SPY
+* Prompt Engineering and Context Engineering
+* Structured Output
+* Tool Use
+* MCP/ACA
+* Low-Code/No-Code: n8nb, Google Flow
+* Synthetic Data
+* Fine-Tune
+* Reasoning
+* Custom AI Apps 
+
+## Textbooks: Free
+
+* [Dive in to Deep Learning](https://d2l.ai/)
+  - [Github](https://github.com/d2l-ai/d2l-en)
+* [ML Books for Masters (upto Jan 2025)](https://drive.google.com/drive/folders/1jIJMyBOeWiVxLCUUtLvEFEFCnWxbh6cs)
+
+## Textbooks: Paid
 
 * [Building Agentic AI Systems by Biswas et al. (21 Apr 2025)](https://github.com/PacktPublishing/Building-Agentic-AI-Systems)
+  - [Github](https://github.com/PacktPublishing/Building-Agentic-AI-Systems)
 * [AI Engineering: Building Applications with Foundation Models by Huyen (7 Jan 2025)](https://github.com/chiphuyen/aie-book)
+  - [Github](https://github.com/chiphuyen/aie-book)
 * [The AI Engineering Bible: The Complete and Up-to-Date Guide to Build, Develop and Scale Production Ready AI Systems by Caldwell (23 Apr 2025)]()
 
-## Survey Papers
+## Courses and Certificates
 
-* [Foundations of Large Language Models by Xiao et al. - ver2 (15 Jun 2025)](https://arxiv.org/abs/2501.09223)
+* [Andrew Ng's Deep Learning Specialization on Coursera (20hr/wk for 4mo)](https://www.reddit.com/answers/623c2bba-97de-49ce-b881-35cfb874b213/?q=Andrew+Ng+Deep+Learning+specialization&source=SERP)
+
+## Assigned Papers
+
+* (Survey) [Foundations of Large Language Models by Xiao et al. - ver2 (15 Jun 2025)](https://arxiv.org/abs/2501.09223)
+* (AGI) [Levels of AGI for Operationalizing Progress on the Path to AGI by Morris (5 Jun 2024)](https://arxiv.org/abs/2311.02462)
 
 ## News and Updates
 
@@ -126,6 +160,233 @@
 
 ## Multi-Agent Frameworks
 
+## Vibe Coding
+
+* [Vibe Coding with Confidence — Itamar Friedman, Qodo (20:54) (6 Aug 2025)](https://www.youtube.com/watch?v=n991Yxo1aOI)
+**Outline: The Future of AI in Software Development – Vibe Coding with Confidence via CLI and Multi-Agent Workflows**
+
+*Presented by Itar Friedman, CEO & Co-Founder of Kodto*
+
+---
+
+### I. Introduction
+- **Speaker**: Itar Friedman, CEO and Co-Founder of Kodto
+- **Topic**: The evolution of AI in software development, focusing on "vibe coding with confidence," the role of the Command Line Interface (CLI), and multi-agent workflows.
+- **Audience Check**:
+  - Asked audience if they’ve tried:
+    - Cloud Code
+    - Codci
+    - Aides
+  - Implies familiarity with AI coding tools among attendees.
+- **Product Announcement**:
+  - Kodto’s **CLI tool** was soft-launched **5 minutes before the talk**.
+  - Available for installation and testing.
+  - Feedback encouraged.
+  - Limited capacity initially.
+
+---
+
+### II. Generations of AI for Developers
+#### A. Gen 1.0: Autocomplete
+- Tools: IDE plugins (e.g., GitHub Copilot)
+- Function: Code completion, generating a few lines ahead.
+- Limitation: Requires existing developer skills; not accessible to non-developers.
+- Impact: Useful, but **not a game changer**.
+
+#### B. Gen 2.0: Chat & Diagenetic Interfaces
+- Tools: Chat-based AI (e.g., ChatGPT)
+- Function: Enables junior developers to generate more code.
+- Challenges:
+  - Seniors/enterprise developers face increased code review burden.
+  - Output often lacks quality and maintainability.
+  - Requires heavy human oversight.
+
+#### C. Gen 3.0: Multi-Agent Workflows (The Game Changer)
+- **Core Idea**: Shift from chat-based interaction to **command-line-driven, end-to-end agent workflows**.
+- Goal: Enable **vibe coding with confidence** — not just fast coding, but high-quality, maintainable, and reliable output.
+- Key Enabler: **CLI as the new interface leader**.
+
+---
+
+### III. AI Across the Software Development Life Cycle (SDLC)
+#### A. Beyond the IDE
+- Current tools focus on coding *inside* IDEs.
+- Future: AI must operate **across the entire SDLC**:
+  1. Planning
+  2. Code Generation
+  3. Testing
+  4. Code Review
+- Need for **end-to-end, agentic workflows** that span these phases.
+
+#### B. The "V" Shape of Development
+- Typical workflow:
+  1. **Planning** (non-executable)
+  2. **Code Writing** (executable)
+  3. **Testing** (executable, but not app code)
+  4. **Review** (non-executable)
+- **Game Changer**: Compress this "V" into a **holistic, automated flow** using AI agents.
+
+---
+
+### IV. The Problem with "Vibe Coding"
+#### A. Origin and Backlash
+- Term popularized by Karpathy (Andrej Karpathy).
+- Initially celebrated as a fast, intuitive way to code with AI.
+- **Quick backlash** within weeks/months:
+  - Karpathy himself retracted, stating:  
+    > “I actually and professionally care about code. Contrast: vibe code.”
+- Criticisms:
+  - Lacks quality, maintainability, and context.
+  - Unsuitable for **large, existing codebases**.
+  - Works well only for **greenfield projects**.
+
+#### B. Requirements for "Vibe Coding with Confidence"
+1. **Context Awareness**:
+   - Must include project-specific context, best practices, architecture.
+2. **Workflows**:
+   - Structured, repeatable processes.
+   - Integration with SDLC stages.
+3. **Trust & Quality**:
+   - Reliable code review, testing, and refactoring.
+   - Enterprise-grade maintainability.
+
+---
+
+### V. Kodto’s Approach: Multi-Agent Architecture
+#### A. Holistic AI Solution
+- Focus on **end-to-end workflows**, not isolated tools.
+- Designed for **enterprise-grade software**.
+
+#### B. Key Agents & Tools
+1. **Deep Research / Deep Ask Agent**:
+   - Understands complex codebases.
+   - Retrieves relevant context for accurate AI output.
+
+2. **Code Review Agent (Flagship: "Code Merge")**:
+   - Named: **Code Merge** (codto merge).
+   - Collects and applies **organizational best practices** over time.
+   - Ensures code quality and adherence to standards.
+
+3. **Shift-Left Tool (IDE Integration)**:
+   - Brings review and best practices **into the development phase**.
+   - Prevents issues before code is pushed.
+
+4. **Cover Agent (Open Source)**:
+   - Automatically **increases test coverage**.
+   - Integrated into CLI; no need to download separately.
+   - GitHub: `github.com/kodto/cover` *(implied open-source)*
+
+---
+
+### VI. Why CLI is the Future
+#### A. Advantages of CLI over IDE Plugins
+- **Automation & Scripting**:
+  - Can be integrated into CI/CD, pre-commit, post-commit hooks.
+- **Pipelines & Composability**:
+  - Supports **piping** agents together (e.g., generate → test → review).
+  - Enables **workflow orchestration**.
+- **Background Execution**:
+  - Agents can run asynchronously.
+- **Developer-Centric**:
+  - Familiar to developers; supports complex, repeatable tasks.
+
+#### B. Real-World Example: Simon’s Talk
+- Speaker Simon demonstrated AI tools **entirely via CLI**.
+- Proves CLI is powerful, flexible, and sufficient for advanced workflows.
+
+#### C. Kodto CLI Tool
+- **Just launched** (soft launch during talk).
+- Features:
+  - Chat interface with agents.
+  - Ability to **create new agents on demand**.
+  - Example: `create agent --goal="review code"`
+  - Uses **MCP (Machine-Callable Protocols)** to discover capabilities.
+  - Generates agents with:
+    - Tools
+    - Instructions
+    - Output schema
+- Can be extended and customized.
+
+#### D. Agent-to-Agent (A2A) Communication
+- Vision: **Swarm of agents** working in parallel.
+- Features:
+  - Discoverability between agents.
+  - Handshakes and shared context.
+  - Parallel execution with coordination.
+- **Current State**: Very few using A2A (only 1 person raised hand in audience).
+- **Future Roadmap**: CLI-based A2A command system in development.
+
+---
+
+### VII. Demo & Workflow Example
+#### A. Creating a Review Agent
+- Command: `kodto create agent --goal="code review"`
+- Process:
+  - Initializes MCP.
+  - Searches available tools and capabilities.
+  - Generates agent definition (e.g., "merge review agent").
+  - Agent is ready to use in seconds (vs. hours manually).
+
+#### B. Using the Agent
+- Command: `kodto merge review [target]`
+- Features:
+  - Applies **organizational best practices**.
+  - Can include **success/failure criteria** (e.g., test coverage threshold).
+  - Flexible input and output.
+
+#### C. Pipeline Example
+```bash
+# Generate code → Increase test coverage → Review
+kodto generate "new feature" | kodto cover | kodto merge review
+```
+- Demonstrates **composable, CLI-driven workflows**.
+
+---
+
+### VIII. The Future: Swarm of Agents
+- **Vision**: A **swarm of specialized agents**, each with:
+  - Unique credentials
+  - Domain-specific knowledge
+  - Best practices
+- **Timeline**: Rapid development expected in **2025–2026**.
+- **Interfaces**:
+  - CLI as primary control plane.
+  - **Dynamic UI generation** from CLI for specific tasks (e.g., code review interface).
+  - May **reduce reliance on traditional IDEs**.
+
+---
+
+### IX. Conclusion
+- **Current State**: AI tools are helpful but not game-changing.
+- **Game Changer**: **Confident, end-to-end AI workflows** via CLI and multi-agent systems.
+- **Kodto’s Role**:
+  - Building a **holistic, agentic platform**.
+  - Focusing on **quality, trust, and enterprise needs**.
+- **Call to Action**:
+  - Try the **new Kodto CLI tool** (soft-launched).
+  - Follow Kodto for upcoming announcements (2-month roadmap).
+  - Join the movement toward **AI-powered, CLI-driven development**.
+
+---
+
+### X. Supporting Details & References
+- **Kodto CLI**: Available now (soft launch).
+- **Kodto Cover (Open Source)**: `github.com/kodto/cover` *(implied)*
+- **Key Concepts**:
+  - MCP (Machine-Callable Protocols)
+  - A2A (Agent-to-Agent Communication)
+  - Shift-left testing & review
+  - Vibe coding → Confident coding
+- **Influencers Cited**:
+  - **Andrej Karpathy** – On the evolution of "vibe coding".
+  - **Simon** – Demonstrated CLI-first AI development (talk referenced but not named).
+
+---
+
+### XI. Final Message
+> “We’re going into a future where we’re going to have a **swarm of agents**... and it’s coming really fast — 2025, 2026.”  
+> — Itar Friedman, Kodto
+
 ## Context Engineering
 
 * [Context Engineering for Agents (22:05) (2 Jul 2025)](https://www.youtube.com/watch?v=4GiqzUHD5AA)
@@ -190,6 +451,10 @@
 * [IBM Tutorials Github (25 Jun 2025)](https://github.com/IBM/ibmdotcom-tutorials/tree/main)
 * [LangGraph End-to-End (Oct 2025)](https://github.com/sunnysavita10/LangGraph-End-to-End-Course)
 
+## Project: Chatbot
+
+* [Biblical Companion](https://github.com/AlbertoB12/Biblical-Companion-AI/tree/main)
+* [PhiloAgent]()
 ## Project: Agentic Deep Research
 
 - [II-Researcher Intelligent Internet (28 Mar 2025)](https://www.ii.inc/web/blog/post/ii-researcher)

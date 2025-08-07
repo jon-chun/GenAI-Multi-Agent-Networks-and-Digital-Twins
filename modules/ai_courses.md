@@ -1,6 +1,6 @@
 # AI Courses
 
-## Formal Courses
+## Free Courses
 
 * [DeepLearning.ai](https://www.deeplearning.ai/)
 * [Huggingface Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction?ref=dailydev)
@@ -11,6 +11,10 @@
 
 * [AI-Bites Learn-AI](https://github.com/ai-bites/learn-ai)
 * [Background: imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)
+
+# Paid Courses
+
+* [Trellis Research ($2.99/mo up)](https://www.youtube.com/@TrelisResearch)
 
 ## Blog
 
