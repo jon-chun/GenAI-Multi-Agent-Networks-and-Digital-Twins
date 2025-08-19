@@ -11,6 +11,9 @@ There are several open-source and third-party options available for creating gat
 * [Qwen Chat](https://chat.qwen.ai/)
 
 
+## Chat Transcript Analysis
+
+* [Kura](https://github.com/567-labs/kura)
 
 ### 1. CharacterAI Unofficial Python API
 

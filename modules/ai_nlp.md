@@ -7,10 +7,18 @@ https://github.com/wikimedia/sentencex?utm_source=chatgpt.com (table)
 
 ## Structured LLM Output / LLM Function Response
 
-* [Pydandic]()
+* [Model Selection]()
+* [Unstruct]()
+* [Pydantic]()
+* [Instructor](https://github.com/567-labs/instructor)
+* [LangExtract]()
+* [AutoSchemaKG](https://arxiv.org/html/2505.23628v3)
+  - [Github](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+* [Neo4j LLM Graph Builder]()
+* [Three-Stage Triplet Extractor](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0327186)
+
 * [LLM InStructor](https://github.com/instructor-ai/instructor)
   * [LLMs + Instructor: Generate Structured Output in Python Easily (29:30) (23 Mar 2025)](https://www.youtube.com/watch?v=VllkW63LWbY)
-* [Unstruct]()
 * [VLM Run Hub](https://www.youtube.com/watch?v=Vrp5vqdsMHM)
 
 https://github.com/mangiucugna/json_repair/

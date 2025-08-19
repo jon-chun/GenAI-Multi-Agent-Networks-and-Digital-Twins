@@ -3,6 +3,7 @@
 * [A Practical Approach to Retrieval Augmented Generation Systems (21 Nov 2023)](https://mallahyari.github.io/rag-ebook/)
 * RAG Fact-Checking for Hallucinations
   * [How to use LLMs for Fact Checking (40:39) (7 Sep 2024)](https://www.youtube.com/watch?v=tFuiQKUHcdY)
+* [Systematically Improving RAG Applications (15 Aug 2025)](https://github.com/567-labs/systematically-improving-rag)
 
 ## Awesome RAG
 

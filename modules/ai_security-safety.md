@@ -1,5 +1,9 @@
 # AI Security and Safety
 
+## AI Security Resources
+
+* [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security)
+
 ## Security Testing/Simulations
 
 * [OpenBAS](https://github.com/OpenBAS-Platform/openbas)

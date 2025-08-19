@@ -42,11 +42,31 @@
 * Reasoning
 * Custom AI Apps 
 
+## AI Tools
+
+* [github/ai-directories](https://github.com/best-of-ai/ai-directories)
+* [ai-search.io](https://ai-search.io/)
+* [AlternativeTo.net](https://alternativeto.net/)
+* [OpenAlternative.co](https://openalternative.co/alternatives)
+* [ebool](https://www.ebool.com/)
+* [Awesome FOSS Alternatives](https://github.com/sfermigier/awesome-foss-alternatives)
+
+
 ## Textbooks: Free
 
+* [Deep Learning by Goodfellow et al. (2016) MIT](https://www.deeplearningbook.org/)
+* [Pattern Recognition and Deep Learning by Bishop et al. (2006) Springer](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [Dive in to Deep Learning](https://d2l.ai/)
   - [Github](https://github.com/d2l-ai/d2l-en)
+
+* [Unlocking Artificial Intelligence From Theory to Applications by Mutschler et al. (2024) Springer](https://link.springer.com/book/10.1007/978-3-031-64832-8)
 * [ML Books for Masters (upto Jan 2025)](https://drive.google.com/drive/folders/1jIJMyBOeWiVxLCUUtLvEFEFCnWxbh6cs)
+* [Introduction to AI by Toussaint (4 Feb 2019)](http://repo.darmajaya.ac.id/5094/1/Lecture-AI.pdf)
+
+### Agent Textbooks
+
+* [Agents in the Long Game of AI: Computational Cognitive Modeling for Trustworthy, Hybrid AIOpen by McShane et al. (2024) MIT Press](https://direct.mit.edu/books/oa-monograph/5833/Agents-in-the-Long-Game-of-AIComputational)
+
 
 ## Textbooks: Paid
 
@@ -59,6 +79,10 @@
 ## Courses and Certificates
 
 * [Andrew Ng's Deep Learning Specialization on Coursera (20hr/wk for 4mo)](https://www.reddit.com/answers/623c2bba-97de-49ce-b881-35cfb874b213/?q=Andrew+Ng+Deep+Learning+specialization&source=SERP)
+
+## Assigned Articles/Blogs
+
+* [Building Effective Agents by Antrhopic (19 Dec 2024)](https://www.anthropic.com/engineering/building-effective-agents)
 
 ## Assigned Papers
 
@@ -438,7 +462,6 @@ kodto generate "new feature" | kodto cover | kodto merge review
 - [China Dark Factories]()
 - [$1,000 USD now buys you a humanoid robot that's OPEN SOURCE and owned by you. (31:39) (May 2025)](https://www.youtube.com/watch?v=J2k_z-B1-aw)
 
-
 ## AGI/ASI
 
 * [Apple Paper]()
@@ -451,10 +474,115 @@ kodto generate "new feature" | kodto cover | kodto merge review
 * [IBM Tutorials Github (25 Jun 2025)](https://github.com/IBM/ibmdotcom-tutorials/tree/main)
 * [LangGraph End-to-End (Oct 2025)](https://github.com/sunnysavita10/LangGraph-End-to-End-Course)
 
+## Project: Human Thriving
+
+* AI Usage Now
+  - [HBR]()
+  - [Anthropic CLIO](https://www.anthropic.com/research/clio)
+    - [Paper](https://arxiv.org/abs/2412.13678)
+* Big Questions: Immediate
+  - [AAAI and US Chamber of Commerce: Future of Work]()
+* Big Questions: Long-Term
+  - [Future of Life Institute]()
+  - [Less Wrong]()
+* Helix Roundtables (18-19 Apr, 2026):
+  1. (Sat)
+  2. (Sat)
+  3.
+
+## Project: Language (vs Multi-Modal) and AI Generated Content (AIGC)
+
+* AI Generated Content Detection (What does human-AI diff tell us about ourselves)
+* VibeCode: QuillBot Features and Paraphrasing
+  - [AIGC Signs/Features](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+  - [ai-detected/ai-detectors (2024)](https://github.com/ai-detected/ai-detectors)
+  - [Xianjun-Yang/Awesome_papers_on_LLMs_detection (Jun 2025)](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection)
+  - [Daisy-Zhang/Awesome-AIGC-Detection (Oct 2024)](https://github.com/Daisy-Zhang/Awesome-AIGC-Detection)
+  - [chenhaoxing/Awesome-AI-Generated-Video-Detection (Jul 2025)](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection)
+* VibeCode: Writing Tools https://www.alwrity.com/ai-writing-tools
+* Cognition/Emotion/Self vs Linguistic Encapsulation (non-narrative internal monologues)
+
+## Project: Data
+
+* [How to look at your data — Jeff Huber (Choma) + Jason Liu (567) (19:22) (9 Aug 2025)](https://www.youtube.com/watch?v=jryZvCuA0Uc)
+
+## Project: Prompt Engineering, Vibe Coding, Context Engineering
+
+* [Deeplearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)
+* [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+* [Instructor: Advanced Prompting Techniques](https://python.useinstructor.com/prompting/)
+* [Systematically Improving RAG Applications by Jason Liu (Sep 16-Oct 23 $1,440USD)](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK)
+  - [Github](https://github.com/567-labs/ai-engineering-summit)
+
+## Project: LLM
+
+* [Deeplearning.ai: Open Source Models with Hugging Face](https://learn.deeplearning.ai/courses/open-source-models-hugging-face/lesson/ci5d5/introduction)
+  - [Huggingface.co](https://huggingface.co/)
+
+## Project: Fine-Tuning, SFT, RL, etc.
+
+* [Unsloth]() 
+* [KBLaM](https://www.microsoft.com/en-us/research/blog/introducing-kblam-bringing-plug-and-play-external-knowledge-to-llms/)
+  - [Github](https://github.com/microsoft/kblam)
+
+## Project: Benchmarking
+
+* [HealthBench](https://openai.com/index/healthbench/)
+
+## Project: Function Calling and Structured Data
+
+* [Deeplearning.ai Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/rtwb1/introduction)
+* [Model Selection]()
+* [Unstruct]()
+* [Pydantic]()
+* [Instructor Manual](https://python.useinstructor.com/)
+  - [Github](https://github.com/567-labs/instructor)
+  - [Github Examples](https://github.com/567-labs/instructor/tree/main/examples)
+  - [LLMs + Instructor: Generate Structured Output in Python Easily (29:30) (23 Mar 2025)](https://www.youtube.com/watch?v=VllkW63LWbY)
+* [LangExtract]()
+* [AutoSchemaKG](https://arxiv.org/html/2505.23628v3)
+  - [Github](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+* [Neo4j LLM Graph Builder]()
+* [Three-Stage Triplet Extractor](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0327186)
+
+## Project: Embeddings and VectorDBs
+
+* [How to look at your data — Jeff Huber (Choma) + Jason Liu (567) (19:22) (6 Aug 2025)](https://www.youtube.com/watch?v=jryZvCuA0Uc)
+  - [GPT5 Summary](https://chatgpt.com/c/689e0bfe-f704-8330-866b-727d17fb2f8a)
+
 ## Project: Chatbot
 
 * [Biblical Companion](https://github.com/AlbertoB12/Biblical-Companion-AI/tree/main)
 * [PhiloAgent]()
+
+## Project: Guardrails
+
+* [Deeplearning.ai: Safe and reliable AI via guardrails](https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/) (after RAG)
+
+## Project: Security
+
+* [ottosulin/awesome-ai-security (Jul 2025)](https://github.com/ottosulin/awesome-ai-security)
+* [Prompt Injection, Adversarial Attacks, Data Poisoning, etc.]() 
+* [MCP Security]()
+
+## Project: Crawling, Scraping
+
+* [FireCrawl: web to data](https://docs.firecrawl.dev/introduction)
+
+## Project: Synthesizing Datasets and Augmentation
+
+* []()  
+
+## Project: GraphDB Neo4j
+
+* [Building An Extract Transform And Load Pipeline (ETL) For Neo4j GraphRAG Application | Part 2 (3 Sep 2024)](https://ai.gopubby.com/building-an-extract-transform-and-load-pipeline-etl-for-neo4j-graphrag-application-part-2-123be950946e)
+
+## Project: Low-Code n8n
+
+* [Google Opal](https://developers.googleblog.com/en/introducing-opal/)
+* [Google Firebase Studio](https://firebase.google.com/docs/studio)
+* [n8n]()
+
 ## Project: Agentic Deep Research
 
 - [II-Researcher Intelligent Internet (28 Mar 2025)](https://www.ii.inc/web/blog/post/ii-researcher)
@@ -462,8 +590,76 @@ kodto generate "new feature" | kodto cover | kodto merge review
 
 ## Project: Agentic RAG
 
+* [Perplexity](https://www.perplexity.ai/search/give-a-list-of-new-ai-models-p-qjImAZI_TvKIy89.T.Gc_A)
+* [LangExtract + RAG: Smarter Retrieval with Metadata Filtering (w/LangExtract) (12:23) (12 Aug 2025)](https://www.youtube.com/watch?v=RPpGIxmdZYs)
+  - [Github](https://github.com/PromtEngineer/LangExtract-RAG/blob/main/langextract_rag.py)
+* [Systematically Improving RAG ($2k paid course)](https://github.com/567-labs/systematically-improving-rag)
+* [Chroma Workshop: Topic Modeling for RAG Systems](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK)
+  - [Github](https://github.com/567-labs/how-to-look-at-data/tree/main)
 
+## Project: LLM-as-Judge
+
+* [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](https://huggingface.co/learn/cookbook/en/llm_judge)
+  - [Colab](https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/llm_judge.ipynb)
+
+## Multi-Agent Frameworks
+
+* [Datacamp.com: Multi-Agent Systems with LangGraph](https://campus.datacamp.com/courses/multi-agent-systems-with-langgraph/)
+
+* [Deeplearning.ai: Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction)
+* [Deeplearning.ai: Practical Multi-AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/lesson/agfnp/introduction)
+  - [crewAI Tutorial](https://github.com/crewAIInc/crewAI#quick-tutorial)
+  - [crewAI Examples](https://github.com/crewAIInc/crewAI-examples/tree/main)
+  - [crewAI RealWorld Examples](https://github.com/crewAIInc/crewAI#q-where-can-i-find-real-world-crewai-examples)
+  
 ## Project: Browser Automation
 
 - [Magnitude: The AI browser automation framework](https://magnitude.run/)
   * [Github](https://github.com/magnitudedev/magnitude)
+
+## Project: Tools and MCP
+
+* [](https://platform.composio.dev/)
+* [e2b: Code Sandbox](https://e2b.dev/)
+
+## Project: Prompt Optimization
+
+* [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps (with MLFlow Observability)](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/nj890/introduction)
+  - [DSPy Use Cases (scroll down to Projects using DSPy too)](https://dspy.ai/community/use-cases/)
+  - [DSPy API](https://dspy.ai/api/modules/Module/)
+  - [DSPy Paper by opsahl-Ong et al. (6 Oct 2024)](https://arxiv.org/abs/2406.11695)
+
+## Project: Agent Observability
+
+* [Weights and Biases (WandB)](https://wandb.ai/site)
+* [LangSmit]()
+* [Optica?]()
+* [Arize Pheonix](https://learn.deeplearning.ai/courses/evaluating-ai-agents/)
+  - [Github](https://github.com/Arize-ai/phoenix)
+* [AgentOps](https://github.com/AgentOps-AI/agentops)
+
+* [Arize Phoenix Resources]()
+
+## Project: Extracting Behavior
+
+* [Kura implement CLIO](https://github.com/567-labs/kura)
+Kura is a simple reproduction of the CLIO paper which uses language models to label user behaviour before clustering them based on embeddings recursively. This helps us understand user behaviour on a higher level without sacrificing PII
+
+
+## 📚 &nbsp; Resources
+
+- In addition to assessing the convergence of your agent's path, you can also analyze the failure probabilities of each step of your agent. Here's a [reference example](https://blog.langchain.dev/scipe-systematic-chain-improvement-and-problem-evaluation/) on how this can be done.
+-  [Tracing and Evaluating AI Agents built with LlamaIndex's Workflows](https://arize.com/resource/llamaindex-workflows-everything-you-need-to-get-started-and-trace-and-evaluate-your-agent/)
+-  Evaluating a LangChain tool-calling agent: [Link to notebook](https://github.com/Arize-ai/phoenix/blob/b107d9bc848efd38f030a8c72954e89616c43723/tutorials/evals/evaluate_tool_calling.ipynb), [Link to Video](https://www.youtube.com/watch?v=EfhylWtNb1s&t=254s)
+-  [Tracing and Evaluating LangGraph Agents](https://arize.com/blog/langgraph/)
+-  [Prompt template iteration for a summarization Service](https://github.com/Arize-ai/phoenix/blob/main/tutorials/experiments/summarization.ipynb)
+-  Comparing Agent Frameworks: [Link to reading](https://arize.com/blog-course/llm-agent-how-to-set-up/comparing-agent-frameworks/), [Link to repo](https://github.com/Arize-ai/phoenix/tree/main/examples/agent_framework_comparison)
+-  [Discussion of multi-agent framework with AutoGen](https://www.youtube.com/watch?v=fuvcV8o5wb0&list=PL86ARIu_ElO7HOm7cVgzfEs_NwSdfhHFA&index=6&ab_channel=ArizeAI)
+-  [Arize Phoenix Documentation](https://docs.arize.com/phoenix)
+
+## Agentic Frameworks
+
+
+## Agent Libraries
+
+* [mem0](https://docs.mem0.ai/introduction)
