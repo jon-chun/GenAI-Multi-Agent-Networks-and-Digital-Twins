@@ -3,6 +3,10 @@
 
 # [NOTES: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)
 
+## Course Notes:
+
+<<INSERT COURSE NOTES HERE>>
+
 ## Prompts & Summaries of Lessons
 This note includes the links to the prompts used in the lessons, additional resources and a summary of Claude Code features.
 

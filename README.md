@@ -1,3 +1,7 @@
+# UPDATE: Student Reviews
+
+Here are <a href="./docs/student_reviews_IPHS39SpecialTopicAIFrontiersLLMAutonomousWorkflows_fall2024_JonChun.pdf">anonymous student reviews</a> for the first iteration of this class. This is overall very encouraging.  Our students come from all academic divisions and mastered in their own fashion topics as complex and fast moving as AI, multi-agent frameworks, and auotmated agentic workflows. Well done!
+
 # Motivations
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.

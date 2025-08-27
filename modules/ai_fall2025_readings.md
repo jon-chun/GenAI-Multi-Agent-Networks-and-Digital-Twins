@@ -42,10 +42,22 @@
 * Reasoning
 * Custom AI Apps 
 
+## Paid and Free AI Services
+
+* Paid
+  - [OpenAI]()
+  - [Anthropic]()
+* Free
+  - [Google Gemini](https://gemini.google/students/)
+  - [Perplexity](https://www.perplexity.ai/help-center/en/articles/11385821-partner-promotions-and-referral-programs)
+    * [Sheerid.com](https://shop.sheerid.com/product/free-perplexity-pro-for-students/)
+* [Awesome: ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers)
+
 ## AI Tools
 
 * [github/ai-directories](https://github.com/best-of-ai/ai-directories)
 * [ai-search.io](https://ai-search.io/)
+* [ProductHunt.com](https://www.producthunt.com/)
 * [AlternativeTo.net](https://alternativeto.net/)
 * [OpenAlternative.co](https://openalternative.co/alternatives)
 * [ebool](https://www.ebool.com/)
@@ -140,6 +152,8 @@
 
 ### Plugins
 
+* [Roo code](https://docs.roocode.com/)
+
 
 
 ## Foundational
@@ -167,6 +181,7 @@
 * [MCP Guide](https://modelcontextprotocol.io/introduction)
 * [MCP Client Dev Guide](https://github.com/cyanheads/model-context-protocol-resources/blob/main/guides/mcp-client-development-guide.md#1-introduction-to-mcp-clients)
 * [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+* [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)
 
 ## LLM Apps
 
@@ -490,6 +505,13 @@ kodto generate "new feature" | kodto cover | kodto merge review
   2. (Sat)
   3.
 
+## PROJECT: Low/No-Code AI Automation Demos/Intros
+
+* [Google LMNotebook]()
+* [Google Opal]()
+* [Suno]()
+* [Veo3]()
+
 ## Project: Language (vs Multi-Modal) and AI Generated Content (AIGC)
 
 * AI Generated Content Detection (What does human-AI diff tell us about ourselves)
@@ -506,13 +528,27 @@ kodto generate "new feature" | kodto cover | kodto merge review
 
 * [How to look at your data — Jeff Huber (Choma) + Jason Liu (567) (19:22) (9 Aug 2025)](https://www.youtube.com/watch?v=jryZvCuA0Uc)
 
-## Project: Prompt Engineering, Vibe Coding, Context Engineering
+## Project: Prompt Engineering and LLM APIs (Talking to AI LLMs)
 
-* [Deeplearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)
+* [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/nj890/introduction)
 * [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 * [Instructor: Advanced Prompting Techniques](https://python.useinstructor.com/prompting/)
 * [Systematically Improving RAG Applications by Jason Liu (Sep 16-Oct 23 $1,440USD)](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK)
   - [Github](https://github.com/567-labs/ai-engineering-summit)
+
+## Project: Vibe Coding, Context Engineering, and MCP (Context/Connection to Real-World)
+
+* [Deeplearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)
+* [Deeplearning.ai: MCP: Build Rich-Context AI Apps with Anthropic](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/fkbhh/introduction)
+  - REST, LSP, MCP (Why MCP? Video 1:00)
+  - Invokes TOOLS/Functions, Queries RESOURCES/Data, Interpolates PROMPTS/Templates (MCP Architecture Video 1:37)
+  - Naive vs Complex Prompt Template (MCP Architecture Video 10:00)
+* [Create a Website and host at Render.com](https://render.com/)
+
+## Project: Anthropic API Image Prompting, Streaming, Caching 
+
+* [Deeplearning.ai: Building toward Computer Use with Anthropic](https://learn.deeplearning.ai/courses/building-toward-computer-use-with-anthropic/)
+  - [Anthropic Prompt Enginering Doc](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 ## Project: LLM
 
