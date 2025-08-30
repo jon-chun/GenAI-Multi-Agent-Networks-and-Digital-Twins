@@ -647,6 +647,7 @@ kodto generate "new feature" | kodto cover | kodto merge review
   - [crewAI Tutorial](https://github.com/crewAIInc/crewAI#quick-tutorial)
   - [crewAI Examples](https://github.com/crewAIInc/crewAI-examples/tree/main)
   - [crewAI RealWorld Examples](https://github.com/crewAIInc/crewAI#q-where-can-i-find-real-world-crewai-examples)
+  - [Streamlit: strnad/CrewAI-Studio/](https://github.com/strnad/CrewAI-Studio/)
   
 ## Project: Browser Automation
 
