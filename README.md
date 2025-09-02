@@ -1,6 +1,6 @@
 # UPDATE: Student Reviews
 
-Here are <a href="./docs/student_reviews_IPHS39SpecialTopicAIFrontiersLLMAutonomousWorkflows_fall2024_JonChun.pdf">anonymous student reviews</a> for the first iteration of this class. This is overall very encouraging.  Integrated Program for Humane Studies' students come from all academic divisions and each mastered in their own fashion topics as complex and fast moving as AI, multi-agent frameworks, and automated agentic workflows. Chapeau!
+Here are <a href="./docs/student_reviews_IPHS39SpecialTopicAIFrontiersLLMAutonomousWorkflows_fall2024_JonChun.pdf">anonymous student reviews</a> for the first iteration of this class in 2024. This is overall very encouraging.  Integrated Program for Humane Studies' students come from all academic divisions and each mastered in their own fashion topics as complex and fast moving as AI, multi-agent frameworks, and automated agentic workflows. Chapeau!
 
 # Motivations
 
