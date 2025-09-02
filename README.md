@@ -1,6 +1,6 @@
 # UPDATE: Student Reviews
 
-Here are <a href="./docs/student_reviews_IPHS39SpecialTopicAIFrontiersLLMAutonomousWorkflows_fall2024_JonChun.pdf">anonymous student reviews</a> for the first iteration of this class. This is overall very encouraging.  Integrated Program for Humane Studies' students come from all academic divisions and each mastered in their own fashion topics as complex and fast moving as AI, multi-agent frameworks, and auotmated agentic workflows. Chapeau!
+Here are <a href="./docs/student_reviews_IPHS39SpecialTopicAIFrontiersLLMAutonomousWorkflows_fall2024_JonChun.pdf">anonymous student reviews</a> for the first iteration of this class. This is overall very encouraging.  Integrated Program for Humane Studies' students come from all academic divisions and each mastered in their own fashion topics as complex and fast moving as AI, multi-agent frameworks, and automated agentic workflows. Chapeau!
 
 # Motivations
 
@@ -8,9 +8,9 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 
 # Requirements, Philosophy, and Project-Based Learning
 
-Although helpful, no maths beyond HS and introductory Python are essential. Unlike traditional CS/AI courses, we do not build from the bottom-up starting with comprehensive theory. Instead, we follow a top-down approach starting with real-world problems at a high-level of abstraction. We present an intellectual framework for each student to understand the underlying theory according to their individual preparation and perspectives.
+Although helpful, no math beyond high school and introductory Python skills are essential. Unlike traditional CS/AI courses, we do not build from the bottom-up starting with comprehensive theory. Instead, we follow a top-down approach starting with real-world problems at a high-level of abstraction. We present an intellectual framework for each student to understand the underlying theory according to their individual preparation and perspectives.
 
-Rapid AI progress paradoxically makes AI research both more complex and accessible. Traditional narrow AI research is rapidly advancing, papers have been exponentially growing in number, and expertise is becoming more specialized and/or deep. Conversely, human-centered AI applications have become more performant, easy to develop, and focused on domain expertise rather than specialized technical knowledge. Our goal is to train emerging experts from all fields to think systematically, creatively and iteratively think in precise, comprehensive, and quantifiable terms that can translate ideas into well-designed and high-impact AI applications.  
+Rapid AI progress paradoxically makes AI research both more complex and accessible. Traditional narrow AI research is rapidly advancing, papers have been exponentially growing in number, and expertise is becoming more specialized and/or deep. Conversely, human-centered AI applications have become more performant, easy to develop, and focused on domain expertise rather than specialized technical knowledge. Our goal is to train emerging experts from all fields to think systematically, creatively and iteratively in precise, comprehensive, and quantifiable terms that can translate ideas into well-designed and high-impact AI applications.  
 
 Learning and projects are customized to each student’s individual background, domain expertise, as well as current and future interests. Students from diverse fields fill in knowledge gaps and foster cross-pollination of ideas and insights. By the end of the course, every student should have an online digital portfolio of 4 industry standard AI projects and one original research project for future work or grad school reference.
 
@@ -30,7 +30,7 @@ More details on our human-centered AI curriculum, research and previous student 
 
 # IPHS 391: Frontiers in Generative AI
 
-This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a Python-based AI APIs and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence. Python programming is the technical prerequisite for this course. 
+This upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with Python-based AI APIs and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence. Python programming is the technical prerequisite for this course. 
 
 ## Course Details
 
