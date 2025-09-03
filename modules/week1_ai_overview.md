@@ -21,7 +21,7 @@ We begin with standard course bookkeeping followed by laying both a foundation a
 - What is the trajectory and pace of AI innovation, investments and productization?
 
 ## Experiences/Research Interests
-  * [Kenyon Faculty Pagee](https://www.kenyon.edu/directory/jon-chun/)
+  * [Kenyon Faculty Page](https://www.kenyon.edu/directory/jon-chun/)
   * [Github Profile](https://github.com/jon-chun)
   * [Wikipedia Katherine Elkins](https://en.wikipedia.org/wiki/Katherine_Elkins)
   * Narrative and Stories
@@ -64,6 +64,8 @@ We begin with standard course bookkeeping followed by laying both a foundation a
   * [Google Opal](https://opal.withgoogle.com/)
   * [suno.com](https://suno.com/)
   * [Google Veo3 Flow](https://labs.google/flow/about)
+  * [CrewAI Templates](https://www.crewai.com/templates)
+  * [LangGraph Examples](https://github.com/langchain-ai/langgraph/tree/main/examples)
 
 ## Group Ideation Lab Workflows
   * TA, analyst, creative partner, research pod.  

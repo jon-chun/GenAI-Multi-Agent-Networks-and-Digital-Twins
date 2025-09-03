@@ -38,19 +38,36 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 
 ## Course Details
 
-* Instructor:** Jon Chun
+* **Instructor:** Jon Chun
   * Office Hours: TuTh 10:30-noon or by appt.
   * [chunj@kenyon.edu](mailto:chunj@kenyon.edu)
-  * [Personal Webpage](https://github.com/jon-chun)
-* Institution:** Kenyon College
-* Term:** Fall 2024
-* Schedule:** Wednesday Evenings 7pm-10pm
-* Location:** Timberlake #5 (Evans Conference Rm)
-* Credit:** 0.5/4
-* Section:** 00
-* CRN:** 80044
-* Class Size:** 15
-* Prerequisites:** Introductory Python programming experience
+  * [Kenyon Faculty Page](https://www.kenyon.edu/directory/jon-chun/)
+  * [Github Profile](https://github.com/jon-chun)
+  * [Wikipedia Katherine Elkins](https://en.wikipedia.org/wiki/Katherine_Elkins)
+* **Research:**
+  * Narrative and Stories
+  * Multi-lingual and Cross-cultural AI
+  * Multimodal Affective AI
+  * AI Safety, Security, and Regulation
+  * Ethical Reasoning, Decision-Making, and Ethical Audits
+  * Automation of knowledge workflows
+  * AI, higher-ed, and the future of work
+  * Agentic Simulations (e.g. Persuasion, Deception, and Manipulation)
+  * Therapy Chatbots, AI Theory of Mind, Machine Psychology, Game Theory, etc.
+* **Affilliations:**
+  * **Traditional Academics/Digital Humanities:** Cultural Analytics, Narrative, Digital Humanities, etc.
+  * **AI:** ICML, Frontiers in Computer Science, etc.
+  * **Industry:** Meta, IBM, BWG, etc.
+
+* **Institution:** Kenyon College
+* **Term:** Fall 2024
+* **Schedule:** Wednesday Evenings 7pm-10pm
+* **Location:** Timberlake #5 (Evans Conference Rm)
+* **Credit:** 0.5/4
+* **Section:** 00
+* **CRN:** 80044
+* **Class Size:** 15
+* **Prerequisites:** Introductory Python programming experience
 
 ## Course Outline
 
