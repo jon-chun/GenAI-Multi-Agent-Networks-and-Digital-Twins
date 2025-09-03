@@ -43,7 +43,13 @@ We begin with standard course bookkeeping followed by laying both a foundation a
   * [Integrated Program for Humane Studies: Human-Centered AI and Digital Humanities](https://digital.kenyon.edu/dh/)
   * [IPHS 391 - Fall 2024](https://github.com/jon-chun#course-descriptions-and-mentored-research)
 
+## Research and Communications
+
+  * Lightening Research Presentations
+  * Final Project Poster
+
 ## Introductions
+
   * Name, major, “one thing AI should do for me by December” → live Google Doc.
 
 ## Intake Survey
