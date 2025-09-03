@@ -23,6 +23,7 @@ We begin with standard course bookkeeping followed by laying both a foundation a
 ## Experiences/Research Interests
   * [Kenyon Faculty Pagee](https://www.kenyon.edu/directory/jon-chun/)
   * [Github Profile](https://github.com/jon-chun)
+  * [Wikipedia Katherine Elkins](https://en.wikipedia.org/wiki/Katherine_Elkins)
   * Narrative and Stories
   * Multi-lingual and Cross-cultural AI
   * Multimodal Affective AI
@@ -47,6 +48,7 @@ We begin with standard course bookkeeping followed by laying both a foundation a
 
   * Lightening Research Presentations
   * Final Project Poster
+  * Poster Session
 
 ## Introductions
 
