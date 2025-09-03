@@ -65,8 +65,8 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 * **Location:** Timberlake #5 (Evans Conference Rm)
 * **Credit:** 0.5/4
 * **Section:** 00
-* **CRN:** 80044
-* **Class Size:** 15
+* **CRN:** 80637
+* **Class Size:** 10
 * **Prerequisites:** Introductory Python programming experience
 
 ## Course Outline
