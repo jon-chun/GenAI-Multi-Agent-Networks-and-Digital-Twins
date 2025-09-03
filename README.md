@@ -16,17 +16,21 @@ Learning and projects are customized to each student’s individual background, 
 
 More details on our human-centered AI curriculum, research and previous student research projects [here](https://github.com/jon-chun#mentored-research) and at [digital.kenyon.edu/dh](https://digital.kenyon.edu/dh/).
 
-# Fee
+# Fees
 
-* No textbooks, instead, ~$100-$150 in cloud subscriptions
-  * $20/mo OpenAI ChatGPT
-  * $10/mo Google Colab 
-  * API usage fees
-(IPHS can provide assistance if necessary)
+* No textbooks, but up approximately $180 in cloud subscriptions
+  * $20/mo OpenAI ($80/4 mo)
+  * $10/mo Google Colab $40/4 mo)
+  * $20/mo Anthropic.ai ($40/2 mo)
+  * (1yr free) Google Gemini Pro Plan 
+    * https://gemini.google/students/ 
+  * (1mo free) Perplexity Pro 
+    * https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals
+
 
 # Syllabus
 
-[IPHS 391 Syllabus in PDF](syllabus_iphs391_frontiers_in_genai_2024fall_chunj.pdf)
+[IPHS 391 Syllabus (Fall 2025)](syllabus_iphs391_frontiers_in_genai_2025fall_chunj.pdf)
 
 # IPHS 391: Frontiers in Generative AI
 
@@ -35,7 +39,7 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 ## Course Details
 
 * Instructor:** Jon Chun
-  * Office Hours: Thur 11-1pm or by appt.
+  * Office Hours: TuTh 10:30-noon or by appt.
   * [chunj@kenyon.edu](mailto:chunj@kenyon.edu)
   * [Personal Webpage](https://github.com/jon-chun)
 * Institution:** Kenyon College

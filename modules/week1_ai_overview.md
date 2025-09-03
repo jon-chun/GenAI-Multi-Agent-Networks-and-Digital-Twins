@@ -1,23 +1,26 @@
 # Week 1: Introduction to AI
 
-This course is the third in a sequence of human-centered AI courses that:
+## Intake Survey
+  * [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeElBuTf_kHvyp9c0LmSXhD25I3fZzErGq672t-wFaUBobtPw/viewform?usp=sharing&ouid=112623698525906186738)
 
-1. build an intellectual framework for understanding and integrating human-centered AI abstractions from traditional AI Digital Humanities perspectives including the Humanities, Social Sciences and Arts,
+## Overview
 
-2. explore and survey the intersection of AI, academics and industry
+To the best of our knowledge, IPHS developed the world's first human-centered AI curriculum and interdisciplinary computing program centered around the big questions arising out traditional humanistic enquiry (IPHS100 Odyssey). This course is the third in a sequence of human-centered AI courses that:
 
-3. authentic assessments using SOTA AI research, models and methods to explore automating or agumenting knowledge workflows using automated agent networks.
+1. Build an intellectual framework for understanding and integrating human-centered AI abstractions from traditional AI Digital Humanities perspectives including the Humanities, Social Sciences and Arts,
 
-We begin with standard course bookkeeping followed by laying both a foundation and giving framework of guiding concepts:
+2. Explore and survey the intersection of (1) traditional academics, (2) AI Reseearch, and (3) Best practices in industry
 
-1. What is 'Artificial Intelligence' (AGI, ASI, etc.)?
-2. What are current perceptions, beliefs and expectations?
-3. Survey current SOTA multimodal AI models.
-4. What is the trajectory and pace of AI innovation, investments and productization?
+3. See entire research and industry pipeline from research design to authentic assessments using SOTA AI research, models and methods to explore automating or agumenting knowledge workflows using automated agent networks.
 
-## Bookkeeping
+We begin with standard course bookkeeping followed by laying both a foundation and giving framework of guiding concepts like:
 
-* Introductions/Research Interests
+- What is 'Artificial Intelligence' (AGI, ASI, etc.)?
+- What are current perceptions, beliefs and expectations?
+- Survey current SOTA multimodal AI models.
+- What is the trajectory and pace of AI innovation, investments and productization?
+
+## Introductions/Research Interests
   * Narrative and Stories
   * Multi-lingual and Cross-cultural AI
   * Multimodal Affective AI
@@ -26,91 +29,54 @@ We begin with standard course bookkeeping followed by laying both a foundation a
   * Automation of knowledge workflows
   * AI, higher-ed, and the future of work
   * Agentic Simulations (e.g. Persuasion, Deception, and Manipulation)
-* Syllabus: Schedule (Sept 18th: Prof Elkins), Topics, and Grading
-* Textbook -> Cloud Subscriptions $100-150
-* Laptop Setup/Survey
+  * Therapy Chatbots, AI Theory of Mind, Machine Psychology, Game Theory, etc.
 
-## **Humanistic Big Ideas**
+## Affilliations:
+  * Traditional Academics/Digital Humanities: Cultural Analytics, Narrative, Digital Humanities, etc.
+  * AI: ICML, Frontiers in Computer Science, etc.
+  * Industry: Meta, IBM, BWG, etc.
 
-### Readings
+## Project Based Learning
 
-* [Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
-* [Why consciousness is software, and software is spirit | Joscha Bach (20:19) (Apr 2025)](https://www.youtube.com/watch?v=E361FZ_50oo)
+  * [Integrated Program for Humane Studies: Human-Centered AI and Digital Humanities](https://digital.kenyon.edu/dh/)
+  * [IPHS 391 - Fall 2024](https://github.com/jon-chun#course-descriptions-and-mentored-research)
 
-### Reflection:
+## Introductions
+  * Name, major, “one thing AI should do for me by December” → live Google Doc.
 
-Theme 1: The Future of Work in the Age of AI
+## Intake Survey
+  Anonymous Google Form (skills, tools, predictions, risks). Project a quick aggregate.
 
-Impact on Human Roles: Based on Demis Hassabis’s insights, how might AI reshape traditional job roles, and what new opportunities or challenges could emerge for workers in fields like education, healthcare, or the arts? How should society prepare for these shifts?
-Human-AI Collaboration: Hassabis likely discusses AI as a tool for augmenting human work. What are the ethical implications of humans and AI systems collaborating closely in professional settings? How can we ensure that human agency and creativity remain central?
-Economic Inequality: How might AI-driven automation exacerbate or mitigate economic inequality? Discuss potential strategies to ensure equitable access to AI-driven opportunities, especially in rural or underserved communities like those near Kenyon College.
-Education and Skill Development: What changes should educational institutions, like Kenyon College, make to prepare students for an AI-driven workforce? Should liberal arts education adapt to emphasize skills that complement AI, such as critical thinking or emotional intelligence?
-Work-Life Balance: How might AI’s influence on productivity and efficiency, as discussed by Hassabis, affect work-life balance? Could AI lead to shorter workweeks or, conversely, increased pressure to be “always on”?
+## Demos
+  * [Claude Prompt Creator](https://claude.ai/public/artifacts/3796db7e-4ef1-4cab-b70c-d045778f23ec)
+  * [AIStudio.google.com (Nano Banana)](https://aistudio.google.com/prompts/new_chat)
+  * [LMNotebook](https://notebooklm.google/)
+  * [Google Opal](https://opal.withgoogle.com/)
+  * [suno.com](https://suno.com/)
+  * [Google Veo3 Flow](https://labs.google/flow/about)
 
-Theme 2: Consciousness, Software, and Spirit
+## Group Ideation Lab Workflows
+  * TA, analyst, creative partner, research pod.  
+  * Architect and Prompt: agents needed, tools/data, failure modes & safeguards
 
-Defining Consciousness: Joscha Bach suggests consciousness is akin to software or spirit. What does this metaphor imply about the nature of human consciousness? Do you agree with this framing, and why or why not?
-AI and Consciousness: If consciousness is software, as Bach proposes, could AI ever achieve a form of consciousness? Discuss the philosophical and ethical implications of creating AI systems that mimic or possess consciousness.
-Human Identity: How does Bach’s perspective challenge traditional notions of human identity and spirituality? In what ways might viewing consciousness as software influence our understanding of free will or moral responsibility?
-AI as a Mirror: Bach’s talk might suggest that building AI forces us to reflect on our own minds. How can studying AI’s “software-like” processes deepen our understanding of human cognition, emotions, or creativity?
-Ethical Boundaries: If software can be considered “spirit,” what ethical boundaries should guide the development of AI systems that simulate human-like traits? Should there be limits to how “human” AI can become?
+### Reflection Questions
 
-Theme 3: Human-Centered AI and Society
+* Theme 1: AI as a Civilization-Shaping Force
+  * How is AI reshaping labor, creativity, and society, and what excites or concerns you about these changes in your field of study?
+  * What role should liberal arts institutions like Kenyon College play in advocating for human-centered AI development?
+  * How might AI-driven automation create new opportunities or challenges in fields like medicine, law, literature, or policy?
+  * What ethical considerations should guide the design of AI systems that collaborate closely with humans?
 
-Balancing Efficiency and Humanity: Drawing from both videos, how can AI be designed to prioritize human well-being over pure efficiency or profit? What role should institutions like Kenyon College play in advocating for human-centered AI?
-Cultural Implications: How might AI’s influence on work (Hassabis) and its potential to emulate consciousness (Bach) reshape cultural values, such as community, creativity, or spirituality, in liberal arts settings like Kenyon?
-Bias and Fairness: Both videos likely touch on AI’s societal impact. How can we address biases in AI systems to ensure they serve diverse populations equitably? Discuss examples of potential biases in AI applications related to work or consciousness.
-Moral Agency in AI Design: Combining Hassabis’s and Bach’s perspectives, who should bear responsibility for the societal consequences of AI—developers, policymakers, or users? How can interdisciplinary fields like IPHS contribute to ethical AI design?
-Future Visions: Imagine a future where AI transforms work (per Hassabis) and consciousness is better understood as software (per Bach). What would a human-centered society look like in this context, and how can we steer AI development toward that vision?
+* Theme 2: The Future of Work and Knowledge Automation
+  * What jobs might exist in 2035 that don’t exist today, and how could AI contribute to their emergence?
+  * Which tasks in your field could AI automate, and which human skills will remain irreplaceable?
+  * How might AI’s influence on productivity affect work-life balance, potentially leading to shorter workweeks or increased pressure?
+  * What ethical risks (e.g., bias, privacy) must we address as AI automates knowledge work in your discipline?
+  * Should AI’s societal impact, such as potential job displacement, necessitate policies like Universal Basic Income by 2030?
 
-## **Coding**
-
-### Concepts:
-
-* Understanding API basics and RESTful architecture (in class)
-* OpenAI API authentication and rate limits (in class)
-* Basic prompt engineering techniques
-* Ethical considerations in AI API usage
-* Handling API responses and error handling (in class)
-* Best practices for integrating AI APIs into applications
-* The role of AI APIs in modern software development (in class)
-* Advanced prompt engineering techniques
-* prompt engineering and API integrationq
-* Group activity: Designing prompts for specific use cases
-* Understanding the broader impact of AI APIs on the tech industry
-* Future developments in AI API technology and accessibility
-
-### AI News/Current Events
-
-* [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
-
-### Prompt Engineering
-
-* [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
-* [Getting Started with the OpenAI Playground (7:03) May 2024](https://www.youtube.com/watch?v=iwYtzPJELkk&t=10s) 
-* [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques"](https://www.promptingguide.ai/applications/finetuning-gpt4o)
-
-### Coding: Prompt Engineering and OpenAI API
-
-* [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)  and [Github repo](https://github.com/debeshm/Python-ChatGPT/blob/main/chatbot.py)
-* [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
-* [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
-
-### Context Engineering
-
-
-
-## Hands-on
-
-* Demo of SOTA AI Apps
-  * [OpenAI](chat.openai.com)
-  * [Anthropic Claude.ai](https://claude.ai/new)
-  * [Phind.com](https://www.phind.com/)
-  * [pi.ai](https://pi.ai/)
-  * [hume.ai](https://demo.hume.ai/)
-  * [Midjourney.com](https://www.midjourney.com/home)
-  * [Udio.com](https://www.udio.com/)
-  * [ElevenLabs.com](https://elevenlabs.io/)
-  * [OpenAI Sora](https://openai.com/index/sora/)
-  * [Variety text-to-video GenAI](https://www.youtube.com/watch?v=WZVjlYVOYAI)
-  * [Research: Streaming T2V](https://streamingt2v.github.io/)
+* Theme 3: AI and Interdisciplinary Innovation
+  * How can AI bridge traditional academic divisions (e.g., humanities, sciences) to solve real-world problems?
+  * What are the benefits and challenges of applying AI to fields like literature, policy, or art, as seen in past IPHS projects?
+  * How can diverse student backgrounds in this class foster cross-pollination of ideas for innovative AI applications?
+  * What societal impacts could arise from AI projects like those in this course (e.g., AI for disability services, stock selection, fashion trend analysis)?
+  * How can your final project contribute to the broader field of AI or its applications in your area of interest?
