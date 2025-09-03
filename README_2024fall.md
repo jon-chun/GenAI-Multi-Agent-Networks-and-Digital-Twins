@@ -68,8 +68,8 @@ NOTE: Content will be added each week for Fall 2024
 
 * [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (Open)
 * [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (Abierta)
-* **Week 2:** Prompt Engineering and OpenAI API
-* **Week 3:** Miniproject 1: Chatbots
+* [**Week 2:** Prompt Engineering and OpenAI API](./modules/week2_prompting.md) (Ouvrir)
+* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md) (Offen)
 
 #### Reflection Questions
 
@@ -98,9 +98,9 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-* **Week 4:** Embeddings
-* **Week 5:** Models
-* **Week 6:** Miniproject 2: Gradio AI App
+* [**Week 4:** Embeddings](./modules/week4_embeddings.md) (открыть)
+* [**Week 5:** Models](./modules/week5_models.md) (開ける)
+* [**Week 6:** Miniproject 2: Gradio AI App](./modules/week6_miniproject2_gradio_ai_app.md) (باز کردن)
 
 #### Reflection Questions
 
@@ -129,10 +129,10 @@ Introduction to RAG and its implementation using Langchain. Students will create
 
 #### Detailed Content
 
-* **Week 7:** Retrieval-Augmented Generation (RAG)
-* **Week 8:** Agents: Langchain 1
-* **Week 9:** Agents: Langchain 2
-* **Week 10:** Miniproject 3: Agents
+* [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md) (membuka)
+* [**Week 8:** Agents: Langchain 1](./modules/week8_langchain1.md) (उद्घाटित)
+* [**Week 9:** Agents: Langchain 2](./modules/week9_langchain2.md) (aperta)
+* [**Week 10:** Miniproject 3: Agents](./modules/week10_miniproject3_langchain.md) (wazi)
 
 #### Reflection Questions
 
@@ -161,9 +161,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* **Week 11:** Multi-Agents: CrewAI #1
-* **Week 12:** Multi-Agents: CrewAI #2
-* **Week 13:** Miniproject 4: Multi-Agent Simulations
+* [**Week 11:** Multi-Agents: CrewAI #1](./modules/week11_multiagents.md) (irekita)
+* [**Week 12:** Multi-Agents: CrewAI #2](./modules/week12_miniproject4_multiagents.md) (עפענען)
+* [**Week 13:** Miniproject 4: Multi-Agent Simulations](./modules/week13_ai_now.md) (waach')
 
 #### Reflection Questions
 
@@ -192,8 +192,8 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* **Week 14:** Final Development, Testing, and Refinement of Semester Projects
-* **Week 15:** Final Project Presentations and Course Wrap-up
+* [**Week 14:** Final Development, Testing, and Refinement of Semester Projects](./modules/week14_ai_future.md) (obèrt)
+* [**Week 15:** Final Project Presentations and Course Wrap-up](./modules/oh_noes_404.md)
 
 #### Reflection Questions
 
@@ -245,3 +245,17 @@ Final projects are due today Wednesday, December 18, 2024 by 6:30pm per the offi
 
 For detailed project descriptions and grading rubrics, please refer to the individual module files.
 
+# IPHS200: Programming Humanity Exercises
+
+## Diachronic Sentiment Analysis
+
+* [SentimentArcs Simplified (10 Dec 2024)](./code/notebooks/sentimentarcs_supersimplified_20241210.ipynb)
+
+## Topic Modeling
+
+NOTE: Be sure to: (a) create a Kaggle account with your non-Kenyon gmail.com account if you don't have one already, (b) [Copy and Edit] to make you own personal copy.
+
+* [Topic Modeling (30 Oct 2024)](https://www.kaggle.com/code/asadozzaman/topic-modeling-in-nlp-with-abc-news-sample)
+  * (slight edit/fixes) [Colab](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241110.ipynb)
+  * (slight edit/fixes) [Colab with Button](./code/notebooks/nlp_Topic_Modeling_in_NLP_with_ABC_news_sample_20241111.ipynb)
+  
