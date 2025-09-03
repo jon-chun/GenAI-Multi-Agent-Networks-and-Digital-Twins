@@ -20,7 +20,9 @@ We begin with standard course bookkeeping followed by laying both a foundation a
 - Survey current SOTA multimodal AI models.
 - What is the trajectory and pace of AI innovation, investments and productization?
 
-## Introductions/Research Interests
+## Experiences/Research Interests
+  * [Kenyon Faculty Pagee](https://www.kenyon.edu/directory/jon-chun/)
+  * [Github Profile](https://github.com/jon-chun)
   * Narrative and Stories
   * Multi-lingual and Cross-cultural AI
   * Multimodal Affective AI
