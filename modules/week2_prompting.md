@@ -66,10 +66,13 @@ Future Visions: Imagine a future where AI transforms work (per Hassabis) and con
 * [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
 * [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
 
-### In Class: Vibe Coding and Context Engineering
+### Coding: Vibe Coding and Context Engineering
 
+* [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
 * [The New Code — Sean Grove, OpenAI (21:35) (Aug 2025)](https://www.youtube.com/watch?v=8rABwKRsec4)
 * [Augment Code: Specs Driven Development For AI Coding Agents (9:25) (Aug 2025)](https://www.youtube.com/watch?v=1jIo7bvIpIo)
-* [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
+
+### In Class: Vibe Coding and Context Engineering
+
 * [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
 
