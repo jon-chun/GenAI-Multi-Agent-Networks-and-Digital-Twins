@@ -54,7 +54,7 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 
 * [The New Code — Sean Grove, OpenAI (21:35) (Aug 2025)](https://www.youtube.com/watch?v=8rABwKRsec4)
 * [Augment Code: Specs Driven Development For AI Coding Agents (9:25) (Aug 2025)](https://www.youtube.com/watch?v=1jIo7bvIpIo)
-* The BMAD Method (Read ONE, preferably IMPROVED added on Thurs)
+* The BMAD Method (Read ONE, preferably IMPROVED added late)
   * IMPROVED: [BMAD Vibe Coding Workflow Is a Massive Level Up (24:57) (25 Jul 2025)](https://www.youtube.com/watch?v=Sosf8Z0T_M8)
   * ORIGINAL: [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
 
