@@ -28,7 +28,7 @@ Ethical Boundaries: If software can be considered “spirit,” what ethical bou
 
 
 
-
+* [12 Google AI Tools You Need to Know Now! (12:27) (26 Aug 2025)](https://www.youtube.com/watch?v=PO88FTIg9fE)
 
 
 
