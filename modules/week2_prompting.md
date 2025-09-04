@@ -7,7 +7,6 @@
 ### Readings
 
 * [Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
-* [Why consciousness is software, and software is spirit | Joscha Bach (20:19) (Apr 2025)](https://www.youtube.com/watch?v=E361FZ_50oo)
 
 ### Reflection:
 
@@ -19,15 +18,7 @@ Economic Inequality: How might AI-driven automation exacerbate or mitigate econo
 Education and Skill Development: What changes should educational institutions, like Kenyon College, make to prepare students for an AI-driven workforce? Should liberal arts education adapt to emphasize skills that complement AI, such as critical thinking or emotional intelligence?
 Work-Life Balance: How might AI’s influence on productivity and efficiency, as discussed by Hassabis, affect work-life balance? Could AI lead to shorter workweeks or, conversely, increased pressure to be “always on”?
 
-Theme 2: Consciousness, Software, and Spirit
-
-Defining Consciousness: Joscha Bach suggests consciousness is akin to software or spirit. What does this metaphor imply about the nature of human consciousness? Do you agree with this framing, and why or why not?
-AI and Consciousness: If consciousness is software, as Bach proposes, could AI ever achieve a form of consciousness? Discuss the philosophical and ethical implications of creating AI systems that mimic or possess consciousness.
-Human Identity: How does Bach’s perspective challenge traditional notions of human identity and spirituality? In what ways might viewing consciousness as software influence our understanding of free will or moral responsibility?
-AI as a Mirror: Bach’s talk might suggest that building AI forces us to reflect on our own minds. How can studying AI’s “software-like” processes deepen our understanding of human cognition, emotions, or creativity?
-Ethical Boundaries: If software can be considered “spirit,” what ethical boundaries should guide the development of AI systems that simulate human-like traits? Should there be limits to how “human” AI can become?
-
-Theme 3: Human-Centered AI and Society
+Theme 2: Human-Centered AI and Society
 
 Balancing Efficiency and Humanity: Drawing from both videos, how can AI be designed to prioritize human well-being over pure efficiency or profit? What role should institutions like Kenyon College play in advocating for human-centered AI?
 Cultural Implications: How might AI’s influence on work (Hassabis) and its potential to emulate consciousness (Bach) reshape cultural values, such as community, creativity, or spirituality, in liberal arts settings like Kenyon?
