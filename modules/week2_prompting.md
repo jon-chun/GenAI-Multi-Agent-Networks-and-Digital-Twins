@@ -54,20 +54,8 @@ Future Visions: Imagine a future where AI transforms work (per Hassabis) and con
 
 ### AI News/Current Events
 
-### AI Research
-
-This will be an exercise in skimming and using AI to analyze and understand an AI research paper. Do not worry if many terms or concepts appear alien to you now. This paper gives a great overview of what you will learn over the next 14 weeks.
-
-- Read "Abstract" on page 1
-- Read from section 1 (middle page 4) to section 3.1 (bottom page 7)
-- Read from section 4 (bottom page 12) to 4.1 with Fig 3 (top of page 13), but stop before 4.1.1
-- Read from section 4.3 (bottom page 23 to middle page 24), but stop before 4.3.2
-- Read section 8 Conclusion on page 58.
-   
-From these 8 pages as reference points, I'll dissect this paper for you in class. More importantly, we'll learn how to use AI to query, explain, and get in dialog with contents and concepts of this paper. This is an invaluable skill that generalizes far beyond AI research papers like this.  
-
-* [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
-
+* [Workers Don't Trust Their Companies on AI (14:10) (31 Aug 2025)](https://www.youtube.com/watch?v=lxLz5xqVR9A)
+  
 ### Prompt Engineering
 
 * [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
@@ -85,6 +73,20 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
 * [The New Code — Sean Grove, OpenAI (21:35) (Aug 2025)](https://www.youtube.com/watch?v=8rABwKRsec4)
 * [Augment Code: Specs Driven Development For AI Coding Agents (9:25) (Aug 2025)](https://www.youtube.com/watch?v=1jIo7bvIpIo)
+
+### AI Research
+
+This will be an exercise in skimming and using AI to analyze and quickly grasp the fundamentals of an AI research paper. Do not worry if many terms or concepts appear alien to you now. In fact, this is unfamiliarity is key to demonstrating how to leverage AI to accelerate your learning. Over the next 14 weeks you will master the core concepts in this paper.
+
+- Read "Abstract" on page 1
+- Read from section 1 (middle page 4) to section 3.1 (bottom page 7)
+- Read from section 4 (bottom page 12) to 4.1 with Fig 3 (top of page 13), but stop before 4.1.1
+- Read from section 4.3 (bottom page 23 to middle page 24), but stop before 4.3.2
+- Read section 8 Conclusion on page 58.
+   
+From these 8 pages as reference points, I'll dissect this paper for you in class. More importantly, we'll learn a methodology to use AI to query, explain, and get in dialog with contents and concepts of this paper. This is an invaluable skill that generalizes far beyond this particular AI research paper.  
+
+* [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
 
 ## In Class
 
