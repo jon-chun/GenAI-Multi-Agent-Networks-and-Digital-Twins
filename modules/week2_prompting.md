@@ -18,14 +18,6 @@ Economic Inequality: How might AI-driven automation exacerbate or mitigate econo
 Education and Skill Development: What changes should educational institutions, like Kenyon College, make to prepare students for an AI-driven workforce? Should liberal arts education adapt to emphasize skills that complement AI, such as critical thinking or emotional intelligence?
 Work-Life Balance: How might AI’s influence on productivity and efficiency, as discussed by Hassabis, affect work-life balance? Could AI lead to shorter workweeks or, conversely, increased pressure to be “always on”?
 
-Theme 2: Human-Centered AI and Society
-
-Balancing Efficiency and Humanity: Drawing from both videos, how can AI be designed to prioritize human well-being over pure efficiency or profit? What role should institutions like Kenyon College play in advocating for human-centered AI?
-Cultural Implications: How might AI’s influence on work (Hassabis) and its potential to emulate consciousness (Bach) reshape cultural values, such as community, creativity, or spirituality, in liberal arts settings like Kenyon?
-Bias and Fairness: Both videos likely touch on AI’s societal impact. How can we address biases in AI systems to ensure they serve diverse populations equitably? Discuss examples of potential biases in AI applications related to work or consciousness.
-Moral Agency in AI Design: Combining Hassabis’s and Bach’s perspectives, who should bear responsibility for the societal consequences of AI—developers, policymakers, or users? How can interdisciplinary fields like IPHS contribute to ethical AI design?
-Future Visions: Imagine a future where AI transforms work (per Hassabis) and consciousness is better understood as software (per Bach). What would a human-centered society look like in this context, and how can we steer AI development toward that vision?
-
 ## **Coding**
 
 ### Concepts:
