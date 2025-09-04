@@ -54,7 +54,9 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 
 * [The New Code — Sean Grove, OpenAI (21:35) (Aug 2025)](https://www.youtube.com/watch?v=8rABwKRsec4)
 * [Augment Code: Specs Driven Development For AI Coding Agents (9:25) (Aug 2025)](https://www.youtube.com/watch?v=1jIo7bvIpIo)
-* [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
+* The BMAD Method (Read ONE, preferably IMPROVED added on Thurs)
+  * IMPROVED: [BMAD Vibe Coding Workflow Is a Massive Level Up (24:57) (25 Jul 2025)](https://www.youtube.com/watch?v=Sosf8Z0T_M8)
+  * ORIGINAL: [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
 
 ### AI Research
 
@@ -92,6 +94,14 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 )
 * [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
+* [BMAD User Guide](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/docs/user-guide.md)
+  * "npx create-next-app@latest ."
+  * create ./docs (copy )
+  * "lets proceed to the PM step with our product brief to create the PRD"
+
+* OPTION 0: Create a GPT or Gemini Gem
+  * Prompt: "Follow the web agent bundle instructions and assume the role of the BMAD Orchestrator - do not break character"
+  * Upload: [team-fullstack.txt](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/dist/teams/team-fullstack.txt)
 * OPTION 1: Using Web Chat
   * [team-fullstack.txt](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/dist/teams/team-fullstack.txt)
   * PROMPT #1: "Your critical operating instructions are attached, do not break this assigned character"
