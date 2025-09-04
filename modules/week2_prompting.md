@@ -30,7 +30,7 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 * Best practices for integrating AI APIs into applications
 * The role of AI APIs in modern software development (in class)
 * Advanced prompt engineering techniques
-* prompt engineering and API integrationq
+* prompt engineering and API integration
 * Group activity: Designing prompts for specific use cases
 * Understanding the broader impact of AI APIs on the tech industry
 * Future developments in AI API technology and accessibility
@@ -66,7 +66,7 @@ This will be an exercise in skimming and using AI to analyze and quickly grasp t
 - Read from section 4.3 (bottom page 23 to middle page 24), but stop before 4.3.2
 - Read section 8 Conclusion on page 58.
    
-From these 8 pages as reference points, I'll dissect this paper for you in class. More importantly, we'll learn a methodology to use AI to query, explain, and get in dialog with contents and concepts of this paper. This is an invaluable skill that generalizes far beyond this particular AI research paper.  
+From these 8 pages as reference points, I'll dissect this paper for you in class. More importantly, we'll learn a methodology to use AI to query, explain, and enter into dialog with contents and concepts of this paper. This is an invaluable skill that generalizes far beyond this particular AI research paper.  
 
 * [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
 
@@ -76,16 +76,17 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * [Perplexity.ai Referral Program](https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals)
 * [Optimized Perplexity.ai Referrals for Free Month](https://chatgpt.com/share/68b90e66-abb0-800d-a0ba-1e7a1f94b761)
-
+* [Setup VSCode and AI extensions]()
+  
 ### From Prompts to Chatbots
 
 * [OpenAI Playground]()
 * [AIStudio]()
-* [OpenAI/OpenRouter Character.ai Chatbot Colab]()
+* [Character.ai like Chatbot Colab]()
 
 ### Vibe Coding and Context Engineering
 
 * [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 * [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
-* [DSPy Docs](https://dspy.ai/)
+  * [DSPy Docs](https://dspy.ai/)
 
