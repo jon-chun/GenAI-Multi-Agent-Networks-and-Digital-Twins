@@ -64,7 +64,7 @@ This will be an exercise in skimming and using AI to analyze and understand an A
 - Read from section 4.3 (bottom page 23 to middle page 24), but stop before 4.3.2
 - Read section 8 Conclusion on page 58.
    
-From these 8 pages as reference points, we'll dissect and learn to use AI in class to query, explain, and understand the key Figures and concepts. 
+From these 8 pages as reference points, I'll dissect this paper for you in class. More importantly, we'll learn how to use AI to query, explain, and get in dialog with contents and concepts of this paper. This is an invaluable skill that generalizes far beyond AI research papers like this.  
 
 * [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
 
