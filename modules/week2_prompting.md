@@ -50,20 +50,19 @@ Future Visions: Imagine a future where AI transforms work (per Hassabis) and con
 ### Prompt Engineering
 
 * [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
-* [Getting Started with the OpenAI Playground (7:03) May 2024](https://www.youtube.com/watch?v=iwYtzPJELkk&t=10s) 
-* [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques"](https://www.promptingguide.ai/applications/finetuning-gpt4o)
+* [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques" (up to/including Meta Prompting)](https://www.promptingguide.ai/applications/finetuning-gpt4o)
+* [How to use the new OpenAI GPT5 Prompt Optimizer: Step by step tutorial (3:42) (10 Aug 2025)](https://www.youtube.com/watch?v=FvTPcfSKsVs)
 
 ### Coding: Prompt Engineering and OpenAI API
 
-* [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)  and [Github repo](https://github.com/debeshm/Python-ChatGPT/blob/main/chatbot.py)
 * [Deeplearning.ai: Prompt Engineering with OpenAI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines)
-* [OpenAI Developer Platform: Read "Getting Started", "Capabilities", and "Endpoints"](https://platform.openai.com/docs/overview)
+* [OpenAI Developer Platform: Read "Getting Started" and "Core Concepts/Text Generation"](https://platform.openai.com/docs/overview)
 
 ### Coding: Vibe Coding and Context Engineering
 
-* [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
 * [The New Code — Sean Grove, OpenAI (21:35) (Aug 2025)](https://www.youtube.com/watch?v=8rABwKRsec4)
 * [Augment Code: Specs Driven Development For AI Coding Agents (9:25) (Aug 2025)](https://www.youtube.com/watch?v=1jIo7bvIpIo)
+* [The BMAD Method: The Ultimate AI Coding System (13:08) (Aug 2025)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
 
 ### AI Research
 
@@ -85,6 +84,12 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * [Perplexity.ai Referral Program](https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals)
 * [Optimized Perplexity.ai Referrals for Free Month](https://chatgpt.com/share/68b90e66-abb0-800d-a0ba-1e7a1f94b761)
+
+### From Prompts to Chatbots
+
+* [OpenAI Playground]()
+* [AIStudio]()
+* [OpenAI/OpenRouter Character.ai Chatbot Colab]()
 
 ### Vibe Coding and Context Engineering
 
