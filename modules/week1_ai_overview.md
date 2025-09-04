@@ -59,7 +59,11 @@ We begin with standard course bookkeeping followed by laying both a foundation a
 
 ## Demos
   * [Claude Prompt Creator](https://claude.ai/public/artifacts/3796db7e-4ef1-4cab-b70c-d045778f23ec)
+  * [GPT JSON Prompt Creator](https://chatgpt.com/gpts)
   * [AIStudio.google.com (Nano Banana)](https://aistudio.google.com/prompts/new_chat)
+  * [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
+  * [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
+  * [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
   * [LMNotebook](https://notebooklm.google/)
   * [Google Opal](https://opal.withgoogle.com/)
   * [suno.com](https://suno.com/)
