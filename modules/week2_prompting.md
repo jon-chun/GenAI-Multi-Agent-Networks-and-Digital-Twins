@@ -1,5 +1,7 @@
 # Week 2: Prompt Engineering, Vibe Coding and Context Engineering
 
+"Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb" - Calvin Coolidge
+
 ## **Humanistic Big Ideas**
 
 ### Readings
@@ -52,7 +54,19 @@ Future Visions: Imagine a future where AI transforms work (per Hassabis) and con
 
 ### AI News/Current Events
 
-* [GPT-5 SOON, AI-to-AI Payments Using Crypto, xAI GPU Cluster is Live, 1,000 Agent Simulation (23:52) Aug 5, 2024](https://www.youtube.com/watch?v=7c3t5jAg0v4)
+### AI Research
+
+This will be an exercise in skimming and using AI to analyze and understand an AI research paper.
+
+- Read Abstraction on page 1
+- Read from section 1 (middle page 4) to section 3.1 (bottom page 7)
+- Read from section 4 (bottom page 12) to 4.1 with Fig 3 (top of page 13), but stop before 4.1.1
+- Read from section 4.3 (bottom page 23 to middle page 24), but stop before 4.3.2
+- Read section 8 Conclusion on page 58.
+   
+From these 8 pages, we'll and using AI in class, we'll grok the key Figures and concepts in class
+
+* [A Survey of Context Engineering for Large Language Models](https://arxiv.org/pdf/2507.13334)
 
 ### Prompt Engineering
 
@@ -72,7 +86,16 @@ Future Visions: Imagine a future where AI transforms work (per Hassabis) and con
 * [The New Code — Sean Grove, OpenAI (21:35) (Aug 2025)](https://www.youtube.com/watch?v=8rABwKRsec4)
 * [Augment Code: Specs Driven Development For AI Coding Agents (9:25) (Aug 2025)](https://www.youtube.com/watch?v=1jIo7bvIpIo)
 
-### In Class: Vibe Coding and Context Engineering
+## In Class
 
+### Setup
+
+* [Perplexity.ai Referral Program](https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals)
+* [Optimized Perplexity.ai Referrals for Free Month](https://chatgpt.com/share/68b90e66-abb0-800d-a0ba-1e7a1f94b761)
+
+### Vibe Coding and Context Engineering
+
+* [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 * [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
+* [DSPy Docs](https://dspy.ai/)
 
