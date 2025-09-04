@@ -58,16 +58,15 @@ Future Visions: Imagine a future where AI transforms work (per Hassabis) and con
 
 This will be an exercise in skimming and using AI to analyze and understand an AI research paper. Do not worry if many terms or concepts appear alien to you now. This paper gives a great overview of what you will learn over the next 14 weeks.
 
-- Read Abstraction on page 1
+- Read "Abstract" on page 1
 - Read from section 1 (middle page 4) to section 3.1 (bottom page 7)
 - Read from section 4 (bottom page 12) to 4.1 with Fig 3 (top of page 13), but stop before 4.1.1
 - Read from section 4.3 (bottom page 23 to middle page 24), but stop before 4.3.2
 - Read section 8 Conclusion on page 58.
    
-From these 8 pages, we'll dissect and learn to use AI in claass to understand the key Figures and concepts.
+From these 8 pages as reference points, we'll dissect and learn to use AI in class to query, explain, and understand the key Figures and concepts. 
 
-
-* [A Survey of Context Engineering for Large Language Models](https://arxiv.org/pdf/2507.13334)
+* [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
 
 ### Prompt Engineering
 
