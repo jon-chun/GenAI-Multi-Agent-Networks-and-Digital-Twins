@@ -83,6 +83,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [OpenAI Playground]()
 * [AIStudio]()
 * [Character.ai like Chatbot Colab]()
+* [Google’s NotebookLM Launched 5 NEW Features That Are CRAZY (11:37) (3 Sept 2025)](https://www.youtube.com/watch?v=hT40_UXCy3Y)
 
 ### Vibe Coding and Context Engineering
 
