@@ -60,7 +60,7 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 
 ### AI Research
 
-This will be an exercise in skimming and using AI to analyze and quickly grasp the fundamentals of an AI research paper. Do not worry if many terms or concepts appear alien to you now. In fact, this is unfamiliarity is key to demonstrating how to leverage AI to accelerate your learning. Over the next 14 weeks you will master the core concepts in this paper.
+This will be an exercise in skimming and using AI to analyze and quickly grasp the fundamentals of an AI research paper. Do not worry if many terms or concepts appear alien to you now. In fact, this is unfamiliarity is key to demonstrating how to leverage AI to personalize and accelerate your learning. Over the next 14 weeks you will master the core concepts in this paper, but for now this opacity is a precondition to demonstrate the efficacy of AI-assisted learning. 
 
 - Read "Abstract" on page 1
 - Read from section 1 (middle page 4) to section 3.1 (bottom page 7)
@@ -74,6 +74,15 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 ## In Class
 
+### AI Resources
+
+* News
+  * [daily.dev](https://daily.dev/)
+* FOSS Repos
+  * [Github Explore](https://github.com/explore)
+  * [Trendshift](https://trendshift.io/)
+
+
 ### Setup
 
 * [Perplexity.ai Referral Program](https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals)
@@ -86,6 +95,18 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [AIStudio]()
 * [Character.ai like Chatbot Colab]()
 * [Google’s NotebookLM Launched 5 NEW Features That Are CRAZY (11:37) (3 Sept 2025)](https://www.youtube.com/watch?v=hT40_UXCy3Y)
+
+### A Brief Tech Executive Education Related to AI
+
+* [Universal Skill/Fluency Applicable to Medicine, Law, Academic Research, etc]()
+* [Economics of Software]()
+* [Software: Punchcards, GOFAI, ML and AI]()
+* [Entrepreneurship/Business Plans/Venture Capital]()
+* [SLDC]()
+  * [Methodologies: OOP, TDD, CI/CD, Observability, Telemetry, etc.]()
+  * [Management: Waterfall, Kanban, Agile, etc.]()
+* [BMAD]()
+
 
 ### Vibe Coding and Context Engineering
 

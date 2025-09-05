@@ -5,39 +5,6 @@
 
 As AI models like GPT have become more powerful, they've also become more accessible through APIs with a growing number of features we'll use in the coming like function calling, fine-tuning, and caching. This week, we'll explore the basics of using Python to interact with the OpenAI API, enabling us to harness the power of large language models in our own future applications.
 
-
-
-
-
-## **Humanistic Big Ideas**
-
-### Readings
-
-* [Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
-
-
-### Reflection:
-
-Theme 1: Consciousness, Software, and Spirit
-
-Defining Consciousness: Joscha Bach suggests consciousness is akin to software or spirit. What does this metaphor imply about the nature of human consciousness? Do you agree with this framing, and why or why not?
-AI and Consciousness: If consciousness is software, as Bach proposes, could AI ever achieve a form of consciousness? Discuss the philosophical and ethical implications of creating AI systems that mimic or possess consciousness.
-Human Identity: How does Bach’s perspective challenge traditional notions of human identity and spirituality? In what ways might viewing consciousness as software influence our understanding of free will or moral responsibility?
-AI as a Mirror: Bach’s talk might suggest that building AI forces us to reflect on our own minds. How can studying AI’s “software-like” processes deepen our understanding of human cognition, emotions, or creativity?
-Ethical Boundaries: If software can be considered “spirit,” what ethical boundaries should guide the development of AI systems that simulate human-like traits? Should there be limits to how “human” AI can become?
-
-
-
-* [12 Google AI Tools You Need to Know Now! (12:27) (26 Aug 2025)](https://www.youtube.com/watch?v=PO88FTIg9fE)
-
-
-
-
-
-
-
-
-
 ## Key Questions to Consider
 
 1. What are 5 levels on the way to AGI and how is each defined?
@@ -97,7 +64,7 @@ Build a chatbot using code and examples you've seen in DeepLearning.ai, reading 
 
 * Use the OpenAI API and accumulate the conversation history
 * Use the 'system' prompt to give your chatbot a descriptive and specialized 'persona'
-* Use n-shot Incontext Learning (ICL) prompts to provide examples to shape/pattern chatbot responses
+* Use n-shot In-context Learning (ICL) prompts to provide examples to shape/pattern chatbot responses
 * Explore other Prompt Engineering strategies (e.g. Chain of Thoughts)
 * (Optional) Use gradio for the UI/UX
 * (Optional) Extend your chatbot with features like multimodal input (e.g. voice, images)
