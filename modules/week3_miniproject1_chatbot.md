@@ -17,6 +17,11 @@ As AI models like GPT have become more powerful, they've also become more access
 
 ## Reading Assignments
 
+* [BMAD Vibe Coding Workflow Is a Massive Level Up (24:57) (Aug 2025)](https://www.youtube.com/watch?v=Sosf8Z0T_M8)
+  * [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
+  * [Gemini.google.com (new Gem)](https://gemini.google.com/gems/create)
+  * [BMAD team full-stack](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/dist/teams/team-fullstack.txt)
+
 * SOTA Research (Only spend 15 min on each paper by selectiving focusing on mainpoints in Abstract, Introduction, Tables/Figures of Findings, Conclusions)
   * [Levels of AGI for Operationalizing Progress on the Path to AGI by Meredith Ringel Morris et al. (5 Jun 2024)](https://arxiv.org/pdf/2311.02462)
   * [Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values by Chun and Elkins (9 Jan 2024)](https://www.semanticscholar.org/paper/Informed-AI-Regulation%3A-Comparing-the-Ethical-of-an-Chun-Elkins/f55294c223752a7159c438951dbf6e6b66cd2e31)
