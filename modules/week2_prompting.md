@@ -81,6 +81,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * FOSS Repos
   * [Github Explore](https://github.com/explore)
   * [Trendshift](https://trendshift.io/)
+* Deep Research
 
 
 ### Setup
