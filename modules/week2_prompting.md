@@ -82,6 +82,29 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   * [Github Explore](https://github.com/explore)
   * [Trendshift](https://trendshift.io/)
 * Deep Research
+  0. Prompt
+    * [Vertex Prompt Gallery](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=gen-lang-client-0588482685)
+  1. Metaprompt
+    * []()
+  2. Deep Research
+    * [Perplexity.ai](https://www.perplexity.ai/)
+    * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
+    * [GPT5](https://chatgpt.com/c/68bac78a-47d8-8322-89db-e69d590dcb3f)
+    * [Claude4.1](https://claude.ai/chat/85a6913d-d0bf-4249-88cc-0bee03a1bb55)
+    * [Gemini 2.5 Pro](https://gemini.google.com/app/ef4ddc22e8b277cd)
+    * [Grok 3/4](https://grok.com/c/d6fb8037-a042-4530-b07c-f6288921d427)
+    * [Perplexity](https://www.perplexity.ai/search/role-persona-you-are-alex-chen-MQgM.TNMRSaIijtB0WABDA)
+    * [Deepseek.ai](https://chat.deepseek.com/a/chat/s/b328a5f7-c5c7-4ac0-a878-69788786c799)
+    * [chat.Qwen.ai](https://chat.qwen.ai/c/73ae8124-20ad-4ca1-a4ca-3fba441509a8)
+    * [Kimi.com](https://www.kimi.com/chat/d2tci22mvdm7u9bsav50)
+    * [ScholarQA.ai](https://asta.allen.ai/chat)
+    * [Consensus](https://consensus.app/)
+    * [GetLiner.com](https://getliner.com/)
+  3. Synthesis
+    * [NotebookLM](https://notebooklm.google.com/notebook/a04b6736-9546-4fa5-9ee1-32bb912a575c)
+  4. Human-in-the-Loop (HIL) Supervision
+
+
 
 
 ### Setup
