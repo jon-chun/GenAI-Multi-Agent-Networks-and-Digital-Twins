@@ -82,11 +82,11 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   * [Github Explore](https://github.com/explore)
   * [Trendshift](https://trendshift.io/)
 * Deep Research
-  0. Prompt
+  1. Prompt
     * [Vertex Prompt Gallery](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=gen-lang-client-0588482685)
-  1. Metaprompt
+  2. Metaprompt
     * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
-  2. Deep Research
+  3. Deep Research
     * [Perplexity.ai](https://www.perplexity.ai/)
     * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
     * [GPT5](https://chatgpt.com/c/68bac78a-47d8-8322-89db-e69d590dcb3f)
@@ -100,9 +100,9 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
     * [ScholarQA.ai](https://asta.allen.ai/chat)
     * [Consensus](https://consensus.app/)
     * [GetLiner.com](https://getliner.com/)
-  3. Synthesis
+  4. Synthesis
     * [NotebookLM](https://notebooklm.google.com/notebook/a04b6736-9546-4fa5-9ee1-32bb912a575c)
-  4. Human-in-the-Loop (HIL) Supervision
+  5. Human-in-the-Loop (HIL) Supervision
 
 
 
