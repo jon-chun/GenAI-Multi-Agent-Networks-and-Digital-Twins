@@ -1,3 +1,85 @@
+# Week N Notess
+
+## AI Dev Subscriptions
+
+* [GLM Coding Plan V/S Claude Code & Codex: IS THIS THE BEST & CHEAPEST Plan for AI Coding! (10:00) (7 Sep 2025)](https://www.youtube.com/watch?v=BN8LEcEXTZE)
+
+## SWE
+
+* [12 Logging BEST Practices in 12 minutes (12:00) (Jan 2025)](https://www.youtube.com/watch?v=I2mWnh66Bkg)
+
+## DevOps
+
+* [The BEST Way to Manage Versions of Node, Python, Go (and Much More...) (6:12) (1 Sep 2025)](https://www.youtube.com/watch?v=eKJCnc0t8V0)
+* [asdf]()
+
+## MCP
+
+
+## A2A
+
+
+## AI Coders
+
+* [Best AI coding Agents with some crazy upsets | GPT 5, Grok Code Fast, Claude, Qwen 3 Coder (25:12) (2 Sep 2025)](https://www.youtube.com/watch?v=bp5TNTl3bZM)
+
+* [AGENTS.md](https://agents.md/)
+  - [AGENTS.md Explained: One File to Rule All Agents (3:09) (20 Aug 2025)](https://www.youtube.com/watch?v=TC7dK0gwgg0)
+  - [Finally! A Standard for AI Coding Agents (Agents.md Explained) (12:02) (Aug 2025)](https://www.youtube.com/watch?v=XDP94mYMCzA)
+
+* [I Reverse-Engineered Claude Code: Learn These Agent Tricks (20:41) (7 Aug 2025)](https://www.youtube.com/watch?v=i0P56Pm1Q3U)
+  
+## Prompt Engineering
+
+* [MS Prompt Orchestration Markup Language (POML) (4:49) (Jun 2025)](https://www.youtube.com/watch?v=b9WDcFsKixo)
+  * [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
+
+## Orchestration and Observability
+
+* [LangSmith]()
+* [WandB]()
+
+## Context Engineering/Spec Driven Dev (SDD)
+
+* I kinda do the exact same thing without needing to add this... i put the copilot in Ask mode and start a "conversation" as if it was a person. Usually i start like "you are in ask mode, no need to code by now, we will only discuss some steps". After any amount of iterations, after i reached the point where it is where I want to go, I create a mardown file with some naming convention like "plan-xxx", where is the plan to whatever has been discussed and another markdown file "flow-xxx"  where it has a mermaid flow to achieve whatever the plan has, then I ask to copilot like "now you are in agent mode,  in the file #plan-xxx make a detailed plan to what we were discussing so far regarding the matter xxx with checkboxes so we can follow along and not get lost and to know where we are and to where we need to to. And also create a mermaid flow in the #flow-xxx so we can follow along." . works 100% of the time... and this i apply for literally anything.... implementations, refactors, doubts, ideas and pretty much everything else... try this anytime and you will make the copilot a real copilot to your workflow =)
+
+* [BMAD]()
+* [Spec Kit: Github's NEW tool That FINALLY Fixes AI Coding (10:32) (6 Sep 2025)](https://www.youtube.com/watch?v=em3vIT9aUsg)
+  - /specify: what/why user journeys/outcomes
+  - /plan: architecture/constraints
+  - /tasks: decomposition of tasks/plan
+  - implement: verify/control at each step/task
+* [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro (10:42) (Aug 2025)](https://www.youtube.com/watch?v=Z9fUPyowRLI)
+
+* [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
+
+## RAG
+
+* [RAG Agents in Prod: 10 Lessons We Learned — Douwe Kiela, creator of RAG (16:55) (May 2025)](https://www.youtube.com/watch?v=kPL-6-9MVyA)
+
+## UI/UX Wireframes
+
+* [figma]()
+* [excalidraw]()
+* [draw.io]()
+
+## UI/Mobile
+
+* [Google Labs Stitch](https://stitch.withgoogle.com/)
+* [Anything]()
+
+## PydanticAI
+* [PydanticAI: the AI Agent Framework Winner (15:29) (29 Aug 2025)](https://www.youtube.com/watch?v=-WB0T0XmDrY)
+
+
+
+
+
+
+
+
+
+
 * [LangChain and Ollama: Build Your Personal Coding Assistant in 10 Minutes (20:42) (28 Sep 2024)](https://www.youtube.com/watch?v=fOUng7fMQ1Y)https://github.com/aidev9/tuts/tree/main/langchain-ollama
 
 
