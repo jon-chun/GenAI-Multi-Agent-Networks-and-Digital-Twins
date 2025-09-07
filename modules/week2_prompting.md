@@ -85,7 +85,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   0. Prompt
     * [Vertex Prompt Gallery](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=gen-lang-client-0588482685)
   1. Metaprompt
-    * []()
+    * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
   2. Deep Research
     * [Perplexity.ai](https://www.perplexity.ai/)
     * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
