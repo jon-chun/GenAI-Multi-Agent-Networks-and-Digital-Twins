@@ -84,10 +84,11 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * Deep Research
   * Prompt
     * [Vertex Prompt Gallery](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=gen-lang-client-0588482685)
+  * Preliminary Research
+    * [Perplexity.ai](https://www.perplexity.ai/)
   * Metaprompt
     * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
   * Deep Research
-    * [Perplexity.ai](https://www.perplexity.ai/)
     * [AIStudio](https://aistudio.google.com/prompts/10BFaVPfHheyXH6g-dr5cy9nFJ_BwAmqq)
     * [GPT5](https://chatgpt.com/c/68bac78a-47d8-8322-89db-e69d590dcb3f)
     * [Claude4.1](https://claude.ai/chat/85a6913d-d0bf-4249-88cc-0bee03a1bb55)
@@ -103,7 +104,14 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   * Synthesis
     * [NotebookLM](https://notebooklm.google.com/notebook/a04b6736-9546-4fa5-9ee1-32bb912a575c)
   * Human-in-the-Loop (HIL) Supervision
+  * Iterate
 
+<iframe 
+  src="https://chatgpt.com/canvas/shared/68bccfb2b4f08191b96729e907b28c04" 
+  width="100%" 
+  height="800" 
+  style="border: none;">
+</iframe>
 
 
 
