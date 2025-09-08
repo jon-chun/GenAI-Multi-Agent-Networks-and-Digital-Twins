@@ -39,8 +39,15 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 
 * [Workers Don't Trust Their Companies on AI (14:10) (31 Aug 2025)](https://www.youtube.com/watch?v=lxLz5xqVR9A)
   
+### WebUI vs API
+
+* [AIStudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro)
+* [OpenAI API QuickStart](https://platform.openai.com/docs/quickstart)
+
 ### Prompt Engineering
 
+* [OpenAI GPTs](https://chatgpt.com/g/g-dSb3dH8bt-json-prompt-creator/c/68bf013a-1ccc-8322-bf60-1fa4b21d3d30)
+* [Google GEMs]()
 * [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
 * [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques" (up to/including Meta Prompting)](https://www.promptingguide.ai/applications/finetuning-gpt4o)
 * [How to use the new OpenAI GPT5 Prompt Optimizer: Step by step tutorial (3:42) (10 Aug 2025)](https://www.youtube.com/watch?v=FvTPcfSKsVs)
@@ -105,6 +112,8 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
     * [NotebookLM](https://notebooklm.google.com/notebook/a04b6736-9546-4fa5-9ee1-32bb912a575c)
   * Human-in-the-Loop (HIL) Supervision
   * Iterate
+* Brainstorm
+  * [BMAD 1) Prompt 2) *brainstorm ](https://claude.ai/chat/51aec5db-3dc0-4fc9-9f69-d771bdfb3f24)
 
 <iframe 
   src="https://chatgpt.com/canvas/shared/68bccfb2b4f08191b96729e907b28c04" 
@@ -139,14 +148,13 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   * [Management: Waterfall, Kanban, Agile, etc.]()
 * [BMAD]()
 
+### Vibe Coding, PRD/SDD, and Context Engineering
 
-### Vibe Coding and Context Engineering
-
+* [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
 * [GitIngest for Prompt-Friendly extract of Git Repo](https://github.com/coderamp-labs/gitingest)
   * "https://github.com/bmad-code-org/BMAD-METHOD/" -> "https://gitingest.com/bmad-code-org/BMAD-METHOD/"
   * Copy and paste into Claude.ai, Openai.com, Gemini, etc and ask questions to understand code base
 
-)
 * [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 * [BMAD User Guide](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/docs/user-guide.md)
   * "npx create-next-app@latest ."
