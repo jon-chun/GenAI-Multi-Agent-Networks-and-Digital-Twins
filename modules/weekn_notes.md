@@ -45,6 +45,7 @@
 
 ## DevOps
 
+* [Claude.ai Setup New MacBook Pro laptop for AI Development](https://claude.ai/public/artifacts/cba8375c-15f3-4e21-b8a8-f831230d28eb)
 * [The BEST Way to Manage Versions of Node, Python, Go (and Much More...) (6:12) (1 Sep 2025)](https://www.youtube.com/watch?v=eKJCnc0t8V0)
 * [asdf]()
 
@@ -65,6 +66,27 @@
 
 
 ## AI Coders
+
+
+## NOTES:
+
+[Some Lessons Learned Building LLM-powered Agents (22 Feb 2024)](https://mg.dev/lessons-learned-building-ai-agents/)
+In no particular order:
+
+* Keep goals simple. If you're building goal-directed agents, it's tempting to model a hierarchy of different types of goals: a high level persona, that persona's overall directive, the current high-level goal, the current low-level goal (task), and that low-level goal's sub-goals (subtasks). Simplify, simplify, simplify. If you're going for a relatively straightforward request/reply style interaction, stick with a persona + task tree. If you're going for something self-directed, where the agent can choose a course of action without direct user input... think very carefully about whether you need this or not. It's doable, it's just more complicated than you think.
+* Limit LLM-driven planning to the simplest of unit of work. LLM-driven planning is when you give the LLM a task and a chest of tools, and ask it to come back with the optimal plan to fulfill the task using only those tools. This works great for things with well-defined inputs, well-defined outputs, and a limited set of intermediary steps with simple inputs/outputs. But even GPT-4 has a rough time constructing long chains of work, unless you're willing to do stepwise planning (e.g., re-plan and course-correct mid-execution).
+* Use code when you can. For example, don't use LLMs for open-ended planning and execution when using a workflow engine will do. If you don't NEED dynamic planning, don't make it the central coordinating component in your agent. Even if you NEED dynamic planning, check out things like Goal Oriented Action Planning (GOAP), which will give you much more deterministic results if you're mostly dealing with a closed set of actions and tightly constrained tools.
+* LLMs are harsh critics. One approach I recently explored is a "panel of experts"—essentially multiple goal-directed agents collaborating to achieve a larger goal. In one configuration, one one agent is tasked with critiquing another agent's output (requesting changes) before returning an answer to the user. Converging on an answer is a crap shoot. Rather than let them argue forever, it's better to cap the number of loops and/or have the critiquing agent 'score' the reply, and allow answers with an adequately high score.
+* RAG + Tools are still your best bet for improving quality. Is your agent failing at basic math? Give it a calculator. Is your agent failing at fixing code? Give it a live environment to evaluate code in, and make it loop until it figures it out. Is your agent making stuff up? Ground its output in real search results. For the most part, I think fine-tuning is mostly useful for effecting more superficial elements of the output—style, tone, format, etc. It's not especially useful for introducing new knowledge.
+* The more your agent understands its environment, the better decisions it will make. This needs to dynamically update as it makes progress on its goals.
+* LLMs are slow, but they're getting fast quickly. At some point, maybe we'll be able to ignore #5. Groq recently announced 500+ tokens/sec for Mixtral 8x7B-32k, a model competitive with GPT-3.5. Faster and cheaper inferences means being able to use them for things like critical path stepwise planning, multifaceted self-reflection, multi-agent interaction, etc.
+* Agents are fun, but chat interfaces are dumb. IMO the best uses of LLMs (and LLM agents) are the ones where you don't know for sure if an LLM is being used. It just seems "magical." Chat is not magical; it's a lowest-common-denominator integration. It's slow to provide input, slow to provide output, slow to read output. It takes you out of a workflow that could be done with a few button clicks, instead forcing your user to read a bunch of text. Do the product and design work necessary to find the best expression of the effect you're hoping to achieve.
+
+* At some point, your prompts start to resemble code. LLM output changes dramatically with even subtle changes to the prompt. Get very good at specifying the outcome you want. Turns out, all those programming skills are useful for something after all!
+* Really, the name of the game is context management. Personas, RAG, tool selection, environment updates, chains of thought, hidden dialog, shared dialog... these all need to fit in the context. Even in the future when we have many-million token contexts, you'll still want to dynamically substitute bits of the context based on the current environment/state, IMO. (I prefer this approach to simply stacking new frames to an ever-growing context.) On one hand, having one giant text input provides the ultimate flexibility when designing your prompting strategy. On the other, having one giant text input also means you're operating in a wild west while creating that strategy.
+
+
+
 
 * [Best AI coding Agents with some crazy upsets | GPT 5, Grok Code Fast, Claude, Qwen 3 Coder (25:12) (2 Sep 2025)](https://www.youtube.com/watch?v=bp5TNTl3bZM)
 
@@ -110,6 +132,7 @@
   - implement: verify/control at each step/task
 * [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro (10:42) (Aug 2025)](https://www.youtube.com/watch?v=Z9fUPyowRLI)
 
+
 * [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
 
 ## RAG
@@ -131,6 +154,14 @@
 
 * [Google Labs Stitch](https://stitch.withgoogle.com/)
 * [Anything](https://www.createanything.com/)
+
+## Claude
+
+* [Claude Cookbook](https://github.com/anthropics/anthropic-cookbook?ref=dailydev)
+
+## n8n
+
+* [Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment (12.3k)](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 
 ## PydanticAI
 * [PydanticAI: the AI Agent Framework Winner (15:29) (29 Aug 2025)](https://www.youtube.com/watch?v=-WB0T0XmDrY)
