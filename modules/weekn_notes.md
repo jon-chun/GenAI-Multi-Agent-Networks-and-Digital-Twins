@@ -77,6 +77,8 @@
 ## Prompt Examples
 
 * [Google Vertex](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=gen-lang-client-0588482685)
+* [Claude Dev Prompt](https://www.youtube.com/watch?v=i0P56Pm1Q3U)
+  - [Git Gist](https://gist.github.com/yifanzz/e60df46ea246de750617105ca56524c1?utm_source=beyondthehype.dev&utm_medium=newsletter&utm_campaign=you-re-in-here-s-your-bonus-bth-starter-pack)
 
 ## Prompt Engineering
 
@@ -95,6 +97,8 @@
 ## Context Engineering/Spec Driven Dev (SDD)
 
 * [Github spec-kit](https://github.com/github/spec-kit)
+  - [Spec-kit Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+  - [Spec-kit Docs]()
   
 * I kinda do the exact same thing without needing to add this... i put the copilot in Ask mode and start a "conversation" as if it was a person. Usually i start like "you are in ask mode, no need to code by now, we will only discuss some steps". After any amount of iterations, after i reached the point where it is where I want to go, I create a mardown file with some naming convention like "plan-xxx", where is the plan to whatever has been discussed and another markdown file "flow-xxx"  where it has a mermaid flow to achieve whatever the plan has, then I ask to copilot like "now you are in agent mode,  in the file #plan-xxx make a detailed plan to what we were discussing so far regarding the matter xxx with checkboxes so we can follow along and not get lost and to know where we are and to where we need to to. And also create a mermaid flow in the #flow-xxx so we can follow along." . works 100% of the time... and this i apply for literally anything.... implementations, refactors, doubts, ideas and pretty much everything else... try this anytime and you will make the copilot a real copilot to your workflow =)
 
