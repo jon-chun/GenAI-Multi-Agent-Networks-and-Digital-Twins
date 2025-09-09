@@ -1,4 +1,4 @@
-# Week 2: Prompt Engineering, Vibe Coding and Context Engineering
+# Week 2: Prompt Engineering, Vibe Coding, Context Engineering, and Spec Driven Development
 
 "Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb" - Calvin Coolidge
 
@@ -20,34 +20,101 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 
 ## **Coding**
 
-### Concepts:
+### Goals:
 
-* Understanding API basics and RESTful architecture (in class)
-* OpenAI API authentication and rate limits (in class)
-* Basic prompt engineering techniques
-* Ethical considerations in AI API usage
-* Handling API responses and error handling (in class)
-* Best practices for integrating AI APIs into applications
-* The role of AI APIs in modern software development (in class)
-* Advanced prompt engineering techniques
-* prompt engineering and API integration
-* Group activity: Designing prompts for specific use cases
-* Understanding the broader impact of AI APIs on the tech industry
-* Future developments in AI API technology and accessibility
+* Drink from the AI Firehose (news, research, product launches, etc)
+* Deterministic Traditional Programming vs Stochastic AI Programming
+* Web vs API Access
+* No-Code
+  - OpenAI GPTs
+  - Google Gems
+* Configure thin-client laptops for AI Development
+* Signup for Dev and AI Cloud Services
+* AI models, modalities, and money/rate limits (AIStudio)
+* Cloud Dev: Jupyter Notebook
+  - unning local LLM (ollama.ai)
+  - making API calls to LLMs
+    - rate limits
+    - error handing
+    - token/cost accounting
+    - multimodal content
+  - ExtractLang to extract structured text from unstructured text
+* Local Dev: Crash course
+  - Visual (VSCode) (API Calls to Gemini)
+  - Command Line Interface (CLI) AI Development (Gemini CLI or Claude Code)
+* Understand Software Engineering, from waterfalls to agile
+  - Aspects:
+    - PRD
+    - Decomposition
+    - TDD
+    - Benchmarks
+    - Observability
+    - MLOps
+  - Prompt Engineering
+  - Content Engineering
+  - Spec Driven Development
+* Advanced Prompt Engineering:
+  - Templates
+  - Structured Markup Langauge: POML
+  - Optimization: DSPy
+* AI Pair Programming
+  - Autocomplete
+  - Agents (copilot)
+  - Frameworks (Roo Code)
+  - CLI (Gemini or Claude Code)
+* BMAD: Agentic Agile SWE
+* Mini-Project #1: Chat
+  - System Prompt/Personas
+  - Reverse engineer Character.ai
+  - Knowledge
+  - Tools
+  - Memory
+  - Guardrails
+  - Metrics/Observability
 
 ### AI News/Current Events
 
 * [Workers Don't Trust Their Companies on AI (14:10) (31 Aug 2025)](https://www.youtube.com/watch?v=lxLz5xqVR9A)
   
-### WebUI vs API
+### To Do: Signup and Installs
 
-* [AIStudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro)
-* [OpenAI API QuickStart](https://platform.openai.com/docs/quickstart)
+* **Sign Up**
 
+  * AI Cloud Providers
+      - (DO NOT SIGN-UP EARLY) Perplexity
+        - We will use a simple algorithm to optimize free months using their referral system in class (more free months if you can get friends/family outside class to join trail)
+      - (Required) FREE [Google Pro for Students](https://gemini.google/students/)
+      - (Required) OpenAI ChatGPT
+        - IF not blocked by @kenyon.edu domain
+          - 2mo free? (may be blocked by Kenyon) [OpenAI ChatGPT Pro](https://gemini.google/students/)
+        - ELSE
+          - $20/mo [OpenAI ChatGPT Pro](https://chatgpt.com/pricing)
+      - OPTIONAL [Anthropic/Claude Code]()
+        - Latency, Costs, and Rug Pulls (degraded for profit margins/scale)
+  * DevOps
+    - [(FREE) Github.com](https://github.com/)
+
+* **Install on Your Laptops**
+  - [(latest) Google Chrome Browser]()
+    - Sider (vs built-in Gemini with Google Pro Sub)
+    - Chat GPT Exporter (Similar extensions for Claude, Gemini, Grok, Deepseek)
+    - GoFullPage
+    - Enhancer for YouTube (2-3x speed)
+    - Zotero
+  - [(latest) Microsoft Edge Browser]()
+    - Sider (vs built-in Copilot free)
+    - Chat GPT Exporter (Similar extensions for Claude, Gemini, Grok, Deepseek)
+    - GoFullPage
+    - Enhancer for YouTube (2-3x speed)
+    - Zotero
+  - [VSCode](https://code.visualstudio.com/download)
+  - [Zotero App and Connector](https://www.zotero.org/download/)
+  
 ### Prompt Engineering
 
-* [OpenAI GPTs](https://chatgpt.com/g/g-dSb3dH8bt-json-prompt-creator/c/68bf013a-1ccc-8322-bf60-1fa4b21d3d30)
-* [Google GEMs]()
+* [OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
+  - [OpenAI GPT Directory](https://www.lingoblocks.com/gpt-store)
+* [Google GEMs](https://gemini.google/overview/gems/)
 * [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
 * [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques" (up to/including Meta Prompting)](https://www.promptingguide.ai/applications/finetuning-gpt4o)
 * [How to use the new OpenAI GPT5 Prompt Optimizer: Step by step tutorial (3:42) (10 Aug 2025)](https://www.youtube.com/watch?v=FvTPcfSKsVs)
@@ -80,6 +147,44 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
 
 ## In Class
+
+### WebUI vs API
+
+* [AIStudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro)
+* [OpenAI API QuickStart](https://platform.openai.com/docs/quickstart)
+* [OpenAI GPT vs Gemini Gems]
+  - [ChatGPT Use Cases](https://chatgpt.com/use-cases/students)
+
+### Sign Ups
+
+* LLMs and Cloud Providers
+  - OPTIONAL (cost)
+    - [Qwen3 Code](https://qwenlm.github.io/blog/qwen3-coder/)
+    - [GLM](https://open.bigmodel.cn/dev/api/normal-model/glm-4)
+  - OPTIONAL (speed/scale)
+    - [groq.com](https://groq.com/)
+    - [cerebras.ai](https://www.cerebras.ai/)
+  - OPTIONAL (flex)
+    - [OpenRouter](https://openrouter.ai/)
+    - [Requesty](https://www.requesty.ai/)
+
+### Install
+
+* [Perplexity: Min MacOS/Win11(WSL2) Setup Instr](https://www.perplexity.ai/search/instructions-to-setup-thin-cli-BY57yvh6T.OjAEH24AFd.w)
+* MacOS
+  - Brew Package Manager
+  - iTerm2
+* Windows11 (From Win11 Microsoft Store)
+  - WSL2 & sudo apt update/upgrade
+  - Windows Terminal
+* Common
+  - git and SSH tokens
+  - Python
+    - uv
+    - python 3.10, 3.11, 3.12
+  - JavaScript
+    - nvm
+    - node
 
 ### AI Resources
 
@@ -123,13 +228,21 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 </iframe>
 
 
+### Sign ups and Checklist
 
-### Setup
-
+* [(FREE) Google Pro Gemini for Students (Oct 2025)]()
+* [(PAID) OpenAI]()
 * [Perplexity.ai Referral Program](https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals)
 * [Optimized Perplexity.ai Referrals for Free Month](https://chatgpt.com/share/68b90e66-abb0-800d-a0ba-1e7a1f94b761)
-* [Setup VSCode and AI extensions]()
-  
+
+### Setup Checklist
+* WSL2 (Win) and Brew (MacOS)
+* Terminal Apps
+* Git and SSH Auth
+* Python
+* JavaScript
+* VSCode + Extensions
+
 ### From Prompts to Chatbots
 
 * [OpenAI Playground]()
@@ -148,12 +261,39 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   * [Management: Waterfall, Kanban, Agile, etc.]()
 * [BMAD]()
 
-### Vibe Coding, PRD/SDD, and Context Engineering
+### Vibe Coding, PRD/SDD/TDD, Context Engineering, and Spec Engineering
 
+* autocomplete, agents, task directed development
+* [Perplexity: (9 Sep 2025)](https://www.perplexity.ai/search/what-are-the-best-foss-resourc-FheGBGbeQPKjejyNu60FeQ)
+
+#### Differentiale Terms
+* [(Claude) Context Engineering Template (9.7k)](https://github.com/coleam00/context-engineering-intro)
+* [The "Spec Engineering" Hype is Here. BMAD Users Are Already Winning (10:21) (Aug 2025)](https://www.youtube.com/watch?v=jVGsm9kW97U)
+
+#### Background Setup/Research
+
+* [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai)
 * [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
 * [GitIngest for Prompt-Friendly extract of Git Repo](https://github.com/coderamp-labs/gitingest)
   * "https://github.com/bmad-code-org/BMAD-METHOD/" -> "https://gitingest.com/bmad-code-org/BMAD-METHOD/"
   * Copy and paste into Claude.ai, Openai.com, Gemini, etc and ask questions to understand code base
+
+#### PRD
+* [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
+* [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit/tree/main)
+* [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP)
+
+#### Best Implementation: BMAD (as of Aug 2025)
+
+**SIMPLIER**
+
+* [How Vibe Coding Goes PRO (24:55) (Jul 2025)](https://www.youtube.com/watch?v=cniTWVMGD08)
+  * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+    - [Task-master](https://www.task-master.dev/)
+    - PRD -> Tasks -> Subtasks -> Build (-> QA/Test -> Iteration Loop)
+  * [snarktank/ai-dev-tasks (light)](https://github.com/snarktank/ai-dev-tasks)
+
+**COMPLEX**
 
 * [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 * [BMAD User Guide](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/docs/user-guide.md)
