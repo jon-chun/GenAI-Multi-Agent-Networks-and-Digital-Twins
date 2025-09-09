@@ -146,6 +146,12 @@ https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdfhttps:
 * [US sanctions against China are putting global firms to a decision: abandon China, or leave the US (7:03) (Sep 2024)](https://www.youtube.com/watch?v=ZNzixbMiZMQ)
 * [7:01 / 1:02:18 Keynote - Ten Key Questions that a Company Should Ask to have Responsible AI (1:02:00) (2 Oct 2024)](Keynote - Ten Key Questions that a Company Should Ask to have Responsible AI)
 
+## Agent Orchestration
+
+* [khaoss85/ai-team-orchestrator](https://github.com/khaoss85/ai-team-orchestrator)
+  - [Online Book](https://books.danielepelleri.com/en/ai-team-orchestrator.html)
+
+
 ## Extract Structured Information
 
 * [Long Document Content Extraction by Jarvis (19 Feb 2023) (OpenAI Cookbook) ](https://cookbook.openai.com/examples/entity_extraction_for_long_documents)
