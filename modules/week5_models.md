@@ -3,7 +3,11 @@
 
 * [LLM Monitoring and Observability: Hands-on with Langfuse by Riaz (25 Aug 20250)](https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/?ref=dailydev)
 
+## Multi-Model Cloud Providers
 
+ * [OpenRouter]()
+ * [Routely]()
+ * [Nebius](https://studio.nebius.com/playground)
 
 
 Starting the course from the outside the black box inward (e.g. Prompt Engineering, Embeddings, etc), we spend this week getting to know a bit more about the details of large language models (LLMs) and large multimodal models (LMMs) from competitive ranking tables to life-cycles to tokenizations. Unlike our course, "AI for the Humanities", we don't go into details of the architecture or other finer points like MLOps. However, we will cover the most important and practical aspects of working with LLMs from a higher level systems architect's perspective.
