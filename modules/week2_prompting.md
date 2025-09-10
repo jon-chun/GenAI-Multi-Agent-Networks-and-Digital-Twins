@@ -10,13 +10,13 @@
 
 ### Reflection:
 
-Theme 1: The Future of Work in the Age of AI
+The Future of Work in the Age of AI
 
-Impact on Human Roles: Based on Demis Hassabis’s insights, how might AI reshape traditional job roles, and what new opportunities or challenges could emerge for workers in fields like education, healthcare, or the arts? How should society prepare for these shifts?
-Human-AI Collaboration: Hassabis likely discusses AI as a tool for augmenting human work. What are the ethical implications of humans and AI systems collaborating closely in professional settings? How can we ensure that human agency and creativity remain central?
-Economic Inequality: How might AI-driven automation exacerbate or mitigate economic inequality? Discuss potential strategies to ensure equitable access to AI-driven opportunities, especially in rural or underserved communities like those near Kenyon College.
-Education and Skill Development: What changes should educational institutions, like Kenyon College, make to prepare students for an AI-driven workforce? Should liberal arts education adapt to emphasize skills that complement AI, such as critical thinking or emotional intelligence?
-Work-Life Balance: How might AI’s influence on productivity and efficiency, as discussed by Hassabis, affect work-life balance? Could AI lead to shorter workweeks or, conversely, increased pressure to be “always on”?
+* Impact on Human Roles: Based on Demis Hassabis’s insights, how might AI reshape traditional job roles, and what new opportunities or challenges could emerge for workers in fields like education, healthcare, or the arts? How should society prepare for these shifts?
+* Human-AI Collaboration: Hassabis likely discusses AI as a tool for augmenting human work. What are the ethical implications of humans and AI systems collaborating closely in professional settings? How can we ensure that human agency and creativity remain central?
+* Economic Inequality: How might AI-driven automation exacerbate or mitigate economic inequality? Discuss potential strategies to ensure equitable access to AI-driven opportunities, especially in rural or underserved communities like those near Kenyon College.
+* Education and Skill Development: What changes should educational institutions, like Kenyon College, make to prepare students for an AI-driven workforce? Should liberal arts education adapt to emphasize skills that complement AI, such as critical thinking or emotional intelligence?
+* Work-Life Balance: How might AI’s influence on productivity and efficiency, as discussed by Hassabis, affect work-life balance? Could AI lead to shorter workweeks or, conversely, increased pressure to be “always on”?
 
 ## **Coding**
 
@@ -25,9 +25,15 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
 * Drink from the AI Firehose (news, research, product launches, etc)
 * Deterministic Traditional Programming vs Stochastic AI Programming
 * Web vs API Access
-* No-Code
-  - OpenAI GPTs
-  - Google Gems
+* Project:
+  - Grading: Prompt complexity, subtlty, creativity, and effectiveness
+  - [(No Code) OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
+  - [(No Code) Google Gems](https://support.google.com/gemini/answer/15235603?hl=en)
+  - [(OpenAI API) Jupyter Colab](https://colab.research.google.com/)
+  - Turn in:
+    1. Meta/Prompts used to iterative develop Persona Prompt
+    2. Traces of best 10x dialog
+    3. Scoring Rubric with evaluation of your Persona Prompt
 * Configure thin-client laptops for AI Development
 * Signup for Dev and AI Cloud Services
 * AI models, modalities, and money/rate limits (AIStudio)
@@ -53,24 +59,7 @@ Work-Life Balance: How might AI’s influence on productivity and efficiency, as
   - Prompt Engineering
   - Content Engineering
   - Spec Driven Development
-* Advanced Prompt Engineering:
-  - Templates
-  - Structured Markup Langauge: POML
-  - Optimization: DSPy
-* AI Pair Programming
-  - Autocomplete
-  - Agents (copilot)
-  - Frameworks (Roo Code)
-  - CLI (Gemini or Claude Code)
 * BMAD: Agentic Agile SWE
-* Mini-Project #1: Chat
-  - System Prompt/Personas
-  - Reverse engineer Character.ai
-  - Knowledge
-  - Tools
-  - Memory
-  - Guardrails
-  - Metrics/Observability
 
 ### AI News/Current Events
 
@@ -152,7 +141,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * [AIStudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro)
 * [OpenAI API QuickStart](https://platform.openai.com/docs/quickstart)
-* [OpenAI GPT vs Gemini Gems]
+* OpenAI GPT vs Gemini Gems
   - [ChatGPT Use Cases](https://chatgpt.com/use-cases/students)
 
 ### Sign Ups
@@ -240,34 +229,58 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [(FREE) LangFuse](https://github.com/langfuse/langfuse)
 
 ### Setup Checklist
+
 * WSL2 (Win) and Brew (MacOS)
 * Terminal Apps
 * Git and SSH Auth
 * Python
 * JavaScript
+* CLI IDE:
+  * [Claude Code](https://www.anthropic.com/claude-code)
+  * [Gemini Code](https://codeassist.google/)
+    * [Github and Docs](https://github.com/google-gemini/gemini-cli)
+  * [Warp](https://www.warp.dev/)
+  * [Opencode](https://github.com/sst/opencode)
+    * Install Bun and Golang first
 * VSCode + Extensions
 
-### From Prompts to Chatbots
+### AI Model Access
 
-* [OpenAI Playground]()
-* [AIStudio]()
-* [Character.ai like Chatbot Colab]()
+* Web Chat Interfaces (human-machine)
+* Playgrounds and Sandboxes
+  - [OpenAI Playground](https://platform.openai.com/playground/)
+  - [AIStudio](https://aistudio.google.com/prompts/new_chat)
+* Application Programming Interfaces (Remote and Local APIs) (machine-machine)
+  - [OpenAI API](https://platform.openai.com/docs/api-reference/introduction)
+  - [Google Gemini API](https://ai.google.dev/gemini-api/docs)
+  - [Anthropic API](https://docs.anthropic.com/en/home)
+* Google Colab Notebooks
+  - [Local Ollama API + LangExtract](https://colab.research.google.com/drive/1qvffLzsQgfqnQ9JcZcNs-GNpMIIAT-Ci?usp=sharing)
+
+### From Persona Prompts for Chatbots
+
+* Character and Leaked System Prompts
+  - [Github: (xAI Spicy Lover) asgeirtj/system_prompts_leaks (19.7k)](https://github.com/asgeirtj/system_prompts_leaks/blob/main/xAI/grok-personas.md)
+  - [Github: (General): elder-plinius/CL4R1T4S (9.9k)](https://github.com/elder-plinius/CL4R1T4S)
+  - [Github: (General): dontriskit/awesome-ai-system-prompts (3.8k)](https://github.com/dontriskit/awesome-ai-system-prompts)
+* [Character.ai](https://character.ai/)
+  - [r/CharacterAI](https://www.reddit.com/r/CharacterAI/)
 * [Google’s NotebookLM Launched 5 NEW Features That Are CRAZY (11:37) (3 Sept 2025)](https://www.youtube.com/watch?v=hT40_UXCy3Y)
 
 ### A Brief Tech Executive Education Related to AI
 
-* [Universal Skill/Fluency Applicable to Medicine, Law, Academic Research, etc]()
-* [Economics of Software]()
-* [Software: Punchcards, GOFAI, ML and AI]()
-* [Entrepreneurship/Business Plans/Venture Capital]()
-* [SLDC]()
-  * [Methodologies: OOP, TDD, CI/CD, Observability, Telemetry, etc.]()
-  * [Management: Waterfall, Kanban, Agile, etc.]()
-* [BMAD]()
+* Universal Skill/Fluency Applicable to Medicine, Law, Academic Research, etc
+* Economics of Software
+* Software: Punchcards, GOFAI, ML and AI
+* Entrepreneurship/Business Plans/Venture Capital
+* SLDC
+  * Methodologies: OOP, TDD, CI/CD, Observability, Telemetry, etc.
+  * Management: Waterfall, Kanban, Agile, etc.
+* [BMAD](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/docs/user-guide.md)
 
 ### Vibe Coding, PRD/SDD/TDD, Context Engineering, and Spec Engineering
 
-* autocomplete, agents, task directed development
+* Autocomplete to Agents
 * [Perplexity: (9 Sep 2025)](https://www.perplexity.ai/search/what-are-the-best-foss-resourc-FheGBGbeQPKjejyNu60FeQ)
 
 #### Differentiale Terms
@@ -276,16 +289,57 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 #### Background Setup/Research
 
-* [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai)
-* [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
-* [GitIngest for Prompt-Friendly extract of Git Repo](https://github.com/coderamp-labs/gitingest)
+* [Distill: GitIngest for Prompt-Friendly extract of Git Repo](https://github.com/coderamp-labs/gitingest)
   * "https://github.com/bmad-code-org/BMAD-METHOD/" -> "https://gitingest.com/bmad-code-org/BMAD-METHOD/"
   * Copy and paste into Claude.ai, Openai.com, Gemini, etc and ask questions to understand code base
+* [Cross Model Consistency: botingw/rulebook-ai (328)](https://github.com/botingw/rulebook-ai)
+* [Project Setup: AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
+* [MAD: Claude Code + Codex CLI + Gemini CLI = ?? (15:30) (8 Sep 2025)](https://www.youtube.com/watch?v=JVwkyYtZNzQ)
+  - [Github: General and Focused Tools](https://github.com/just-every)
+  - [Github: Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider (1.1k)](https://github.com/just-every/code)
 
-#### PRD
-* [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
-* [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit/tree/main)
-* [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP)
+#### PRD or Spec Driven Development
+
+##### Free Web Chat Walk-Thru
+* [Perplexity Lit Search](https://www.perplexity.ai/search/any-foss-ai-models-libraries-f-4TWRrdq6TPqpudLEaxmbvw)
+  - [Github: Reactive-Resume (32.9k)](https://github.com/AmruthPillai/Reactive-Resume)
+    - [Google AI Search: Reactive Resume](https://www.google.com/search?q=format+for+a+reactive+resume+in+json&oq=format+for+a+reactive+resume+in+json&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg1MzlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)
+  - [Github: Resume-Matcher (23.1k)](https://github.com/srbhr/Resume-Matcher)
+  - [Github: Resume-LM (135)](https://github.com/olyaiy/resume-lm)
+  - [Github: ResumeAI (93)](https://github.com/Mahmud0808/ResumeAI)
+  - [Arxiv: ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinemen by Zinjad et al. (8 May 2024)](https://arxiv.org/pdf/2402.06221)
+* [AIStudio Gemini 2.5 Pro](https://aistudio.google.com/prompts/1GHoQXbDo9TP-JUNkV0yqMJh1HGkczphM?save=true)
+  ###REACTIVE_RESUME_ELEMENTS
+  (insert)
+  ###REACTIVE_RESUMES_JSON
+  (insert)
+  ###INSTRUCTIONS:
+  think hard to generate a detailed product requirement document for a program that reads in
+  various documents (various versions of old resumes, academic pages, github personal pages, research papers, non-profit AI organization roles, etc)
+  specific job descriptions (and associated information like web pages for key personnel, the hiring institution/center, research/work/products/services, etc)
+  Custom handwritten high-priority instructions
+  and then
+  analyzes all input documents, extracts out ###REACTIVE_RESUME_ELEMENTS from each
+  logs all key decision, fuzzy overlaps, and uncertain decisions made to both the CLI terminal and ./logs/log_{datetime_stamp}.json file
+  deduplicates all the extracted ###REACTIVE_RESUME_ELEMENTS by combining the most essential and rich descriptions/info from each element version found in input docs
+  normalizes all deduplicated ###REACTIVE_RESUME_ELEMENTS into standard ###REACTIVE_RESUMES_JSON format
+  saves the results in ./output/resume_{datetime_stamp}.json and cover-letter_{datetime_stamp}.json
+  BEFORE proceeding, ask any unclear or confusing instructions you need to create a comprehensive, logically structructured, and detailed PRD that can be used for AI context engineering and spec driven development. Remember, think harder
+* [GPT5 Decomposition/Context Engineering](https://chatgpt.com/share/68c1b334-600c-800c-ad2a-43306504d178)
+
+##### PRD Resources
+
+* [coleam00/context-engineering-intro (9.7k)](https://github.com/coleam00/context-engineering-intro)
+* [TechNomadCode/AI-Product-Development-Toolkit (554)](https://github.com/TechNomadCode/AI-Product-Development-Toolkit/tree/main)
+* [rohitg00/CreateMVP (601)](https://github.com/rohitg00/CreateMVP)
+
+##### KISS
+
+* [AIStudio: Chat-Based Alternative](https://aistudio.google.com/prompts/1lp0diyor8ubutwP6XrBofdERjuRjt_S3?save=true)
+  ###INSTRUCTIONS:
+  carefully analyze the schema for decomposing resume-related entities as described in ###REACTIVE_RESUME_ELEMENTS and then deeply parse the attached document to extract out as many such entities (or new related entities) and provide them in the ###REACTIVE_RESUME_JSON format for download. Think hard to catch every entity and related information/metadata, avoid hallucinations, and produce a report_summary that with concise commentary on each entity where there was some level of uncertainty, potential errors, or possibly missing information that could be added by a human reviewer. Again, produce:
+  1. a downloadable *.json file of all the elements decomposed into ###REACTIVE_RESUME_ELEMENTS (or new related elements)
+  2. a human-readable report for human to review, correct, or add to the *.json file
 
 #### Best Implementation: BMAD (as of Aug 2025)
 
@@ -341,10 +395,4 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
     * (N) Include prebuilt web bundles 
     * All rule files should appear under the corresponding subdir (e.g. ./.claude, ./.cursor, etc)
 
-
-* [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
-  * [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
-
-* [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
-  * [DSPy Docs](https://dspy.ai/)
 

@@ -11,6 +11,15 @@
 * [12 MCP, RAG, and Agents Cheat Sheets for AI Engineers ...explained with visuals by Avi Chawla (12 Aug 2025)](https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets)
 * [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (3 Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
 
+## Readings Code
+
+* [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
+  * [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
+
+* [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
+  * [DSPy Docs](https://dspy.ai/)
+
+
 ## Python
 
 * [10 Standard Library Modules That Make Python Insanely Powerful by ArjanCodes (15:38) (5 Sep 2025)](https://www.youtube.com/watch?v=eZ9RqnkJxsk)

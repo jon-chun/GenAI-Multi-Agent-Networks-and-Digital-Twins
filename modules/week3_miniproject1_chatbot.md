@@ -2,12 +2,87 @@
 
 As AI models like GPT have become more powerful, they've also become more accessible through APIs with a growing number of features we'll use in the coming like function calling, fine-tuning, and caching. This week, we'll explore the basics of using Python to interact with the OpenAI API, enabling us to harness the power of large language models in our own future applications.
 
+## Miniproject #1: Build a Chatbot (Due Sun midnight, September 22nd)
+
+Based upon a domain of expertise you have, create a chatbot with a destinctive persona. Use the complex/well-structured prompt examples you've seen to implement your chatbot using the OpenAI API in Colab Jupyter notebook. You will also use AI to develop a scoring rubric and use it to evalute the 'quality' of your persona prompt. Here are are the project goals:
+
+* Use the 'system' prompt to give your chatbot a descriptive and specialized 'persona' (e.g. a historical famous person, a main or marginal character from fiction, a Jungian Therapist with particular quirks, etc.)
+* Save and submit your metaprompt history used to iterate and refine your prompt (use ChatGPT Exporter Browser Plug-In)
+* Create a comprehensive and non-trivial chacter prompt including exertise, personality, backstory, etc.
+* Use the OpenAI API and accumulate the conversation history
+* Explore other Prompt Engineering strategies (e.g. In-Context-Learning, Chain of Thoughts, etc.)
+* (Optional) Use gradio for the UI/UX
+* (Optional) Extend your chatbot with features like multimodal input (e.g. voice, images)
+* In your personal github.com repo, create a folder 'iphs391fall2025-miniproject1-chatbot' and upload your code there as either a Colab notebook or *.py code files for testing, verification and grading. 
+
+NOTE: Beware using older code examples. OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
 
 ## **Humanistic Big Ideas**
 
 ### Readings
 
+* [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence by Erik Brynjolfsson et al. (26 Aug 2025)](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 * [Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
+
+### Reflections
+
+* Use AI to understand, analyze, and critique the Stanford paper.
+* Search for GPT titled 'Video Summarizer' and use it for a Socratic deep dive into the Video
+* Come to class ready for an in-depth conversation on the dialog within and across these articles.
+
+### Goals:
+
+* Recent and future impacts of AI on Employment and the Future of Work
+* More in-depth prompt engineering
+* More OpenAI API coding
+* Lighter readings to accomodate Mini-Project #1: Chatbots
+* Leveraing AI to accelerate and deepen learning
+* Contrasting and resolving apparently contradictory AI research
+
+* Advanced Prompt Engineering:
+  - Templates
+  - Structured Markup Langauge: POML
+  - Optimization: DSPy
+* AI Pair Programming
+  - Autocomplete
+  - Agents (copilot)
+  - Frameworks (Roo Code)
+  - CLI (Gemini or Claude Code)
+* Mini-Project #1: Chat
+  - System Prompt/Personas
+  - Reverse engineer Character.ai
+  - Knowledge
+  - Tools
+  - Memory
+  - Guardrails
+  - Metrics/Observability
+
+### AI News/Current Events
+
+* [ChatGPT Developer mode: Full MCP client access for connectors and tools. (10 Sep 5)](https://platform.openai.com/docs/guides/developer-mode)
+  
+### To Do: Signup and Installs
+
+
+## **Coding**
+
+* [Deeplearning.ai: ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/jtmdv/chatbot)
+* [Deeplearning.ai: Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
+
+
+## **AI Research**
+
+* [ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute Hao Wen et al. (30 Aug 2025)](https://www.arxiv.org/abs/2509.04475)
+* [Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate by Andrea Wynn et al. (5 Sep 2025)](https://arxiv.org/abs/2509.05396)
+
+Use AI to analyze these papers, explore the apparent contradictions and resolutions of the results in each.
+
+
+## In Class
+
+
+
+
 
 
 ### In-Class
@@ -92,16 +167,3 @@ Ethical Boundaries: If software can be considered “spirit,” what ethical bou
 * Prompts for Chat Personas
   * [awesome-voice-prompts](https://github.com/langgptai/awesome-voice-prompts)
 
-## Miniproject #1: Build a Chatbot (Due Sun midnight, September 22nd)
-
-Build a chatbot using code and examples you've seen in DeepLearning.ai, reading YouTubes, class or RECENT modified code you can find on kaggle.com or github. Tips:
-
-* Use the OpenAI API and accumulate the conversation history
-* Use the 'system' prompt to give your chatbot a descriptive and specialized 'persona'
-* Use n-shot Incontext Learning (ICL) prompts to provide examples to shape/pattern chatbot responses
-* Explore other Prompt Engineering strategies (e.g. Chain of Thoughts)
-* (Optional) Use gradio for the UI/UX
-* (Optional) Extend your chatbot with features like multimodal input (e.g. voice, images)
-* In your personal github.com repo, create a folder 'iphs391-miniproject1-chatbot' and upload your code there as either a Colab notebook or *.py code files for testing, verification and grading. 
-
-NOTE: The OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
