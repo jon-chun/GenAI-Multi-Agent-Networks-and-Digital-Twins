@@ -63,8 +63,9 @@ The Future of Work in the Age of AI
   * AI Cloud Providers
       - (DO NOT SIGN-UP EARLY) Perplexity
         - We will use a simple algorithm to optimize free months using their referral system in class (more free months if you can get friends/family outside class to join trail)
-      - (Required) FREE [Google Pro for Students](https://gemini.google/students/)
-      - (Required) OpenAI ChatGPT
+      - (Required: FREE) [Huggingface.co](https://huggingface.co/)
+      - (Required: FREE) [Google Pro for Students](https://gemini.google/students/)
+      - (Required: $20/mo) OpenAI ChatGPT
         - IF not blocked by @kenyon.edu domain
           - 2mo free? (may be blocked by Kenyon) [OpenAI ChatGPT Pro](https://gemini.google/students/)
         - ELSE
@@ -257,7 +258,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   - [Google Gemini API](https://ai.google.dev/gemini-api/docs)
   - [Anthropic API](https://docs.anthropic.com/en/home)
 * Google Colab Notebooks
-  - [Local Ollama API + LangExtract](https://colab.research.google.com/drive/1qvffLzsQgfqnQ9JcZcNs-GNpMIIAT-Ci?usp=sharing)
+  - [Local Ollama API + LangExtract](https://colab.research.google.com/drive/1gP92JYg7ZKxH76Fo_yi4eAWFndT8tITA?usp=sharing)
 
 ### From Persona Prompts for Chatbots
 
