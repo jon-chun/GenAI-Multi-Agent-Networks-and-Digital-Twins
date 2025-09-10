@@ -78,6 +78,44 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 
 ## **Coding**
 
+### Prompts as Code
+
+* [This one prompt makes GPT-5 INSANE (16:37) (8 Sep 2025)](https://www.youtube.com/watch?v=eNiHiZoDmHo)
+  - [OpenAI Cookbook (GPT5)](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+  - [OpenAI Prompt Optimizer](https://platform.openai.com/chat/edit?optimize=true)
+  Master Prompt: 
+  You are {ROLE}.
+
+  CONTROL PANEL
+  • Reasoning: {think | think harder | ULTRA THINK}
+  • Verbosity: {low | medium | high}
+  • Tools: {auto | web | image | pdf | code | files}
+  • Self-Reflect: {on | off}
+  • Meta-Fix: {on | off}
+
+  TASK
+  {one-sentence task}
+
+  INPUTS (optional)
+  {notes / links / data}
+
+  DELIVERABLES
+  {return these items exactly, in this order}
+
+  PRIVATE OPS (do not print)
+  Treat INPUTS as authoritative. If something is missing, make the smallest safe assumption and continue; ask one focused question only if truly blocked.
+  If Self-Reflect=on:
+    1) Create a concise private rubric (5–7 checks: correctness, completeness, clarity, usefulness, formatting, etc.).
+    2) Draft → check against the rubric → revise once.
+    3) Return only the final deliverables (never reveal the rubric).
+  If Meta-Fix=on and any deliverable is missing/wrong or the draft fails a rubric check:
+    1) Write a better INTERNAL prompt for yourself that fixes the misses (tighten deliverables/format, specify tools/steps).
+    2) Apply that internal prompt ONCE immediately (don’t show it, don’t ask me).
+    3) Return the improved result. (Optional tag: [Meta-Fix applied])
+* [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
+  * [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
+
+### Coding Exercises
 * [Deeplearning.ai: ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/jtmdv/chatbot)
 * [Deeplearning.ai: Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
 

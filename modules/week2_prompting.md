@@ -296,6 +296,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * Autocomplete to Agents
 * [Snake Game: VSCode + Roo Code](https://github.com/jon-chun/test-opencode-snake)
+  - [Opencode Chat History](https://opencode.ai/s/JmS3uFHa)
 
 #### Background Setup/Research
 

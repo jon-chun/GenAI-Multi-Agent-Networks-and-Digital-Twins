@@ -10,6 +10,7 @@
 * [Breaking into AI Engineering in 2025: A roadmap that will help you up-skill or re-skill into an AI Engineer role. byAurimas Griciūnas (4 Jun 2025)](https://www.newsletter.swirlai.com/p/breaking-into-ai-engineering-in-2025?ref=dailydev)
 * [12 MCP, RAG, and Agents Cheat Sheets for AI Engineers ...explained with visuals by Avi Chawla (12 Aug 2025)](https://blog.dailydoseofds.com/p/12-mcp-rag-and-agents-cheat-sheets)
 * [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer (17:05) (3 Jul 2025)](https://www.youtube.com/watch?v=8kMaTybvDUw)
+* [Gartner: How to Choose the Right Architecture to Build AI Agents (5 Jun 2025)](https://www.gartner.com/doc/reprints?id=1-2LTE5OVS&ct=250904&st=sb)
 
 ## Readings Code
 
