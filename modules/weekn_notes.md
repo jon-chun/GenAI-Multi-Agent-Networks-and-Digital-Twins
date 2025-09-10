@@ -19,6 +19,11 @@
 * [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
   * [DSPy Docs](https://dspy.ai/)
 
+* [Github: Langfuse](https://github.com/langfuse/langfuse)
+* [Colab: Langfuse](https://colab.research.google.com/drive/1KFKG5JShFYzKv3TK2y47SX5sQWUwWkns?usp=sharing)
+* [Colab: DSPy + Langfuse](https://colab.research.google.com/drive/1VU6q_MpHwMZzCXA4vsN3ayYEpLezyUkD?usp=sharing)
+
+* [Github: YT AI Bootcamp](https://github.com/curiousily/AI-Bootcamp)
 
 ## Python
 
