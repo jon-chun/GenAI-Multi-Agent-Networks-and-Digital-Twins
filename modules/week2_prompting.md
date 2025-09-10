@@ -151,8 +151,6 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * [AIStudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro)
 * [OpenAI API QuickStart](https://platform.openai.com/docs/quickstart)
-* OpenAI GPT vs Gemini Gems
-  - [ChatGPT Use Cases](https://chatgpt.com/use-cases/students)
 
 ### Sign Ups
 
@@ -270,6 +268,8 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   Make a chatbot with the persona of a psychologically passive agressive group conselor who makes intellectual digs and jabs while exploring peoples' psyche to exploit weakness and vunerabilities
 * [Google GEMs](https://gemini.google/overview/gems/)
 
+* [(Weak Prompts) ChatGPT Use Cases](https://chatgpt.com/use-cases/students)
+
 #### Persona Prompts
 
 * Character and Leaked System Prompts
@@ -295,12 +295,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 ### Vibe Coding, PRD/SDD/TDD, Context Engineering, and Spec Engineering
 
 * Autocomplete to Agents
-* [Perplexity: (9 Sep 2025)](https://www.perplexity.ai/search/what-are-the-best-foss-resourc-FheGBGbeQPKjejyNu60FeQ)
-* [VSCode + Roo Code -> Snake](https://github.com/jon-chun/test-opencode-snake)
-
-#### Differentiale Terms
-* [(Claude) Context Engineering Template (9.7k)](https://github.com/coleam00/context-engineering-intro)
-* [The "Spec Engineering" Hype is Here. BMAD Users Are Already Winning (10:21) (Aug 2025)](https://www.youtube.com/watch?v=jVGsm9kW97U)
+* [Snake Game: VSCode + Roo Code](https://github.com/jon-chun/test-opencode-snake)
 
 #### Background Setup/Research
 
@@ -314,6 +309,10 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   - [Github: Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider (1.1k)](https://github.com/just-every/code)
 
 #### PRD or Spec Driven Development
+
+* [Perplexity: Best FOSS PRD Resources (9 Sep 2025)](https://www.perplexity.ai/search/what-are-the-best-foss-resourc-FheGBGbeQPKjejyNu60FeQ)
+* [(Claude) Context Engineering Template (9.7k)](https://github.com/coleam00/context-engineering-intro)
+* [The "Spec Engineering" Hype is Here. BMAD Users Are Already Winning (10:21) (Aug 2025)](https://www.youtube.com/watch?v=jVGsm9kW97U)
 
 ##### Free Web Chat Walk-Thru
 * [Perplexity Lit Search](https://www.perplexity.ai/search/any-foss-ai-models-libraries-f-4TWRrdq6TPqpudLEaxmbvw)
