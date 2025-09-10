@@ -11,5 +11,5 @@
 ## GPT
 
 * [Let's reproduce GPT-2 (124M) (4:01:25) (Jun 2024)](https://www.youtube.com/watch?v=l8pRSuU81PU)  
-
+  * [Github](https://github.com/karpathy/llm.c/discussions/677)
 * [MiniMind GPT](https://github.com/jingyaogong/minimind)   

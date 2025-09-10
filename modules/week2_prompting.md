@@ -171,6 +171,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 ### Install
 
 * [Perplexity: Min MacOS/Win11(WSL2) Setup Instr](https://www.perplexity.ai/search/instructions-to-setup-thin-cli-BY57yvh6T.OjAEH24AFd.w)
+* [Unified Setup Config](../docs-config/gpt5_20250910_Unified Ai Dev Setup (mac Os + Wsl2) — Vs Code+roo, Gemini Code, Claude Code, Open Code (sept 2025).pdf)
 * MacOS
   - Brew Package Manager
   - iTerm2
@@ -193,6 +194,8 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * FOSS Repos
   * [Github Explore](https://github.com/explore)
   * [Trendshift](https://trendshift.io/)
+* Leaderboards
+  * [Aider](https://aider.chat/docs/leaderboards/)
 * Deep Research
   * Prompt
     * [Vertex Prompt Gallery](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery?project=gen-lang-client-0588482685)
@@ -234,6 +237,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [(PAID) OpenAI]()
 * [Perplexity.ai Referral Program](https://www.perplexity.ai/help-center/en/articles/10964633-student-referrals)
 * [Optimized Perplexity.ai Referrals for Free Month](https://chatgpt.com/share/68b90e66-abb0-800d-a0ba-1e7a1f94b761)
+* [(FREE) LangFuse](https://github.com/langfuse/langfuse)
 
 ### Setup Checklist
 * WSL2 (Win) and Brew (MacOS)
