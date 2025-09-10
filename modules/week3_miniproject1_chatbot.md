@@ -17,6 +17,15 @@ Based upon a domain of expertise you have, create a chatbot with a destinctive p
 
 NOTE: Beware using older code examples. OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
 
+* Grading: Prompt complexity, subtlty, creativity, and effectiveness
+  - [(No Code) OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
+  - [(No Code) Google Gems](https://support.google.com/gemini/answer/15235603?hl=en)
+  - [(OpenAI API) Jupyter Colab](https://colab.research.google.com/)
+  - Turn in:
+    1. Meta/Prompts used to iterative develop Persona Prompt
+    2. Traces of best 10x dialog and 1-2pg writeup on insights/discoveries
+    3. Scoring Rubric with evaluation of your Persona Prompt
+
 ## **Humanistic Big Ideas**
 
 ### Readings
@@ -39,6 +48,9 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 * Leveraing AI to accelerate and deepen learning
 * Contrasting and resolving apparently contradictory AI research
 
+* Local Dev: Crash course
+  - Command Line Interface (CLI) AI Development (Gemini CLI)
+  - Visual (VSCode) + Roo + ClI
 * Advanced Prompt Engineering:
   - Templates
   - Structured Markup Langauge: POML
@@ -149,7 +161,9 @@ Ethical Boundaries: If software can be considered “spirit,” what ethical bou
 
 ## In-Class
 
-* Quiz
+* Quiz: Week 3
+
+* [Colab: llm_observability_integration_dspy_langfuse_20250909.ipynb](https://colab.research.google.com/drive/1VU6q_MpHwMZzCXA4vsN3ayYEpLezyUkD)
 
 * Prompt Engineering
   * [Learning to Reason with LLMs (12 Sep 2024)](https://openai.com/index/learning-to-reason-with-llms/)

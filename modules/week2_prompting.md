@@ -25,15 +25,7 @@ The Future of Work in the Age of AI
 * Drink from the AI Firehose (news, research, product launches, etc)
 * Deterministic Traditional Programming vs Stochastic AI Programming
 * Web vs API Access
-* Project:
-  - Grading: Prompt complexity, subtlty, creativity, and effectiveness
-  - [(No Code) OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
-  - [(No Code) Google Gems](https://support.google.com/gemini/answer/15235603?hl=en)
-  - [(OpenAI API) Jupyter Colab](https://colab.research.google.com/)
-  - Turn in:
-    1. Meta/Prompts used to iterative develop Persona Prompt
-    2. Traces of best 10x dialog
-    3. Scoring Rubric with evaluation of your Persona Prompt
+* Mini-Project #1: Chatbot Review (see week 3)
 * Configure thin-client laptops for AI Development
 * Signup for Dev and AI Cloud Services
 * AI models, modalities, and money/rate limits (AIStudio)
@@ -47,7 +39,6 @@ The Future of Work in the Age of AI
   - ExtractLang to extract structured text from unstructured text
 * Local Dev: Crash course
   - Visual (VSCode) (API Calls to Gemini)
-  - Command Line Interface (CLI) AI Development (Gemini CLI or Claude Code)
 * Understand Software Engineering, from waterfalls to agile
   - Aspects:
     - PRD
@@ -101,9 +92,6 @@ The Future of Work in the Age of AI
   
 ### Prompt Engineering
 
-* [OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
-  - [OpenAI GPT Directory](https://www.lingoblocks.com/gpt-store)
-* [Google GEMs](https://gemini.google/overview/gems/)
 * [Complete OpenAI's API ChatGPT Tutorial - [Become A Prompt Engineer in 15 Minutes] (14:21) Mar 2024](https://www.youtube.com/watch?v=NiQ_9xwS4v8)
 * [Prompt Engineering Guide Manual: Read "Introduction" and "Techniques" (up to/including Meta Prompting)](https://www.promptingguide.ai/applications/finetuning-gpt4o)
 * [How to use the new OpenAI GPT5 Prompt Optimizer: Step by step tutorial (3:42) (10 Aug 2025)](https://www.youtube.com/watch?v=FvTPcfSKsVs)
@@ -134,8 +122,30 @@ This will be an exercise in skimming and using AI to analyze and quickly grasp t
 From these 8 pages as reference points, I'll dissect this paper for you in class. More importantly, we'll learn a methodology to use AI to query, explain, and enter into dialog with contents and concepts of this paper. This is an invaluable skill that generalizes far beyond this particular AI research paper.  
 
 * [A Survey of Context Engineering for Large Language Models by Mei et al. (21 Jul 2025)](https://arxiv.org/pdf/2507.13334)
+* [GPT5 Summary](https://chatgpt.com/share/68c1deb7-8cc0-800c-8f92-2140368bea94)
+  - 13% – Decline in employment among early-career workers in AI-exposed fields.
+  - 5.3% vs. 4% – Unemployment rate for new grads compared to overall labor force.
+  - 12% – Salary growth for entry-level AI specialists in a single year.
+  - 41% – Gen Z employees sabotaging their company’s AI strategy.
+  - 42% – Consulting workers not trained in AI despite being in a high-risk industry.
+* Questions:
+  * What does “trust” in the workplace actually mean? Is it about transparency, fairness, security, or something else?
+  * How should responsibility for technological change be shared between employers, employees, and policymakers?
+  * Can AI truly “create” new jobs, or does it only shift human labor into new forms?
+  * If workers feel they are training their replacements, what ethical obligations do employers have to prevent that dynamic?
+  * How do we distinguish between fears that are rational (job loss, reduced creativity) and fears that might be exaggerated?
+  * What makes certain industries (like healthcare) more trusted by workers when it comes to AI adoption, compared to others (like real estate)?
+  * Does a lack of training in AI reflect negligence by employers, or is it simply a lag in adapting to rapid change?
+  * How might generational differences (Gen Z vs. older workers) shape attitudes toward AI at work?
+  * If AI could solve global problems like water scarcity or disease, should societies accept short-term disruptions to jobs? Why or why not?
+  * What role should democratic participation play in decisions about AI adoption—should workers have a voice equal to executives in shaping policies?
+  * Why do young workers feel more threatened by AI compared to experienced employees? (Enter E1 to ask)
+  * How could companies build trust and involve workers in AI integration? (Enter E2 to ask)
+  * What are the long-term risks if mistrust between workers and leadership continues? (Enter E3 to ask)
 
 ## In Class
+
+### [Quiz: Week 2](https://www.lipsum.com/)
 
 ### WebUI vs API
 
@@ -212,15 +222,9 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * Brainstorm
   * [BMAD 1) Prompt 2) *brainstorm ](https://claude.ai/chat/51aec5db-3dc0-4fc9-9f69-d771bdfb3f24)
 
-<iframe 
-  src="https://chatgpt.com/canvas/shared/68bccfb2b4f08191b96729e907b28c04" 
-  width="100%" 
-  height="800" 
-  style="border: none;">
-</iframe>
+* "https://chatgpt.com/canvas/shared/68bccfb2b4f08191b96729e907b28c04" 
 
-
-### Sign ups and Checklist
+ ### Sign ups and Checklist
 
 * [(FREE) Google Pro Gemini for Students (Oct 2025)]()
 * [(PAID) OpenAI]()
@@ -259,13 +263,23 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 ### From Persona Prompts for Chatbots
 
+#### No-Code Examples
+
+* [OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
+  - [OpenAI GPT Directory](https://www.lingoblocks.com/gpt-store)
+  Make a chatbot with the persona of a psychologically passive agressive group conselor who makes intellectual digs and jabs while exploring peoples' psyche to exploit weakness and vunerabilities
+* [Google GEMs](https://gemini.google/overview/gems/)
+
+#### Persona Prompts
+
 * Character and Leaked System Prompts
   - [Github: (xAI Spicy Lover) asgeirtj/system_prompts_leaks (19.7k)](https://github.com/asgeirtj/system_prompts_leaks/blob/main/xAI/grok-personas.md)
   - [Github: (General): elder-plinius/CL4R1T4S (9.9k)](https://github.com/elder-plinius/CL4R1T4S)
   - [Github: (General): dontriskit/awesome-ai-system-prompts (3.8k)](https://github.com/dontriskit/awesome-ai-system-prompts)
 * [Character.ai](https://character.ai/)
   - [r/CharacterAI](https://www.reddit.com/r/CharacterAI/)
-* [Google’s NotebookLM Launched 5 NEW Features That Are CRAZY (11:37) (3 Sept 2025)](https://www.youtube.com/watch?v=hT40_UXCy3Y)
+* [(Optional) NSFW Spicy Content at Chub.ai](https://docs.chub.ai/docs)
+* [Google NotebookLM](https://notebooklm.google/)
 
 ### A Brief Tech Executive Education Related to AI
 
@@ -282,6 +296,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * Autocomplete to Agents
 * [Perplexity: (9 Sep 2025)](https://www.perplexity.ai/search/what-are-the-best-foss-resourc-FheGBGbeQPKjejyNu60FeQ)
+* [VSCode + Roo Code -> Snake](https://github.com/jon-chun/test-opencode-snake)
 
 #### Differentiale Terms
 * [(Claude) Context Engineering Template (9.7k)](https://github.com/coleam00/context-engineering-intro)
