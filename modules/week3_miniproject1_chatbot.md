@@ -47,6 +47,15 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
   - OpenAI Pro Subscription: $20/mo
   - OpenAI API: Pay $10 in API Credits
 
+* New Development Setup
+  - Create new code repo at Github., then click green [ <> Code ] button and copy <HTTPS link>
+  - Open iTerm2 then 'cd ./code'
+  - Copy Remote Github.com repo to local laptop with 'git clone <HTTPS link>'
+  - 'cd <repo subdir>'
+  - Setup virtual environment with 'uv venv --python=3.11'
+  - Activate virtual enviornment with 'source .venv/bin/source'
+  - Open VSCode 'code .'
+
 # ==========[ New Reading Assignments ]==========
 
 ## **[ Humanistic Readings ]**
