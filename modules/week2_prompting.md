@@ -289,17 +289,6 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 * [Snake Game: VSCode + Roo Code](https://github.com/jon-chun/test-opencode-snake)
 * [Resume Opt: Opencode Chat History](https://opencode.ai/s/JmS3uFHa)
 
-#### Background Setup/Research
-
-* [Distill: GitIngest for Prompt-Friendly extract of Git Repo](https://github.com/coderamp-labs/gitingest)
-  * "https://github.com/bmad-code-org/BMAD-METHOD/" -> "https://gitingest.com/bmad-code-org/BMAD-METHOD/"
-  * Copy and paste into Claude.ai, Openai.com, Gemini, etc and ask questions to understand code base
-* [Cross Model Consistency: botingw/rulebook-ai (328)](https://github.com/botingw/rulebook-ai)
-* [Project Setup: AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
-* [MAD: Claude Code + Codex CLI + Gemini CLI = ?? (15:30) (8 Sep 2025)](https://www.youtube.com/watch?v=JVwkyYtZNzQ)
-  - [Github: General and Focused Tools](https://github.com/just-every)
-  - [Github: Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider (1.1k)](https://github.com/just-every/code)
-
 #### PRD or Spec Driven Development
 
 * [Perplexity: Best FOSS PRD Resources (9 Sep 2025)](https://www.perplexity.ai/search/what-are-the-best-foss-resourc-FheGBGbeQPKjejyNu60FeQ)

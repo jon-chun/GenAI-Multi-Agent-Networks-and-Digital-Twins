@@ -2,7 +2,7 @@
 
 As AI models like GPT have become more powerful, they've also become more accessible through APIs with a growing number of features we'll use in the coming like function calling, fine-tuning, and caching. This week, we'll explore the basics of using Python to interact with the OpenAI API, enabling us to harness the power of large language models in our own future applications.
 
-## Miniproject #1: Build a Chatbot
+# ==========[ Miniproject #1: Build a Chatbot ]==========
 
 **DUE:** Sunday, September 14th at 12 midnight EST
 
@@ -19,7 +19,7 @@ Based upon a domain of expertise you have, create a chatbot with a destinctive p
 
 NOTE: Beware using older code examples. OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
 
-### MP#1 Resources: Persona Prompts
+## MP#1 Resources: Persona Prompts
 
 * Character and Leaked System Prompts
   - [Github: (xAI Spicy Lover) asgeirtj/system_prompts_leaks (19.7k)](https://github.com/asgeirtj/system_prompts_leaks/blob/main/xAI/grok-personas.md)
@@ -30,7 +30,7 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 * [(Optional) NSFW Spicy Content at Chub.ai](https://docs.chub.ai/docs)
 * [Google NotebookLM](https://notebooklm.google/)
 
-### MP#1 Grading: Prompt complexity, subtlty, creativity, and effectiveness
+## MP#1 Grading: Prompt complexity, subtlty, creativity, and effectiveness
   - [(No Code) OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
   - [(No Code) Google Gems](https://support.google.com/gemini/answer/15235603?hl=en)
   - [(OpenAI API) Jupyter Colab](https://colab.research.google.com/)
@@ -39,9 +39,17 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
     2. Traces of best 10x dialog and 1-2pg writeup on insights/discoveries
     3. Scoring Rubric with evaluation of your Persona Prompt
 
-## **Humanistic Readings on Big Ideas**
+# ==========[ Follow-Ups ]==========
 
-### Readings
+### Signup and Installs
+
+* OpenAI
+  - OpenAI Pro Subscription: $20/mo
+  - OpenAI API: Pay $10 in API Credits
+
+# ==========[ New Reading Assignments ]==========
+
+## **[ Humanistic Readings ]**
  
 * [(Use AI ~10mins) Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence by Erik Brynjolfsson et al. (26 Aug 2025)](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 * [(Watch in full) Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
@@ -50,7 +58,38 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 
 (in class)
 
-### Goals:
+### AI News/Current Events
+
+(Coming...)
+  
+
+
+## **[ New Technical Assignments ]**
+
+### Prompts as Code
+
+* [(GPT5 Structured Prompts): This one prompt makes GPT-5 INSANE (16:37) (8 Sep 2025)](https://www.youtube.com/watch?v=eNiHiZoDmHo)
+  - [OpenAI Cookbook (GPT5)](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+  - [OpenAI Prompt Optimizer](https://platform.openai.com/chat/edit?optimize=true)
+
+* [(MS Structured Prompts): Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
+  - [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
+
+### Coding Exercises
+
+* [Deeplearning.ai: ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/jtmdv/chatbot)
+
+* [Deeplearning.ai: Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
+
+### **AI Research**
+
+Use AI to analyze these papers, explore the apparent contradictions and resolutions of the results in each. Come to class ready to engage the deep concepts and impact of these 2 papers:
+* [ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute Hao Wen et al. (30 Aug 2025)](https://www.arxiv.org/abs/2509.04475)
+* [Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate by Andrea Wynn et al. (5 Sep 2025)](https://arxiv.org/abs/2509.05396)
+
+# ==========[ In Class ]==========
+
+## Goals:
 
 * Recent and future impacts of AI on Employment and the Future of Work
 * More in-depth prompt engineering
@@ -78,42 +117,18 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
   - System Prompt/Personas
   - Reverse engineer Character.ai
 
-### AI News/Current Events
+## Existing Codebase: AI Research and Distillation
 
-(Coming...)
-  
-### To Do: Signup and Installs
+* [Distill: GitIngest for Prompt-Friendly extract of Git Repo](https://github.com/coderamp-labs/gitingest)
+  * "https://github.com/bmad-code-org/BMAD-METHOD/" -> "https://gitingest.com/bmad-code-org/BMAD-METHOD/"
 
-* OpenAI
-  - OpenAI Pro Subscription: $20/mo
-  - OpenAI API: Pay $10 in API Credits
+## 
 
-## **Coding**
-
-### Prompts as Code
-
-* [This one prompt makes GPT-5 INSANE (16:37) (8 Sep 2025)](https://www.youtube.com/watch?v=eNiHiZoDmHo)
-  - [OpenAI Cookbook (GPT5)](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
-  - [OpenAI Prompt Optimizer](https://platform.openai.com/chat/edit?optimize=true)
-
-* MS POML
-  - [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
-  - [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
-
-### Coding Exercises
-
-* [Deeplearning.ai: ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/jtmdv/chatbot)
-
-* [Deeplearning.ai: Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
-
-
-## **AI Research**
-
-Use AI to analyze these papers, explore the apparent contradictions and resolutions of the results in each. Come to class ready to engage:
-* [ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute Hao Wen et al. (30 Aug 2025)](https://www.arxiv.org/abs/2509.04475)
-* [Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate by Andrea Wynn et al. (5 Sep 2025)](https://arxiv.org/abs/2509.05396)
-
-## In Class
+* [Cross Model Consistency: botingw/rulebook-ai (328)](https://github.com/botingw/rulebook-ai)
+* [Project Setup: AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
+* [MAD: Claude Code + Codex CLI + Gemini CLI = ?? (15:30) (8 Sep 2025)](https://www.youtube.com/watch?v=JVwkyYtZNzQ)
+  - [Github: General and Focused Tools](https://github.com/just-every)
+  - [Github: Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider (1.1k)](https://github.com/just-every/code)
 
 * [Google Vertex Studio with AI](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery)
 
