@@ -1,5 +1,14 @@
 # Week N Notess
 
+# Goals
+* Agents
+  - Knowledge
+  - Tools
+  - Memory
+  - Guardrails
+  - Metrics/Observability
+
+
 ## Readings Humanistic
 
 * [We must build AI for people; not to be a person Seemingly Conscious AI is Coming by Mustafa Suleyman (19 Aug 2025)](https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming)

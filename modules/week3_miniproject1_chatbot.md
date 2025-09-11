@@ -44,7 +44,7 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 ### Readings
  
 * [(Use AI ~10mins) Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence by Erik Brynjolfsson et al. (26 Aug 2025)](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
-* [Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
+* [(Watch in full) Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
 
 ### Reflections
 
@@ -60,10 +60,13 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 * Contrasting and resolving apparently contradictory AI research
 
 * Local Dev: Crash course
-  - Command Line Interface (CLI) AI Development (Gemini CLI)
   - Visual (VSCode) + Roo + ClI
+  - Command Line Interface (CLI) 
+  - AI Development (Gemini CLI)
+* OpenAI API Review
 * Advanced Prompt Engineering:
   - Templates
+  - OpenAI GPT5
   - Structured Markup Langauge: POML
   - Optimization: DSPy
 * AI Pair Programming
@@ -74,20 +77,16 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 * Mini-Project #1: Chat
   - System Prompt/Personas
   - Reverse engineer Character.ai
-  - Knowledge
-  - Tools
-  - Memory
-  - Guardrails
-  - Metrics/Observability
 
 ### AI News/Current Events
 
-* [ChatGPT Developer mode: Full MCP client access for connectors and tools. (10 Sep 5)](https://platform.openai.com/docs/guides/developer-mode)
+(Coming...)
   
 ### To Do: Signup and Installs
 
-OpenAI Pro $20/mo
-OpenAI API Pay $10 Credit
+* OpenAI
+  - OpenAI Pro Subscription: $20/mo
+  - OpenAI API: Pay $10 in API Credits
 
 ## **Coding**
 
@@ -96,59 +95,25 @@ OpenAI API Pay $10 Credit
 * [This one prompt makes GPT-5 INSANE (16:37) (8 Sep 2025)](https://www.youtube.com/watch?v=eNiHiZoDmHo)
   - [OpenAI Cookbook (GPT5)](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
   - [OpenAI Prompt Optimizer](https://platform.openai.com/chat/edit?optimize=true)
-  Master Prompt: 
-  You are {ROLE}.
 
-  CONTROL PANEL
-  • Reasoning: {think | think harder | ULTRA THINK}
-  • Verbosity: {low | medium | high}
-  • Tools: {auto | web | image | pdf | code | files}
-  • Self-Reflect: {on | off}
-  • Meta-Fix: {on | off}
-
-  TASK
-  {one-sentence task}
-
-  INPUTS (optional)
-  {notes / links / data}
-
-  DELIVERABLES
-  {return these items exactly, in this order}
-
-  PRIVATE OPS (do not print)
-  Treat INPUTS as authoritative. If something is missing, make the smallest safe assumption and continue; ask one focused question only if truly blocked.
-  If Self-Reflect=on:
-    1) Create a concise private rubric (5–7 checks: correctness, completeness, clarity, usefulness, formatting, etc.).
-    2) Draft → check against the rubric → revise once.
-    3) Return only the final deliverables (never reveal the rubric).
-  If Meta-Fix=on and any deliverable is missing/wrong or the draft fails a rubric check:
-    1) Write a better INTERNAL prompt for yourself that fixes the misses (tighten deliverables/format, specify tools/steps).
-    2) Apply that internal prompt ONCE immediately (don’t show it, don’t ask me).
-    3) Return the improved result. (Optional tag: [Meta-Fix applied])
-* [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
-  * [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
+* MS POML
+  - [Microsoft's Secret Tool for PERFECT AI Prompts (7:25) (6 Sep 2025)](https://www.youtube.com/watch?v=tfOwh6YCY8M)
+  - [MS Prompt Orchestration Markup Language (POML) Github](https://github.com/microsoft/poml)
 
 ### Coding Exercises
+
 * [Deeplearning.ai: ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/jtmdv/chatbot)
+
 * [Deeplearning.ai: Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
 
 
 ## **AI Research**
 
+Use AI to analyze these papers, explore the apparent contradictions and resolutions of the results in each. Come to class ready to engage:
 * [ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute Hao Wen et al. (30 Aug 2025)](https://www.arxiv.org/abs/2509.04475)
 * [Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate by Andrea Wynn et al. (5 Sep 2025)](https://arxiv.org/abs/2509.05396)
 
-Use AI to analyze these papers, explore the apparent contradictions and resolutions of the results in each.
-
-
 ## In Class
-
-
-
-
-
-
-### In-Class
 
 * [Google Vertex Studio with AI](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery)
 
