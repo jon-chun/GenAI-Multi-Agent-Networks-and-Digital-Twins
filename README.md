@@ -90,7 +90,7 @@ NOTE: Content will be added each week for Fall 2024
 * [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (Open)
 * [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (Open)
 * [**Week 2:** Prompt Engineering, Vibe Coding, Context Engineering, and APIs](./modules/week2_prompting.md) (Open)
-* **Week 3:** Miniproject 1: Chatbots
+* [**Week 3:** Miniproject 1: Chatbots](./modules/week3_miniproject1_chatbot.md)
 
 #### Reflection Questions
 
