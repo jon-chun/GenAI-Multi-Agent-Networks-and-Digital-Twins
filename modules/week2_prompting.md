@@ -169,6 +169,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 ### Install
 
 * [Perplexity: Min MacOS/Win11(WSL2) Setup Instr](https://www.perplexity.ai/search/instructions-to-setup-thin-cli-BY57yvh6T.OjAEH24AFd.w)
+* [GPT5 Unified Install Instructions](../docs-config/gpt5_20250910_unified_ai_dev_setup_mac_os_wsl_2_vs_code_roo_gemini_code_claude_code_open_code_sept_2025.pdf)
 * [Unified Setup Config](../docs-config/gpt5_20250910_Unified Ai Dev Setup (mac Os + Wsl2) — Vs Code+roo, Gemini Code, Claude Code, Open Code (sept 2025).pdf)
 * MacOS
   - Brew Package Manager
