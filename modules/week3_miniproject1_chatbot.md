@@ -44,8 +44,8 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 ### Signup and Installs
 
 * OpenAI
-  - OpenAI Pro Subscription: $20/mo
-  - OpenAI API: Pay $10 in API Credits
+  - [(Signup) OpenAI Pro Subscription: $20/mo](https://auth.openai.com/log-in-or-create-account)
+  - [(logon first) OpenAI API: Pay $10 in API Credits](https://platform.openai.com/settings/organization/billing/overview)
 
 * New Development Setup
   - Create new code repo at Github., then click green [ <> Code ] button and copy <HTTPS link>
