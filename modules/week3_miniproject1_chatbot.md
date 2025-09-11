@@ -2,7 +2,9 @@
 
 As AI models like GPT have become more powerful, they've also become more accessible through APIs with a growing number of features we'll use in the coming like function calling, fine-tuning, and caching. This week, we'll explore the basics of using Python to interact with the OpenAI API, enabling us to harness the power of large language models in our own future applications.
 
-## Miniproject #1: Build a Chatbot (Due Sun midnight, September 22nd)
+## Miniproject #1: Build a Chatbot
+
+**DUE:** Sunday, September 14th at 12 midnight EST
 
 Based upon a domain of expertise you have, create a chatbot with a destinctive persona. Use the complex/well-structured prompt examples you've seen to implement your chatbot using the OpenAI API in Colab Jupyter notebook. You will also use AI to develop a scoring rubric and use it to evalute the 'quality' of your persona prompt. Here are are the project goals:
 
@@ -17,7 +19,18 @@ Based upon a domain of expertise you have, create a chatbot with a destinctive p
 
 NOTE: Beware using older code examples. OpenAI API announced a major change from the previous .chat() endpoint to a more unified .complete() endpoint. If you are using older code snippets, cookbooks, or tutorials, update the OpenAI API calls to use .complete() rather than .chat() endpoints. [Read this](./openai_api_changes2024.md) for details of these API changes.
 
-* Grading: Prompt complexity, subtlty, creativity, and effectiveness
+### MP#1 Resources: Persona Prompts
+
+* Character and Leaked System Prompts
+  - [Github: (xAI Spicy Lover) asgeirtj/system_prompts_leaks (19.7k)](https://github.com/asgeirtj/system_prompts_leaks/blob/main/xAI/grok-personas.md)
+  - [Github: (General): elder-plinius/CL4R1T4S (9.9k)](https://github.com/elder-plinius/CL4R1T4S)
+  - [Github: (General): dontriskit/awesome-ai-system-prompts (3.8k)](https://github.com/dontriskit/awesome-ai-system-prompts)
+* [Character.ai](https://character.ai/)
+  - [r/CharacterAI](https://www.reddit.com/r/CharacterAI/)
+* [(Optional) NSFW Spicy Content at Chub.ai](https://docs.chub.ai/docs)
+* [Google NotebookLM](https://notebooklm.google/)
+
+### MP#1 Grading: Prompt complexity, subtlty, creativity, and effectiveness
   - [(No Code) OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
   - [(No Code) Google Gems](https://support.google.com/gemini/answer/15235603?hl=en)
   - [(OpenAI API) Jupyter Colab](https://colab.research.google.com/)
@@ -26,18 +39,16 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
     2. Traces of best 10x dialog and 1-2pg writeup on insights/discoveries
     3. Scoring Rubric with evaluation of your Persona Prompt
 
-## **Humanistic Big Ideas**
+## **Humanistic Readings on Big Ideas**
 
 ### Readings
-
-* [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence by Erik Brynjolfsson et al. (26 Aug 2025)](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
+ 
+* [(Use AI ~10mins) Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence by Erik Brynjolfsson et al. (26 Aug 2025)](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 * [Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
 
 ### Reflections
 
-* Use AI to understand, analyze, and critique the Stanford paper.
-* Search for GPT titled 'Video Summarizer' and use it for a Socratic deep dive into the Video
-* Come to class ready for an in-depth conversation on the dialog within and across these articles.
+(in class)
 
 ### Goals:
 
@@ -75,6 +86,8 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
   
 ### To Do: Signup and Installs
 
+OpenAI Pro $20/mo
+OpenAI API Pay $10 Credit
 
 ## **Coding**
 

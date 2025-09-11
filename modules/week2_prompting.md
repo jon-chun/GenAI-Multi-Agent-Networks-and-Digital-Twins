@@ -146,7 +146,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 ## In Class
 
-### [Quiz: Week 2](https://www.lipsum.com/)
+### Quiz: Week 2
 
 ### WebUI vs API
 
@@ -220,7 +220,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
   * Human-in-the-Loop (HIL) Supervision
   * Iterate
 * Brainstorm
-  * [BMAD 1) Prompt 2) *brainstorm ](https://claude.ai/chat/51aec5db-3dc0-4fc9-9f69-d771bdfb3f24)
+  * [BMAD (1) Prompt (2) *brainstorm ](https://claude.ai/chat/51aec5db-3dc0-4fc9-9f69-d771bdfb3f24)
 
 * "https://chatgpt.com/canvas/shared/68bccfb2b4f08191b96729e907b28c04" 
 
@@ -272,17 +272,6 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * [(Weak Prompts) ChatGPT Use Cases](https://chatgpt.com/use-cases/students)
 
-#### Persona Prompts
-
-* Character and Leaked System Prompts
-  - [Github: (xAI Spicy Lover) asgeirtj/system_prompts_leaks (19.7k)](https://github.com/asgeirtj/system_prompts_leaks/blob/main/xAI/grok-personas.md)
-  - [Github: (General): elder-plinius/CL4R1T4S (9.9k)](https://github.com/elder-plinius/CL4R1T4S)
-  - [Github: (General): dontriskit/awesome-ai-system-prompts (3.8k)](https://github.com/dontriskit/awesome-ai-system-prompts)
-* [Character.ai](https://character.ai/)
-  - [r/CharacterAI](https://www.reddit.com/r/CharacterAI/)
-* [(Optional) NSFW Spicy Content at Chub.ai](https://docs.chub.ai/docs)
-* [Google NotebookLM](https://notebooklm.google/)
-
 ### A Brief Tech Executive Education Related to AI
 
 * Universal Skill/Fluency Applicable to Medicine, Law, Academic Research, etc
@@ -298,7 +287,7 @@ From these 8 pages as reference points, I'll dissect this paper for you in class
 
 * Autocomplete to Agents
 * [Snake Game: VSCode + Roo Code](https://github.com/jon-chun/test-opencode-snake)
-  - [Opencode Chat History](https://opencode.ai/s/JmS3uFHa)
+* [Resume Opt: Opencode Chat History](https://opencode.ai/s/JmS3uFHa)
 
 #### Background Setup/Research
 
