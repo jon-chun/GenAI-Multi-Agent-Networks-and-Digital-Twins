@@ -8,6 +8,74 @@
   - Guardrails
   - Metrics/Observability
 
+* [12 Google AI Tools You Need to Know Now! (12:27) (26 Aug 2025)](https://www.youtube.com/watch?v=PO88FTIg9fE)
+
+### Embeddings
+
+* [Welcome EmbeddingGemma, Google's new efficient embedding model by Aarsen et al. (4 Sep 2024)](https://huggingface.co/blog/embeddinggemma)
+
+
+
+## Key Questions to Consider
+
+1. What are 5 levels on the way to AGI and how is each defined?
+2. What are the ethical frameworks of LLMs and how can prompts explore surface them?
+3. How can we ensure responsible use of AI APIs in application development?
+4. How are LLM benchmarks designed and what are some key metrics?
+5. How does prompt engineering affect the output of AI models accessed through APIs?
+6. How might the widespread use of AI APIs impact job markets and skill requirements in tech?
+7. How do benchmark performance translate to real-world performance?
+8. What role does data privacy play when using AI APIs, and how can we protect user information?
+9. How can we balance the benefits of AI APIs with the need for transparency and explainability?
+10. What are the long-term implications of integrating AI APIs into critical systems and decision-making processes?
+
+## Reading Assignments
+
+* [BMAD Vibe Coding Workflow Is a Massive Level Up (24:57) (Aug 2025)](https://www.youtube.com/watch?v=Sosf8Z0T_M8)
+  * [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
+  * [Gemini.google.com (new Gem)](https://gemini.google.com/gems/create)
+  * [BMAD team full-stack](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/dist/teams/team-fullstack.txt)
+
+* SOTA Research (Only spend 15 min on each paper by selectiving focusing on mainpoints in Abstract, Introduction, Tables/Figures of Findings, Conclusions)
+  * [Levels of AGI for Operationalizing Progress on the Path to AGI by Meredith Ringel Morris et al. (5 Jun 2024)](https://arxiv.org/pdf/2311.02462)
+  * [Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values by Chun and Elkins (9 Jan 2024)](https://www.semanticscholar.org/paper/Informed-AI-Regulation%3A-Comparing-the-Ethical-of-an-Chun-Elkins/f55294c223752a7159c438951dbf6e6b66cd2e31)
+
+* Chatbots:
+  * [Prompt Engineering with Llama 2&3 (DeepLearning.ai) NOTE: Skip over ERRORS due to 70B model no longer available](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
+  * [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot (5:36) Jul 2024](https://www.youtube.com/watch?v=w55C8cLWz74)  and [Github repo](https://github.com/debeshm/Python-ChatGPT/blob/main/chatbot.py)
+
+* Benchmarks (Only spend 15 min on each paper by selectiving focusing on mainpoints in Abstract, Introduction, Tables/Figures of Findings, Conclusions)
+  * Holistic Evaluation of Text-To-Image Models
+    * [Website](https://crfm.stanford.edu/helm/lite/latest/)
+    * [Github](https://github.com/stanford-crfm/helm)
+    * [Paper (Click on the ArXxiv button)](https://www.semanticscholar.org/paper/Holistic-Evaluation-of-Language-Models-Liang-Bommasani/ce913026f693101e54d3ab9152e107034d81fce1) 
+  * [BigBench-Hard](https://arxiv.org/pdf/2206.04615)
+
+* Code Example for Miniproject #1: Voice Chatbot
+  * [OpenAI ChatGPT API (NEW GPT 3.5) and Whisper API - Python and Gradio Tutorial (23:08) 2023](https://www.youtube.com/watch?v=Si0vFx_dJ5Y)
+
+## In-Class
+
+* Quiz: Week 3
+
+* [Colab: llm_observability_integration_dspy_langfuse_20250909.ipynb](https://colab.research.google.com/drive/1VU6q_MpHwMZzCXA4vsN3ayYEpLezyUkD)
+
+* Prompt Engineering
+  * [Learning to Reason with LLMs (12 Sep 2024)](https://openai.com/index/learning-to-reason-with-llms/)
+  * [OpenAI Reasoning Models](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting?reasoning-prompt-examples=coding-planning)
+
+* Leaderboards
+  * Huggingface
+    * [Huggingface Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+    * [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+  * [LMSys Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+
+* Llama
+  * [Llama Recipies](https://github.com/Meta-Llama/llama-recipes)
+
+* Prompts for Chat Personas
+  * [awesome-voice-prompts](https://github.com/langgptai/awesome-voice-prompts)
+
 
 ## Readings Humanistic
 
@@ -23,8 +91,6 @@
 
 ## Readings Code
 
-
-
 * [Deeplearning.ai: DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
   * [DSPy Docs](https://dspy.ai/)
 
@@ -33,6 +99,10 @@
 * [Colab: DSPy + Langfuse](https://colab.research.google.com/drive/1VU6q_MpHwMZzCXA4vsN3ayYEpLezyUkD?usp=sharing)
 
 * [Github: YT AI Bootcamp](https://github.com/curiousily/AI-Bootcamp)
+
+## Prompts
+
+* [Google Vertex Studio with AI](https://console.cloud.google.com/vertex-ai/studio/prompt-gallery)
 
 ## Python
 
