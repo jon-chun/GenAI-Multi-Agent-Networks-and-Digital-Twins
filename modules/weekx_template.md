@@ -1,4 +1,4 @@
-# Week 3: Miniproject #1 Chatbot
+# Week X: Title
 
 As AI models like GPT have become more powerful, they've also become more accessible through APIs with a growing number of features we'll use in the coming like function calling, fine-tuning, and caching. This week, we'll explore the basics of using Python to interact with the OpenAI API, enabling us to harness the power of large language models in our own future applications.
 
@@ -94,6 +94,35 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 * [Deeplearning.ai: Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
 
 # ==========[ In Class ]==========
+
+## Goals:
+
+* Recent and future impacts of AI on Employment and the Future of Work
+* More in-depth prompt engineering
+* More OpenAI API coding
+* Lighter readings to accomodate Mini-Project #1: Chatbots
+* Leveraing AI to accelerate and deepen learning
+* Contrasting and resolving apparently contradictory AI research
+
+* Local IDE Setup: Crash course
+  - Visual (VSCode) + Roo + ClI
+  - Command Line Interface (CLI) 
+  - AI Development (Gemini CLI)
+* OpenAI API Review
+* Colab Ollama API
+* Advanced Prompt Engineering:
+  - Templates
+  - OpenAI GPT5
+  - Structured Markup Langauge: POML
+  - Optimization: DSPy
+* AI Pair Programming
+  - Autocomplete
+  - Agents (copilot)
+  - Frameworks (Roo Code)
+  - CLI (Gemini or Claude Code)
+* Mini-Project #1: Chat
+  - System Prompt/Personas
+  - Reverse engineer Character.ai
 
 ## News
 

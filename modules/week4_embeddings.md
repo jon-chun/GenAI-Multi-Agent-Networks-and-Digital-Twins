@@ -25,7 +25,10 @@ Follow-the instructions as best you can to setup remote AI cloud services and co
 
 ### AI News/Current Events
 
-* [GPT-o1: The Best Model I've Ever Tested 🍓 I Need New Tests! (10:57) (13 Sep 2024)](https://www.youtube.com/watch?v=SbrfjBV8EzM)
+* [5 Signs the AI Bubble is Bursting (6:40) (16 Sep 2025)](https://www.youtube.com/watch?v=_L1JbzDnEMk)
+* [ () ()]()
+
+* [Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford (18:11) (Aug 2025)](https://www.youtube.com/watch?v=tbDDYKRFjhk)
 * [Learning to Reason with LLMs (12 Sep 2024)](https://openai.com/index/learning-to-reason-with-llms/)
   
 ### Prompts 
