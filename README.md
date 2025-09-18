@@ -119,7 +119,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 #### Detailed Content
 
-* **Week 4:** Embeddings
+* **Week 4:** [Embeddings](./modules/week4_embeddings.md)
 * **Week 5:** Models
 * **Week 6:** Miniproject 2: Gradio AI App
 
