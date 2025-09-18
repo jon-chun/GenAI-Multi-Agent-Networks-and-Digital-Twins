@@ -25,10 +25,10 @@ Embedding is a mathematical mapping of information from a given modality (text, 
 * Analyze, Clarify, Question, and Synthesize the entire paper with AI
 * Generate an 5-7 bullet point outline with clear, concise supporting details
 * Generate a 5-7 slide deck for your presentation using one or more:
-  - (FREE Trial, NEWEST - Very powerful and customizable) **Gamma 3** at [Gamma.app](https://gamma.app/create/paste)
-    - [(Video Tutorial) This NEW Gamma 3.0 AI Agent is INSANE… (9:49) (17 Sep 2025)](https://www.youtube.com/watch?v=tgnfvxP-FU8)
-  - (FREE, NEW - very simple) **kimi slides** at [kimi.com](https://www.kimi.com/)
-  - (FREE, OLD - built in) **MS PowerPoint Copilot** [20X Your PowerPoint Presentation Skills with AI (EASY) (12:40) (Jul 2025)](https://www.youtube.com/watch?v=1bB4BHFWWHE)
+  - (FREE Trial, powerful and customizable) **Gamma 3** at [Gamma.app](https://gamma.app/create/paste)
+    - [(Video Tutorial) This NEW Gamma 3.0 AI Agent is INSANE… (ONLY to 7:05) (17 Sep 2025)](https://www.youtube.com/watch?v=tgnfvxP-FU8)
+  - (FREE, very simple) **kimi slides** at [kimi.com](https://www.kimi.com/)
+  - (FREE, built-in) **MS PowerPoint Copilot** [20X Your PowerPoint Presentation Skills with AI (EASY) (12:40) (Jul 2025)](https://www.youtube.com/watch?v=1bB4BHFWWHE)
 * Edit your slide deck, get original images from [ChatGPT](https://chatgpt.com/) or [Microsoft Designer](https://designer.microsoft.com/)
 * Throughly understand the content/concepts to give a smooth and convincing presentaiton
 
@@ -85,6 +85,7 @@ Embedding is a mathematical mapping of information from a given modality (text, 
 
 * [Stop Wasting Tokens: The Art of Context Engineering (14:12) (12 Sep 2025)](https://www.youtube.com/watch?v)
 * [Github Spec Kit FINALLY Fixed Claude Code (8:45) (9 Sep 2025)](https://www.youtube.com/watch?v=M0ivqkQ5mF4)
+* [Spec Kit + Claude Code: Complete Setup Tutorial & Honest Review (8:12) (15 Sep 2025)](https://www.youtube.com/watch?v=30D_SY9Ning)
 
 ### Coding Exercises
 
