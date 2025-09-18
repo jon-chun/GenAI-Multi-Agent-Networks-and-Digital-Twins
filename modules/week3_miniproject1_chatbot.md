@@ -44,7 +44,7 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 ### Signup and Installs
 
 * AI Research Presentations
-  - [Signup List]()
+  - [Signup List](https://forms.gle/wwT9Qb8e8YypzYcF9)
 
 * OpenAI
   - [(Signup) OpenAI Pro Subscription: $20/mo](https://auth.openai.com/log-in-or-create-account)
