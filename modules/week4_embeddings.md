@@ -30,24 +30,29 @@ Embedding is a mathematical mapping of information from a given modality (text, 
 
 ## Schedule
 
-9/24: Morty
-10/1: Abhigya
-10/8: Gwen
-10/15: Peter
-10/22 Tiffanie
-10/29: Anna
-11/5:  Kirill
-11/12: Wisdom, Godwin
-11/19: Ann-Duncan, Adrian
-12/3: Murathan, Eli
+# Schedule
+
+| Date   | Name(s)              |
+|--------|----------------------|
+| 9/24   | Morty                |
+| 10/1   | Abhigya              |
+| 10/8   | Gwen                 |
+| 10/15  | Peter                |
+| 10/22  | Tiffanie             |
+| 10/29  | Anna                 |
+| 11/5   | Kirill               |
+| 11/12  | Wisdom, Godwin       |
+| 11/19  | Ann-Duncan, Adrian   |
+| 12/3   | Murathan, Eli        |
+
 
 
 # ==========[ New Reading Assignments ]==========
 
 ## **[ Humanistic Readings ]**
  
-* [(Use AI ~10mins) Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence by Erik Brynjolfsson et al. (26 Aug 2025)](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
-* [(Watch in full) Demis Hassabis On The Future of Work in the Age of AI (20:10) (Jul 2025)](https://www.youtube.com/watch?v=CRraHg4Ks_g)
+* [(Watch in full) Joscha Bach at the Artificiality Summit 2024 (26:00) (Aug 2025)](https://www.youtube.com/watch?v=WnAaHOz8g9E)
+* **DEMO:** Chrome/Gemini and Edge/Copilot
 
 ### Reflections
 
