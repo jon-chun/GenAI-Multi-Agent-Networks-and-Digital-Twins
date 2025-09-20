@@ -4,7 +4,7 @@ As AI models like GPT have become more powerful, they've also become more access
 
 # ==========[ Miniproject #1: Build a Chatbot ]==========
 
-**DUE:** Sunday, September 21th at 12 midnight EST
+**DUE:** Sunday, September 28th at 12 midnight EST
 
 Based upon a domain of expertise you have, create a chatbot with a destinctive persona. Use the complex/well-structured prompt examples you've seen to implement your chatbot using the OpenAI API in Colab Jupyter notebook. You will also use AI to develop a scoring rubric and use it to evalute the 'quality' of your persona prompt. Here are are the project goals:
 
