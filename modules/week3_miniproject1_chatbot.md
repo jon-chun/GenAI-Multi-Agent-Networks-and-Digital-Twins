@@ -31,13 +31,33 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 * [Google NotebookLM](https://notebooklm.google/)
 
 ## MP#1 Grading: Prompt complexity, subtlty, creativity, and effectiveness
-  - [(No Code) OpenAI GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
-  - [(No Code) Google Gems](https://support.google.com/gemini/answer/15235603?hl=en)
-  - [(OpenAI API) Jupyter Colab](https://colab.research.google.com/)
+  - IF YOU HAVE ANY QUESTIONS: please email me at chunj@kenyon.edu 
+  - See full [Mini-Project #1 Instructions](./miniproject1_instructions_persona-chatbot-and-benchmark.md)
   - Turn in:
-    1. Meta/Prompts used to iterative develop Persona Prompt
-    2. Traces of best 10x dialog and 1-2pg writeup on insights/discoveries
-    3. Scoring Rubric with evaluation of your Persona Prompt
+### Final Repository Structure
+
+```
+github.com/<your-username>/iphs391_fall2025_miniproject-1_benchmarking-expert-chatbot-personas/
+├── README.md                    # AI-generated project landing page (Step 7)
+├── metaprompt_history.txt       # Step 2
+├── prompt_persona.txt           # Step 2  
+├── chat_history.md              # Step 3
+├── chat_rubric_history.md       # Step 4
+├── chat_rubric.txt              # Step 4
+└── mp1_chatbot_report.docx      # Step 5
+```
+
+### File Descriptions
+
+| Filename | Step | Description |
+|----------|------|-------------|
+| `README.md` | 7 | comprehensive project landing page and documentation |
+| `metaprompt_history.txt` | 2 | Complete iteration history of persona prompt development |
+| `prompt_persona.txt` | 2 | Final, refined chatbot persona prompt |
+| `chat_history.md` | 3 | Best 10-turn conversation exported in markdown format |
+| `chat_rubric_history.md` | 4 | ChatGPT conversation showing rubric development process |
+| `chat_rubric.txt` | 4 | Final evaluation rubric with factor definitions, weights, and scoring guidelines |
+| `mp1_chatbot_report.docx` | 5 | Comprehensive analysis following the 6-section structure above |
 
 # ==========[ Follow-Ups ]==========
 
