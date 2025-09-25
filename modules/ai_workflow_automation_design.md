@@ -16,6 +16,7 @@
 * [How to Build an AI Agent for Data Analysis, Visualization, AND Reporting (n8n) (22:01) (8 Jan 2025)](https://www.youtube.com/watch?v=vUnG7hsPe5E)
 * [n8n](https://www.youtube.com/watch?v=JbGhMZ_nKD8)
   * [n8n nodes MPC](https://github.com/nerding-io/n8n-nodes-mcp)
+
 ## Browser Automation
 
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern)

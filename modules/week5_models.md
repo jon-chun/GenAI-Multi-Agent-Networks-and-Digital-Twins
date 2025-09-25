@@ -1,206 +1,151 @@
-# Week 5: Models and Fine-Tuning
+# Week 5: LangChain and Models
+
+This week we build upon last weeks introduction to embeddings. We extend and embed our embedding knowledge by contextualizing them within both the practical industry domain of benchmarks as well as the theoretical domain of AI research. Along the way, we further develop our understanding of agentic frameworks using LangChain in our coding exercises.
+
+# ==========[ Mini-Project #1 Custom Chatbot (Due This Sunday, Aug 28, 2025 @midnight) ]==========
+
+Email me a link to your github or GDrive folder with all your project materials. If you have a private repo/folder, share it with jon-chun (github) and/or jonchun2000@gmail.com (Google).
+
+# ==========[ ArXiv.org Research Paper 5 min Presentation ]==========
+
+## Schedule
+
+| Date   | Name(s)              |
+|--------|----------------------|
+| 10/1   | Abhigya              |
+| 10/8   | Gwen                 |
+| 10/15  | Peter                |
+| 10/22  | Tiffanie             |
+| 10/29  | Anna                 |
+| 11/5   | Kirill               |
+| 11/12  | Wisdom, Godwin       |
+| 11/19  | Ann-Duncan, Adrian   |
+| 12/3   | Murathan, Eli        |
 
 
-* [LLM Monitoring and Observability: Hands-on with Langfuse by Riaz (25 Aug 20250)](https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/?ref=dailydev)
+# Quiz: Week 5
 
-## Multi-Model Cloud Providers
+# Mini-Projects:
 
- * [OpenRouter]()
- * [Routely]()
- * [Nebius](https://studio.nebius.com/playground)
+## Mini-Project #1: Chatbot (Due this Sunday, Sep 28th at midnight)
+
+* [MP#1 Chatbot Instructions](https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins/blob/main/modules/miniproject1_instructions_persona-chatbot-and-benchmark.md)
+
+## Mini-Project #2: Embedding Research (Upcoming)
+
+Miniproject #2 will have you create a 3 novel dataset of 100 test sets each (2-3 sentences for similarity classification/ranking along with accompanying explanatory reasoning) across diverse domains. Do not proceed beyond the brainstorming and identification of the top 5 possible domains you could serve as a domain expert as defined below. In our next class on Oct 1st, we will coordinate among everyone's lists to optimize the final individual and collective assignments. For now, just read the following descriptions and brainstorm (with AI) at least 5 domain-specific areas where you can contribute special expertise/insights.
+
+1) Pick 5 candidate domains now; we’ll choose your best 3
+---------------------------------------------------------
+
+Bring **five** domain ideas to class; we will select **three** for you to actually build.  
+**Functional definition of domain expertise (flexible, human-centric):** you can reliably spot **edge cases** and **rank similarity** of domain texts **better than most people** because of your background (major, language/culture, work, clubs, lived experience, community ties, etc.). You don’t need formal credentials.
+
+**Examples to spark ideas (non-exhaustive)**
+
+*   Academic genres (methods sections, critique notes, problem-set solutions)
+*   Bureaucratic language (visa instructions, campus policy, financial-aid emails)
+*   Niche hobbies/subcultures (climbing trip reports, K-pop fan posts, tabletop RPG rules clarifications)
+*   Technical writing (lab safety notes, API docs snippets, commit messages)
+*   Creative forms (poetry lines, workshop feedback, indie music reviews)
+*   Health/fitness (training logs, diet tips, PT exercise instructions)
+*   Multilingual/dialectal (code-switching chat, regional idioms, transliterated content)
+*   Journalism/register shifts (wire headlines vs. feature ledes)
+*   Civic/legal plain-language explanations (de-identified)
+
+We’ll coordinate across the class to avoid redundancy and to maximize coverage.
 
 
-Starting the course from the outside the black box inward (e.g. Prompt Engineering, Embeddings, etc), we spend this week getting to know a bit more about the details of large language models (LLMs) and large multimodal models (LMMs) from competitive ranking tables to life-cycles to tokenizations. Unlike our course, "AI for the Humanities", we don't go into details of the architecture or other finer points like MLOps. However, we will cover the most important and practical aspects of working with LLMs from a higher level systems architect's perspective.
+2) What “similar” vs. “different” means (use these axes creatively)
+-------------------------------------------------------------------
 
-## Key Questions to Consider
+You’ll **label pairs** and **label triplet sentences relative to an anchor**. Drop the fuzzy _neutral_ category.
 
-1. How do the architectures of LLMs and LMMs differ, and what implications do these differences have for their respective capabilities?
-2. What are the key considerations when selecting datasets for pre-training and fine-tuning LLMs and LMMs?
-3. How does fine-tuning LLMs and LMMs differ from their initial pre-training, and what are the advantages and limitations of each approach?
-4. What ethical considerations should be taken into account when fine-tuning LLMs and LMMs on 1. domain-specific or potentially sensitive datasets?
-5. How do benchmarks specifically designed for LLMs and LMMs contribute to their advancement, and what are 1. the limitations of these benchmarks in assessing real-world performance?
-6. What strategies can be employed to prevent catastrophic forgetting during the fine-tuning process of LLMs 1. and LMMs?
-7. How does the choice of fine-tuning technique (e.g., full fine-tuning vs. parameter-efficient methods like 1. LoRA or prefix tuning) impact the performance and efficiency of LLMs and LMMs?
-8. What are the challenges and potential solutions for fine-tuning LLMs on low-resource languages or LMMs on 1. specialized visual domains?
-9. How can we ensure the reproducibility and interpretability of fine-tuned LLMs and LMMs, particularly in 1. scientific and critical applications?
-10. What are the long-term implications of widespread fine-tuning of pre-trained LLMs and LMMs, both for AI development and for the broader socioeconomic landscape?
+Think in **dimensions**; use them to invent **edge cases**:
 
-## Reading Assignments
+*   **Semantic**: same meaning despite wording changes (true paraphrase) vs. opposite/irrelevant meanings.
+    *   _Trick:_ negation (“must” vs. “must not”), quantifiers (“some” vs. “all”).
+*   **Topical**: same subject but different **claim** or **stance** is often **different** semantically (topic ≠ meaning).
+*   **Lexical**: shared keywords but divergent meaning (false friends, polysemy) vs. low overlap but same meaning (deep paraphrase).
+*   **Stylistic/Register**: formal vs. informal; academic vs. chatty; sarcasm/irony. Style can mask or mimic semantics.
+*   **Pragmatic/Contextual**: implied intents, politeness strategies, presuppositions.
+*   **World knowledge**: allusions, culture-specific references, inside jokes.
+*   **Temporal/Numerical/Logical**: tense shifts, date/price/unit changes; conditionals versus factual statements.
 
-### AI News and Events
+**Goal:** at least half of your hard items should hinge on **subtle distinctions** that confuse non-experts and today’s AIs.
 
-* NOTE: After reading the article, spend only 15m or so to peruse the YCombinator Hacker News Commentary to find a diversity of informed opinions
-* [The Intelligence Age (23 Sep 2024)](https://ia.samaltman.com/)
-* [YCombinator Hacker News Commentary](https://news.ycombinator.com/item?id=41628167)
 
-### Research
+# ==========[ New Reading Assignments ]==========
 
-* NOTE: Spend only 15-20m to read the ABSTRACT, INTRODUCTION and then use Google [NotebookLM](https://notebooklm.google.com/?pli=1) (or ChatGPT or other AI) to outline or summarize this paper for major concepts in Figure 2. 
-* [A Survey on Benchmarks of Multimodal Large Language Models by Li et al. (16 Aug 2024)](https://www.semanticscholar.org/paper/A-Survey-on-Benchmarks-of-Multimodal-Large-Language-Li-Lu/d40631a850c21607a5b1cb63efc7bf4ba1ab1fe0#:~:text=A%20comprehensive%20review%20of%20200%20benchmarks%20and%20evaluations%20for)
+## **[ Humanistic Readings ]**
+
+
+## AI News/Current Events
+
+* [How AI WIPES Out Capitalism Emad Mostaque (21:12) (21 Sep 2025)](https://www.youtube.com/watch?v=vfhszRuMA8Y)
+* [5000 Agent Teams at Citi (9:15) (25 Sep 2025)](https://www.youtube.com/watch?v=1yu2n426Iig)
+
+## **[ New Technical Assignments ]**
+
+### AI Research Papers
+
+* [Writing a (Computer Science) Paper by Bardman (2007)](https://www.bardram.net/wp-content/uploads/2017/12/Writing.Paper_.pdf)
+* [Writing AI Conference Papers: A Handbook for Beginners](https://github.com/hzwer/WritingAIPaper)
+
+### Embedding Benchmarks and Leaderboards
+
+* [(Use AI ~15min) MTEB: Massive Text Embedding Benchmark by Muennighoff et al. (13 Oct 2022)](https://arxiv.org/pdf/2210.07316)
+* [(Use AI ~10min) MMTEB: Massive Multilingual Text Embedding Benchmark by Enevoldsen et al. (19 Feb 2025)](https://arxiv.org/pdf/2502.13595)
 
 ### Models
 
-* Overview
-  * [What is Large Multimodal Models (LMMs)? LMMs vs LLMs in '24 by Cem Dilmegani (6 Sep 2024)](https://research.aimultiple.com/large-multimodal-models/)
-* Tokenizer
-  * [Byte Pair Encoding (7:37) (2021)](https://www.youtube.com/watch?v=tOMjTCO0htA)
-* Hyperparameters
-  * [Optimize Your AI Models (11:42) (28 Sep 2024)](https://www.youtube.com/watch?v=QfFRNF5AhME)
-* Size
-  * [Calculating GPU Requirements For Open Source LLMs (5:19) (30 Aug 2024)](https://www.youtube.com/watch?v=WyZQ73cKLMU)
+* [Qwen3-Omni3-30B-A3B-Instruct](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct)
 
-### Coding
+### AI Code Prompts
 
-* [deeplearning.ai: Embedding Models: From Architecture to Implementation (1hr)](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
-* [deeplearning.ai: Pretraining LLMs (1hr)](https://www.deeplearning.ai/short-courses/pretraining-llms/)
+* [GPT-5-Codex Prompting Guide by Leo](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
+* [The Ultimate Vibe Coding Guide by PhraseProfessional54 (Apr 2025)](https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guide/)
 
-## In-Class
+### Coding: Claude Code
+ 
+* [Full Tutorial: 20 Tips to Master Claude Code in 35 Minutes (Build a Real App) (35:03) (24 Sep 2025)](https://www.youtube.com/watch?v=jWlAvdR8HG0)
+  - [Blog](https://creatoreconomy.so/p/20-tips-to-master-claude-code-in-35-min-build-an-app)
+  - [Repo chunj](https://github.com/jon-chun/ai-conferences-and-events)
 
-### Overhead
+        Goal: Build a family activity finder while covering 20 tips to master Claude Code and tool
 
-* Quiz
+        **Planning and project setup**
+        1. Use plan motte before coding
+        2. Ask Claude to explore solutions with you
+        3. Follow the spec → to do → code process
+        4. Use output styles to learn while building
+        5. Use Claude.md to bootstrap project understanding
+        6. Use Claude.md to add your personal preferences
 
-### Presentations
+        **Core coding workflows**
+        7. Use voice to give Claude context fast
+        8. Get your app running as soon as possible
+        9. Press Escape if Claude to safely stop and redirect Claude
+        10. Add version control with Github integration
+        11. Set up permissions to let Claude work more autonomously
+        12. Follow spec → to do → code with each milestone
+        13. Clear context strategically with /clear and /compact
 
-* Dillon
-* Sammy
+        **Debugging issues**
+        14. Ask Claude to "think ultra hard" or "why do you think this happened" to debug gnarly bugs
+        15. Give specific feedback, attach images, and browser console logs to help Claude debug issues
 
-### Follow-ups
+        **Slash commands, sub-agents, and hooks**
+        16. Create custom slash commands for repeated workflows
+        17. Build specialized subagents for focused work
+        18. Set up hooks to trigger specific behavior
 
-* [Self-Aware IA](https://x.com/omooretweets/status/1840251853327741138)
-* Open NotebookLM
-  * [Open NotebookLM](https://github.com/gabrielchua/open-notebooklm)
-  * [Open NotebookLM Huggingface](https://huggingface.co/spaces/gabrielchua/open-notebooklm)
-  * [PDFtoPodcast](https://github.com/knowsuchagency/pdf-to-podcast)
-* [Generative AI, Labor & Upskilling Workshop](https://generativeailaborupskillingwor.splashthat.com/)
+        **MCP servers and parallel Claude agents**
+        19. Install MCP servers for specialized capabilities
+        20. Run multiple Claude sessions in parallel for faster development
 
-* [AI News](ai_news.md)
-* [Awesome LLM Repos](ai_awesome.md)
-* [AI Regulation](ai_regulation.md)
+### Coding Exercises
 
-### Special Announcements
+* [Deeplearning.ai: LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/u9olq/introduction)
 
-* [Prof Elkins Sabbatical Talk](https://en.wikipedia.org/wiki/Katherine_Elkins)
-* [NVIDIA and LlamaIndex Developer Contest](https://developer.nvidia.com/llamaindex-developer-contest)
-
-### News
-
-* Dockworkers Strike vs Automation
-  * [What's behind the dockworkers strike and what it means for U.S. consumers (6:07)) (1 Oct 2024)](https://www.youtube.com/watch?v=AzzMKa3TTi4)
-  * [The World’s Smartest Port: How China Won the Shipping Race (7:10) (2023)](https://www.youtube.com/watch?v=P5kO_BnXAwc)
-  * [BRICS: China is completing a global ports network for the BRICS economic bloc and nobody noticed (11:02) (Sep 2024)](https://www.youtube.com/watch?v=3aZ01L4E3-c)
-
-* Meta Connect 2024
-  * [Meta Connect 2024 Homepage](https://www.meta.com/connect/)
-  * [Meta Connect 2024: Everything Revealed in 12 Minutes (11:48) (26 Sep 2024)](https://www.youtube.com/watch?v=l_QruJ0Kv9U)
-  * [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more (26 Sep 2024)](https://techcrunch.com/2024/09/26/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
-* OpenAI Dev Day
-  * [OpenAI Dev Day Homepage](https://openai.com/devday/)
-  * [OpenAI DevDay in 5 Minutes: 4 Major API Updates (5:06) (1 Oct 2024)](https://www.youtube.com/watch?v=wzRYBfntk6M)
-  * [OpenAI DevDay | Realtime Speech to Speech API + Image Fine-tuning TESTED (21:54) (2 Oct 2024)](https://youtu.be/K5pbPZse0oI?t=401)
-  * [Playground.livekit.io](https://playground.livekit.io/)
-
-### Research
-
-* [OpenReview CoNLL](https://openreview.net/group?id=EMNLP/2024/Workshop/CoNLL#tab-accept-poster)
-* [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444549/abstract)
-* Nature:
-  Structure/ flow: the structure of the paper is currently confused in several places leading to
-an inconsistent narrative and/ repetitive discussions. E.g., Section 3.1.2 focuses on “attitudes
-towards AI” as a challenge posed by pandemic response AI applications. However, this isn’t a
-challenge per se, this is a response by the public to a challenge (e.g., the risk of unequal
-healthcare outcomes). Inconsistencies like this undermine the flow of the narrative. Similarly
-the paper could be more concise is sections 3 and 4 discussing challenges and ethical
-considerations respectively are either combined into one section or more meaningfully
-distinguished (i.e., the ethical considerations are just challenges framed at a higher level of
-abstraction). Section 6 does not provide any new information and should be revised or cut.
-
-### Concepts
-
-* LLM Benchmarks
-* LLM Life cycle
-* Training Datasets
-* Metrics and Benchmarks
-* Virtual Environments vs Virtual Machines vs the Cloud
-
-### Tools
-
-* [OpenAI API Doc: Embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models?lang=python)
-
-* [OpenAI Tokenizer tiktoken](https://platform.openai.com/tokenizer)
-  
-* [summarize-hn](https://github.com/jon-chun/summarize-hnews) to quickly digest hundreds of comments and threads
-* [NotebookLM in Hacker News](https://news.ycombinator.com/item?id=41693087)
-
-* InstructOR Embeddings
-  * [Github](https://github.com/xlang-ai/instructor-embedding)
-  * [InstructOR Embedder](https://instructor-embedding.github.io/)
-  * [ArXiv](https://arxiv.org/abs/2212.09741)
-
-### Review Coding Assignments
-
-* [Embedding Models: From Architecture to Implementation (1hr)](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
-* [Pretraining LLMs (1hr)](https://www.deeplearning.ai/short-courses/pretraining-llms/)
-
-### STT Model
-
-* [OpenAI Whisper Colab](https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb#scrollTo=ZsJUxc0aRsAf)
-
-## Resources
-
-* Prompt Engineering
-  * [Contextual Retrieval with Any LLM: A Step-by-Step Guide (15:36) (30 Sep 2024)](https://www.youtube.com/watch?v=6efwN_US-zk&t=126s)
-  * [Github](https://github.com/Coding-Crashkurse/LangGraph-Tutorial)
-
-* Tokenization
-  * [WordLlama](https://github.com/dleemiller/WordLlama/blob/main/tutorials/extract_token_embeddings.md)
-  * [Tiktoken Colab](https://colab.research.google.com/github/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
-
-* LLM Benchmarks:
-  * [Stanford HELM](https://crfm.stanford.edu/helm/)
-  * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
-  * [Evalverse](https://github.com/UpstageAI/evalverse)
-
-* LLM Leaderboards
-  * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
-  * [Huggingface LMsys Leaderboard LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-  * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
-  * LLM Benchmarks:
-      * [Stanford HELM](https://crfm.stanford.edu/helm/)
-      * [Google BigBench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)
-  * LLM Leaderboards
-      * [Kaggle ARC Challenge 2024](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard)
-      * [Huggingface LMsys Leaderboard][LLMsys Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-      * [Huggingface LMSys Chatbot Area](https://lmarena.ai/?leaderboard)
-  * [LMArena.ai](https://lmarena.ai/
-  * [LLMArena.ai](https://llmarena.ai/compare?llms=3094,3092&mode=edit)
-
-
-* Embeddings
-  * [Awesome Sentence Embeddings (299)](https://github.com/Doragd/Awesome-Sentence-Embedding)
-  * [Google Vertex API Embeddings](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/embeddings/README.md)
-  * 
-* Memory Calculator
-  * [Huggingface Training Calculator](https://huggingface.co/docs/accelerate/main/en/usage_guides/model_size_estimator)
-
-* Data Cleaning
-  * [Unstructured](https://github.com/Unstructured-IO/unstructured)
-  * [Dataverse](https://github.com/UpstageAI/dataverse)
-  * [Databricks Cleanlab Studio](https://www.databricks.com/blog/better-llms-better-data-using-cleanlab-studio)
-
-* Fine-Tune
-  * [Ollama  + Unsloth + Llama-3 + Alpaca.ipynb](https://colab.research.google.com/drive/1WZDi7APtQ9VsvOrQSSC5DDtxq159j8iZ?usp=sharing)
-  * [FLUX + LORA and Kling AI (Consistent Characters & AI Videos with Your Face) (25:55) (8 Sep 2024)](https://www.youtube.com/watch?v=mUR8CUmDbo0)
-  * [Unsloth Colab](https://github.com/unslothai/unsloth)
-  * [Train BERT on Academic Budget (2023)](https://github.com/IntelLabs/academic-budget-bert)
-  * [Stanford SOPHIA](https://arxiv.org/pdf/2305.14342)
-
-* MLOps
-  * [Substratus.ai](https://substratus.ai/blog)
-
-* Sample Applications
-  * [How to Create a History Channel with ChatGPT & AI Video Generator (19:14) (25 Sep 2024)](https://www.youtube.com/watch?v=ez3EaqW1JyI)
-  * [H2o GPT](https://github.com/h2oai/h2ogpt) [Colab](https://drive.google.com/file/d/1ekNk0JLCw-phFd-0YL7TDCdl_07Rfny9/view?usp=sharing)
-  
-* Awesome Lists
-  * [Awesome Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
+* [Deeplearning.ai: LangChain Chat with Your Data](https://learn.deeplearning.ai/courses/langchain-chat-with-your-data/lesson/snupv/introduction)

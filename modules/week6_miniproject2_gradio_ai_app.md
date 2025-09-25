@@ -74,6 +74,7 @@ DESCRIPTION:
   * [Notebook #3](../code/deeplearningai/deeplearningai_gradio_L3_Image_generation_app.ipynb)
   * [Notebook #4 (partial)](../code/deeplearningai/deeplearningai_gradio_L4_Describe_and_generate_game.ipynb)
   * [Notebook #5 (unchanged)](../code/deeplearningai/deeplearningai_gradio_L5_Chat_with_any_LLM.ipynb)
+  
 * [DeepLearning.ai: Vector Databases Embeddings Applications (1 hr)](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 * [DeepLearning.ai: Finetuning Large Language Models (1 hr)](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)-
 
