@@ -104,7 +104,7 @@ Think in **dimensions**; use them to invent **edge cases**:
 * [Rebuilding Devin for Claude Sonnet 4.5: Lessons and Challenges (29 Sep 2025)](https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges)
 * [Claude Sonnet 4.5 Leaked Prompt](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_Sonnet-4.5_Sep-29-2025.txt)
 
-## Coding Exercises
+## **[ Coding Exercises / Designßß ]**
 
 ### Agent Design
 
@@ -123,6 +123,8 @@ Think in **dimensions**; use them to invent **edge cases**:
 ### DeepLearning.ai
 
 * [DeepLearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
+
+* [DeepLearning.ai: Embedding Models: from Architecture to Implementation](https://learn.deeplearning.ai/courses/embedding-models-from-architecture-to-implementation/lesson/n0bcw/introduction-to-embedding-models)
 
 
 # ==========[ In-Class ]==========
