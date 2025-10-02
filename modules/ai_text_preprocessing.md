@@ -10,6 +10,9 @@
 * [Pydantic]()
 * [Unstruct](https://github.com/Zipstack/unstract)
 * [DocETL (Jul 2025)](https://github.com/ucbepic/docetl)
+* [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown)
+* [Goldziher/html-to-markdown](https://github.com/Goldziher/html-to-markdown)
+* [turndown](https://github.com/mixmark-io/turndown)
 
 ## Commercial ETL
 
