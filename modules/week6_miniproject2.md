@@ -81,7 +81,8 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 ## AI News/Current Events
 
-(Coming...)
+* [Introducing Claude Sonnet 4.5 (29 Sep 2025)](https://www.anthropic.com/news/claude-sonnet-4-5)
+* [Accenture Makes Room for AI With Thousands of Layoffs by Mallett (29 Sep 2025)](https://tech.co/news/accenture-layoffs-ai-pivot)
 
 ## **[ New Technical Assignments ]**
 
@@ -133,5 +134,9 @@ Think in **dimensions**; use them to invent **edge cases**:
 # ==========[ In-Class ]==========
 
 ## Follow-ups
+
+### CORRECTIONS:
+
+* Claude Sonnet 4.5: 30hr of continous coding for 11k line 
 
 Email me a link to your github with all your project materials. If you have a private repo/folder, share it with jon-chun (github) and/or jonchun2000@gmail.com (Google).
