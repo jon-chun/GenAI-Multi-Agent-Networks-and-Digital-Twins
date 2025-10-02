@@ -28,7 +28,9 @@ This week we explore Anthropic's new releases of model Sonnet 4.5 and Claude Cod
 
 (New updates and details coming this week...)
 
-Miniproject #2 will have you create a 3 novel dataset of 100 test sets each (2-3 sentences for similarity classification/ranking along with accompanying explanatory reasoning) across diverse domains. Do not proceed beyond the brainstorming and identification of the top 5 possible domains you could serve as a domain expert as defined below. In our next class on Oct 1st, we will coordinate among everyone's lists to optimize the final individual and collective assignments. For now, just read the following descriptions and brainstorm (with AI) at least 5 domain-specific areas where you can contribute special expertise/insights.
+Miniproject #2 will have you create a 3 novel dataset of 100 test sets each (2-3 sentences for similarity classification/ranking along with accompanying explanatory reasoning) across diverse domains. Do not proceed beyond the brainstorming and identification of the top 5 possible domains you could serve as a domain expert as defined below. 
+
+In our next class on Oct 1st, we will coordinate among everyone's lists to optimize the final individual and collective assignments. For now, just read the following descriptions and brainstorm (with AI) at least 5 domain-specific areas where you can contribute special expertise/insights.
 
 1) Pick 5 candidate domains now; we’ll choose your best 3
 ---------------------------------------------------------
@@ -104,7 +106,7 @@ Think in **dimensions**; use them to invent **edge cases**:
 * [Rebuilding Devin for Claude Sonnet 4.5: Lessons and Challenges (29 Sep 2025)](https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges)
 * [Claude Sonnet 4.5 Leaked Prompt](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_Sonnet-4.5_Sep-29-2025.txt)
 
-## **[ Coding Exercises / Designßß ]**
+## **[ Coding Exercises / Design ]**
 
 ### Agent Design
 
@@ -122,10 +124,11 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 ### DeepLearning.ai
 
-* [DeepLearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
-
 * [DeepLearning.ai: Embedding Models: from Architecture to Implementation](https://learn.deeplearning.ai/courses/embedding-models-from-architecture-to-implementation/lesson/n0bcw/introduction-to-embedding-models)
 
+* [DeepLearning.ai: Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction)
+
+* (Moved to Week 7)[DeepLearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
 
 # ==========[ In-Class ]==========
 
