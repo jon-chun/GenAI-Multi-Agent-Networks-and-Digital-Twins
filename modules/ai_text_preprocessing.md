@@ -3,6 +3,8 @@
 
 ## Unstructured Text
 
+* [(Github) Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast (3.4k)](https://github.com/towhee-io/towhee)
+* [(Github) ETL, Analytics, Versioning for Unstructured Data (2.7k)](https://github.com/iterative/datachain)
 * [LangExtract (Jul 2025)](https://github.com/google/langextract)
   - [LangExtract - Google's New Library for NLP Tasks (21:01) (4 Aug 2025)](https://www.youtube.com/watch?v=t-53fouKqWI)
 * [Guidance (Jul 2025)](https://github.com/guidance-ai/guidance)

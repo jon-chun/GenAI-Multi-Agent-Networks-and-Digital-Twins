@@ -86,6 +86,10 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 ## **[ New Technical Assignments ]**
 
+### Vector
+
+* [What is vector embedding? by Bergmann et al./IBM](https://www.ibm.com/think/topics/vector-embedding)
+
 ### AI Coding Environments
 
 * [Claude Code vs Windsurf vs OpenAI Codex vs Warp Code vs Cursor vs Trae (15:34) (1 Oct 2025)](https://www.youtube.com/watch?v=NGXXosA9CRo&t=59s)
