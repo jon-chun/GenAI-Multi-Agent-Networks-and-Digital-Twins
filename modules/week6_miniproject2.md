@@ -88,6 +88,7 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 ### Vector
 
+* [The Best Embedding Models for Information Retrieval in 2025 by Datastax (20 Aug 2025)](https://www.datastax.com/blog/best-embedding-models-information-retrieval-2025)
 * [What is vector embedding? by Bergmann et al./IBM](https://www.ibm.com/think/topics/vector-embedding)
 
 ### AI Coding Environments
