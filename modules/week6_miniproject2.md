@@ -123,6 +123,9 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 * [Claude Code Prompt](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_Sonnet-4.5_Sep-29-2025.txt)
 
+    ###INSTRUCTIONS:
+    carefully analyze this ###PROMPT and pick out the top 10 interesting, surprising, or otherwise noteworthy aspects of this new leaked system prompt for Claude Sonnet 4.5
+
 * [Chain of Vibes by Hodgson (14 Apr 2025)](https://blog.thepete.net/blog/2025/04/14/chain-of-vibes/?ref=dailydev)
 
 * [Agentic Engineering: Lessons Learned Vol. 1 by Dustin (30 Sep 2025)](https://dev.to/duske/agentic-engineering-lessons-learned-vol-1-jbj)
