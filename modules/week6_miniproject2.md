@@ -89,7 +89,7 @@ Think in **dimensions**; use them to invent **edge cases**:
 ### Vector
 
 * [The Best Embedding Models for Information Retrieval in 2025 by Datastax (20 Aug 2025)](https://www.datastax.com/blog/best-embedding-models-information-retrieval-2025)
-* [What is vector embedding? by Bergmann et al./IBM](https://www.ibm.com/think/topics/vector-embedding)
+* [What is vector embedding? by Bergmann et al./IBM](https://www.ibm.com/think/topics/vector-embedding) (Focus on the sentence embedding SB)
 
 ### AI Coding Environments
 
@@ -132,7 +132,7 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 * [DeepLearning.ai: Embedding Models: from Architecture to Implementation](https://learn.deeplearning.ai/courses/embedding-models-from-architecture-to-implementation/lesson/n0bcw/introduction-to-embedding-models)
 
-* [DeepLearning.ai: Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction)
+* (Moved to Week 7)[DeepLearning.ai: Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction)
 
 * (Moved to Week 7)[DeepLearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
 
