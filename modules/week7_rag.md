@@ -88,6 +88,8 @@ Stage 3: Personalized Customer Service Agentic Pipeline
 
 ## **[ Coding Exercises / Design ]**
 
+* NOTE: These are the core sections in the OpenAI documentation that we may need to implement for Mini-Project #3. Please closely study these linked sections along with studying the provided code.
+
 ### OpenAI
 
 * [Introducing AgentKit (6 Oct 2025)](https://openai.com/index/introducing-agentkit/)
