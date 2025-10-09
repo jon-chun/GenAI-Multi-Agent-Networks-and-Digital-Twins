@@ -46,6 +46,7 @@
 ## Monitoring
 
 * [ChangeSiteDetection](https://github.com/dgtlmoon/changedetection.io)
+* [pathway.com](https://pathway.com/why-pathway)
 
 ## OSS Sales Software
 

@@ -244,6 +244,8 @@ Citations:
 
 ## ETL Pipelines / Complex Document Processing
 
+* [pathway (45.5k)](https://github.com/pathwaycom/pathway)
+  Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 * [Apache Airflow](https://github.com/apache/airflow)
 * [Apache NiFi](https://github.com/apache/nifi)
 * [xPipe](https://github.com/xpipe-io/xpipe)

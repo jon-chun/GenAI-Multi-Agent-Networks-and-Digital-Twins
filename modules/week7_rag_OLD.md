@@ -1,10 +1,6 @@
 
 # Week 7: RAG
 
-(NOTE: October Break 2025 - Do to suddent extra planning to try to incorporate and prepare for a possible new mini-project #3 discussed this week. 
-
-This page will be UPDATED by 5pm on Thursday, Oct 9, 2025. Until then, please be patient and wait before beginning this homework set.)
-
 Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent applications that highlight the unique value LLM models bring to traditional software engineering. A deeper understanding of RAG is not only a practical skill, but it operationalizes and illustrates multiple real-world tradeoffs between (a) performance vs cost, safety, bias, etc., (b) model/tool selection, and (c) various software architectures. We incorporate and extend last weeks' study of embeddings and vector databases by introducing RAG and exploring some more advanced concepts like hybrid search and reranking.  
 
 ## KEY QUESTIONS
