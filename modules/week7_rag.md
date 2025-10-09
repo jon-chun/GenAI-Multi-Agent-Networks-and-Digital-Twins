@@ -1,158 +1,127 @@
+# Week 7: RAG and Mini-Project #3: A Real Customer Service Chatbot 
 
-# Week 7: RAG
+As this class studies the "Frontiers of AI" which is a rapidly moving target, the past week has presented two new related opportunities for us to pivot towards. First, OpenAI Dev Day this week introduced a major new platform for building agentic systems that ties together many best practices from industry including guardrails, security, prompt optimization, and other key features. Secondly, we may have the opportunity through one of our IPHS human-centered AI alumni to apply this framework for a real-world greenfield deployment for customer support in a multi-billion dollar parts distributor.
 
-(NOTE: October Break 2025 - Do to suddent extra planning to try to incorporate and prepare for a possible new mini-project #3 discussed this week. 
+We will morph Mini-Project #3 from a simple RAG system to a state-of-the-art commercial customer support pipeline that mirrors the real-world concerns of typical retail, warehouse, and distribution logistics concerns. In parallel, we'll continue to carefully explore the benchmark dataset options for Mini-Project #2 with the goal of planning Thanksgiving break for everyone to produce their 300 data samples.
 
-This page will be UPDATED by 5pm on Thursday, Oct 9, 2025. Until then, please be patient and wait before beginning this homework set.)
-
-Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent applications that highlight the unique value LLM models bring to traditional software engineering. A deeper understanding of RAG is not only a practical skill, but it operationalizes and illustrates multiple real-world tradeoffs between (a) performance vs cost, safety, bias, etc., (b) model/tool selection, and (c) various software architectures. We incorporate and extend last weeks' study of embeddings and vector databases by introducing RAG and exploring some more advanced concepts like hybrid search and reranking.  
-
-## KEY QUESTIONS
+Although increasingly a turnkey solution, it's important that you have familiarity with RAG systems. Retrieval Augmented Generation (RAG) and chatbots are two of the most prominent applications that highlight the unique value LLM models bring to traditional software engineering. A deeper understanding of RAG is not only a practical skill, but it operationalizes and illustrates multiple real-world tradeoffs between (a) performance vs cost, safety, bias, etc., (b) model/tool selection, and (c) various software architectures. RAG systems incorporate and extend last weeks' study of embeddings and vector databases and introduce a few new advanced concepts like hybrid search and reranking.  
 
 
+# ==========[ ArXiv.org Research Paper 5 min Presentation ]==========
 
-## READINGS
+## Schedule
 
-### AI NEWS AND CULTURE
+| Date   | Name(s)              |
+|--------|----------------------|
+| 10/15  | Peter                |
+| 10/22  | Tiffanie             |
+| 10/29  | Anna                 |
+| 11/5   | Kirill               |
+| 11/12  | Wisdom, Godwin       |
+| 11/19  | Ann-Duncan, Adrian   |
+| 12/3   | Murathan, Eli        |
 
-* [I'd like to change the world | Peter Weyland TED 2023 (6:52) (2012 movie Prometheus)](https://www.youtube.com/watch?v=6EtegGrPcp4)
-* [(0:50 to 14:40) "GLAD Sam Altman Was FIRED" Geoffrey Hinton | Nobel Prize in Physics Sparks Controversy (28:02) (10 Oct 2024)](https://www.youtube.com/watch?v=MTK3wpzAPwY)
-* [(0:00 to 12:01) LLMs are not superintelligent | Yann LeCun and Lex Fridman (26:20) (Apr 2024)](https://www.youtube.com/watch?v=NVxcsekcbhs)
 
-### RESEARCH
+# Quiz: Week 7
 
-* (~5 min)[Independent analysis of AI models and API providers (evergreen)](https://artificialanalysis.ai/)
-* (~5 min)[Massive Text Embedding Benchmark (MTEB) Leaderboard Leaderboard at Huggingface.co](https://huggingface.co/spaces/mteb/leaderboard)
-* (~15 min)[MTEB: Massive Text Embedding Benchmark by Muennighoff et al. (19 Mar 2023)](https://arxiv.org/pdf/2210.07316)
+# Presentation: Peter
 
-### SOFTWARE ENGINEERING
+# Mini-Projects:
 
-* [RagFlow: Ultimate RAG Engine - Semantic Search, Embeddings, Vector Search, & More! (12:19) (Apr 2024)](https://www.youtube.com/watch?v=awTJmsSj2tA)
-  RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.
-* [Python RAG Tutorial (with Local LLMs): AI For Your PDFs (21:32) (May 2024)](https://www.youtube.com/watch?v=2TJxpyO3ei4&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e)
-* [RAG ipynb: CRAG, LlamaIndex, Ollama, ReAct Agent (19:19) (Apr 2024)](https://www.youtube.com/watch?v=qPsmRk14BNM&list=PLD7HrIBE_yqIXVd1bq-E-7Q49QaZheu9e&index=5)
+## Mini-Project #2: Embedding Research 
 
-### CODING
+(Coming... more details upcoming based upon our class discussion Oct 8, 2025)
 
-* [Advanced Retrieval for AI with Chroma (1hr)](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/1/introduction)
-* [Building and Evaluating Advanced RAG (1hr)](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/1/introduction)
 
-## IN-CLASS EXERCISES
+## Mini-Project #3: A Real Customer Service Chatbot
 
-### OVERHEAD
+Stage 1: Prompt Cookbook: Customized, Optimized, and Well-Structured Prompt
+Stage 2: Rules-based Customer Service Agent Pipeline
+Stage 3: Personalized Customer Service Agentic Pipeline
 
-* [Quiz](https://docs.google.com/forms/d/e/1FAIpQLScBiBwYf2h6hvpVjCAsf1J6EF7PU1IgSswJSJ1D4DoNteGciQ/viewform?usp=sf_link)
 
-### PRESENTATIONS
+# ==========[ New Reading Assignments ]==========
 
-* Beshoy
-* Parker
+## **[ Humanistic Readings ]**
 
-### ANNOUNCEMENTS
+* [Let's Talk about AI Art by Oatmeal](https://theoatmeal.com/comics/ai_art)
 
-* [Welcome, Gradio 5 (9 Oct 2024)](https://huggingface.co/blog/gradio-5)
-* [Gradio 5 - Building a Quick Chabot UI for LangChain (8:22) (10 Oct 2024)](https://www.youtube.com/watch?v=u_Xm3vgBQ9Y)
+## **[AI News/Current Events]**
 
-### NEWS: AI, AUTOMATION, & THE FUTURE OF WORK
+* [CEOs Think AI ROI Is Coming Faster (6:39) (8 Oct 2025)](https://www.youtube.com/watch?v=ECyHWe7eDLY)
+* [Accenture Makes Room for AI With Thousands of Layoffs by Mallett (29 Sep 2025)](https://tech.co/news/accenture-layoffs-ai-pivot)
+* [(Use AI) Google DORA 2025 State of AI Assisted Software Development](../docs-reports/2025_state_of_ai_assisted_software_development.pdf)
 
-* (0:50-12:50) [How Domain-Specific AI Agents Will Shape the Industrial World in the Next 10 Years (32:28) (10 Oct 2024)](https://youtu.be/aWEaEgV1pHQ?t=58)
+## **[ New Technical Assignments ]**
 
-### NEWS: TECH
+### OpenAI Dev Day Videos
 
-* LightRAG:
-  * [LightRAG: A More Efficient Solution than GraphRAG for RAG Systems? (19:48) (15 Oct 2024)](https://www.youtube.com/watch?v=oageL-1I0GE)
-  * [Github Webpage](https://lightrag.github.io/)
-* MS GraphRAG
-  * [Github Webpage](https://microsoft.github.io/graphrag/)
-* [Goodbye Text-Based RAG, Hello Vision AI: Introducing LocalGPT Vision! (17:57) (8 Oct 2024)](https://www.youtube.com/watch?v=YPs4eGDpIY4)
-* [localGPT-Vision](https://github.com/PromtEngineer/localGPT-Vision)
-  Chat with your documents using Vision Language Models. This repo implements an End to End RAG pipeline with both local and proprietary VLMs
-* [New technique makes RAG systems much better at retrieving the right documents (9 Oct 2024)](https://venturebeat.com/ai/new-technique-makes-rag-systems-much-better-at-retrieving-the-right-documents/)
+* [(Brief) Intro to Agent Builder (5:29) (7 Oct 2025)](https://www.youtube.com/watch?v=44eFf-tRiSg)
+* [(Intermediate) I Made OpenAI's Agent Builder 10x More Powerful (Connected 500+ Apps) (21:02) (8 Oct 2025)](https://www.youtube.com/watch?v=0uNot5guN8s&t=3s)
+* [(Full) Master the NEW OpenAI Agent Builder In 1 Hour (Complete Course) (1:02:02) (7 Oct 2025)](https://www.youtube.com/watch?v=kLd7nSkDxig)
+  - [OpenAI Agent Builder](https://platform.openai.com/agent-builder)
+  - [OpenAI Playground](https://chatkit.studio/playground)
+  - [OpenAI Widget Builder](https://widgets.chatkit.studio/)
 
-### FOLLOW-UPS
+### Chat Guardrails
 
-* (voice+text-to-voice)[A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://swivid.github.io/F5-TTS/) 
-  * [Colab Gradio App](https://colab.research.google.com/github/NeuralFalconYT/F5-TTS-Demo/blob/main/Official_F5_TTS_Demo.ipynb#scrollTo=RUNBiTLLYN49)
-  * [Voice Samples](https://drive.google.com/drive/folders/18k-IMiwdkjbOLoruDk0xLvXm52m6pegI?usp=sharing)
-  * [Legally Blonde Admissions Transcript](https://www.youtube.com/watch?v=ZbZndWCq6Gs&t=37s)
-  My name is Elle Woods, and for my admissions essay, I’m gonna tell all of you at Harvard why I’m gonna make an amazing lawyer.
-  As president of my sorority, I’m skilled at commanding the attention of a room, and discussing very important issues.
-  It has come to my attention that the maintenance staff is switching our toilet paper from Charmin to generic.
-  All those opposed to chafing, say “aye Aye'
-  I'm able to recall hundreds of important details at the drop of a hat.
-  Hey, Elle, do you know what happened on Days of Our Lives yesterday?
-  Why yes, Margot, I do.
-  Once again, we joined Hope in the search for her identity.
-  She's been brainwashed by the evil Stefano.
-  Three... Get set, and go!
-  I feel comfortable using legal jargon in everyday life.
-  * [Movie Trailer Voiceover](https://youtu.be/ZB_hAVZLKE8?t=18)
-  * [Redd Pepper](https://www.youtube.com/watch?v=5K-6vL0LqMw)
-  * [Voiceover Examples Loop](https://www.youtube.com/watch?v=qGBdwOsvl3E)
-* [Transform Speech into Meaning by Assembly.ai](https://www.assemblyai.com/)
-* LlamaFactory
-  * [How to Get your LLMs to OBEY | Easiest Fine-tuning Interface for Total Control over your LLMs (7:03) (13 Oct 2024)](https://www.youtube.com/watch?v=nMFzUeOUzyo)
-  * [Colab](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing#scrollTo=wFyKaGC1dcEx)
+* [OpenAI Guardrails Python](https://openai.github.io/openai-guardrails-python/)
+  - Unintended Behavior
+  - Malicious Behavior
+  - Mask/Flag PII
+  - Detect Jailbreaks (Security)
+  - Other Safeguards
 
-### RESEARCH
+### Benchmark Datasets, Prompt Optimization and Observability
 
-* [YT@lev-selector: Lev Selector AI Updates](https://www.youtube.com/@lev-selector)
-* [Searching for Best Practices in Retrieval-Augmented Generation by Wang et al. (1 Jul 2024)](https://www.semanticscholar.org/paper/Searching-for-Best-Practices-in-Retrieval-Augmented-Wang-Wang/9a946c503b6e799b3d57375b6edfaf4e24febcea)
-* [Development and Testing of Retrieval Augmented Generation in Large Language Models - A Case Study Report by Ke et al. (29 Jan 2024)](https://www.semanticscholar.org/paper/Development-and-Testing-of-Retrieval-Augmented-in-A-Ke-Jin/7423e5c903fb2befaf471cae64e2530f7c1d0404)
+* [OpenAI Working with Evals](https://platform.openai.com/docs/guides/evals?api-mode=responses)
+  - Datasets
+  - Trace Grading
+  - Automated Prompt Optimization
+  - Third-party Model Support
 
-### CONCEPTS
+### Reinforcement Fine-Tuning
 
-* RAG 
-  * Injection
-  * Retrieval
-  * Synthesis
-* RAG (Relevance) Triad
-  * Query
-  * Context
-  * Response
-* RAG
-  * Sentence Window Retrieval
-  * Auto-merging Retrieval
-* RAG Advanced
-  * Embedding-based Retrieval
-  * Pitfalls
-  * Query Expansion
-  * Cross-encoding re-ranking
-  * Other Techniques
+* [Reinforcement fine-tuning](https://platform.openai.com/docs/guides/reinforcement-fine-tuning)
+  - Custom Tool Calling
+  - Custom Graders
 
-### TOOLS
+## **[ Coding Exercises / Design ]**
 
-* [RAGFlow Repo](https://github.com/infiniflow/ragflow)
-* [Molmo MML](https://molmo.allenai.org/)
-* [Independent analysis of AI models and API providers (evergreen)](https://artificialanalysis.ai/)
-* [Massive Text Embedding Benchmark (MTEB) Leaderboard Leaderboard at Huggingface.co](https://huggingface.co/spaces/mteb/leaderboard)
-* [MTEB: Massive Text Embedding Benchmark by Muennighoff et al. (19 Mar 2023)](https://arxiv.org/pdf/2210.07316)
+### OpenAI
 
-### SOFTWARE ENGINEERING
+* [Introducing AgentKit (6 Oct 2025)](https://openai.com/index/introducing-agentkit/)
+  - [Agent Builder](https://platform.openai.com/docs/guides/agents/agent-builder)
+  - Connector Registry
+  - [OpenAI ChatKit](https://platform.openai.com/docs/guides/chatkit)
 
-* Product Selection and Bake-offs
-  * [Reddit: Vector database : pgvector vs milvus vs weaviate (Jun 2024)](https://www.reddit.com/r/LocalLLaMA/comments/1e63m16/vector_database_pgvector_vs_milvus_vs_weaviate/)
-  * [Reddit: Choosing a vector db for 100 million pages of text. Leaning towards Milvus, Qdrant or Weaviate. Am I missing anything, what would you choose? (May 2024)](https://www.reddit.com/r/vectordatabase/comments/1dcvyrm/choosing_a_vector_db_for_100_million_pages_of/)
-  * [HNews: Choosing a Vector Database (4 Oct 2023)](https://news.ycombinator.com/item?id=37764489)
-  * [Picking a vector database: a comparison and guide for 2023](https://benchmark.vectorview.ai/vectordbs.html)
-  * [Quadrant VectDB Performance Table](https://qdrant.tech/benchmarks/)
+* **API Key Sections: Core Concepts**
+  - [Structured Model Outputs](https://platform.openai.com/docs/guides)
+  - [Function Calling](https://platform.openai.com/docs/guides/function-calling)
+  - [Using GPT5](https://platform.openai.com/docs/guides/latest-model)
+  - [Migrate to the Responses API](https://platform.openai.com/docs/guides/migrate-to-responses)
 
-### CODE SAMPLE
+* **API Key Sections: Agents**
+  - [Agent Builder](https://platform.openai.com/docs/guides/agent-builder)
+  - [Node Reference](https://platform.openai.com/docs/guides/node-reference)
+  - [Safety in Building Agents](https://platform.openai.com/docs/guides/agent-builder-safety)
 
-* Advanced RAG
-  * RAG
-    * [Ollama Rag Colab](https://colab.research.google.com/drive/1cqLm7bxVAvh5HA5X38KG-gmofdGrEAwN?usp=sharing)
-    * [MemoRAG Colab](https://github.com/qhjqhj00/MemoRAG)
-  * Multimodal RAG Pipeline
-    * [Sparrow](https://github.com/katanaml/sparrow)
-  * Memory Rag
-    * [MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery (18 Sep 2024)](https://github.com/qhjqhj00/MemoRAG)
+* **API Key Sections: Optimize**
+  - [Agent Evals](https://platform.openai.com/docs/guides/agent-evals)
+  - [Trace Grading](https://platform.openai.com/docs/guides/trace-grading)
 
-### CODE REVIEW
+* **API Key Sections: Tools**
+  - [Using Tools](https://platform.openai.com/docs/guides/tools)
+  - [Connectors and MCP](https://platform.openai.com/docs/guides/tools-connectors-mcp)
+  - [Web Search](https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses)
+  - [Code Interpreter](https://platform.openai.com/docs/guides/tools-code-interpreter)
+  - [File Search and Retrieval](https://platform.openai.com/docs/guides/tools-code-interpreter)
 
-* Walk-thru in class
+  * **API Key Sections: Run and Scale**
+  - [Conversation State](https://platform.openai.com/docs/guides/conversation-state?api-mode=responses)
+  - [File Inputs](https://platform.openai.com/docs/guides/pdf-files)
+  - [Prompting](https://platform.openai.com/docs/guides/prompting)
+  - [Reasoning](https://platform.openai.com/docs/guides/reasoning)
 
-### EXTRA CODE
-
-* [(text+voice) to voice clone Gradio app Colab](../code/notebooks/tts_sts_Official_F5_TTS_Demo_20241015.ipynb)
-* [Multimodal RAG Chat with Video (1hr)](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
+  * **API Key Sections: Evaluation**
+  - [ALL sections EXCEPT External Models](https://platform.openai.com/docs/guides/evaluation-getting-started?api-mode=responses)

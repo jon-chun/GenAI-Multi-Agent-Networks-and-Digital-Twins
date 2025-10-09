@@ -1,4 +1,4 @@
-# Week 5: Miniproject #2, Claude Code and Microsoft AI Toolkit
+# Week 6: Miniproject #2, Claude Code and Microsoft AI Toolkit
 
 This week we explore Anthropic's new releases of model Sonnet 4.5 and Claude Code 2.0 as well as dig into the details of Microsofts VSCode extension AI Toolkit. Both of these are complimentary and will help us execute on Mini-Project #2: Embeddings Benchmark. Now that you've built a critical mass of knowledge, we'll start using these tools (and possibly more) to live code the main aspects of our class research project.
 
@@ -135,9 +135,9 @@ Think in **dimensions**; use them to invent **edge cases**:
 
 * [DeepLearning.ai: Embedding Models: from Architecture to Implementation](https://learn.deeplearning.ai/courses/embedding-models-from-architecture-to-implementation/lesson/n0bcw/introduction-to-embedding-models)
 
-* (Moved to Week 7)[DeepLearning.ai: Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction)
+* (Moved to Week 8)[DeepLearning.ai: Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction)
 
-* (Moved to Week 7)[DeepLearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
+* (Moved to Week 8)[DeepLearning.ai: Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
 
 # ==========[ In-Class ]==========
 
