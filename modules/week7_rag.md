@@ -119,11 +119,11 @@ Stage 3: Personalized Customer Service Agentic Pipeline
   - [Code Interpreter](https://platform.openai.com/docs/guides/tools-code-interpreter)
   - [File Search and Retrieval](https://platform.openai.com/docs/guides/tools-code-interpreter)
 
-  * **API Key Sections: Run and Scale**
+* **API Key Sections: Run and Scale**
   - [Conversation State](https://platform.openai.com/docs/guides/conversation-state?api-mode=responses)
   - [File Inputs](https://platform.openai.com/docs/guides/pdf-files)
   - [Prompting](https://platform.openai.com/docs/guides/prompting)
   - [Reasoning](https://platform.openai.com/docs/guides/reasoning)
 
-  * **API Key Sections: Evaluation**
+* **API Key Sections: Evaluation**
   - [ALL sections EXCEPT External Models](https://platform.openai.com/docs/guides/evaluation-getting-started?api-mode=responses)
