@@ -48,11 +48,12 @@ Seek Week 8 readings.
 
 * **CC Agents**
 
-  * [AGENTS.md](https://agents.md/)
-  * [OpenAI AGENTS.md](https://github.com/openai/agents.md  )
+  * [Agents.md Is HERE… 90% of AI Tools Will Use This Now (8:03) (Sep 2025)](https://www.youtube.com/watch?v=Pmc4OfSlhbE)
   * [Agents.md: A Comprehensive Guide to Agentic AI Collaboration by DhanushKumar (5 Sep 2025)](https://ai.plainenglish.io/agents-md-a-comprehensive-guide-to-agentic-ai-collaboration-571df0e78ccc)
   * [Improve your AI code output with AGENTS.md (+ my best tips) by Sewell (9 Sep 2025)](https://www.builder.io/blog/agents-md)
-
+  * [AGENTS.md](https://agents.md/)
+  * [OpenAI AGENTS.md](https://github.com/openai/agents.md  )
+* 
   * [Introducing Claude Wizard - The Revolutionary System For Claude Code (10:53) (18 Oct 2025)](https://www.youtube.com/watch?v=lNbm9DyGzn4)
     - [(Github) Claude Code Agent Orchestration System v2 ](https://github.com/IncomeStreamSurfer/claude-code-agents-wizard-v2/)
     - [Claude Code: Best practices for agentic coding (18 Apr 2025)](https://www.anthropic.com/engineering/claude-code-best-practices)
@@ -116,4 +117,9 @@ Seek Week 8 readings.
 
   * [(Review) Don't learn AI Agents without Learning these Fundamentals (56:39) (22 Oct 2025)](https://www.youtube.com/watch?v=ZaPbP9DwBOE&t=1490s)
   * [Deeplearning.ai: LLMs as Operating Systems: Agent Memory](https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory/lesson/nfkqk/introduction)
+
+
+
+
+
 

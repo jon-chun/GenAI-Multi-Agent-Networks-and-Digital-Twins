@@ -20,7 +20,6 @@ Email me a link to your github or GDrive folder with all your project materials.
 | 11/5   | Kirill               |
 | 11/12  | Wisdom, Godwin       |
 | 11/19  | Ann-Duncan, Adrian   |
-| 12/3   | Murathan, Eli        |
 
 
 # Quiz: Week 5
