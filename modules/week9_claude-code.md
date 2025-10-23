@@ -29,6 +29,7 @@ Seek Week 8 readings.
 
 ## **[ Humanistic Readings ]**
 
+* [AI Is Hollowing Out Higher Education by Guest and Rooij (17 Oct 2025)](https://www.project-syndicate.org/commentary/ai-will-not-save-higher-education-but-may-destroy-it-by-olivia-guest-and-iris-van-rooij-2025-10)
 * [Are we living in a golden age of stupidity? by Sophie McBain (18 Oct 2025)](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
 
 ## **[AI News/Current Events]**
