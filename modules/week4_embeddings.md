@@ -47,7 +47,6 @@ Embedding is a mathematical mapping of information from a given modality (text, 
 | 11/5   | Kirill               |
 | 11/12  | Wisdom, Godwin       |
 | 11/19  | Ann-Duncan, Adrian   |
-| 12/3   | Murathan, Eli        |
 
 
 

@@ -19,7 +19,6 @@ Although increasingly a turnkey solution, it's important that you have familiari
 | 11/5   | Kirill               |
 | 11/12  | Wisdom, Godwin       |
 | 11/19  | Ann-Duncan, Adrian   |
-| 12/3   | Murathan, Eli        |
 
 
 # Quiz: Week 7

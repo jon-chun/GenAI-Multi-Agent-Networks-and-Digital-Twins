@@ -13,7 +13,6 @@ Last week our regularly scheduled program was interrupted by a slew of fundament
 | 11/5   | Kirill               |
 | 11/12  | Wisdom, Godwin       |
 | 11/19  | Ann-Duncan, Adrian   |
-| 12/3   | Murathan, Eli        |
 
 
 # Quiz: Week 9
@@ -31,7 +30,6 @@ Seek Week 8 readings.
 ## **[ Humanistic Readings ]**
 
 * [Are we living in a golden age of stupidity? by Sophie McBain (18 Oct 2025)](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
-  - [HNews](https://news.ycombinator.com/item?id=45626691)
 
 ## **[AI News/Current Events]**
 

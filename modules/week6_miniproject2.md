@@ -15,7 +15,6 @@ This week we explore Anthropic's new releases of model Sonnet 4.5 and Claude Cod
 | 11/5   | Kirill               |
 | 11/12  | Wisdom, Godwin       |
 | 11/19  | Ann-Duncan, Adrian   |
-| 12/3   | Murathan, Eli        |
 
 
 # Quiz: Week 6
