@@ -60,7 +60,7 @@ This upper-division course offers an in-depth exploration of advanced AI concept
   * **Industry:** Meta, IBM, BWG, etc.
 
 * **Institution:** Kenyon College
-* **Term:** Fall 2024
+* **Term:** Fall 2025
 * **Schedule:** Wednesday Evenings 7pm-10pm
 * **Location:** Timberlake #5 (Evans Conference Rm)
 * **Credit:** 0.5/4
@@ -85,7 +85,7 @@ Introduction to AI concepts and OpenAI API. Students will learn about GPT models
 
 #### Detailed Content
 
-NOTE: Content will be added each week for Fall 2024
+NOTE: Content will be added each week for Fall 2025
 
 * [**SETUP:** Required AI Signups and Setups](./modules/signups_setups.md) (Open)
 * [**Week 1:** Introduction and AI Overview](./modules/week1_ai_overview.md) (Open)
@@ -247,7 +247,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 An original interdisciplinary research project applying at least one key technology covered in the 4 mini-projects.
 
-Final projects are due today Wednesday, December 18, 2024 by 6:30pm per the official Kenyon 2024 Exam Week Schedule. You may request an extension until Friday at noon but no later.
+Final projects are due today Friday, December 19, 2025 by noon per the official Kenyon 2025 Exam Week Schedule. You may request an extension until Friday at noon but no later.
 
 1. Please email me the following 2 parts for your Project for grading:
 
