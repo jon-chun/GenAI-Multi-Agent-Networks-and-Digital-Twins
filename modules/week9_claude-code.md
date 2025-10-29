@@ -54,7 +54,6 @@ Seek Week 8 readings.
   * [Improve your AI code output with AGENTS.md (+ my best tips) by Sewell (9 Sep 2025)](https://www.builder.io/blog/agents-md)
   * [AGENTS.md](https://agents.md/)
   * [OpenAI AGENTS.md](https://github.com/openai/agents.md  )
-* 
   * [Introducing Claude Wizard - The Revolutionary System For Claude Code (10:53) (18 Oct 2025)](https://www.youtube.com/watch?v=lNbm9DyGzn4)
     - [(Github) Claude Code Agent Orchestration System v2 ](https://github.com/IncomeStreamSurfer/claude-code-agents-wizard-v2/)
     - [Claude Code: Best practices for agentic coding (18 Apr 2025)](https://www.anthropic.com/engineering/claude-code-best-practices)
