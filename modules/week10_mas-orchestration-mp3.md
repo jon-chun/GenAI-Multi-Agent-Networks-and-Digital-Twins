@@ -1,6 +1,6 @@
 # Week 10: MAS, Orchestration, and Technical Writing of IT Project Proposal
 
-This week we'll read more indepth on LangChain, LangGraph and LangSmith. We'll also explore various ways to create multi-agent systems (MAS) for coding and beyond. We'll weight the pros/cons of custom MAS vs full-featured off-the-shelf MAS like those from LangChain, CrewAI, and other leading frameworks. We'll also sketch out the Mini-Project #3 in writing a formal IT Project Proposal.
+This week we'll read more indepth on LangChain, LangGraph and LangSmith. We'll also explore various ways to create multi-agent systems (MAS) and orchestrate multiple agents for coding in particular or any task in general. We'll weight the pros/cons of custom MAS vs full-featured off-the-shelf MAS like those from LangChain, CrewAI, and other leading frameworks. Finally, we'll sketch out the Mini-Project #3 in writing a formal IT Project Proposal.
 
 
 ## ===[ ArXiv.org Research Paper 5 min Presentation ]===
