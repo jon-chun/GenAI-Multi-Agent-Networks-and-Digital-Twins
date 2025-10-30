@@ -153,7 +153,7 @@ Introduction to RAG and its implementation using Langchain. Students will create
 * [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md)
 * [**Week 8:** Mini-Project #3: RAG vs GraphRAG](./modules/week8_miniproject3-rag-graphrag.md)
 * [**Week 9:** Claude-Code](./modules/week9_claude-code.md)
-* **Week 10:** Miniproject 3: Agents
+* [**Week 10:** MAS, Orchestration MP#3](./modules/week10_mas-orchestration-mp3.md)
 
 #### Reflection Questions
 
