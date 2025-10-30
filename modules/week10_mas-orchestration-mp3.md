@@ -17,11 +17,29 @@ This week we'll read more indepth on LangChain, LangGraph and LangSmith. We'll a
 
 ## Presentation: Kirill
 
-## Mini-Project #3: RAG vs GraphRAGs
+## Mini-Project #3: RAG in A Real-World Implementation
 
-Pick a sizable reference corpus that you are familiar with and justifies creating a RAG system and a particular use case/deployment as citied in class. Then search the literature at perplexity.ai, semanticscholar.com, or scholar.google.com for new variations/improvements on the traditional RAG architecture. Also, search github.com for repos, library repositories, and other sources of FOSS software implementations. Use AI to research various RAG architectures, refinements, and implementation details (e.g. similarity algorithms, segmentation strategies, vector DB, benchmarking, monitoring, etc) to develop (with the help of AI of course), a realistic technical and business case white paper that surveys the options, alternatives, and jutification for your recommendations. 
+ASSIGNMENT for next class Nov 5th: Come to class with a pitch for your RAG MP#3 topic including domain, dataset, focus (tech & user) deliverables, paper outline, architecture, and misc details (scalability, robustness, edge cases, security, etc)
 
-(More details coming...)
+* Review this custom tech report skeleton and overview document that you will complete and submit as your final workpiece for this Mini-Project #2 on a real-world RAG analysis, implementation and documentation.
+  - [Overview and Rubric](../code/tech-reports/overview_and_rubric.md)
+  - [Report Outline](../code/tech-reports/student_report_skeleton.md)
+* Pick a sizable reference corpus that you are familiar with and justifies creating a RAG system and a particular use case/deployment as citied in class. 
+* Search these Awesome resources for ideas, implemention, testing, security, etc. best practices:
+  - [Awesome Retrieval Augmented Generation (RAG) (777) (5 days)](https://github.com/Danielskry/Awesome-RAG)
+  - [Awesome RAG Outline (30) (10 months)](https://github.com/noworneverev/Awesome-RAG)
+  - [Awesome RAG (356) (1 Month)](https://github.com/frutik/Awesome-RAG)
+  - [Awesome GraphRAG (1.7k) (3 days)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
+  - [Awesome RAG Evaluation (179) (6 months)](https://github.com/YHPeter/Awesome-RAG-Evaluation)
+  - [Awesome-RAG-Reasoning (337) (3 months)](https://github.com/DavidZWZ/Awesome-RAG-Reaso)
+  - [Awesome Trustworthy RAG (85) (3 months)](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
+  - [Awesome RAG Paper (1.3k) (8 months)](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
+  - [Awesome RAG Papers (324) (8 months)](https://github.com/coree/awesome-rag)
+* (OPTIONAL: If you have time/interest) Search the literature at perplexity.ai, semanticscholar.com, or scholar.google.com for new variations/improvements on the traditional RAG architecture to go deeper or look up some of the RAG research papers listed in the above Awesome list.
+* Search github.com for repos, library repositories, and other sources of FOSS software implementations. 
+* Use AI to research various RAG architectures, refinements, and implementation details (e.g. similarity algorithms, segmentation strategies, vector DB, benchmarking, monitoring, etc).
+* Develop (with the help of AI of course), a realistic technical and business case white paper that surveys the options, alternatives, and jutification for your recommendations. 
+
 
 ## ===[ New Reading Assignments ]===
 
