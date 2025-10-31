@@ -1,6 +1,6 @@
 # Mini-Project #3: Real-World RAG Implementation
 **Course:** AI Mini-Project Series  
-**Due Date:** Nov 5  
+**Due Date:** Nov 12
 **Deliverable:** Completed CAPB Report
 
 ---

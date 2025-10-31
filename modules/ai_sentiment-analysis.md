@@ -18,6 +18,11 @@
 
 * [Sentiment Analysis of AI Generated Music Using Latent Dirichlet Allocation (LDA) (Aug 2024)](https://aimc2024.pubpub.org/pub/ofarmc55/release/1)
 
+## Voice
+
+* [Voice Sentiment Analysis Customer call analysis app](https://github.com/strcoder4007/voice-sentiment-analysis)
+  Customer call analysis app with: Speech-to-Text + speaker diarization via ElevenLabs Structured conversation analysis via OpenAI React frontend for multi-file upload and rich results display. Takes into account not only the text but tone, rythym etc
+
 ## Multimodal
 
 * [Alibaba Drops R1-Omni for Emotion Recognition in Video - Install Locally (9:17) (11 Mar 2025)](https://www.youtube.com/watch?v=NLRloBCE9oM)
