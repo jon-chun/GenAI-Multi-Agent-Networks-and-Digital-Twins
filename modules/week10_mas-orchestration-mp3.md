@@ -55,7 +55,7 @@ TIP: There are a LOT OF READINGS that you should selectively and deftly use AI t
   - [Awesome RAG (356) (1 Month)](https://github.com/frutik/Awesome-RAG)
   - [Awesome GraphRAG (1.7k) (3 days)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
   - [Awesome RAG Evaluation (179) (6 months)](https://github.com/YHPeter/Awesome-RAG-Evaluation)
-  - [Awesome-RAG-Reasoning (337) (3 months)](https://github.com/DavidZWZ/Awesome-RAG-Reaso)
+  - [Awesome-RAG-Reasoning (337) (3 months)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
   - [Awesome Trustworthy RAG (85) (3 months)](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
   - [Awesome RAG Paper (1.3k) (8 months)](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
   - [Awesome RAG Papers (324) (8 months)](https://github.com/coree/awesome-rag)
