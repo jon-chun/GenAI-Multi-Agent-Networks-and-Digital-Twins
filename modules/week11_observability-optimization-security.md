@@ -1,4 +1,4 @@
-# Week 10: MAS, Orchestration, and Technical Writing of IT Project Proposal
+# Week 11: AI Agent Obserability, Optimization, and Security
 
 This week we'll read more indepth on LangChain, LangGraph and LangSmith. We'll also explore various ways to create multi-agent systems (MAS) and orchestrate multiple agents for coding in particular or any task in general. We'll weight the pros/cons of custom MAS vs full-featured off-the-shelf MAS like those from LangChain, CrewAI, and other leading frameworks. Finally, we'll sketch out the Mini-Project #3 in writing a formal IT Project Proposal.
 
@@ -7,7 +7,6 @@ This week we'll read more indepth on LangChain, LangGraph and LangSmith. We'll a
 
 | Date   | Name(s)              |
 |--------|----------------------|
-| 11/5   | Kirill               |
 | 11/12  | Wisdom, Godwin       |
 | 11/19  | Ann-Duncan, Adrian   |
 | 12/3   | Murathan, Eli        |
@@ -15,7 +14,9 @@ This week we'll read more indepth on LangChain, LangGraph and LangSmith. We'll a
 
 ## Quiz: Week 8
 
-## Presentation: Kirill
+## Presentation: Wisdom
+
+## Presentation: Godwin
 
 ## Mini-Project #3: RAG in A Real-World Implementation
 
@@ -73,7 +74,7 @@ TIP: There are a LOT OF READINGS that you should selectively and deftly use AI t
 
 ### **[AI News/Current Events]**
 
-* [Federal Judges Caught Using ChatGPT (22:38) (28 Oct 2025)](https://www.youtube.com/watch?v=cDzEP0yB-Kw)
+(Coming)...)
 
 ### **[ New Technical Assignments ]**
 
@@ -102,6 +103,7 @@ TIP: There are a LOT OF READINGS that you should selectively and deftly use AI t
 ### LangChain & LangGraph
 
 * [LangChain Academy: Quickstart: LangChain Essentials - Python](https://academy.langchain.com/courses/langchain-essentials-python)
+* [LangChain Academy: Quickstart: LangGraph Essentials - Python](https://academy.langchain.com/courses/langgraph-essentials-python)
 
 * [How to apply context engineering (23:19) (Aug 2025)](https://www.youtube.com/watch?v=nyKvyRrpbyY)
   - [(Slides) How to Fix your Context](https://docs.google.com/presentation/d/16aaXLu40GugY-kOpqDU4e-S0hD1FmHcNyF0rRRnb1OU/edit?slide=id.p#slide=id.p)
