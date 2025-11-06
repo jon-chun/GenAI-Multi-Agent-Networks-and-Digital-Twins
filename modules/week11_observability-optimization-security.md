@@ -50,6 +50,10 @@ In-class, we'll tidy-up our from last class and go deeper into the LangChain, La
 
 * [zsh - my config, and how to set up yours! (9:47) (Mar 2025)](https://www.youtube.com/watch?v=kCmgJSUrKuo)
 * [How I Setup My Mac Terminal To Make It Amazing (18:03) (Oct 2025)](https://www.youtube.com/watch?v=oR_B2gQDVf4&t=486s)
+  
+### Research Tools
+
+* [The Ultimate AI Toolkit Every Researcher Should Be Using in 2025 (17:12) (Oct 2025)](https://www.youtube.com/watch?v=pDOPL53tcwQ)
 
 ### LangChain DeepAgents
 
