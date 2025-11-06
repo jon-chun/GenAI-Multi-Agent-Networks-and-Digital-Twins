@@ -111,198 +111,297 @@ TIP: There are a LOT OF READINGS that you should selectively and deftly use AI t
 
 
 
-### MP #3 RAG (AI SWE):
 
-#### RESEARCH TOOLS
-* [The Ultimate AI Toolkit Every Researcher Should Be Using in 2025 (17:12) (6 Oct 2025)](https://www.youtube.com/watch?v=pDOPL53tcwQ)
 
-This video, titled *"The Ultimate AI Toolkit Every Researcher Should Be Using in 2025,"* provides a rapid-fire overview of various AI tools designed to streamline the academic research workflow, from literature discovery and writing assistance to data analysis and grant searching.
+## MP #3 – RAG (AI SWE)
 
-The tools are grouped by their primary function:
+---
 
-### **Summary of the Video: The Ultimate AI Toolkit**
+### 1. Research Tooling for RAG & AI SWE
 
-**1. Literature Search & Discovery**
+#### 1.1 Core Research Workflows (Video Summary: *The Ultimate AI Toolkit Every Researcher Should Be Using in 2025*)
 
-* **SciSpace (formerly Typeset.io):** Aims to be a one-stop shop for research, allowing users to search papers, write reports, create presentations, and interact with Google Scholar [[00:09](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=9)].
-* **Elicit:** A tool for systematic literature reviews, finding papers, and creating research reports, known as one of the "OGs" for answering research questions with evidence from studies [[00:26](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=26)].
-* **Semantic Scholar:** A free and simple platform for finding research papers across millions of publications in all fields of science [[04:17](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=257)].
-* **Consensus:** Allows users to type in a research question and receive a **Yes/No/Possibly** answer based on the existing literature, quantifying the research field's stance on a claim [[05:51](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=351)].
-* **Cintio:** A tool for deep research, allowing users to ask quick or deep questions and receive answers sourced from real research papers [[06:33](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=393)].
+From the video *“The Ultimate AI Toolkit Every Researcher Should Be Using in 2025”* (17:12, 6 Oct 2025), tools are grouped by function across the academic workflow.
 
-**2. Literature Mapping & Visualization**
+##### A. Literature Search & Discovery
 
-* **Litmaps:** Generates a research map from a "seed paper," allowing researchers to visualize connections between papers and find more recent or highly cited work [[04:36](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=276)].
-* **Research Rabbit:** Offers an "open sandbox" approach for exploring a research field, enabling users to find similar work, earlier work, and linked content by authors [[05:07](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=307)].
-* **Connected Papers:** A literature mapping tool that specializes in finding the **connecting path** between two specific papers, including "prior works" and "derivative works" (more recent papers) [[12:34](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=754)].
+* **SciSpace** (formerly Typeset.io)
+  One-stop research environment: search papers, write reports, create presentations, and integrate with Google Scholar.
+* **Elicit**
+  Systematic literature reviews, evidence-based answers to research questions, and auto-generated research reports.
+* **Semantic Scholar**
+  Large-scale, free search engine across scientific fields.
+* **Consensus**
+  Ask a research question and get **Yes/No/Possibly** answers, aggregating stances from the literature.
+* **Cintio**
+  “Deep research” Q&A over real research papers (quick or in-depth questions).
 
-**3. Academic Writing & Feedback**
+##### B. Literature Mapping & Visualization
 
-* **Paperpal:** A writing powerhouse that integrates with Word or Google Docs, offering features like plagiarism checks, submission checks, paraphrasing, outlining, and the ability to chat with PDFs [[00:53](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=53)].
-* **Thesify:** Provides a **feedback summary** on uploaded research papers, giving targeted advice on how to make the writing more robust and academic, along with suggestions for improving elements like the purpose [[01:42](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=102)].
-* **Jenni AI & Yomu AI:** Auto-writer tools that can generate the next part of a sentence or paragraph and cite sources as they write, helping users to quickly cover important aspects of a research field in a draft [[02:42](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=162), [03:38](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=218)].
-* **Writefull:** Described as Grammarly "on steroids" for academics, offering spell-checking, paraphrasing, and academic-specific language polishing [[10:50](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=650)].
-* **Trinka:** A writing tool focused on checking grammar, paraphrasing, consistency, and generating reports to ensure the academic writing is professional [[11:35](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=695)].
+* **Litmaps**
+  Build citation maps from a seed paper to discover related, recent, or highly cited work.
+* **Research Rabbit**
+  Visual “sandbox” exploration of fields via related work, prior work, and author networks.
+* **Connected Papers**
+  Focused on finding the **connecting paths** between two papers, including prior and derivative works.
 
-**4. Data Analysis & Interpretation**
+##### C. Academic Writing & Feedback
 
-* **Julius AI:** A data analysis tool where users can upload data and ask questions. It generates code and visualizations (like graphs and tables) to interrogate the data and find interesting trends, such as PhD attrition rates [[15:47](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=947)].
+* **Paperpal**
+  Word/Docs integration for plagiarism checks, submission checks, paraphrasing, outlining, and PDF chat.
+* **Thesify**
+  Upload a paper for structured feedback (e.g., clarity of purpose, robustness of argument).
+* **Jenni AI / Yomu AI**
+  Auto-writers that continue sentences/paragraphs and cite sources while drafting literature coverage.
+* **Writefull**
+  “Grammarly for academics” with domain-specific language polishing and paraphrasing.
+* **Trinka**
+  Grammar, style, consistency checking, and quality reports for academic writing.
 
-**5. Utility, Annotation, & Specialized Tasks**
+##### D. Data Analysis & Interpretation
 
-* **Astera (from Semantic Scholar):** A scholarly research assistant for finding papers, summarizing literature, and soon, analyzing data [[01:24](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=84)].
-* **Thesis AI:** Focuses on generating lengthy literature reviews from a single prompt, capable of producing dozens of pages and references to create a snapshot of a research field [[02:16](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=136)].
-* **Explain Paper:** Allows users to upload a paper and highlight any section, then ask the AI to explain it at a chosen complexity level (e.g., to a middle schooler or a 5-year-old) [[10:09](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=609)].
-* **Source:** A tool where users can input a claim (a sentence or paragraph) and ask the AI to find sources that either support or reject that claim [[13:41](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=821)].
-* **Seamless for Science:** A tool with a granular focus on finding and applying for grants, along with an essay helper and literature review functionality [[14:47](http://www.youtube.com/watch?v=pDOPL53tcwQ&t=887)].
+* **Julius AI**
+  Upload data, ask natural-language questions, and get code + visualizations (tables, graphs) for exploratory analysis.
 
-### **Resources Mentioned (Base URLs)**
+##### E. Utility, Annotation & Specialized Tasks
 
-* SciSpace
-* Elicit
-* Paperpal
-* Semantic Scholar
-* Thesify
-* Thesis AI
-* Jenni AI
-* Yomu AI
-* Litmaps
-* Research Rabbit
-* Consensus
-* Cintio
-* Anara.com
+* **Astera (Semantic Scholar)**
+  Scholarly assistant for finding papers, summarizing literature, and (soon) data analysis.
+* **Thesis AI**
+  Long-form literature review generation (dozens of pages + references) from a single prompt.
+* **Explain Paper**
+  Upload a paper, highlight a section, and get explanations at various complexity levels (e.g., 5-year-old, middle school).
+* **Source**
+  Input a claim and retrieve sources that support or refute it.
+* **Seamless for Science**
+  Grants search + application helper, with essay and literature review support.
+
+#### 1.2 Research Resources & SOTA Tools (by Function)
+
+**Papers (Primary Literature)**
+
+* Google Scholar – `scholar.google.com`
+* arXiv – `arxiv.org`
+* Semantic Scholar – `semanticscholar.org`
+* Hugging Face Daily Papers – `https://huggingface.co/papers?q=RAG`
+
+**Discussions & Community**
+
+* x.ai
+* YouTube
+* Reddit
+* AI blogs
+* Hacker News – `news.ycombinator.com`
+
+**Reviews & Peer Commentary**
+
+* OpenReview – `openreview.net`
+
+**General SOTA Assistants**
+
+* ChatGPT – `chat.openai.com`
+
+**Research-Oriented SOTA Tools**
+
+* Perplexity – `perplexity.ai`
+* QA Scholar / ScholarQA – `QAscholar (ScholarQA.ai)`
+* Consensus – `consensus.app`, `https://get.consensus.app/`
+* Elicit – `elicit.com/`
+* Paperpal – `paperpal.com/`
+* Thesify – `thesify.ai/`
+* Thesis AI – `thesisai.io/`
+* SciSpace / Typeset – `typeset.io/`, `scispace.com/`
+* Jenni AI – `jenni.ai/`
+* Julius AI – `julius.ai/`
+* AnswerThis – `answerthis.io`
+* Unriddle – `unriddle.ai/`
+
+**Deep-Research SOTA**
+
+* Gemini – `gemini.google.com`
+
+**Specialized / Niche Tools**
+
+* Anara – `anara.com/`
 * Gatsby AI
 * Cite AI
-* Explain Paper
-* Writefull
 * Scholarly
-* Trinka
-* Connected Papers
 * Petal
-* Source
-* Logically.app
-* Seamless for Science
+* Logically – `logically.app`
 * Paper Guide
-* Julius AI
 
-http://googleusercontent.com/youtube_content/5
+*(Many of these overlap with the “Ultimate Toolkit” list but are grouped here by role in RAG / AI SWE workflows.)*
 
+---
 
-* Papers
-  - scholar.google.com
-  - arxiv.org
-  - semanticscholar.org
-  - [huggingface daily papers](https://huggingface.co/papers?q=RAG)
-* Discussions
-  - x.ai
-  - YT
-  - Reddit
-  - AI blogs
-  - news.ycombinator.com
-* Reviews
-  - OpenReview.net
-* General SOTA
-  - chat.openai.com
-* Research SOTA
-  - perplexity.ai
-  - QAscholar (ScholarQA.ai)
-  - consensus.app
-  - elicit.com/
-  - https://get.consensus.app/
-  - paperpal.com/
-  - thesify.ai/
-  - thesisai.io/
-  - typeset.io/
-  - jenni.ai/
-  - julius.ai/
-  - answerthis.io
-  - unriddle.ai/
-* DeepResearch SOTA:
-  - gemini.google.com
-* Specialized
-  - scispace.com/
-  - anara.com/
+### 2. RAG Strategy Design (Group #1)
 
+From: *Every RAG Strategy Explained in 13 Minutes (No Fluff)* (12:50, 3 Nov 2025)
 
-#### (GROUP #1) RAG Strategy: Strategy Overview (ex: (#1) Re-Reanking,(#2) Agentic Rage, (#7) Context-Aware Chunking)
+* Video: [https://www.youtube.com/watch?v=tLMViADvSNE](https://www.youtube.com/watch?v=tLMViADvSNE)
+* Code: [https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies](https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies)
 
-* (DEMO) [Every RAG Strategy Explained in 13 Minutes (No Fluff) (12:50) (3 Nov 2025)](https://www.youtube.com/watch?v=tLMViADvSNE)
-  [Github](https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies)
+#### 2.1 Strategy Overview
 
-| # | Strategy | Status | Use Case | Pros | Cons |
-|---|----------|--------|----------|------|------|
-| 1 | [Re-ranking](#1-re-ranking) | ✅ Code Example | Precision-critical | Highly accurate results | Slower, more compute |
-| 2 | [Agentic RAG](#2-agentic-rag) | ✅ Code Example | Flexible retrieval needs | Autonomous tool selection | More complex logic |
-| 3 | [Knowledge Graphs](#3-knowledge-graphs) | 📝 Pseudocode Only | Relationship-heavy | Captures connections | Infrastructure overhead |
-| 4 | [Contextual Retrieval](#4-contextual-retrieval) | ✅ Code Example | Critical documents | 35-49% better accuracy | High ingestion cost |
-| 5 | [Query Expansion](#5-query-expansion) | ✅ Code Example | Ambiguous queries | Better recall, multiple perspectives | Extra LLM call, higher cost |
-| 6 | [Multi-Query RAG](#6-multi-query-rag) | ✅ Code Example | Broad searches | Comprehensive coverage | Multiple API calls |
-| 7 | [Context-Aware Chunking](#7-context-aware-chunking) | ✅ Code Example | All documents | Semantic coherence | Slightly slower ingestion |
-| 8 | [Late Chunking](#8-late-chunking) | 📝 Pseudocode Only | Context preservation | Full document context | Requires long-context models |
-| 9 | [Hierarchical RAG](#9-hierarchical-rag) | 📝 Pseudocode Only | Complex documents | Precision + context | Complex setup |
-| 10 | [Self-Reflective RAG](#10-self-reflective-rag) | ✅ Code Example | Research queries | Self-correcting | Highest latency |
-| 11 | [Fine-tuned Embeddings](#11-fine-tuned-embeddings) | 📝 Pseudocode Only | Domain-specific | Best accuracy | Training required |
+| #  | Strategy               | Status         | Primary Use Case        | Pros                             | Cons                        |
+| -- | ---------------------- | -------------- | ----------------------- | -------------------------------- | --------------------------- |
+| 1  | Re-ranking             | ✅ Code Example | Precision-critical QA   | Highly accurate results          | Slower, more compute        |
+| 2  | Agentic RAG            | ✅ Code Example | Flexible retrieval      | Autonomous tool selection        | More complex logic          |
+| 3  | Knowledge Graphs       | 📝 Pseudocode  | Relationship-heavy data | Captures rich connections        | Infra / graph overhead      |
+| 4  | Contextual Retrieval   | ✅ Code Example | Critical documents      | 35–49% better accuracy           | High ingestion cost         |
+| 5  | Query Expansion        | ✅ Code Example | Ambiguous queries       | Better recall, more perspectives | Extra LLM call, higher cost |
+| 6  | Multi-Query RAG        | ✅ Code Example | Broad searches          | Comprehensive coverage           | Multiple API calls          |
+| 7  | Context-Aware Chunking | ✅ Code Example | General documents       | Semantically coherent chunks     | Slightly slower ingestion   |
+| 8  | Late Chunking          | 📝 Pseudocode  | Long-context models     | Preserves full document context  | Requires long-context LLMs  |
+| 9  | Hierarchical RAG       | 📝 Pseudocode  | Complex docs / corpora  | Precision + global context       | Complex multi-level setup   |
+| 10 | Self-Reflective RAG    | ✅ Code Example | Research-style queries  | Self-correction / refinement     | Highest latency & cost      |
+| 11 | Fine-tuned Embeddings  | 📝 Pseudocode  | Domain-specific RAG     | Best retrieval accuracy          | Needs training & eval       |
 
-### Legend
-- ✅ **Code Example**: Full code in `implementation/` (educational, not production-ready)
-- 📝 **Pseudocode Only**: Conceptual examples in `examples/`
+**Legend**
 
-#### (GROUP #2) RAG and Graphs:
+* ✅ **Code Example** – Full code in `implementation/` (educational, not production-ready)
+* 📝 **Pseudocode Only** – Conceptual examples in `examples/`
 
-* Compare GraphRAG, LightRAG (Reasoning over Graphs), Graphetti (Temporal Dynamics)
-* Recent research on Graph RAGs
+---
 
-#### (GROUP #3) RAG, Memory, and Long-Running Agents
+### 3. RAG & Graphs (Group #2)
 
-* [Supermemory](https://supermemory.ai/)
-* LangChain:
-* - [LangChain and LangGraph Agent Frameworks Reach v1.0 Milestones (22 Oct 2025)](https://blog.langchain.com/langchain-langgraph-1dot0/)
-* - [(Blog) Introducing DeepAgents CLI (30 Oct 2025)](https://blog.langchain.com/introducing-deepagents-cli/)
-  - [(Github) DeepAgents](https://github.com/langchain-ai/deepagents?ref=blog.langchain.com)
-  - [(Docs) DeepAgents Overview](https://docs.langchain.com/oss/python/deepagents/overview)
-  - [(Code) LangChain Research Agent](https://github.com/langchain-ai/deepagents/blob/master/examples/research/research_agent.py  )
-* Research
-  - [AgentFold: Long-Horizon Web Agents with Proactive Context Management by Yi et al. (28 Oct 2025)](https://arxiv.org/abs/2510.24699)
-  - [(Github) CoRT: Code-integrated Reasoning within Thinking by Li et al. (64)](https://github.com/ChengpengLi1003/CoRT)
+Focus: graph-structured knowledge + RAG.
 
-#### (GROUP #4) Evaluations
+* Compare:
 
-* [Awesome RAG Evaluations](https://github.com/YHPeter/Awesome-RAG-Evaluation)
+  * **GraphRAG** – Graph-native retrieval + reasoning.
+  * **LightRAG** – Reasoning over graphs with lighter infrastructure.
+  * **Graphetti** – Emphasis on temporal graph dynamics.
+* Track **recent research on GraphRAG** (methods, evals, and libraries) for:
 
-#### (GROUP #5) RAG and Security:
+  * Graph construction (KGs, heterogeneous graphs).
+  * Graph-aware retrieval and reasoning.
+  * Temporal and dynamic graphs for changing knowledge.
 
-* [Awesome Trustworthy RAGs](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
+---
 
-#### (GROUP #4) AI Agents and Reasoning
+### 4. RAG, Memory & Long-Running Agents (Group #3)
 
-* [Awesome RAG Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
-* [Teaching Language Models to Reason with Tools ()](https://github.com/ChengpengLi1003/CoRT)
-  - [(ArXiV) ]()
-  - [(SemanticScholar.org)](https://www.semanticscholar.org/paper/CoRT%3A-Code-integrated-Reasoning-within-Thinking-Li-Tang/eff086f0a6d66b6514322c6832f2469d057f33e3  )
-  - [(Discuss) themoonlight.io ](https://www.themoonlight.io/en/review/cort-code-integrated-reasoning-within-thinking)
+#### 4.1 Long-Term Memory Tools
 
+* **Supermemory** – Long-term, structured memory store for agents.
 
-* [First LIVE Agent Build - Fullstack RAG Agent for YouTube Content (3:05:05) (26 Oct 2025)](https://www.youtube.com/watch?v=ZHcXavLTA5s)
-  - [Github](https://github.com/coleam00/dynamous-ai-coach)
-  - STT
-    - [AquaVoice](https://aquavoice.com/)
-    - [(FOSS) https://epicenter.so/whispering/](epicenter.so/whispering)
-  - [Excalidraw]()
-  - [Obsidian]()
-  - [(Scrape YT Transcripts) Supadata](https://supadata.ai/)
+#### 4.2 LangChain & LangGraph
 
-![YT-RAG Personal AI Coach: Pipeline](../images/swe/fig_yt-rag-personal-ai-coach_pipeline_upscaled_20251105.png) 
+* **LangChain / LangGraph v1.0**
 
-![YT-RAG Personal AI Coach: AI Development Process](../images/swe/fig_yt-rag-personal-ai-coach_four-steps-ai-dev_upscaled_20251105.png)
+  * Blog: *LangChain and LangGraph Agent Frameworks Reach v1.0 Milestones* (22 Oct 2025).
+* **DeepAgents**
 
-### RAG Benchmarks
+  * Blog: *Introducing DeepAgents CLI* (30 Oct 2025).
+  * GitHub: [https://github.com/langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
+  * Docs: [https://docs.langchain.com/oss/python/deepagents/overview](https://docs.langchain.com/oss/python/deepagents/overview)
+  * Example: `research_agent.py` – baseline research agent implementation.
 
-| Name | Stars | Last Update | GraphRAG Support | Key Use Case | License |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| BERGEN | 222 | Oct 2024 | No | General RAG QA benchmarking | CC BY-NC-SA |
-| GraphRAG-Bench | 236 | Aug 2025 | Yes | GraphRAG pipeline benchmarking | MIT |
-| RAGAS | 8.7k | Apr 2025 | Partial | Evaluation toolkit for RAG feedback | Open source (unspecified) |
-| RQABench | - | Jul 2023 | No | Flexible, traceable benchmarking | Open source |
-| Greval | - | May 2025 | Yes | GraphRAG evaluation tool | Open source |
-| Open RAG Eval | - | Oct 2025 | Partial | End-to-end retrieval + hallucination check | Research open source |
-| TruLens | 2.8k+ | Jun 2025 | Yes | RAG and multimodal agent eval with observability | Open source |        
+#### 4.3 Research on Long-Horizon Agents
+
+* **AgentFold: Long-Horizon Web Agents with Proactive Context Management** – Yi et al., 28 Oct 2025
+
+  * arXiv: [https://arxiv.org/abs/2510.24699](https://arxiv.org/abs/2510.24699)
+* **CoRT: Code-integrated Reasoning within Thinking** – Li et al.
+
+  * GitHub: [https://github.com/ChengpengLi1003/CoRT](https://github.com/ChengpengLi1003/CoRT)
+
+These connect to RAG via:
+
+* Persistent memory stores.
+* Proactive context management.
+* Code-integrated reasoning for complex tasks.
+
+---
+
+### 5. RAG Evaluations (Group #4)
+
+* **Awesome RAG Evaluations**
+
+  * GitHub: [https://github.com/YHPeter/Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation)
+
+Use for:
+
+* Datasets and metrics for retrieval quality.
+* Question answering correctness.
+* Hallucination analysis and attribution.
+
+---
+
+### 6. RAG & Security / Trustworthiness (Group #5)
+
+* **Awesome Trustworthy RAGs**
+
+  * GitHub: [https://github.com/Arstanley/Awesome-Trustworthy-RAG](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
+
+Covers:
+
+* Data security.
+* Adversarial prompts & jailbreaks.
+* Robustness, reliability, and provenance.
+
+---
+
+### 7. AI Agents & Reasoning (Group #6)
+
+#### 7.1 Reasoning-Focused RAG & Agents
+
+* **Awesome RAG Reasoning**
+
+  * GitHub: [https://github.com/DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
+
+* **CoRT: Teaching Language Models to Reason with Tools (Code-integrated Reasoning within Thinking)**
+
+  * GitHub: [https://github.com/ChengpengLi1003/CoRT](https://github.com/ChengpengLi1003/CoRT)
+  * Semantic Scholar: [https://www.semanticscholar.org/paper/CoRT%3A-Code-integrated-Reasoning-within-Thinking-Li-Tang/eff086f0a6d66b6514322c6832f2469d057f33e3](https://www.semanticscholar.org/paper/CoRT%3A-Code-integrated-Reasoning-within-Thinking-Li-Tang/eff086f0a6d66b6514322c6832f2469d057f33e3)
+  * Discussion: [https://www.themoonlight.io/en/review/cort-code-integrated-reasoning-within-thinking](https://www.themoonlight.io/en/review/cort-code-integrated-reasoning-within-thinking)
+
+Focus areas:
+
+* Tool-augmented reasoning.
+* Multi-step planning and verification.
+* Integrating code execution into chain-of-thought.
+
+#### 7.2 Example: Full-Stack RAG Agent for YouTube Content
+
+* **First LIVE Agent Build – Fullstack RAG Agent for YouTube Content**
+
+  * Video (3:05:05, 26 Oct 2025): [https://www.youtube.com/watch?v=ZHcXavLTA5s](https://www.youtube.com/watch?v=ZHcXavLTA5s)
+  * GitHub: [https://github.com/coleam00/dynamous-ai-coach](https://github.com/coleam00/dynamous-ai-coach)
+
+**Components**
+
+* **Speech-to-Text (STT)**
+
+  * AquaVoice – `https://aquavoice.com/`
+  * FOSS: `https://epicenter.so/whispering`
+
+* **Knowledge Capture & Visual Tools**
+
+  * Excalidraw
+  * Obsidian
+
+* **Data Ingestion (YouTube Transcripts)**
+
+  * Supadata – `https://supadata.ai/`
+
+**Reference Diagrams**
+
+* `![YT-RAG Personal AI Coach: Pipeline](../images/swe/fig_yt-rag-personal-ai-coach_pipeline_upscaled_20251105.png)`
+* `![YT-RAG Personal AI Coach: AI Development Process](../images/swe/fig_yt-rag-personal-ai-coach_four-steps-ai-dev_upscaled_20251105.png)`
+
+---
+
+### 8. RAG Benchmarks & Evaluation Tooling
+
+| Name               | Stars | Last Update | GraphRAG Support | Key Use Case                                | License               |
+| :----------------- | :---: | :---------: | :--------------: | :------------------------------------------ | :-------------------- |
+| **BERGEN**         |  222  |   Oct 2024  |        No        | General RAG QA benchmarking                 | CC BY-NC-SA           |
+| **GraphRAG-Bench** |  236  |   Aug 2025  |        Yes       | GraphRAG pipeline benchmarking              | MIT                   |
+| **RAGAS**          |  8.7k |   Apr 2025  |      Partial     | RAG feedback & eval toolkit                 | Open source (unspec)  |
+| **RQABench**       |   –   |   Jul 2023  |        No        | Flexible, traceable QA benchmarking         | Open source           |
+| **Greval**         |   –   |   May 2025  |        Yes       | GraphRAG evaluation tool                    | Open source           |
+| **Open RAG Eval**  |   –   |   Oct 2025  |      Partial     | End-to-end retrieval + hallucination eval   | Research, open source |
+| **TruLens**        | 2.8k+ |   Jun 2025  |        Yes       | RAG / multimodal agent eval + observability | Open source           |
