@@ -182,7 +182,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* **Week 11:** Multi-Agents: CrewAI #1
+* [**Week 11:** Multi-Agents: CrewAI #1](./modules/week11_observability-optimization-security.md)
 * **Week 12:** Multi-Agents: CrewAI #2
 * **Week 13:** Miniproject 4: Multi-Agent Simulations
 
