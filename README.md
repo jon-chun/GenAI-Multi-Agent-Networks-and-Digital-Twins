@@ -182,9 +182,9 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 #### Detailed Content
 
-* [**Week 11:** Multi-Agents: CrewAI #1](./modules/week11_observability-optimization-security.md)
-* **Week 12:** Multi-Agents: CrewAI #2
-* **Week 13:** Miniproject 4: Multi-Agent Simulations
+* [**Week 11:** AI Agent Obserability, Optimization, and Security](./modules/week11_observability-optimization-security.md)
+* **Week 12:** Mini-Project #4 Reasoning, MAS, and MAD
+* **Week 13:** Fina Project and the Future of AI
 
 #### Reflection Questions
 
