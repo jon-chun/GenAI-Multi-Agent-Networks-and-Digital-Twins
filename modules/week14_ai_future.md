@@ -6,6 +6,10 @@ Our final week is entirely focused/graded on producing the first draft of your f
  
 The goal is to produce a complete rough draft while the final poster should be backed by a project/code that realizes your project and produces results with analysis as appropriate. I have office hours Thursday 11-1pm and will hold some early next week by appointment in the afternoon. Ping me via chunj@kenyon.edu if you have any questions, concerns, or comments.
 
+[In-Class]
+
+github home page
+
 
 ## Grading Rubric for all Final Projects:
 
