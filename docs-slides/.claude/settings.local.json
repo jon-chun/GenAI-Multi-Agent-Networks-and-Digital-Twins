@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(document-skills:pptx)",
+      "Bash(node create-presentation.js)",
+      "Bash(npm install pptxgenjs playwright sharp)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
