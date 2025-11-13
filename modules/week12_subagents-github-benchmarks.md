@@ -1,4 +1,4 @@
-# Week 12: AI Agents, GitHub Workflows and Benchmarks
+# Week 12: AI Subagents, GitHub Workflows and Benchmarks
 
 This week we'll integrate both old and new views into Agents through the LangChain, LangGraph, and LangSmith framework abstractions. In additiona, we'll continue our dive into GitHub and see how it is evolving to become the center of AI-assisted software engineering. Finally, we'll close the loop and continue our analysis of various topics from AI-assisted coding to software development lifecycle to spec-driven development by integrating these concepts into a unified intellectual framework. 
 
