@@ -183,7 +183,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 #### Detailed Content
 
 * [**Week 11:** AI Agent Obserability, Optimization, and Security](./modules/week11_observability-optimization-security.md)
-* **Week 12:** Mini-Project #4 Reasoning, MAS, and MAD
+* [**Week 12:** Mini-Project #4 Reasoning, MAS, and MAD](./modules/week12_agents-github-benchmarks.md)
 * **Week 13:** Fina Project and the Future of AI
 
 #### Reflection Questions
