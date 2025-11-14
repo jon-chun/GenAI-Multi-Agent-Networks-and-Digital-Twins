@@ -26,6 +26,7 @@ This week we'll integrate both old and new views into Agents through the LangCha
 
 ## **[AI News/Current Events]**
 
+![The AI Money Ouroboros](../images/economics/fig_ai-cash-ouroboros_bloomberg.webp)
 * [As AI Tools Become Commonplace, so Do Concerns by NCSL Staff (11 Nov 2025)](https://www.ncsl.org/state-legislatures-news/details/as-ai-tools-become-commonplace-so-do-concerns)
 
 ## **[ New Technical Assignments ]**
