@@ -63,11 +63,7 @@ This week we'll integrate both old and new views into Agents through the LangCha
 
 # =====[ In Class ]=====
 
-
-
-## Review: Claude Code
-
-### Cost Tracking/Optimization
+## Cost Tracking/Optimization
 
 * [The Hidden Cost of Claude Code: Cost Optimization and Token Usage Monitoring (7:46) (26 Sep 2025)](https://www.youtube.com/watch?v=HCko-NxCD_8)
   - [https://console.anthropic.com/](https://console.anthropic.com/)
@@ -77,25 +73,8 @@ This week we'll integrate both old and new views into Agents through the LangCha
   - [claude-squad](https://github.com/smtg-ai/claude-squad)
     "CLI> brew install claude-squad"
 
-### Context Engineering: CC Chat History
+## Context Engineering: Formats
 
-* Websites / Documentation
-    (Full)[(TS) Markdowner (1.7k) (2024)](https://github.com/supermemoryai/markdowner)
-    (Min)[Python) url-to-markdown(18) (2024)](https://github.com/viktomas/url-to-markdown)
-    [url-to-markdown (38) (3wk)](https://github.com/iw4p/url-to-markdown)
-    [(Python) Crawler-to-md (17) (3mo)](https://github.com/obeone/crawler-to-md)
-  
-### Context Engineering: Documentation
-* [llm-min.txt (664)](https://github.com/marv1nnnnn/llm-min.txt)
-    Min.js Style Compression of Tech Docs for LLM Context
-* [https://github.com/QuantaAlpha/RepoMaster (437)](https://github.com/QuantaAlpha/RepoMaster)
-    RepoMaster: The open-source AI agent that masters GitHub. It turns any code repository into a powerful tool, achieving a new level of autonomous task-solving. An open alternative to Claude-Code.
-* (DEMO: Format Research/Eval)[toon-format/toon (18.1k)](https://github.com/toon-format/toon)
-  - [(YT) TOON: “JSON for AI” (is it any good?) (14:20) (18 Nov 2025)](https://www.youtube.com/watch?v=nTMP_rLZOYM)
-  - [(YNes) TOON – Token Oriented Object Notation (28 Oct 2025)](https://news.ycombinator.com/item?id=45715632)
-      PROMPT: "summarize, esp the pros/cons and alternative solutions including URL/names/links"
-  - [7mind/sick (161)](https://github.com/7mind/sick)
-  
 | Alternative | Description | Context from Comments |
 | :--- | :--- | :--- |
 | **JSON** | The widely accepted standard object notation. | It is the **mainstream** format LLMs are tuned for, and many compression goals can be achieved within JSON by using array expressions instead of full objects for repetitive data. |
@@ -105,7 +84,20 @@ This week we'll integrate both old and new views into Agents through the LangCha
 | **TOML** | Tom's Obvious, Minimal Language. | Suggested as an alternative that has "some readability and compactness benefits over JSON while still being common enough for models to easily be able to process it relatively reliably." |
 | **CUE** | A data constraint language and configuration tool. | Mentioned as a tool that can **emit other formats** and includes strong features like modules and imports for configuration languages: [https://cuelang.org](https://cuelang.org) and [https://cuetorials.com](https://cuetorials.com). |
 | **SICK** | A binary deduplicating storage for JSON-like data structures. | Offered as a highly efficient, non-manually editable alternative focused on space and access speed: [https://github.com/7mind/sick](https://github.com/7mind/sick). |
+  
+## Context Engineering: Tranformation Libraries
 
+* [llm-min.txt (664)](https://github.com/marv1nnnnn/llm-min.txt)
+    Min.js Style Compression of Tech Docs for LLM Context
+* [https://github.com/QuantaAlpha/RepoMaster (437)](https://github.com/QuantaAlpha/RepoMaster)
+    RepoMaster: The open-source AI agent that masters GitHub. It turns any code repository into a powerful tool, achieving a new level of autonomous task-solving. An open alternative to Claude-Code.
+* (DEMO: Format Research/Eval)[toon-format/toon (18.1k)](https://github.com/toon-format/toon)
+  - [(YT) TOON: “JSON for AI” (is it any good?) (14:20) (18 Nov 2025)](https://www.youtube.com/watch?v=nTMP_rLZOYM)
+  - [(YNes) TOON – Token Oriented Object Notation (28 Oct 2025)](https://news.ycombinator.com/item?id=45715632)
+      PROMPT: "summarize, esp the pros/cons and alternative solutions including URL/names/links"
+* [7mind/sick (161)](https://github.com/7mind/sick)
+  
+## Context Engineering: History
 
 * (DEMO: History)[https://github.com/jhlee0409/claude-code-history-viewer (200)](https://github.com/jhlee0409/claude-code-history-viewer)
     git clone https://github.com/jhlee0409/claude-code-history-viewer.git
@@ -115,6 +107,8 @@ This week we'll integrate both old and new views into Agents through the LangCha
     # Build the application (auto-detects your platform)
     pnpm tauri:build:auto
 
+## Context Engineering Distillation
+
 * (DEMO: Distill)[SpecStory](https://docs.specstory.com/integrations/vscode)
   - [Install SpecStory for Claude CLI](https://docs.specstory.com/integrations/claude-code)
   - "CLI> "
@@ -123,52 +117,12 @@ This week we'll integrate both old and new views into Agents through the LangCha
 * (DEMO: Session Metrics)[chiphuyen/sniffly (1k)](https://github.com/chiphuyen/sniffly)
   - "CLI> uvx sniffly@latest init"
 
-### Best Practices: CC Agentic Coding 
-
-* [Claude Code: Best practices for agentic coding (18 Apr 2025)](https://www.anthropic.com/engineering/claude-code-best-practices)
-
-* [Claude Code Complete Guide: 26 Core Features + Practical Tips (Must Collect!)](https://cc.deeptoai.com/docs/en/best-practices/claude-code-comprehensive-guide)
-
-
-
-
-
-## LangChain
-
-* [(Doc) LangChain Workflow Agents](https://docs.langchain.com/oss/python/langgraph/workflows-agents)
-
-
-### Observability
-
-* (DEMO)[Deep Agents Notebooks](https://github.com/langchain-ai/deep-agents-from-scratch/tree/main/notebooks)
-  - [(Colab) LangChain Deep Agents Customized](https://colab.research.google.com/drive/1baDfGlvz8APBmFS1IdPTGSz4dPxhBLCz?usp=sharing)
-  - Subdir Clone: (https://github.com/jon-chun/test-deep-agents-notebooks)
-  - [Obeservability Notebook #4](https://colab.research.google.com/drive/1baDfGlvz8APBmFS1IdPTGSz4dPxhBLCz?usp=sharing)
-  - [LangSmith](https://smith.langchain.com/public/1d626d81-a102-4588-a2fb-cab40a7271f1/r)
-* LangFlow
-
-## Git
-
-* [Git VSCode]()
-* [Git Templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-  - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates)
-  - [patrickcavli/Github-Issue-Templates](https://github.com/patrickcavli/Github-Issue-Templates)
-* [Git Actions: CI/CD]()
-* [Git Worktrees]()
-* [VSCode GitLens]()
 
 ## Learn Git
 
-* [AI Q&A: Grok4](https://grok.com/share/bGVnYWN5_f3069dff-c5ed-4424-8cea-2957c3bcebde)
+* [The Git Book v2](https://git-scm.com/book/en/v2)
 
-* [(Reddit) Git Squash, Merge, or Rebase](https://www.reddit.com/r/programming/comments/waczfj/squash_merge_or_rebase/)
-* [ConventionalCommits](https://www.conventionalcommits.org/en/v1.0.0/)
-  - [Gist Commit Template](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-* Most useful git commands (PROMPT: "As of Nov 2025, give a list of the top 10 github commands and for each give several of the most popular variants")
-
-Here are the **top 10 most commonly used Git commands** as of November 2025 (Git commands are the same for GitHub, GitLab, etc.; "GitHub commands" typically refers to Git CLI). This ranking is based on developer surveys, tutorials, cheat sheets, and articles from sources like GitHub Blog, DataCamp, GeeksforGeeks, freeCodeCamp, and GitKraken. Popularity remains consistent over time, with no major shifts in core usage.
-
-For each command, I've listed the base form plus several of the most popular variants/options used in daily workflows.
+**top 10 most commonly used Git commands** 
 
 1. **git status**  
    Checks the current state of your working directory and staging area.  
@@ -241,8 +195,7 @@ For each command, I've listed the base form plus several of the most popular var
 
 These commands cover ~90% of everyday Git usage for most developers. For newer Git versions (2.23+), `git switch` (for branch switching) and `git restore` (for file restoration) are increasingly popular replacements for some `checkout` uses, and you might see them rising in future lists. If you spend a lot of time in terminals, aliases (e.g., `gs` for `git status`) make these even faster!
 
-
-## Git Tools
+## Git Apps
 
 * VSCode 3 Extensions "Git Extension Pack"
 * Commercial: GitKraken, GitLens, etc.
@@ -251,39 +204,11 @@ These commands cover ~90% of everyday Git usage for most developers. For newer G
 * [(App) SourceGit (3.3k)](https://github.com/sourcegit-scm/sourcegit)
 * [(App) RelaGit (889)](https://github.com/relagit/relagit)
 * [(CLI) edamagit (1.5k)](https://github.com/kahole/edamagit)
-  
-* [Your git diffs could use some colors - bat & delta tutorial (26:33) (27 Nov 2023)](https://www.youtube.com/watch?v=4Ph2oQZ3NiI)
-
-## GitHub Review Repos
-
-* [(Chrome Ext) Octoparse (security)](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US&utm_source=ext_sidebar)
-
-## Github Copilot CLI
-
-* [GitHub Copilot CLI 101: How to use GitHub Copilot from the command line (6 Nov 2025)](https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/?utm_source=blog-announcement-cli-tutorial&utm_medium=blog&utm_campaign=universe25post)
-
-* [Introducing Agent HQ mission control | GitHub (1:13) (28 Oct 2025)](https://www.youtube.com/watch?v=KniyIrpTDE8)
-
-## Github CLI DEMOS
-
-* gh repo-explore
-  "CLI> git auth login"
-  "CLI> git auth token"
-  "CLI> mkdir -p ~/.config/gh"
-  "CLI> nano ~/.config/gh/hosts.yml"
-  "CLI> chmod 600 ~/.config/gh/hosts.yml"
-  "CLI> gh repo-explore https://github.com/alxpez/docdown"
-
-* [LangChain (LangSmith) Deep Agents from Scratch (subdir)](https://github.com/jon-chun/test-deep-agents-notebooks)
-  - [VSCode Extensions: Jupyter Notebooks]()
 
 ## Github Workflows
 
 * (DEMO)[GitHub is the Future of AI Coding (Here's Why) (23:59) (13 Nov 2025)](https://www.youtube.com/watch?v=upwbqZ67UBA)
-
-
 * [Git Marketplace Action/AI-Assisted](https://github.com/marketplace?type=actions&category=ai-assisted)
-
 * [Claude Code + GitHub WORKFLOW for Complex Apps (18:40) (Jul 2025)](https://www.youtube.com/watch?v=FjHtZnjNEBU&t=182s)
   - [Github Actions: Continuous integration](https://docs.github.com/en/actions/get-started/continuous-integration)
     **SLDC w/CC+Github**
