@@ -184,7 +184,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 
 * [**Week 11:** AI Agent Observability, Optimization, and Security](./modules/week11_observability-optimization-security.md)
 * [**Week 12:** Subagents, Github and Benchmarks](./modules/week12_subagents-github-benchmarks.md)
-* **Week 13:** Fina Project and the Future of AI
+* [**Week 13:** Fina Project and the Future of AI](./modules/week13_ai_meta-coding_research.md)
 
 #### Reflection Questions
 
