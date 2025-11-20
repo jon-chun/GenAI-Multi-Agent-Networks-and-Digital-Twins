@@ -6,7 +6,7 @@ This week we'll integrate both old and new views into Agents through the LangCha
 
 | Date   | Name(s)              |
 |--------|----------------------|
-| 11/19  | Anne-Duncan, Adrian   |
+| 11/19  | Anne-Duncan, Adrian  |
 | 12/3   | Murathan, Eli        |
 
 ## Quiz: Week 12
@@ -62,6 +62,42 @@ This week we'll integrate both old and new views into Agents through the LangCha
 
 
 # =====[ In Class ]=====
+
+## CLI Utilities (usually Rust)
+
+* Programmer Utilities (Brew)
+  - [asitop (4.4k)](https://github.com/tlkh/asitop)
+  - [bat (55.8k)](https://github.com/sharkdp/bat) (UNIX cat++)
+  - [broot (12.1k)](https://dystroy.org/broot/)
+  - [eza (18.4k)](https://github.com/eza-community/eza)
+    "CLI> eza -T -l --hyperlink"
+  - [fd (40.5k)](https://github.com/sharkdp/fd)
+  - [font-jetbrains-mono-nerd-font (60.5k)](https://github.com/ryanoasis/nerd-fonts)
+  - [fx](https://fx.wtf/)
+  - fzf (75.1k)](https://github.com/junegunn/fzf)
+  - [gh](https://cli.github.com/)
+  - **git-lfs** "brew install git-lfs"
+  - [Gitnuro (2.1)](https://github.com/JetpackDuba/Gitnuro)
+  - [git-delta (28.1k)](https://github.com/dandavison/delta)
+  - [ghostty (38.2k)](https://github.com/ghostty-org/ghostty)
+  - [jq]()
+  - [llm-min (664)](https://github.com/marv1nnnnn/llm-min.txt)
+    SKF: Structured Knowledge Format
+  - [macmon]()
+  - **ncdu** "brew install ncdu"
+  - [neovim]()
+  - [ripgrep (57.4k)](https://github.com/BurntSushi/ripgrep)
+  - [tig (13k)](https://github.com/jonas/tig?tab=readme-ov-file)
+  - [tlrc (60.1k)](https://github.com/tldr-pages/tldr)
+  - [tmux](https://github.com/tmux/tmux/wiki)
+  - [tokei (13.4k)](https://github.com/XAMPPRocky/tokei)
+    [tokei-pie]
+    "create uv venv, source, and uv pip install tokei-pie"
+    "CLI> cd ~/code/test-tokei-pie; source .venv/bin/activate"
+    "CLI> tokei -o json ~/code/sentimentarcs | tokei-pie"
+  - [tree]()
+  - [wget]()
+  - [zoxide (31.2k)](https://github.com/ajeetdsouza/zoxide)
 
 ## Cost Tracking/Optimization
 
