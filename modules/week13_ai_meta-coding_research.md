@@ -18,6 +18,18 @@ Finally, with the release of Google Gemini 3.0, Google Gravity IDE, Banana Pro i
 
 * DUE by Sun, Dec 17th (9:30 EST) - Very last hour, NO EXTENSIONS
  - Create a GitHub repo with your uploaded doc and professional README.md overview
+ - Details in next class
+
+## Mini-Project #2 Benchmark Dataset
+
+I've coded up a new library that can analyze, identify, and rank semantically ambiguous standalone sentences. I'll run it this weekend to generate our benchmark dataset, partition it among the students in a 3-way inter-annotator scheme, and update/rewrite the labeler software for you to use to process/label your assigned benchmark examples.
+
+Your grade on this project willprimarily be determined by (1) completeness (finish labeling your assigned data subset by next class) and (2) correctness. For correctness, I'll post-process your labeled 300 sentences with several quality metrics to ensure your labeling is within tolerance ranges.Because we have inter-annotator agreement, you will each have 300 sentences to label, which reduces each person's net contribution to 100 sentences in the benchmark dataset. I estimate this would take approximately 60 minutes net, depending upon your reading speed and concentrated flow state (e.g., 1 sentence/10 sec = 50 min total). Please focus and only label the data when you are fresh and mentally clear—careless mislabeled data will cause a lot of problems and affect your grade.Depending upon the quality of work, we have three possible outcomes: 
+1. peer-reviewed publication
+2. ArXiv preprint, or,
+3. neither
+
+It would be a great addition to your CV to co-author an AI paper, but this has to be a collective effort. Think of yourself as part of a research team for this class—don't let your teammates down!
 
 ## ===[ New Reading Assignments ]===
 
