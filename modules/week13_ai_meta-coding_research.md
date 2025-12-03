@@ -74,3 +74,35 @@ It would be a great addition to your CV to co-author an AI paper, but this has t
 * [Claude Code Complete Guide: 26 Core Features + Practical Tips (Must Collect!)](https://cc.deeptoai.com/docs/en/best-practices/claude-code-comprehensive-guide)
 * [From Random Conversations to Reproducible Production: A Claude Code Advanced Workflow Guide](https://cc.deeptoai.com/docs/en/best-practices/claude-code-production-workflow)
 * (REVIEW from last week)[(Docs) Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices)
+
+
+## (RESEARCH) AI Maturity
+
+* [Video filters BRAIN.COPY = Latent-MAS AI Breakthrough (29:19) (1 Dec 2025)](https://www.youtube.com/watch?v=NreIscoJe8o)
+* [No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer (20:30) (2 Dec 2025)](https://www.youtube.com/watch?v=rmvDxxNubIg&t=154s)
+* [Claude Opus 4.5 vs. Google Gemini 3: Design & build an app (35:21) (1 Dec 2025)](https://www.youtube.com/watch?v=y27m5gYREGE)
+* [Google's Gemini CodeWiki: This is ACTUALLY REALLY COOL & IT'S FREE (9:18) (Nov 2025)](https://www.youtube.com/watch?v=pPEils7tHxc)
+* [Gemini 3 Pro: Breakdown (21:42) (Nov 2025)](https://www.youtube.com/watch?v=chr2I7CZTfk&t=550s)
+* [DeepSeek V3.2 (7:32) (3 Dec 2025)](https://www.youtube.com/watch?v=u0n6wMnEYsk)
+* [Google Antigravity - Did Google Just Killed Cursor? (13:31) (Nov 2025)](https://www.youtube.com/watch?v=EWJ_C4s9w5o)
+* [Sam Altman declares CODE RED (15:40) (2 Dec 2025)](https://www.youtube.com/watch?v=0-_ikbp9BRg)
+* [Another week, another DeepSeek, and another insane valuation for OpenAI (7:14) (1 Dec 2025)](https://www.youtube.com/watch?v=mmdX3yjTVic&t=1s)
+* [So you want to get a PhD in AI... (22:16) (Apr 2025))](https://www.youtube.com/watch?v=f8ijHw_Gw1I)
+
+## (DEMO) Context Engineering: Code Wiki
+  
+* [Google Blog: Introducing Code Wiki: Accelerating your code understanding (13 Nov 2025)](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
+* [MLOps Pipeline with Python, Supabase, CircleCI – Forecasting Stocks (1:27:28) (27 Nov 2025)](https://www.youtube.com/watch?v=2BvLAJwvfgo)
+  - [Github](https://github.com/egorhowell/Prophet-Forecasting-For-Portfolio-Optimisation)
+
+## (RESEARCH) Benchmarks
+
+## (DEMO) Product Evals
+
+* [Product Evals (for AI Applications) in Three Simple Steps (11:59) (1 Dec 2025)](https://www.youtube.com/watch?v=mz7mAo4zIC8&t=319s)
+
+# CEI: A Novel Benchmark
+(REIVEW)
+
+# CEI: Annotation
+(DEMO)
