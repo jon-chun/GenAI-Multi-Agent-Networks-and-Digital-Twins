@@ -76,8 +76,23 @@ It would be a great addition to your CV to co-author an AI paper, but this has t
 * (REVIEW from last week)[(Docs) Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices)
 
 
+
+
+
+## IPHS 391 Course Arc
+* [The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum for Human-Centred AI (Oct 2023)](https://www.euppublishing.com/doi/full/10.3366/ijhac.2023.0310)
+* IPHS 200: Programming Humanity
+* IPHS 290: Cultural Analytics
+* IPHS 300: AI for Humanity
+* IPHS 391: Frontiers of AI
+* IPHS 484: Senior Seminiar
+
+## Narrative
+
+
 ## (RESEARCH) AI Maturity
 
+* [Agent OS vs. BMAD vs. Spec Kit: The Showdown (10:09) (2 Dec 2025)](https://www.youtube.com/watch?v=bu-RR2gM6Lw&t=83s)
 * [Video filters BRAIN.COPY = Latent-MAS AI Breakthrough (29:19) (1 Dec 2025)](https://www.youtube.com/watch?v=NreIscoJe8o)
 * [No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer (20:30) (2 Dec 2025)](https://www.youtube.com/watch?v=rmvDxxNubIg&t=154s)
 * [Claude Opus 4.5 vs. Google Gemini 3: Design & build an app (35:21) (1 Dec 2025)](https://www.youtube.com/watch?v=y27m5gYREGE)
