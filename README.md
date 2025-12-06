@@ -136,7 +136,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 9. How could explainable AI impact the development of AI regulations and policies?
 10. What role does bias play in embeddings, and how can it be mitigated?
 
-### Week 7-9: RAG Application using Langchain
+### Week 7-10: RAG Application using Langchain
 
 #### Learning Goals
 
@@ -168,7 +168,7 @@ Introduction to RAG and its implementation using Langchain. Students will create
 9. What ethical considerations should be taken into account when designing RAG systems?
 10. How could RAG technology be used to create more personalized AI experiences?
 
-### Week 10-12: Autonomous Multi-Agent Simulations and Benchmarking
+### Week 11-13: Autonomous Multi-Agent Simulations and Benchmarking
 
 #### Learning Goals
 
@@ -199,7 +199,7 @@ Exploration of autonomous multi-agent systems, their simulation, and benchmarkin
 9. How do the concepts of cooperation and competition manifest in multi-agent systems?
 10. What are the potential risks of relying on multi-agent simulations for decision-making?
 
-### Week 13-15: Final Project Development and Presentation
+### Week 14-15: Final Project Development and Presentation
 
 #### Learning Goals
 
@@ -213,8 +213,8 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* **Week 14:** Final Development, Testing, and Refinement of Semester Projects
-* **Week 15:** Final Project Presentations and Course Wrap-up
+* [**Week 14:** Finish MP#2 Benchmarking Research and Start Final Project](./modules/week14_future.md)
+* **Week 15:** Final Project Posters are DUE
 
 #### Reflection Questions
 

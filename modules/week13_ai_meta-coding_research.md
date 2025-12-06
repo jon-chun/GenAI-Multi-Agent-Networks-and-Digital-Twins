@@ -87,8 +87,7 @@ It would be a great addition to your CV to co-author an AI paper, but this has t
 * IPHS 391: Frontiers of AI
 * IPHS 484: Senior Seminiar
 
-## Narrative
-
+## Narrative Arcs
 
 ## (RESEARCH) AI Maturity
 
