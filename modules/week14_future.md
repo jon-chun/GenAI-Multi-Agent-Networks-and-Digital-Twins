@@ -17,7 +17,37 @@ In addition, time permitting, we'll cover:
 - braindump on Mini-Project #2 CEI annotation experiences, reports, and big ideas in our paper
 
 
-## Grading Rubric for all Final Projects:
+## Details on the Final Project:
+
+0. Deadline (no extensions possible): 6:30 EST, Wed, Dec 17, 2025 per Kenyon Exam Schedule
+https://www.kenyon.edu/offices-and-services/registrar/calendars/exam-schedule/. We are not allowed (per college rules) to accept final projects after the offical posted end of the semester exam period for our class time.
+
+1. Use microsoft powerpoint as required by Kenyon webmaster (Not PDF/MacOS Keynote presentation software)
+(free on web at https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
+
+1. Use this [IPHS 391 powerpoint template](https://docs.google.com/presentation/d/1a5RmJ1hoRSPQgbDQ9WpnjoLqhpqe-m1A/edit?usp=sharing&ouid=112623698525906186738&rtpof=true&sd=true) for your presentation. Customize color, layout and images as you like.
+
+2. See sample posters from previous courses:
+https://digital.kenyon.edu/dh/
+
+3. Organize your poster into the following sections:
+
+- Abstract: outline project
+- Background: cite several prior work/related research
+- Methodology: explain tool(s) and methodology
+- Results: explain your findings/visualizations
+- Future Work/Conclusion: Summarize
+- Declaration of AI Use: If AI was used, please describe how
+- Author Contributions: If >1 person, clearly/concisely list each authors' SPECIFIC - contributions
+- References: 3-5 references with ACM citation format: https://www.acm.org/publications/authors/reference-formatting
+
+4. Final Guidelines:
+
+* Project should not plagiarize by directly copying others’ work or analysis. You must search for similar projects (e.g. on kaggle, github, google, etc) and directly reference and cite these.
+
+* Project should be spell checked and checked for grammatical errors. If you’re unsure, copy and paste text boxes into a word or google document to review.
+
+* TEXT CLEARLY WRITTEN USING AI WILL BE DOWNGRADED & POSTERS WILL NOT BE ELIGIBLE FOR DIGITAL KENYON. Please make sure to note if you use AI for data analysis, etc.
 
 * Use the [IPHS200 Poster Template](https://docs.google.com/presentation/d/1HRHqfIDVYKhwgh1K1QRyNfQuf7g87q5A/edit#slide=id.p1), customize color, layout and images as you like.
 * For grading, poster should be submitted in ppt form (if working in a different format, please save as a powerpoint and check formatting) 
@@ -29,17 +59,6 @@ In addition, time permitting, we'll cover:
 - Background: cite several prior work/related research
 - Methodology: explain tool(s) and methodology
 - Results: explain your findings/visualizations
-
-### Summarize
-
-- Your poster should include visuals, analysis, a conclusion, and suggest avenues for future research. There should also be a list of at least 3-5 references. 
-- Project should not plagiarize by directly copying others’ work or analysis. 
-- You must search for similar projects (e.g. on kaggle, github, google, etc) and directly reference and cite these.
-- Project should be spellchecked and checked for grammatical errors. If you’re unsure, copy and paste text boxes into a word or google document to review.
-
-### FINAL VERSION of Poster
-
-The FINAL VERSION of your project poster is DUE at the end of the exam period for your class. We are not allowed (per college rules) to accept final projects after the end of the semester (i.e. Friday at 4:30). Again, no wiggle room here.
 
 ### Project Guidelines: Using External Code and Resources
 
