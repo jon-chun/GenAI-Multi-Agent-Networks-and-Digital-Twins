@@ -121,7 +121,7 @@ Deep dive into embeddings, their applications, and techniques for making AI mode
 
 * **Week 4:** [Embeddings](./modules/week4_embeddings.md)
 * **Week 5:** [Models](./modules/week5_models.md)
-* **Week 6:** [Miniproject 2](./modules/week6_miniproject2.md)
+* **Week 6:** [Miniproject 2: Embeddings vs Research Benchmark](./modules/week6_miniproject2.md)
 
 #### Reflection Questions
 
@@ -151,9 +151,9 @@ Introduction to RAG and its implementation using Langchain. Students will create
 #### Detailed Content
 
 * [**Week 7:** Retrieval-Augmented Generation (RAG)](./modules/week7_rag.md)
-* [**Week 8:** Mini-Project #3: RAG vs GraphRAG](./modules/week8_miniproject3-rag-graphrag.md)
-* [**Week 9:** Claude-Code](./modules/week9_claude-code.md)
-* [**Week 10:** MAS, Orchestration MP#3](./modules/week10_mas-orchestration-mp3.md)
+* [**Week 8:** AI Framework: LangChain, LangGraph, LangSmith](./modules/week8_miniproject3-rag-graphrag.md)
+* [**Week 9:** AI Coding: Claude Code CLI](./modules/week9_claude-code.md)
+* [**Week 10:** Observability, Orchestration, and MP#3](./modules/week10_mas-orchestration-mp3.md)
 
 #### Reflection Questions
 
@@ -213,7 +213,7 @@ Students will finalize and present their semester-long projects, demonstrating t
 
 #### Detailed Content
 
-* [**Week 14:** Finish MP#2 Benchmarking Research and Start Final Project](./modules/week14_future.md)
+* [**Week 14:** Novel Benchmark Research Paper and Final Project](./modules/week14_future.md)
 * **Week 15:** Final Project Posters are DUE
 
 #### Reflection Questions
