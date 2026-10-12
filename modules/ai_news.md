@@ -4,6 +4,7 @@ Here is a sample for some of the sources for AI news, technology, and research. 
 
 ## Newsletters
 
+* [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now
 * [VentureBeat](https://venturebeat.com/newsletters/#:~:text=The%20best%20of%20GamesBeat%20delivered%20to)
 * [tldr.tech](https://tldr.tech/)
 * [DeepLearning.ai Newsletter](https://www.deeplearning.ai/the-batch/)
