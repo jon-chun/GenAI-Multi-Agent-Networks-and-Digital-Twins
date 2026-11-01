@@ -174,3 +174,8 @@ cython_debug/
 code/deepseek-web-crawler/
 code/deepseek-web-crawler/
 .qodo
+
+# >>> env files (ai-swe-setup env-ignore): never commit .env*, except .env.example
+.env*
+!.env.example
+# <<< env files
